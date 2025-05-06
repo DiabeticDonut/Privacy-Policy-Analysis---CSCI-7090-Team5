@@ -1,0 +1,1342 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you opt to use the Caregiver or Medfriend features of the Apps, we will also
+    receive the contact information (such as name, phone number, address and email)
+    of the Caregiver or Medfriend that you chose to appoint and provide us with their
+    information.
+  - If you use the Service without creating a profile or registering - we will only
+    collect information through the use of cookies, web beacons, device data, and
+    navigational data collection, as well as any voluntary information you provide
+    us, including Health Information (as defined below).
+  - In such cases we will transfer your data only to such countries as approved by
+    the European Commission as providing adequate level of data protection, or enter
+    into legal agreements ensuring an adequate level of data protection in accordance
+    with the instructions of the EU commission as updated from time to time.
+  - We will retain and use your information as necessary to comply with our legal
+    obligations, resolve disputes, and enforce our policies.
+  - We will use information that you consent that we receive from those third party
+    health apps for medical research purposes, internally in order to improve our
+    products and services and in the form of aggregated and/or analytical data as
+    described in the Use of Aggregated Data section of the Privacy Policy, and may
+    transfer this data to third parties for such purposes.
+  purposes:
+    analytics:
+    - for medical research purposes
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+    legal:
+    - to comply with our legal obligations, resolve disputes, and enforce our policies
+    services:
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We will use information that you consent that we receive from those third party
+    health apps for medical research purposes, internally in order to improve our
+    products and services and in the form of aggregated and/or analytical data as
+    described in the Use of Aggregated Data section of the Privacy Policy, and may
+    transfer this data to third parties for such purposes.
+  purposes:
+    analytics:
+    - for medical research purposes
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+    services:
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - If you opt to use the Caregiver or Medfriend features of the Apps, we will also
+    receive the contact information (such as name, phone number, address and email)
+    of the Caregiver or Medfriend that you chose to appoint and provide us with their
+    information.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies to help personalize your Medisafe experience.
+  purposes:
+    services:
+    - to help personalize your Medisafe experience
+- source: we
+  target: database contain personal information
+  key: COLLECT
+  text:
+  - We may transfer our databases containing your Personal Information in connection
+    with the transfer or sale of all (or substantially all) of our business assets,
+    or in the event of a merger, consolidation or similar transaction.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - Voluntary information - when you communicate with us (for example when you send
+    us an email or use a "contact us" form) we collect your email address, and the
+    Personal Information you provided us with within such communication.
+  purposes: {}
+- source: we
+  target: health information
+  key: COLLECT
+  text:
+  - Artificial Intelligence - we may use Personal Information or Health Information
+    you provide through use of the Services to create insights and improve your medication
+    adherence, such as determining the best time to send medication reminders in accordance
+    to your Services usage and schedule changes.
+  - For example, data collected automatically on the Service may be used to help diagnose
+    problems with our servers, to make our Service more useful, to customize it and
+    personalize its content for you (for example, we will use your Health information
+    to send you reminders to take your medications).
+  - Whenever you submit information via our Service - including, but not limited to,
+    by telephone or email with customer service, we may collect Health Information
+    and other Personal Information you provide us, in order to provide you with our
+    Service.
+  purposes:
+    analytics:
+    - to create insights and improve your medication adherence, such as determining
+      the best time to send medication reminders in accordance to your Services usage
+      and schedule changes
+    services:
+    - in order to provide you with our Service
+    - to create insights and improve your medication adherence, such as determining
+      the best time to send medication reminders in accordance to your Services usage
+      and schedule changes
+    - to help diagnose problems with our servers, to make our Service more useful,
+      to customize it and personalize its content for you
+    - to send you reminders to take your medications
+- source: we
+  target: identifier
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, we have collected the following Personal
+    Information: Category A- Identifiers: such as a real name, unique personal identifier,
+    online identifier, Internet Protocol address, email address.'
+  - 'We collected such Personal Information from the following categories of sources:
+    Indirectly from you .  For example, when you view or interact with certain content,
+    web page or ad we provide, we may collect certain ookie information and similar
+    identifiers regarding your engagement with our content, web page or ad.'
+  purposes: {}
+- source: we
+  target: information about use of service
+  key: COLLECT
+  text:
+  - We also use "Google Analytics" to collect information about the use of the Service.
+  purposes: {}
+- source: we
+  target: information about use of site
+  key: COLLECT
+  text:
+  - 'Site usage data - We collect information about your use of the Site, including
+    but not limited to: type of computing or mobile device you use, language of your
+    operating system, the Internet browser you are using, geolocation and use of the
+    Site.'
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'The App automatically collects certain information about you when you use the
+    App, this includes, but not limited to: details of the WiFi you use and accelerometer
+    used on your device, type of computing or mobile device you use, advertiser ID,
+    your device''s operating system, the language of your operating system and the
+    Internet browser you are using.'
+  - Third parties - we may receive information about you from our partners, such as
+    pharmaceutical companies and medical providers as needed in order to provide you
+    with our Service, and from other third parties in the context of our marketing
+    activities, as further described in this policy.
+  purposes:
+    advertising:
+    - in order to provide you with our Service, and from other third parties in the
+      context of our marketing activities, as further described in this policy
+    services:
+    - in order to provide you with our Service, and from other third parties in the
+      context of our marketing activities, as further described in this policy
+- source: we
+  target: information we get from google analytics
+  key: COLLECT
+  text:
+  - We use the information we get from Google Analytics only to improve the Service.
+  purposes:
+    services:
+    - only to improve the Service
+- source: we
+  target: information we have
+  key: COLLECT
+  text:
+  - From time to time, we may conduct surveys or test features, and analyze the information
+    we have to develop, evaluate and improve these features.
+  purposes:
+    analytics:
+    - to develop, evaluate and improve these features
+    services:
+    - to develop, evaluate and improve these features
+- source: we
+  target: information we receive
+  key: COLLECT
+  text:
+  - 'We may analyze and/or combine all information we receive, including Health Information
+    and information regarding your use of the Service, with information from other
+    users to create aggregated data that may be disclosed to and utilized by us, our
+    partners and by third parties without restriction, on commercial terms that we
+    can determine in our sole discretion, for purposes such as: content marketing,
+    research purposes, in order to understand behavior patterns, in order to increase
+    adherence to medication regimens, marketing strategies and for entering into commercial
+    contracts in order to provide our users with the Service.'
+  purposes:
+    advertising:
+    - 'to create aggregated data that may be disclosed to and utilized by us, our
+      partners and by third parties without restriction, on commercial terms that
+      we can determine in our sole discretion, for purposes such as: content marketing,
+      research purposes, in order to understand behavior patterns, in order to increase
+      adherence to medication regimens, marketing strategies and for entering into
+      commercial contracts in order to provide our users with the Service'
+    analytics:
+    - 'to create aggregated data that may be disclosed to and utilized by us, our
+      partners and by third parties without restriction, on commercial terms that
+      we can determine in our sole discretion, for purposes such as: content marketing,
+      research purposes, in order to understand behavior patterns, in order to increase
+      adherence to medication regimens, marketing strategies and for entering into
+      commercial contracts in order to provide our users with the Service'
+- source: we
+  target: information you provide during registration process
+  key: COLLECT
+  text:
+  - The information you provide during your registration process as well as any User
+    Content (as this term is defined under the User Content Terms) you provide, will
+    be processed by us.
+  purposes: {}
+- source: we
+  target: information you request from we
+  key: COLLECT
+  text:
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Provision of service - we use the
+    Personal Information you provide us for the provision and improvement of our Service
+    to you, operate our business, and provide information that you request from us.'
+  purposes:
+    services:
+    - for the provision and improvement of our Service to you
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - For example, directly from you when you inquire about our Service, or indirectly,
+    we collect your usage data automatically from measurement tools.
+  purposes: {}
+- source: we
+  target: non - identifiable health information
+  key: COLLECT
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Health Information - We may also collect your non-identifiable Health Information
+    if you choose to provide it (in case of non-registered users)'
+  purposes: {}
+- source: we
+  target: ookie information
+  key: COLLECT
+  text:
+  - 'We collected such Personal Information from the following categories of sources:
+    Indirectly from you .  For example, when you view or interact with certain content,
+    web page or ad we provide, we may collect certain ookie information and similar
+    identifiers regarding your engagement with our content, web page or ad.'
+  purposes: {}
+- source: we
+  target: option opt of share for cross - contextual behavioral advertising by
+  key: COLLECT
+  text:
+  - 'In addition to the information provided under the User Rights and Opt-Out Options
+    section above, we provide the option to opt out of Sharing for Cross-Contextual
+    Behavioral Advertising or Selling Personal Information by using the following
+    opt-out options:'
+  purposes:
+    advertising:
+    - for certain companies which participate in such tools
+    analytics:
+    - for certain companies which participate in such tools
+    services:
+    - for certain companies which participate in such tools
+- source: we
+  target: package dump
+  key: COLLECT
+  text:
+  - The App may also access a list of installed apps on your device.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - ': Merger, acquisition or sale - we may transfer your Personal Information in
+    the event of a merger, acquisition or sale of all or a portion of our assets.'
+  - Artificial Intelligence - we may use Personal Information or Health Information
+    you provide through use of the Services to create insights and improve your medication
+    adherence, such as determining the best time to send medication reminders in accordance
+    to your Services usage and schedule changes.
+  - Content providers - we may also use your Personal Information in order to provide
+    you with personalized third party content or links to third party sites that might
+    interest you.
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Compliance with legal and regulatory
+    requirements - we also use your Personal Information as required by law, regulation
+    or other governmental authority, or to comply with a subpoena or similar legal
+    process.'
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Enforcing of policies - we may use
+    your Personal Information in order to enforce our policies, including but limited
+    to this Privacy Policy, the Terms and Conditions and/or any applicable Program
+    terms and policies.'
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : General communication - we also use
+    your Personal Information to send you texts, emails or other communications regarding
+    general adherence information, Service maintenance and other technical support,
+    updates, or changes to this Privacy Policy or any other relevant agreements, and
+    to respond to your inquiries.'
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Marketing purposes - subject to your
+    marketing preferences, we may use your Personal Information (such as your email
+    address or phone number) to communicate with you.'
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Protecting our interests - we may
+    use your Personal Information when we believe it''s necessary in order to take
+    precautions against liabilities, investigate and defend ourselves against any
+    third party claims or allegations, investigate and protect ourselves from fraud,
+    protect the security or integrity of our Service and protect the rights and property
+    of Medisafe, its users and/or partners.'
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Provision of service - we use the
+    Personal Information you provide us for the provision and improvement of our Service
+    to you, operate our business, and provide information that you request from us.'
+  - In the preceding twelve (12) months we disclosed your Personal Information.
+  - 'In the preceding twelve (12) months, we have collected the following Personal
+    Information: Category A- Identifiers: such as a real name, unique personal identifier,
+    online identifier, Internet Protocol address, email address.'
+  - Law authorities - we may share your personal data with law enforcement authorities,
+    courts and tribunals, including with legal advisors and consultants, in case we
+    need to respond to law enforcement requests or other legal requests or pursuant
+    to a requirement imposed by law, order, judgment or decree, or courts in order
+    to protect and defend our rights and property or those of Service users.
+  - 'Personal Information -- We may collect the following Personal Information about
+    you:'
+  - Please note that even if you opt-out, we may still use and share your Personal
+    Information with third parties for non-marketing purposes (for example to fulfill
+    your requests, communicate with you and respond to your inquiries, etc.).
+  - Providers of personalized third party content - from time to time, we may also
+    ask whether you would like us to share your Personal Information with another
+    company that may want to send you information about their products or services.
+  - Research partners - we may share your Personal Information with third parties,
+    such as research institutes, pharmaceutical manufacturers, healthcare systems
+    and healthcare providers.
+  - Service providers - we may share your Personal Information, as is reasonably necessary,
+    with our service providers, including vendors and suppliers that provide us with
+    development services, technology (such as AWS), services, or content for the operation,
+    development and maintenance of our Service or data and analysis on Service use,
+    who are bound by an obligation of confidentiality, provided that we will only
+    share Personal Information to the extent necessary with such service providers.
+  - Voluntary information - when you communicate with us (for example when you send
+    us an email or use a "contact us" form) we collect your email address, and the
+    Personal Information you provided us with within such communication.
+  - 'We collected such Personal Information from the following categories of sources:'
+  - We will retain your Personal Information for as long as necessary to provide the
+    Services.
+  - Whenever you submit information via our Service - including, but not limited to,
+    by telephone or email with customer service, we may collect Health Information
+    and other Personal Information you provide us, in order to provide you with our
+    Service.
+  purposes:
+    advertising:
+    - for non-marketing purposes
+    - in order to provide you with personalized third party content or links to third
+      party sites that might interest you
+    analytics:
+    - to create insights and improve your medication adherence, such as determining
+      the best time to send medication reminders in accordance to your Services usage
+      and schedule changes
+    legal:
+    - in order to enforce our policies, including but limited to this Privacy Policy,
+      the Terms and Conditions and/or any applicable Program terms and policies
+    security:
+    - in order to enforce our policies, including but limited to this Privacy Policy,
+      the Terms and Conditions and/or any applicable Program terms and policies
+    services:
+    - for the provision and improvement of our Service to you
+    - in order to provide you with our Service
+    - in order to provide you with personalized third party content or links to third
+      party sites that might interest you
+    - to communicate with you
+    - to create insights and improve your medication adherence, such as determining
+      the best time to send medication reminders in accordance to your Services usage
+      and schedule changes
+    - to send you texts, emails or other communications regarding general adherence
+      information, Service maintenance and other technical support, updates, or changes
+      to this Privacy Policy or any other relevant agreements, and to respond to your
+      inquiries
+- source: we
+  target: personal information collect
+  key: COLLECT
+  text:
+  - 'We may use the Personal Information collected for the following purposes:'
+  purposes:
+    advertising:
+    - For marketing our Service
+    analytics:
+    - For analyzing your use of the Service
+    legal:
+    - To enforce our policies, to defend from claims or exercise our legal rights
+    - To respond to law enforcement
+    security:
+    - To enforce our policies, to defend from claims or exercise our legal rights
+    services:
+    - To fulfill or meet the reason you provided the Personal Information (support,
+      respond to a query, etc.
+    - To improve and maintain our Service
+- source: we
+  target: random number
+  key: COLLECT
+  text:
+  - We use this random number in a manner similar to our use of cookies as described
+    in this Privacy Policy.
+  - When you download and install our App onto a mobile device, we assign a random
+    number to your App installation.
+  purposes: {}
+- source: we
+  target: technical information record
+  key: COLLECT
+  text:
+  - Technical information - we collect certain technical information that is automatically
+    recorded when you use our Service, such as your IP address and device geolocation.
+  purposes: {}
+- source: Google
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Google Analytics collects information such as how often users visit the Service,
+    what pages they visit when they do so, and what other sites they used prior to
+    coming to the Service.
+  - Google Analytics collects only the IP address assigned to you on the date you
+    use the Service, as well as information regarding your operating system, language
+    and information regarding your use of the Service, rather than your name or other
+    identifying information.
+  purposes: {}
+- source: Google
+  target: identifying information
+  key: COLLECT
+  text:
+  - Google Analytics collects only the IP address assigned to you on the date you
+    use the Service, as well as information regarding your operating system, language
+    and information regarding your use of the Service, rather than your name or other
+    identifying information.
+  purposes: {}
+- source: Google
+  target: information regard operate system
+  key: COLLECT
+  text:
+  - Google Analytics collects only the IP address assigned to you on the date you
+    use the Service, as well as information regarding your operating system, language
+    and information regarding your use of the Service, rather than your name or other
+    identifying information.
+  purposes: {}
+- source: Google
+  target: ip address
+  key: COLLECT
+  text:
+  - Google Analytics collects only the IP address assigned to you on the date you
+    use the Service, as well as information regarding your operating system, language
+    and information regarding your use of the Service, rather than your name or other
+    identifying information.
+  purposes: {}
+- source: Google
+  target: language
+  key: COLLECT
+  text:
+  - Google Analytics collects only the IP address assigned to you on the date you
+    use the Service, as well as information regarding your operating system, language
+    and information regarding your use of the Service, rather than your name or other
+    identifying information.
+  purposes: {}
+- source: Google
+  target: person name
+  key: COLLECT
+  text:
+  - Google Analytics collects only the IP address assigned to you on the date you
+    use the Service, as well as information regarding your operating system, language
+    and information regarding your use of the Service, rather than your name or other
+    identifying information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We will use information that you consent that we receive from those third party
+    health apps for medical research purposes, internally in order to improve our
+    products and services and in the form of aggregated and/or analytical data as
+    described in the Use of Aggregated Data section of the Privacy Policy, and may
+    transfer this data to third parties for such purposes.
+  purposes:
+    analytics:
+    - for medical research purposes
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+    services:
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We will use information that you consent that we receive from those third party
+    health apps for medical research purposes, internally in order to improve our
+    products and services and in the form of aggregated and/or analytical data as
+    described in the Use of Aggregated Data section of the Privacy Policy, and may
+    transfer this data to third parties for such purposes.
+  purposes:
+    analytics:
+    - for medical research purposes
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+    services:
+    - in order to improve our products and services and in the form of aggregated
+      and/or analytical data as described in the Use of Aggregated Data section of
+      the Privacy Policy
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - Any Personal Information you provide is provided directly to such third party
+    and is subject to such third party's provider's privacy policy.
+  - Please note that even if you opt-out, we may still use and share your Personal
+    Information with third parties for non-marketing purposes (for example to fulfill
+    your requests, communicate with you and respond to your inquiries, etc.).
+  purposes:
+    advertising:
+    - for non-marketing purposes
+- source: company want
+  target: personal information
+  key: COLLECT
+  text:
+  - Providers of personalized third party content - from time to time, we may also
+    ask whether you would like us to share your Personal Information with another
+    company that may want to send you information about their products or services.
+  purposes: {}
+- source: coupon company
+  target: personal information
+  key: COLLECT
+  text:
+  - If you choose to share your Personal Information in this manner, please note that
+    such information may be disclosed to the coupon companies or pharmacies and will
+    be subject to their privacy practices.
+  purposes: {}
+- source: court
+  target: personal information
+  key: COLLECT
+  text:
+  - Law authorities - we may share your personal data with law enforcement authorities,
+    courts and tribunals, including with legal advisors and consultants, in case we
+    need to respond to law enforcement requests or other legal requests or pursuant
+    to a requirement imposed by law, order, judgment or decree, or courts in order
+    to protect and defend our rights and property or those of Service users.
+  purposes: {}
+- source: healthcare provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Research partners - we may share your Personal Information with third parties,
+    such as research institutes, pharmaceutical manufacturers, healthcare systems
+    and healthcare providers.
+  purposes: {}
+- source: healthcare system
+  target: personal information
+  key: COLLECT
+  text:
+  - Research partners - we may share your Personal Information with third parties,
+    such as research institutes, pharmaceutical manufacturers, healthcare systems
+    and healthcare providers.
+  purposes: {}
+- source: law enforcement authority
+  target: personal information
+  key: COLLECT
+  text:
+  - Law authorities - we may share your personal data with law enforcement authorities,
+    courts and tribunals, including with legal advisors and consultants, in case we
+    need to respond to law enforcement requests or other legal requests or pursuant
+    to a requirement imposed by law, order, judgment or decree, or courts in order
+    to protect and defend our rights and property or those of Service users.
+  purposes: {}
+- source: medisafe
+  target: personal information
+  key: COLLECT
+  text:
+  - Additionally, if you choose to participate in any Program, you understand that
+    in addition to any processing you may consent to by a third-party pharmaceutical
+    manufacturer of a medication, Medisafe will still process your Personal Information
+    in accordance with this Privacy Policy and as necessary for the administration
+    of your account, preferences, and program enrollment.
+  purposes: {}
+- source: pharmaceutical manufacturer
+  target: personal information
+  key: COLLECT
+  text:
+  - Research partners - we may share your Personal Information with third parties,
+    such as research institutes, pharmaceutical manufacturers, healthcare systems
+    and healthcare providers.
+  purposes: {}
+- source: pharmacy
+  target: personal information
+  key: COLLECT
+  text:
+  - If you choose to share your Personal Information in this manner, please note that
+    such information may be disclosed to the coupon companies or pharmacies and will
+    be subject to their privacy practices.
+  purposes: {}
+- source: research institute
+  target: personal information
+  key: COLLECT
+  text:
+  - Research partners - we may share your Personal Information with third parties,
+    such as research institutes, pharmaceutical manufacturers, healthcare systems
+    and healthcare providers.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Service providers - we may share your Personal Information, as is reasonably necessary,
+    with our service providers, including vendors and suppliers that provide us with
+    development services, technology (such as AWS), services, or content for the operation,
+    development and maintenance of our Service or data and analysis on Service use,
+    who are bound by an obligation of confidentiality, provided that we will only
+    share Personal Information to the extent necessary with such service providers.
+  purposes: {}
+- source: tribunal
+  target: personal information
+  key: COLLECT
+  text:
+  - Law authorities - we may share your personal data with law enforcement authorities,
+    courts and tribunals, including with legal advisors and consultants, in case we
+    need to respond to law enforcement requests or other legal requests or pursuant
+    to a requirement imposed by law, order, judgment or decree, or courts in order
+    to protect and defend our rights and property or those of Service users.
+  purposes: {}
+- source: we
+  target: careers
+  key: SUBSUM
+  text:
+  - 'Company : Careers'
+- source: we
+  target: medisafe mobile device application
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to your use of the Medisafe mobile device applications
+    (including the Medisafe App and Medisafe Maestro Link; collectively the "Apps")
+    and related websites located at www.medisafe.com, www.medisafeapp.com and HIVWeightLoss.com
+    (including their mobile-optimized versions, collectively the "Site") owned by
+    Medisafe Project Ltd. ("we" or "us").
+- source: we
+  target: medisafe project ltd.
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to your use of the Medisafe mobile device applications
+    (including the Medisafe App and Medisafe Maestro Link; collectively the "Apps")
+    and related websites located at www.medisafe.com, www.medisafeapp.com and HIVWeightLoss.com
+    (including their mobile-optimized versions, collectively the "Site") owned by
+    Medisafe Project Ltd. ("we" or "us").
+- source: we
+  target: optimize version
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to your use of the Medisafe mobile device applications
+    (including the Medisafe App and Medisafe Maestro Link; collectively the "Apps")
+    and related websites located at www.medisafe.com, www.medisafeapp.com and HIVWeightLoss.com
+    (including their mobile-optimized versions, collectively the "Site") owned by
+    Medisafe Project Ltd. ("we" or "us").
+- source: we
+  target: overview
+  key: SUBSUM
+  text:
+  - 'Company : Overview'
+- source: we
+  target: related website locate at www.medisafe.com
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to your use of the Medisafe mobile device applications
+    (including the Medisafe App and Medisafe Maestro Link; collectively the "Apps")
+    and related websites located at www.medisafe.com, www.medisafeapp.com and HIVWeightLoss.com
+    (including their mobile-optimized versions, collectively the "Site") owned by
+    Medisafe Project Ltd. ("we" or "us").
+- source: News
+  target: blog
+  key: SUBSUM
+  text:
+  - 'News & Events : Blog'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - If you opt to use the Caregiver or Medfriend features of the Apps, we will also
+    receive the contact information (such as name, phone number, address and email)
+    of the Caregiver or Medfriend that you chose to appoint and provide us with their
+    information.
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - If you opt to use the Caregiver or Medfriend features of the Apps, we will also
+    receive the contact information (such as name, phone number, address and email)
+    of the Caregiver or Medfriend that you chose to appoint and provide us with their
+    information.
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - If you opt to use the Caregiver or Medfriend features of the Apps, we will also
+    receive the contact information (such as name, phone number, address and email)
+    of the Caregiver or Medfriend that you chose to appoint and provide us with their
+    information.
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - If you opt to use the Caregiver or Medfriend features of the Apps, we will also
+    receive the contact information (such as name, phone number, address and email)
+    of the Caregiver or Medfriend that you chose to appoint and provide us with their
+    information.
+- source: data subject request form
+  target: information consumer provide
+  key: SUBSUM
+  text:
+  - As mentioned above, your rights may be exercised by using the Data Subject Request
+    Form , which includes instructions for submitting, the general description of
+    the process, verification requirements, when applicable, and any information the
+    consumer or employee must provide.
+- source: engagement solutions
+  target: caregiver support
+  key: SUBSUM
+  text:
+  - 'Engagement Solutions : Caregiver Support'
+- source: engagement solutions
+  target: clinical trial
+  key: SUBSUM
+  text:
+  - 'Engagement Solutions : Clinical Trials'
+- source: engagement solutions
+  target: digital drug companion
+  key: SUBSUM
+  text:
+  - 'Engagement Solutions : Digital Drug Companion'
+- source: engagement solutions
+  target: patient support
+  key: SUBSUM
+  text:
+  - 'Engagement Solutions : Patient Support'
+- source: health information
+  target: date of prescription
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: health information
+  target: dosage
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: health information
+  target: information relate to health insurance
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: health information
+  target: medication
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: health information
+  target: medication you take
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: health information
+  target: name of pharmacy
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: health information
+  target: number of refill you make
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, we have collected the following Personal
+    Information: Category A- Identifiers: such as a real name, unique personal identifier,
+    online identifier, Internet Protocol address, email address.'
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, we have collected the following Personal
+    Information: Category A- Identifiers: such as a real name, unique personal identifier,
+    online identifier, Internet Protocol address, email address.'
+- source: identifier
+  target: online identifier
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, we have collected the following Personal
+    Information: Category A- Identifiers: such as a real name, unique personal identifier,
+    online identifier, Internet Protocol address, email address.'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, we have collected the following Personal
+    Information: Category A- Identifiers: such as a real name, unique personal identifier,
+    online identifier, Internet Protocol address, email address.'
+- source: identifier
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, we have collected the following Personal
+    Information: Category A- Identifiers: such as a real name, unique personal identifier,
+    online identifier, Internet Protocol address, email address.'
+- source: industry consumer choice platform
+  target: daa
+  key: SUBSUM
+  text:
+  - 'In addition to the information provided under the User Rights and Opt-Out Options
+    section above, we provide the option to opt out of Sharing for Cross-Contextual
+    Behavioral Advertising or Selling Personal Information by using the following
+    opt-out options: Opt-Out through Industry Consumer-Choice Platforms: you can make
+    choices about data collection for certain companies which participate in such
+    tools, by visiting an industry consumer-choice platform, such as the NAI or DAA
+    or EDAA .'
+- source: industry consumer choice platform
+  target: edaa
+  key: SUBSUM
+  text:
+  - 'In addition to the information provided under the User Rights and Opt-Out Options
+    section above, we provide the option to opt out of Sharing for Cross-Contextual
+    Behavioral Advertising or Selling Personal Information by using the following
+    opt-out options: Opt-Out through Industry Consumer-Choice Platforms: you can make
+    choices about data collection for certain companies which participate in such
+    tools, by visiting an industry consumer-choice platform, such as the NAI or DAA
+    or EDAA .'
+- source: industry consumer choice platform
+  target: nai
+  key: SUBSUM
+  text:
+  - 'In addition to the information provided under the User Rights and Opt-Out Options
+    section above, we provide the option to opt out of Sharing for Cross-Contextual
+    Behavioral Advertising or Selling Personal Information by using the following
+    opt-out options: Opt-Out through Industry Consumer-Choice Platforms: you can make
+    choices about data collection for certain companies which participate in such
+    tools, by visiting an industry consumer-choice platform, such as the NAI or DAA
+    or EDAA .'
+- source: information about use of site
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Site usage data - We collect information about your use of the Site, including
+    but not limited to: type of computing or mobile device you use, language of your
+    operating system, the Internet browser you are using, geolocation and use of the
+    Site.'
+- source: information about use of site
+  target: language of operate system
+  key: SUBSUM
+  text:
+  - 'Site usage data - We collect information about your use of the Site, including
+    but not limited to: type of computing or mobile device you use, language of your
+    operating system, the Internet browser you are using, geolocation and use of the
+    Site.'
+- source: information about you
+  target: age
+  key: SUBSUM
+  text:
+  - During the registration process, you will be required to create your nickname
+    and to provide certain information about you, such as your age, gender, and health
+    condition.
+- source: information about you
+  target: gender
+  key: SUBSUM
+  text:
+  - During the registration process, you will be required to create your nickname
+    and to provide certain information about you, such as your age, gender, and health
+    condition.
+- source: information exclude from ccpa scope
+  target: health medical information cover
+  key: SUBSUM
+  text:
+  - 'Personal Information does not include: Publicly available information that is
+    lawfully made available in government records; information that a consumer has
+    made available to the public; De-identified or aggregated consumer information,
+    and information excluded from the CCPA''s or CPRA''s scope such as Health or medical
+    information covered by the Health Insurance Portability and Accountability Act
+    of 1996 (HIPPA) and the California Confidentiality of Medical Information Act
+    (CMIA);clinical trial data, and any Personal Information covered by certain sector-specific
+    privacy laws, such as the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley
+    Act (GLBA), the California Financial Information Privacy Act (FIPA) and the Driver''s
+    Privacy Protection Act of 1994.'
+- source: information we receive
+  target: health information
+  key: SUBSUM
+  text:
+  - 'We may analyze and/or combine all information we receive, including Health Information
+    and information regarding your use of the Service, with information from other
+    users to create aggregated data that may be disclosed to and utilized by us, our
+    partners and by third parties without restriction, on commercial terms that we
+    can determine in our sole discretion, for purposes such as: content marketing,
+    research purposes, in order to understand behavior patterns, in order to increase
+    adherence to medication regimens, marketing strategies and for entering into commercial
+    contracts in order to provide our users with the Service.'
+- source: insight
+  target: case study
+  key: SUBSUM
+  text:
+  - 'Insights : Case Studies'
+- source: insight
+  target: research
+  key: SUBSUM
+  text:
+  - 'Insights : Research'
+- source: insight
+  target: survey
+  key: SUBSUM
+  text:
+  - 'Insights : Surveys'
+- source: insight
+  target: webinar
+  key: SUBSUM
+  text:
+  - 'Insights : Webinars'
+- source: medisafe mobile device application
+  target: medisafe app
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to your use of the Medisafe mobile device applications
+    (including the Medisafe App and Medisafe Maestro Link; collectively the "Apps")
+    and related websites located at www.medisafe.com, www.medisafeapp.com and HIVWeightLoss.com
+    (including their mobile-optimized versions, collectively the "Site") owned by
+    Medisafe Project Ltd. ("we" or "us").
+- source: medisafe mobile device application
+  target: medisafe maestro link
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to your use of the Medisafe mobile device applications
+    (including the Medisafe App and Medisafe Maestro Link; collectively the "Apps")
+    and related websites located at www.medisafe.com, www.medisafeapp.com and HIVWeightLoss.com
+    (including their mobile-optimized versions, collectively the "Site") owned by
+    Medisafe Project Ltd. ("we" or "us").
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Marketing purposes - subject to your
+    marketing preferences, we may use your Personal Information (such as your email
+    address or phone number) to communicate with you.'
+- source: personal information
+  target: information allow identification with reasonable mean
+  key: SUBSUM
+  text:
+  - Processing of your Personal Information (meaning, any information which may potentially
+    allow your identification with reasonable means; hereinafter "Personal Information")
+    is necessary for the performance of our contractual obligations towards you and
+    providing you with our Service, to protect our legitimate interests, to ensure
+    compliance with legal and financial regulatory obligations, or otherwise, subject
+    to your consent.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'HOW DO WE USE THE INFORMATION WE COLLECT : Marketing purposes - subject to your
+    marketing preferences, we may use your Personal Information (such as your email
+    address or phone number) to communicate with you.'
+- source: personal information with respect to health
+  target: health information
+  key: SUBSUM
+  text:
+  - 'PRIVACY POLICY - MEDISAFE PROJECT
+
+
+    Personal Health Information - you may choose to use certain features of the Service
+    that will allow you to input other Personal Information with respect to your health,
+    such as the medications you take, the date of your prescriptions, the number of
+    refills you have made, how often you take your medication, dosage, physical measurements
+    your doctor''s name, information related to your health insurance, and the name
+    of your pharmacy (collectively your "Health Information").'
+- source: registration detail
+  target: age
+  key: SUBSUM
+  text:
+  - Medisafe Community - if you register to the Medisafe Community feature through
+    the App, your registration details (including your nickname, gender, age and medical
+    condition) will be published on the Medisafe Community, together with your User
+    Content, so that other members of the Medisafe Community can view it.
+- source: registration detail
+  target: gender
+  key: SUBSUM
+  text:
+  - Medisafe Community - if you register to the Medisafe Community feature through
+    the App, your registration details (including your nickname, gender, age and medical
+    condition) will be published on the Medisafe Community, together with your User
+    Content, so that other members of the Medisafe Community can view it.
+- source: registration detail
+  target: medical condition
+  key: SUBSUM
+  text:
+  - Medisafe Community - if you register to the Medisafe Community feature through
+    the App, your registration details (including your nickname, gender, age and medical
+    condition) will be published on the Medisafe Community, together with your User
+    Content, so that other members of the Medisafe Community can view it.
+- source: registration detail
+  target: nickname
+  key: SUBSUM
+  text:
+  - Medisafe Community - if you register to the Medisafe Community feature through
+    the App, your registration details (including your nickname, gender, age and medical
+    condition) will be published on the Medisafe Community, together with your User
+    Content, so that other members of the Medisafe Community can view it.
+- source: retention technology
+  target: care integration engine
+  key: SUBSUM
+  text:
+  - 'Retention Technology : Care Integration Engine'
+- source: retention technology
+  target: medisafe maestro
+  key: SUBSUM
+  text:
+  - 'Retention Technology : Medisafe Maestro'
+- source: retention technology
+  target: pdurs
+  key: SUBSUM
+  text:
+  - 'Retention Technology : PDURS: Software-Enhanced Drug Companions'
+- source: service provider
+  target: development service
+  key: SUBSUM
+  text:
+  - Service providers - we may share your Personal Information, as is reasonably necessary,
+    with our service providers, including vendors and suppliers that provide us with
+    development services, technology (such as AWS), services, or content for the operation,
+    development and maintenance of our Service or data and analysis on Service use,
+    who are bound by an obligation of confidentiality, provided that we will only
+    share Personal Information to the extent necessary with such service providers.
+- source: service provider
+  target: supplier
+  key: SUBSUM
+  text:
+  - Service providers - we may share your Personal Information, as is reasonably necessary,
+    with our service providers, including vendors and suppliers that provide us with
+    development services, technology (such as AWS), services, or content for the operation,
+    development and maintenance of our Service or data and analysis on Service use,
+    who are bound by an obligation of confidentiality, provided that we will only
+    share Personal Information to the extent necessary with such service providers.
+- source: service provider
+  target: technology
+  key: SUBSUM
+  text:
+  - Service providers - we may share your Personal Information, as is reasonably necessary,
+    with our service providers, including vendors and suppliers that provide us with
+    development services, technology (such as AWS), services, or content for the operation,
+    development and maintenance of our Service or data and analysis on Service use,
+    who are bound by an obligation of confidentiality, provided that we will only
+    share Personal Information to the extent necessary with such service providers.
+- source: technical information record
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Technical information - we collect certain technical information that is automatically
+    recorded when you use our Service, such as your IP address and device geolocation.
+- source: technical information record
+  target: ip address
+  key: SUBSUM
+  text:
+  - Technical information - we collect certain technical information that is automatically
+    recorded when you use our Service, such as your IP address and device geolocation.
+- source: technology
+  target: aws
+  key: SUBSUM
+  text:
+  - Service providers - we may share your Personal Information, as is reasonably necessary,
+    with our service providers, including vendors and suppliers that provide us with
+    development services, technology (such as AWS), services, or content for the operation,
+    development and maintenance of our Service or data and analysis on Service use,
+    who are bound by an obligation of confidentiality, provided that we will only
+    share Personal Information to the extent necessary with such service providers.
+- source: voluntary information you provide we
+  target: health information
+  key: SUBSUM
+  text:
+  - If you use the Service without creating a profile or registering - we will only
+    collect information through the use of cookies, web beacons, device data, and
+    navigational data collection, as well as any voluntary information you provide
+    us, including Health Information (as defined below).
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: News
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: aws
+- type: ACTOR
+  id: blog
+- type: ACTOR
+  id: care integration engine
+- type: ACTOR
+  id: careers
+- type: ACTOR
+  id: caregiver support
+- type: ACTOR
+  id: case study
+- type: ACTOR
+  id: clinical trial
+- type: ACTOR
+  id: company want
+- type: ACTOR
+  id: coupon company
+- type: ACTOR
+  id: court
+- type: ACTOR
+  id: daa
+- type: ACTOR
+  id: development service
+- type: ACTOR
+  id: digital drug companion
+- type: ACTOR
+  id: edaa
+- type: ACTOR
+  id: engagement solutions
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: healthcare system
+- type: ACTOR
+  id: industry consumer choice platform
+- type: ACTOR
+  id: insight
+- type: ACTOR
+  id: law enforcement authority
+- type: ACTOR
+  id: medisafe
+- type: ACTOR
+  id: medisafe app
+- type: ACTOR
+  id: medisafe maestro
+- type: ACTOR
+  id: medisafe maestro link
+- type: ACTOR
+  id: medisafe mobile device application
+- type: ACTOR
+  id: medisafe project ltd.
+- type: ACTOR
+  id: nai
+- type: ACTOR
+  id: optimize version
+- type: ACTOR
+  id: overview
+- type: ACTOR
+  id: patient support
+- type: ACTOR
+  id: pdurs
+- type: ACTOR
+  id: pharmaceutical manufacturer
+- type: ACTOR
+  id: pharmacy
+- type: ACTOR
+  id: related website locate at www.medisafe.com
+- type: ACTOR
+  id: research
+- type: ACTOR
+  id: research institute
+- type: ACTOR
+  id: retention technology
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: supplier
+- type: ACTOR
+  id: survey
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: tribunal
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: webinar
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: data subject request form
+- type: DATA
+  id: database contain personal information
+- type: DATA
+  id: date of prescription
+- type: DATA
+  id: dosage
+- type: DATA
+  id: email address
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health information
+- type: DATA
+  id: health medical information cover
+- type: DATA
+  id: identifier
+- type: DATA
+  id: identifying information
+- type: DATA
+  id: information about use of service
+- type: DATA
+  id: information about use of site
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information allow identification with reasonable mean
+- type: DATA
+  id: information consumer provide
+- type: DATA
+  id: information exclude from ccpa scope
+- type: DATA
+  id: information regard operate system
+- type: DATA
+  id: information relate to health insurance
+- type: DATA
+  id: information we get from google analytics
+- type: DATA
+  id: information we have
+- type: DATA
+  id: information we receive
+- type: DATA
+  id: information you provide during registration process
+- type: DATA
+  id: information you request from we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language
+- type: DATA
+  id: language of operate system
+- type: DATA
+  id: medical condition
+- type: DATA
+  id: medication
+- type: DATA
+  id: medication you take
+- type: DATA
+  id: name of pharmacy
+- type: DATA
+  id: nickname
+- type: DATA
+  id: non - identifiable health information
+- type: DATA
+  id: number of refill you make
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: ookie information
+- type: DATA
+  id: option opt of share for cross - contextual behavioral advertising by
+- type: DATA
+  id: package dump
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information collect
+- type: DATA
+  id: personal information with respect to health
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: random number
+- type: DATA
+  id: registration detail
+- type: DATA
+  id: technical information record
+- type: DATA
+  id: voluntary information you provide we

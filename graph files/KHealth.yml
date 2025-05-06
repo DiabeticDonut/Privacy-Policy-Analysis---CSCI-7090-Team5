@@ -1,0 +1,2405 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, we may obtain information about whether an advertisement on our services
+    led to a successful engagement between you and a third-party advertiser (e.g.,
+    measurement reports).
+  - If you choose to contact us, we may need additional information to fulfill the
+    request or respond to your inquiry.
+  purposes:
+    services:
+    - to fulfill the request or respond to your inquiry
+- source: we
+  target: advertising advertising measurement data
+  key: COLLECT
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+  purposes: {}
+- source: we
+  target: advertising id
+  key: COLLECT
+  text:
+  - 'UPDATE TO BECOME EFFECTIVE: January 1, 2025
+
+
+    Your Targeted Advertising Preferences : Apple/Android .  You can control whether
+    we can collect your mobile advertising identifier for advertising through settings
+    on your Apple and Android devices.'
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'We may also use and disclose your personal information as necessary or appropriate,
+    in particular when we have a legal obligation to do so: Aggregate and Deidentified
+    Information .  We may share and/or use aggregated or deidentified information
+    about users with third parties for marketing, advertising, our business purposes,
+    research, or any other purposes.'
+  - We may also use your personal information to serve you ads (targeted or otherwise)
+    about our products or services or other products or services we (or our advertising
+    partners, such as other third-party brands/agencies) think you might find interesting,
+    such as on the Services or on third-party properties (e.g., uploads of email addresses
+    to ad platforms or use of cookies or other tracking technologies).  We may also
+    use individual or aggregate information about you to measure the effectiveness
+    of, and inform, our and our third-party partners marketing and advertising campaigns
+    (e.g., disclosure of your personal information to third-party ad partners for
+    ad measurement/attribution purposes).
+  purposes:
+    advertising:
+    - to measure the effectiveness of, and inform, our and our third-party partners
+      marketing and advertising campaigns (e.g., disclosure of your personal information
+      to third-party ad partners for ad measurement/attribution purposes)
+    - to serve you ads (targeted or otherwise) about our products or services or other
+      products or services we (or our advertising partners, such as other third-party
+      brands/agencies) think you might find interesting, such as on the Services or
+      on third-party properties (e.g., uploads of email addresses to ad platforms
+      or use of cookies or other tracking technologies)
+    analytics:
+    - to measure the effectiveness of, and inform, our and our third-party partners
+      marketing and advertising campaigns (e.g., disclosure of your personal information
+      to third-party ad partners for ad measurement/attribution purposes)
+- source: we
+  target: characteristic
+  key: COLLECT
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+  purposes:
+    advertising:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+    analytics:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+- source: we
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - 'We may collect the following categories of personal information that you provide
+    us: Commercial Information , such as transaction information and purchases considered.'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes:
+    security:
+    - for identity verification purposes
+- source: we
+  target: device datum
+  key: COLLECT
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+  purposes: {}
+- source: we
+  target: education information
+  key: COLLECT
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Education or Employment Information , such as education information and employment
+    information.'
+  purposes:
+    security:
+    - for identity verification purposes
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+  purposes:
+    advertising:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+    analytics:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+- source: we
+  target: financial information
+  key: COLLECT
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Financial or Payment Information , such as a financial account number, payment
+    card information (collected by our third-party payment processor), and transaction
+    details.'
+  purposes:
+    security:
+    - for identity verification purposes
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - 'The following types of information may be automatically collected by us and third
+    parties: Location Data , including geographic location we or our third-party providers
+    may collect, such as via IP address or permissions within the Platform operating
+    system or browser functionality.'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: we
+  target: health information
+  key: COLLECT
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Health or Insurance Information , such as information about your medical history,
+    preferences, insurance, and goals before you create an account to become a patient.'
+  purposes:
+    security:
+    - for identity verification purposes
+- source: we
+  target: identifier
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: we
+  target: individual preference
+  key: COLLECT
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+  purposes:
+    advertising:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+    analytics:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - We may also use third-party tools to collect information you provide to us or
+    information about how you use the Services, including mouse movements, scrolling,
+    clicks, and keystroke activity on the Services and other browsing, search, or
+    purchasing behavior.
+  purposes: {}
+- source: we
+  target: information about device
+  key: COLLECT
+  text:
+  - We, and third parties, may use automatic data collection technologies to collect
+    certain information about your device, browsing actions, and patterns.
+  - We, and third parties, typically collect this information through the use of a
+    variety of our own and our third-party partners' automatic data collection technologies,
+    including (i) cookies and (ii) other similar technologies, such as pixels, SDKs,
+    APIs, location-identifying technologies, and logging technologies, in each case,
+    for our or our third-party partners' purposes.
+  purposes: {}
+- source: we
+  target: information about insurance policy number
+  key: COLLECT
+  text:
+  - We may also collect information about your insurance policy number or insurance
+    information.
+  purposes: {}
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - We may also use third-party tools to collect information you provide to us or
+    information about how you use the Services, including mouse movements, scrolling,
+    clicks, and keystroke activity on the Services and other browsing, search, or
+    purchasing behavior.
+  purposes: {}
+- source: we
+  target: information you share
+  key: COLLECT
+  text:
+  - The information you share will be shared according to your instructions and actions,
+    and we have no control over what happens with your personal information once you
+    share it with others.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Analytics/Usage Data , including the path taken to the Services, through
+    the Services, and when exiting the Services, usage and activity on or in connection
+    with the Services (e.g., pages visited, links clicked, videos watched), metrics
+    on how many emails we send are actually opened and which attachments or links
+    are opened, clicked, or viewed (such as via pixels, as described further below).'
+  purposes: {}
+- source: we
+  target: internet information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: we
+  target: issue identifiers
+  key: COLLECT
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Government Issued Identifiers , such as driver''s license number, and other
+    government issued identifiers for identity verification purposes.'
+  purposes:
+    security:
+    - for identity verification purposes
+- source: we
+  target: option
+  key: COLLECT
+  text:
+  - 'We may share your personal information with third parties, including electronically,
+    as follows: Third-Party Services .  We may provide options within the Services
+    where you can receive additional services from a third party.'
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+  purposes:
+    advertising:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+    analytics:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+    security:
+    - for identity verification purposes
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - Additionally, from time to time, we may receive personal information about you
+    from other third parties (such as Apple's HealthKit or Fitbit) if you have directed
+    your personal information to be shared with us.
+  - Advertisers, influencers, and publishers may share personal information with us
+    in connection with advertising (targeted or otherwise) and advertising measurement.
+  - For example, you may provide us your personal information directly when you visit
+    our Site, register for an account, download our App, or otherwise contact us or
+    interact with us.
+  - In order to provide these ads, we may use internally or share your personal information,
+    such as email addresses or phone numbers, in hashed or non-hashed format, with
+    the advertising partner, in order to match this information to a particular user.
+  - 'Privacy policy
+
+
+    UPDATE TO BECOME EFFECTIVE: January 1, 2025
+
+
+    1) Types of Personal Information We Collect and How We Collect Personal Information'
+  - 'Privacy policy
+
+
+    UPDATE TO BECOME EFFECTIVE: January 1, 2025
+
+
+    3) When and With Whom We Share Your Personal Information'
+  - Specifically, we may use your personal information in order to improve our artificial
+    intelligence models and tools so that we are constantly improving our services,
+    products, and the information we provide our users.
+  - To deliver ads that may be of interest to you, or measure the effectiveness of
+    such ads, we may also share personal information with other companies, such as
+    advertisers, publishers, analytics, measurement providers, and other adtech companies.
+  - We also collect personal information automatically when you interact with our
+    Platform and other services and we may collect personal information from other
+    sources and third parties.
+  - We and our service providers use your personal information for the following purposes
+  - 'We may also use and disclose your personal information as necessary or appropriate,
+    in particular when we have a legal obligation to do so: Applicable Law .  We may
+    share personal information to comply with applicable law and regulations, which
+    may include laws outside your country of residence.'
+  - 'We may also use and disclose your personal information as necessary or appropriate,
+    in particular when we have a legal obligation to do so: Protecting Rights and
+    Safety .  Where permitted or required by law, we may share your personal information
+    with others if we believe in good faith that it will help protect the rights,
+    property, or personal safety of us, any of our users, or any member of the general
+    public, with or without notice to you.'
+  - 'We may also use and disclose your personal information as necessary or appropriate,
+    in particular when we have a legal obligation to do so: Public and Government
+    Authorities, Law Enforcement .  Where permitted or required by applicable data
+    protection laws, we may disclose your personal information pursuant to a legal
+    request, or in compliance with applicable laws, if we have good faith belief that
+    the law requires us to do so, with or without notice to you.'
+  - We may also use your personal information to serve you ads (targeted or otherwise)
+    about our products or services or other products or services we (or our advertising
+    partners, such as other third-party brands/agencies) think you might find interesting,
+    such as on the Services or on third-party properties (e.g., uploads of email addresses
+    to ad platforms or use of cookies or other tracking technologies).  We may also
+    use individual or aggregate information about you to measure the effectiveness
+    of, and inform, our and our third-party partners marketing and advertising campaigns
+    (e.g., disclosure of your personal information to third-party ad partners for
+    ad measurement/attribution purposes).
+  - We may collaborate with third parties in connection with providing the Services,
+    and these third parties may provide us with personal information about you.
+  - We may continue to retain your personal information even after you deactivate
+    your user account or stop using the Services, as reasonably necessary to comply
+    with our legal obligations, to resolve disputes regarding our users, enforce our
+    agreements, or protect our legitimate interests, consistent with applicable law.
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Business Partners .  We may receive your personal information
+    from our business partners, such as companies that offer their products or services
+    on our Services or on other properties (e.g., digital properties, offline locations)
+    or marketing/advertising and analytics partners, including third-party brands/agencies
+    or other partners that facilitate the buying and selling of advertising inventory
+    on our Services, measure of the effectiveness of those related ad campaigns, or
+    inform business analytics (e.g., view rates, bounce rates, audience composition).'
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Other Sources .  We may also collect personal information
+    about you from other sources, including publicly available sources, third-party
+    data providers, brand partnerships, or through transactions such as mergers and
+    acquisitions.'
+  - We may share personal information with third parties in connection with a transaction,
+    such as a merger, sale of company assets or shares, reorganization, financing,
+    change of control, or acquisition of all or a portion of our business, or in the
+    event of a bankruptcy or related or similar proceedings.
+  - 'We may share your personal information with third parties, including electronically,
+    as follows: Affiliates .  We may share your personal information with our affiliates
+    for the purposes described in this Privacy Policy.'
+  - 'We may share your personal information with third parties, including electronically,
+    as follows: Partners .  We may share your personal information with other companies,
+    such as companies with whom we jointly offer products and services, including
+    third party payers and Sponsor Organizations.'
+  - 'We may share your personal information with third parties, including electronically,
+    as follows: Service Providers .  We may share personal information with certain
+    of our service providers, processors, and others who perform functions on our
+    behalf.'
+  - We will keep your personal information for as long as your user account is active,
+    in order to allow you to have access to your personal information and to provide
+    you with our services.
+  - When you use our Services that connect you with a clinician, we will share your
+    personal information with our affiliated clinicians, other providers, and/or pharmacy,
+    in order for them to provide you care or coordinate your treatment.
+  purposes:
+    advertising:
+    - In order to provide these ads
+    - To deliver ads that may be of interest to you, or measure the effectiveness
+      of such ads
+    - To provide you with information about new services, news about us, or other
+      marketing materials, and to determine the effectiveness of our promotional campaigns
+      so we can adapt campaigns to the needs of users, and to facilitate social sharing
+    - To send you communications about new features, updates, sweepstakes, contests,
+      products, and offers
+    - to measure the effectiveness of, and inform, our and our third-party partners
+      marketing and advertising campaigns (e.g., disclosure of your personal information
+      to third-party ad partners for ad measurement/attribution purposes)
+    - to serve you ads (targeted or otherwise) about our products or services or other
+      products or services we (or our advertising partners, such as other third-party
+      brands/agencies) think you might find interesting, such as on the Services or
+      on third-party properties (e.g., uploads of email addresses to ad platforms
+      or use of cookies or other tracking technologies)
+    analytics:
+    - To analyze personal information for business reporting, including, providing
+      personalized services, improving the efficiency of the Services, and identifying
+      usage trends
+    - To analyze your personal information to improve the Services and the recommendations
+      and information we provide our users and other third parties, including through
+      the use of our artificial intelligence models and tools
+    - To better understand your preferences so that we can deliver content via our
+      Services that we believe will be relevant and interesting to you
+    - To provide you with information about new services, news about us, or other
+      marketing materials, and to determine the effectiveness of our promotional campaigns
+      so we can adapt campaigns to the needs of users, and to facilitate social sharing
+    - in order to better understand our users' needs and to optimize the Services
+      and experience
+    - in order to improve our artificial intelligence models and tools so that we
+      are constantly improving our services, products, and the information we provide
+      our users
+    - in order to match this information to a particular user
+    - to measure the effectiveness of, and inform, our and our third-party partners
+      marketing and advertising campaigns (e.g., disclosure of your personal information
+      to third-party ad partners for ad measurement/attribution purposes)
+    legal:
+    - For audits, to verify that our internal processes function as intended and to
+      address legal, regulatory, or contractual requirements
+    - to comply with applicable law and regulations, which may include laws outside
+      your country of residence
+    - to comply with our legal obligations, to resolve disputes regarding our users,
+      enforce our agreements, or protect our legitimate interests, consistent with
+      applicable law
+    security:
+    - To complete your transactions and verify your personal information
+    - To enhance, improve, repair, maintain, or modify our current products and services,
+      as well as undertake quality and safety assurance measures
+    - To prevent fraud and monitor fraud security, for example, to detect and prevent
+      cyberattacks or attempts to commit identity theft
+    - to comply with our legal obligations, to resolve disputes regarding our users,
+      enforce our agreements, or protect our legitimate interests, consistent with
+      applicable law
+    services:
+    - To allow you to communicate with us through the Services if you choose to do
+      so
+    - To analyze personal information for business reporting, including, providing
+      personalized services, improving the efficiency of the Services, and identifying
+      usage trends
+    - To better understand your preferences so that we can deliver content via our
+      Services that we believe will be relevant and interesting to you
+    - To complete your transactions and verify your personal information
+    - To develop new products and services, operate, and expand our business activities,
+    - To enhance, improve, repair, maintain, or modify our current products and services,
+      as well as undertake quality and safety assurance measures
+    - To provide Services to you, including access to your account
+    - To provide and coordinate your care
+    - To respond to your inquiries and fulfill your requests, when you contact us
+      via one of our online contact forms or otherwise, for example, when you send
+      us questions, suggestions, compliments or complaints, or other customer service
+      requests, or when you request other information about our Services
+    - To send you changes to our terms, conditions, and policies
+    - To send you communications about new features, updates, sweepstakes, contests,
+      products, and offers
+    - in order for them to provide you care or coordinate your treatment
+    - in order to allow you to have access to your personal information and to provide
+      you with our services
+    - in order to better understand our users' needs and to optimize the Services
+      and experience
+    - in order to improve our artificial intelligence models and tools so that we
+      are constantly improving our services, products, and the information we provide
+      our users
+    - in order to match this information to a particular user
+- source: we
+  target: personal information you direct we
+  key: COLLECT
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Personal information you direct us to receive, including personal
+    information we receive from third parties and social media .'
+  purposes: {}
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+  purposes:
+    advertising:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+    analytics:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+- source: we
+  target: relate datum
+  key: COLLECT
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+  purposes:
+    advertising:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+    analytics:
+    - in order to better identify and understand our users or others, assist with
+      such targeted advertising, or otherwise analyze, measure, and optimize advertising
+      campaigns
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: advertising advertising measurement data
+  key: COLLECT
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'We may also use and disclose your personal information as necessary or appropriate,
+    in particular when we have a legal obligation to do so: Aggregate and Deidentified
+    Information .  We may share and/or use aggregated or deidentified information
+    about users with third parties for marketing, advertising, our business purposes,
+    research, or any other purposes.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: device datum
+  key: COLLECT
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Location Data , including geographic location we or our third-party providers
+    may collect, such as via IP address or permissions within the Platform operating
+    system or browser functionality.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about device
+  key: COLLECT
+  text:
+  - We, and third parties, may use automatic data collection technologies to collect
+    certain information about your device, browsing actions, and patterns.
+  - We, and third parties, typically collect this information through the use of a
+    variety of our own and our third-party partners' automatic data collection technologies,
+    including (i) cookies and (ii) other similar technologies, such as pixels, SDKs,
+    APIs, location-identifying technologies, and logging technologies, in each case,
+    for our or our third-party partners' purposes.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information you enter
+  key: COLLECT
+  text:
+  - These tools may also record information you enter when you interact with the Services
+    or engage in chat or other features through the Services.
+  - We may also use third-party tools to collect information you provide to us or
+    information about how you use the Services, including mouse movements, scrolling,
+    clicks, and keystroke activity on the Services and other browsing, search, or
+    purchasing behavior.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Analytics/Usage Data , including the path taken to the Services, through
+    the Services, and when exiting the Services, usage and activity on or in connection
+    with the Services (e.g., pages visited, links clicked, videos watched), metrics
+    on how many emails we send are actually opened and which attachments or links
+    are opened, clicked, or viewed (such as via pixels, as described further below).'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We may collaborate with third parties in connection with providing the Services,
+    and these third parties may provide us with personal information about you.
+  - We may share personal information with third parties in connection with a transaction,
+    such as a merger, sale of company assets or shares, reorganization, financing,
+    change of control, or acquisition of all or a portion of our business, or in the
+    event of a bankruptcy or related or similar proceedings.
+  - 'We may share your personal information with third parties, including electronically,
+    as follows:'
+  - When you use our Services that connect you with a clinician, we will share your
+    personal information with our affiliated clinicians, other providers, and/or pharmacy,
+    in order for them to provide you care or coordinate your treatment.
+  - When you use such a service to make a payment to us, your personal information
+    will be collected by such third party, not by us, and will be subject to the third
+    party's privacy policy, rather than this Privacy Policy.
+  purposes:
+    analytics:
+    - in order to better understand our users' needs and to optimize the Services
+      and experience
+    services:
+    - in order for them to provide you care or coordinate your treatment
+    - in order to better understand our users' needs and to optimize the Services
+      and experience
+- source: adtech company
+  target: personal information
+  key: COLLECT
+  text:
+  - To deliver ads that may be of interest to you, or measure the effectiveness of
+    such ads, we may also share personal information with other companies, such as
+    advertisers, publishers, analytics, measurement providers, and other adtech companies.
+  purposes:
+    advertising:
+    - To deliver ads that may be of interest to you, or measure the effectiveness
+      of such ads
+- source: advertiser
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: advertiser
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: advertiser
+  target: identifier
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: advertiser
+  target: internet information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - Advertisers, influencers, and publishers may share personal information with us
+    in connection with advertising (targeted or otherwise) and advertising measurement.
+  - In order to provide these ads, we may use internally or share your personal information,
+    such as email addresses or phone numbers, in hashed or non-hashed format, with
+    the advertising partner, in order to match this information to a particular user.
+  - To deliver ads that may be of interest to you, or measure the effectiveness of
+    such ads, we may also share personal information with other companies, such as
+    advertisers, publishers, analytics, measurement providers, and other adtech companies.
+  purposes:
+    advertising:
+    - In order to provide these ads
+    - To deliver ads that may be of interest to you, or measure the effectiveness
+      of such ads
+    analytics:
+    - in order to match this information to a particular user
+    services:
+    - in order to match this information to a particular user
+- source: advertiser
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: analytic provider
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: analytic provider
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: analytic provider
+  target: identifier
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: analytic provider
+  target: internet information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: analytic provider
+  target: personal information
+  key: COLLECT
+  text:
+  - To deliver ads that may be of interest to you, or measure the effectiveness of
+    such ads, we may also share personal information with other companies, such as
+    advertisers, publishers, analytics, measurement providers, and other adtech companies.
+  purposes:
+    advertising:
+    - To deliver ads that may be of interest to you, or measure the effectiveness
+      of such ads
+- source: analytic provider
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'Privacy policy
+
+
+    Notice at Collection for California Residents
+
+
+    "Sales" and "Shares"
+
+
+    In the previous 12 months, we may have "sold" and "shared" the following categories
+    of personal information to our advertising/marketing and analytics partners for
+    the purposes of advertising/marketing and analytics services, subject to your
+    right to opt-out via our Your Privacy Choices link (found in the Site footer):'
+  - identifiers, commercial information, geolocation data, sensitive personal information,
+    and internet or other network information.
+  purposes: {}
+- source: company with whom we offer product
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information with third parties, including electronically,
+    as follows: Partners .  We may share your personal information with other companies,
+    such as companies with whom we jointly offer products and services, including
+    third party payers and Sponsor Organizations.'
+  purposes: {}
+- source: healthcare provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Our Services may enable you to share your personal information with others, including
+    healthcare providers, friends, and contacts via social media, via our Platform,
+    or otherwise.
+  purposes: {}
+- source: influencer
+  target: personal information
+  key: COLLECT
+  text:
+  - Advertisers, influencers, and publishers may share personal information with us
+    in connection with advertising (targeted or otherwise) and advertising measurement.
+  purposes: {}
+- source: pharmacy
+  target: personal information
+  key: COLLECT
+  text:
+  - When you use our Services that connect you with a clinician, we will share your
+    personal information with our affiliated clinicians, other providers, and/or pharmacy,
+    in order for them to provide you care or coordinate your treatment.
+  purposes:
+    services:
+    - in order for them to provide you care or coordinate your treatment
+- source: publisher
+  target: personal information
+  key: COLLECT
+  text:
+  - Advertisers, influencers, and publishers may share personal information with us
+    in connection with advertising (targeted or otherwise) and advertising measurement.
+  - To deliver ads that may be of interest to you, or measure the effectiveness of
+    such ads, we may also share personal information with other companies, such as
+    advertisers, publishers, analytics, measurement providers, and other adtech companies.
+  purposes:
+    advertising:
+    - To deliver ads that may be of interest to you, or measure the effectiveness
+      of such ads
+- source: service provider
+  target: information regard use of website
+  key: COLLECT
+  text:
+  - Our service providers that perform services on our behalf, such as analytics and
+    certain marketing providers, collect personal information about use of the Services
+    and report on activities and trends.  The service providers may also collect information
+    regarding the use of other websites, apps, and online resources and often share
+    some or all of this information with us.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We and our service providers use your personal information for the following purposes
+  purposes:
+    advertising:
+    - To provide you with information about new services, news about us, or other
+      marketing materials, and to determine the effectiveness of our promotional campaigns
+      so we can adapt campaigns to the needs of users, and to facilitate social sharing
+    - To send you communications about new features, updates, sweepstakes, contests,
+      products, and offers
+    analytics:
+    - To analyze personal information for business reporting, including, providing
+      personalized services, improving the efficiency of the Services, and identifying
+      usage trends
+    - To analyze your personal information to improve the Services and the recommendations
+      and information we provide our users and other third parties, including through
+      the use of our artificial intelligence models and tools
+    - To better understand your preferences so that we can deliver content via our
+      Services that we believe will be relevant and interesting to you
+    - To provide you with information about new services, news about us, or other
+      marketing materials, and to determine the effectiveness of our promotional campaigns
+      so we can adapt campaigns to the needs of users, and to facilitate social sharing
+    legal:
+    - For audits, to verify that our internal processes function as intended and to
+      address legal, regulatory, or contractual requirements
+    security:
+    - To complete your transactions and verify your personal information
+    - To enhance, improve, repair, maintain, or modify our current products and services,
+      as well as undertake quality and safety assurance measures
+    - To prevent fraud and monitor fraud security, for example, to detect and prevent
+      cyberattacks or attempts to commit identity theft
+    services:
+    - To allow you to communicate with us through the Services if you choose to do
+      so
+    - To analyze personal information for business reporting, including, providing
+      personalized services, improving the efficiency of the Services, and identifying
+      usage trends
+    - To better understand your preferences so that we can deliver content via our
+      Services that we believe will be relevant and interesting to you
+    - To complete your transactions and verify your personal information
+    - To develop new products and services, operate, and expand our business activities,
+    - To enhance, improve, repair, maintain, or modify our current products and services,
+      as well as undertake quality and safety assurance measures
+    - To provide Services to you, including access to your account
+    - To provide and coordinate your care
+    - To respond to your inquiries and fulfill your requests, when you contact us
+      via one of our online contact forms or otherwise, for example, when you send
+      us questions, suggestions, compliments or complaints, or other customer service
+      requests, or when you request other information about our Services
+    - To send you changes to our terms, conditions, and policies
+    - To send you communications about new features, updates, sweepstakes, contests,
+      products, and offers
+- source: service provider perform service on behalf
+  target: personal information about use of service
+  key: COLLECT
+  text:
+  - Our service providers that perform services on our behalf, such as analytics and
+    certain marketing providers, collect personal information about use of the Services
+    and report on activities and trends.  The service providers may also collect information
+    regarding the use of other websites, apps, and online resources and often share
+    some or all of this information with us.
+  purposes: {}
+- source: we
+  target: communication with you
+  key: SUBSUM
+  text:
+  - 'This Privacy Policy describes our practices in connection with personal information
+    that we collect through our " Services ," which, together, include: Email and
+    text messages that we send to you or other communications with you; and'
+- source: we
+  target: mobile application
+  key: SUBSUM
+  text:
+  - 'This Privacy Policy describes our practices in connection with personal information
+    that we collect through our " Services ," which, together, include: Websites (each,
+    a " Site ") and mobile applications (each, an " App ") operated by us (together,
+    the " Platform ");'
+- source: we
+  target: platform
+  key: SUBSUM
+  text:
+  - 'This Privacy Policy describes our practices in connection with personal information
+    that we collect through our " Services ," which, together, include: Websites (each,
+    a " Site ") and mobile applications (each, an " App ") operated by us (together,
+    the " Platform ");'
+- source: we
+  target: public authorities
+  key: SUBSUM
+  text:
+  - 'We may also use and disclose your personal information as necessary or appropriate,
+    in particular when we have a legal obligation to do so: Public and Government
+    Authorities, Law Enforcement .  Where permitted or required by applicable data
+    protection laws, we may disclose your personal information pursuant to a legal
+    request, or in compliance with applicable laws, if we have good faith belief that
+    the law requires us to do so, with or without notice to you.'
+- source: advertiser
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Business Partners .  We may receive your personal information
+    from our business partners, such as companies that offer their products or services
+    on our Services or on other properties (e.g., digital properties, offline locations)
+    or marketing/advertising and analytics partners, including third-party brands/agencies
+    or other partners that facilitate the buying and selling of advertising inventory
+    on our Services, measure of the effectiveness of those related ad campaigns, or
+    inform business analytics (e.g., view rates, bounce rates, audience composition).'
+- source: advertising advertising measurement data
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+- source: advertising advertising measurement data
+  target: datum associate with view of
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+- source: advertising advertising measurement data
+  target: device datum
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+- source: advertising advertising measurement data
+  target: digital identifier
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+- source: advertising advertising measurement data
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+- source: advertising advertising measurement data
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+- source: aggregate / deidentified / pseudonymized information
+  target: personal information
+  key: SUBSUM
+  text:
+  - 'We and our service providers use your personal information for the following
+    purposes : To aggregate and/or deidentify personal information so that it will
+    no longer be considered personal information and use and disclose this aggregated
+    and/or deidentified information for any purpose not prohibited by law, including
+    training our artificial intelligence models.'
+- source: automatic data collection technology
+  target: technology
+  key: SUBSUM
+  text:
+  - We, and third parties, typically collect this information through the use of a
+    variety of our own and our third-party partners' automatic data collection technologies,
+    including (i) cookies and (ii) other similar technologies, such as pixels, SDKs,
+    APIs, location-identifying technologies, and logging technologies, in each case,
+    for our or our third-party partners' purposes.
+- source: business partner
+  target: advertiser
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Business Partners .  We may receive your personal information
+    from our business partners, such as companies that offer their products or services
+    on our Services or on other properties (e.g., digital properties, offline locations)
+    or marketing/advertising and analytics partners, including third-party brands/agencies
+    or other partners that facilitate the buying and selling of advertising inventory
+    on our Services, measure of the effectiveness of those related ad campaigns, or
+    inform business analytics (e.g., view rates, bounce rates, audience composition).'
+- source: business partner
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Business Partners .  We may receive your personal information
+    from our business partners, such as companies that offer their products or services
+    on our Services or on other properties (e.g., digital properties, offline locations)
+    or marketing/advertising and analytics partners, including third-party brands/agencies
+    or other partners that facilitate the buying and selling of advertising inventory
+    on our Services, measure of the effectiveness of those related ad campaigns, or
+    inform business analytics (e.g., view rates, bounce rates, audience composition).'
+- source: business partner
+  target: property
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Business Partners .  We may receive your personal information
+    from our business partners, such as companies that offer their products or services
+    on our Services or on other properties (e.g., digital properties, offline locations)
+    or marketing/advertising and analytics partners, including third-party brands/agencies
+    or other partners that facilitate the buying and selling of advertising inventory
+    on our Services, measure of the effectiveness of those related ad campaigns, or
+    inform business analytics (e.g., view rates, bounce rates, audience composition).'
+- source: characteristic
+  target: inference
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: commercial information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - Commercial information , such as, financial account number, payment card information
+    (collected by our third-party payment processor), transaction information and
+    purchase history, including purchases considered.
+- source: commercial information
+  target: financial account number
+  key: SUBSUM
+  text:
+  - Commercial information , such as, financial account number, payment card information
+    (collected by our third-party payment processor), transaction information and
+    purchase history, including purchases considered.
+- source: commercial information
+  target: purchase consider
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Commercial Information , such as transaction information and purchases considered.'
+- source: commercial information
+  target: purchase history
+  key: SUBSUM
+  text:
+  - Commercial information , such as, financial account number, payment card information
+    (collected by our third-party payment processor), transaction information and
+    purchase history, including purchases considered.
+- source: commercial information
+  target: transaction information
+  key: SUBSUM
+  text:
+  - Commercial information , such as, financial account number, payment card information
+    (collected by our third-party payment processor), transaction information and
+    purchase history, including purchases considered.
+  - 'We may collect the following categories of personal information that you provide
+    us: Commercial Information , such as transaction information and purchases considered.'
+- source: company with whom we offer product
+  target: sponsor organizations
+  key: SUBSUM
+  text:
+  - 'We may share your personal information with third parties, including electronically,
+    as follows: Partners .  We may share your personal information with other companies,
+    such as companies with whom we jointly offer products and services, including
+    third party payers and Sponsor Organizations.'
+- source: contact information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: description
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: contact information
+  target: signature
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: customer record
+  target: account
+  key: SUBSUM
+  text:
+  - Customer records , such as information about your medical history, preferences,
+    and goals before you create an account to become a patient.
+- source: customer record
+  target: goal
+  key: SUBSUM
+  text:
+  - Customer records , such as information about your medical history, preferences,
+    and goals before you create an account to become a patient.
+- source: customer record
+  target: medical history
+  key: SUBSUM
+  text:
+  - Customer records , such as information about your medical history, preferences,
+    and goals before you create an account to become a patient.
+- source: customer record
+  target: preference
+  key: SUBSUM
+  text:
+  - Customer records , such as information about your medical history, preferences,
+    and goals before you create an account to become a patient.
+- source: device datum
+  target: browser id
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: date time of visit
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: device type
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: error occur during visit to service
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: operating system
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: time spend on service
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: url enter
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: user agent string datum
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: device datum
+  target: version
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Device Data , including internet protocol (IP) address, operating system,
+    device type and version, browser type and version, browser ID, the URL entered,
+    the referring page, date/time of visit, other user agent string data, the time
+    spent on the Services, and any errors that may occur during the visit to the Services'
+- source: digital identifier
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Advertising/Advertising Measurement Data , including data associated
+    with your view of, or your clicks on, advertisements served on our Services, cookie
+    IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID)
+    assigned to such device, and the device data, analytics/usage data, and location
+    data described above, in each case, for purposes of serving advertising (personalized
+    or otherwise) or facilitating advertising measurement/attribution to better optimize
+    or otherwise understand the effectiveness of ad campaigns.'
+- source: education information
+  target: employment information
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Education or Employment Information , such as education information and employment
+    information.'
+- source: financial information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Financial or Payment Information , such as a financial account number, payment
+    card information (collected by our third-party payment processor), and transaction
+    details.'
+- source: financial information
+  target: financial account number
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Financial or Payment Information , such as a financial account number, payment
+    card information (collected by our third-party payment processor), and transaction
+    details.'
+- source: financial information
+  target: transaction detail
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Financial or Payment Information , such as a financial account number, payment
+    card information (collected by our third-party payment processor), and transaction
+    details.'
+- source: health information
+  target: account
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Health or Insurance Information , such as information about your medical history,
+    preferences, insurance, and goals before you create an account to become a patient.'
+- source: health information
+  target: goal
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Health or Insurance Information , such as information about your medical history,
+    preferences, insurance, and goals before you create an account to become a patient.'
+- source: health information
+  target: insurance
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Health or Insurance Information , such as information about your medical history,
+    preferences, insurance, and goals before you create an account to become a patient.'
+- source: health information
+  target: medical history
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Health or Insurance Information , such as information about your medical history,
+    preferences, insurance, and goals before you create an account to become a patient.'
+- source: health information
+  target: preference
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Health or Insurance Information , such as information about your medical history,
+    preferences, insurance, and goals before you create an account to become a patient.'
+- source: identifier
+  target: advertising id
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: identifier
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: identifier
+  target: date of birth
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: description
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: driver's license number
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: government identifier
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: information associate with browsing usage
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: proprietary identifier
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: identifier
+  target: signature
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: identifier
+  target: ssn
+  key: SUBSUM
+  text:
+  - Identifiers , such as name, email address, phone number, physical address, signature,
+    unique personal identifiers, date of birth, physical characteristics or description,
+    driver's license number, Social Security number, and other government issued identifiers
+    for identity verification purposes.
+- source: information about
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - We may also use third-party tools to collect information you provide to us or
+    information about how you use the Services, including mouse movements, scrolling,
+    clicks, and keystroke activity on the Services and other browsing, search, or
+    purchasing behavior.
+- source: information about
+  target: keystroke activity on services
+  key: SUBSUM
+  text:
+  - We may also use third-party tools to collect information you provide to us or
+    information about how you use the Services, including mouse movements, scrolling,
+    clicks, and keystroke activity on the Services and other browsing, search, or
+    purchasing behavior.
+- source: information about
+  target: mouse movement
+  key: SUBSUM
+  text:
+  - We may also use third-party tools to collect information you provide to us or
+    information about how you use the Services, including mouse movements, scrolling,
+    clicks, and keystroke activity on the Services and other browsing, search, or
+    purchasing behavior.
+- source: internet activity
+  target: metric on open
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Analytics/Usage Data , including the path taken to the Services, through
+    the Services, and when exiting the Services, usage and activity on or in connection
+    with the Services (e.g., pages visited, links clicked, videos watched), metrics
+    on how many emails we send are actually opened and which attachments or links
+    are opened, clicked, or viewed (such as via pixels, as described further below).'
+- source: internet activity
+  target: path take to services through services
+  key: SUBSUM
+  text:
+  - 'The following types of information may be automatically collected by us and third
+    parties: Analytics/Usage Data , including the path taken to the Services, through
+    the Services, and when exiting the Services, usage and activity on or in connection
+    with the Services (e.g., pages visited, links clicked, videos watched), metrics
+    on how many emails we send are actually opened and which attachments or links
+    are opened, clicked, or viewed (such as via pixels, as described further below).'
+- source: internet network information
+  target: advertising advertising measurement datum
+  key: SUBSUM
+  text:
+  - Internet or other network information , such as Device Data, Analytics/Usage Data,
+    and Advertising/Advertising Measurement Data.
+- source: internet network information
+  target: device datum
+  key: SUBSUM
+  text:
+  - Internet or other network information , such as Device Data, Analytics/Usage Data,
+    and Advertising/Advertising Measurement Data.
+- source: internet network information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - Internet or other network information , such as Device Data, Analytics/Usage Data,
+    and Advertising/Advertising Measurement Data.
+- source: issue identifiers
+  target: driver's license number
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Government Issued Identifiers , such as driver''s license number, and other
+    government issued identifiers for identity verification purposes.'
+- source: issue identifiers
+  target: government identifier
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Government Issued Identifiers , such as driver''s license number, and other
+    government issued identifiers for identity verification purposes.'
+- source: personal identifier
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: personal identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: personal identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Commercial Information , such as transaction information and purchases considered.'
+- source: personal information
+  target: education information
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Education or Employment Information , such as education information and employment
+    information.'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - In order to provide these ads, we may use internally or share your personal information,
+    such as email addresses or phone numbers, in hashed or non-hashed format, with
+    the advertising partner, in order to match this information to a particular user.
+- source: personal information
+  target: financial information
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Financial or Payment Information , such as a financial account number, payment
+    card information (collected by our third-party payment processor), and transaction
+    details.'
+- source: personal information
+  target: health information
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Health or Insurance Information , such as information about your medical history,
+    preferences, insurance, and goals before you create an account to become a patient.'
+- source: personal information
+  target: issue identifiers
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Government Issued Identifiers , such as driver''s license number, and other
+    government issued identifiers for identity verification purposes.'
+- source: personal information
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of personal information that you provide
+    us: Personal identifiers, including contact Information , such as name, email
+    address, phone number, physical address, signature, unique personal identifiers,
+    date of birth, gender, physical characteristics, or description.'
+- source: personal information
+  target: personal information you direct we
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Personal information you direct us to receive, including personal
+    information we receive from third parties and social media .'
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - In order to provide these ads, we may use internally or share your personal information,
+    such as email addresses or phone numbers, in hashed or non-hashed format, with
+    the advertising partner, in order to match this information to a particular user.
+- source: personal information you direct we
+  target: personal information we receive from third party
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Personal information you direct us to receive, including personal
+    information we receive from third parties and social media .'
+- source: professional information
+  target: education information
+  key: SUBSUM
+  text:
+  - Professional or employment information , such as education information and employment
+    information.
+- source: professional information
+  target: employment information
+  key: SUBSUM
+  text:
+  - Professional or employment information , such as education information and employment
+    information.
+- source: property
+  target: digital property
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Business Partners .  We may receive your personal information
+    from our business partners, such as companies that offer their products or services
+    on our Services or on other properties (e.g., digital properties, offline locations)
+    or marketing/advertising and analytics partners, including third-party brands/agencies
+    or other partners that facilitate the buying and selling of advertising inventory
+    on our Services, measure of the effectiveness of those related ad campaigns, or
+    inform business analytics (e.g., view rates, bounce rates, audience composition).'
+- source: protected classification
+  target: age
+  key: SUBSUM
+  text:
+  - Protected classification characteristics , such as gender and age.
+- source: protected classification
+  target: gender
+  key: SUBSUM
+  text:
+  - Protected classification characteristics , such as gender and age.
+- source: relate datum
+  target: type of device
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+- source: sensitive personal datum
+  target: account log in
+  key: SUBSUM
+  text:
+  - Sensitive personal data , such as government ID numbers; consumer health data;
+    account log-in, financial account, debit card, or credit card number in combination
+    with any required security code, access code, password, or credentials allowing
+    access to an account; and race, ethnicity, or national origin.
+- source: sensitive personal datum
+  target: consumer health datum
+  key: SUBSUM
+  text:
+  - Sensitive personal data , such as government ID numbers; consumer health data;
+    account log-in, financial account, debit card, or credit card number in combination
+    with any required security code, access code, password, or credentials allowing
+    access to an account; and race, ethnicity, or national origin.
+- source: sensitive personal datum
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - Sensitive personal data , such as government ID numbers; consumer health data;
+    account log-in, financial account, debit card, or credit card number in combination
+    with any required security code, access code, password, or credentials allowing
+    access to an account; and race, ethnicity, or national origin.
+- source: sensitive personal datum
+  target: debit card
+  key: SUBSUM
+  text:
+  - Sensitive personal data , such as government ID numbers; consumer health data;
+    account log-in, financial account, debit card, or credit card number in combination
+    with any required security code, access code, password, or credentials allowing
+    access to an account; and race, ethnicity, or national origin.
+- source: sensitive personal datum
+  target: financial account
+  key: SUBSUM
+  text:
+  - Sensitive personal data , such as government ID numbers; consumer health data;
+    account log-in, financial account, debit card, or credit card number in combination
+    with any required security code, access code, password, or credentials allowing
+    access to an account; and race, ethnicity, or national origin.
+- source: sensitive personal datum
+  target: government identifier
+  key: SUBSUM
+  text:
+  - Sensitive personal data , such as government ID numbers; consumer health data;
+    account log-in, financial account, debit card, or credit card number in combination
+    with any required security code, access code, password, or credentials allowing
+    access to an account; and race, ethnicity, or national origin.
+- source: sensitive personal datum
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - Sensitive personal data , such as government ID numbers; consumer health data;
+    account log-in, financial account, debit card, or credit card number in combination
+    with any required security code, access code, password, or credentials allowing
+    access to an account; and race, ethnicity, or national origin.
+- source: service provider perform service on behalf
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - Our service providers that perform services on our behalf, such as analytics and
+    certain marketing providers, collect personal information about use of the Services
+    and report on activities and trends.  The service providers may also collect information
+    regarding the use of other websites, apps, and online resources and often share
+    some or all of this information with us.
+- source: service provider perform service on behalf
+  target: marketing provider
+  key: SUBSUM
+  text:
+  - Our service providers that perform services on our behalf, such as analytics and
+    certain marketing providers, collect personal information about use of the Services
+    and report on activities and trends.  The service providers may also collect information
+    regarding the use of other websites, apps, and online resources and often share
+    some or all of this information with us.
+- source: source
+  target: brand partnership
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Other Sources .  We may also collect personal information
+    about you from other sources, including publicly available sources, third-party
+    data providers, brand partnerships, or through transactions such as mergers and
+    acquisitions.'
+- source: source
+  target: publicly available source
+  key: SUBSUM
+  text:
+  - 'We may receive from other sources the same categories of personal information
+    as described above: Other Sources .  We may also collect personal information
+    about you from other sources, including publicly available sources, third-party
+    data providers, brand partnerships, or through transactions such as mergers and
+    acquisitions.'
+- source: technology
+  target: api
+  key: SUBSUM
+  text:
+  - We, and third parties, typically collect this information through the use of a
+    variety of our own and our third-party partners' automatic data collection technologies,
+    including (i) cookies and (ii) other similar technologies, such as pixels, SDKs,
+    APIs, location-identifying technologies, and logging technologies, in each case,
+    for our or our third-party partners' purposes.
+- source: technology
+  target: identify technology
+  key: SUBSUM
+  text:
+  - We, and third parties, typically collect this information through the use of a
+    variety of our own and our third-party partners' automatic data collection technologies,
+    including (i) cookies and (ii) other similar technologies, such as pixels, SDKs,
+    APIs, location-identifying technologies, and logging technologies, in each case,
+    for our or our third-party partners' purposes.
+- source: technology
+  target: logging technology
+  key: SUBSUM
+  text:
+  - We, and third parties, typically collect this information through the use of a
+    variety of our own and our third-party partners' automatic data collection technologies,
+    including (i) cookies and (ii) other similar technologies, such as pixels, SDKs,
+    APIs, location-identifying technologies, and logging technologies, in each case,
+    for our or our third-party partners' purposes.
+- source: technology
+  target: sdk
+  key: SUBSUM
+  text:
+  - We, and third parties, typically collect this information through the use of a
+    variety of our own and our third-party partners' automatic data collection technologies,
+    including (i) cookies and (ii) other similar technologies, such as pixels, SDKs,
+    APIs, location-identifying technologies, and logging technologies, in each case,
+    for our or our third-party partners' purposes.
+- source: tool
+  target: Socialbakers
+  key: SUBSUM
+  text:
+  - Certain of our Services may be provided using our artificial intelligence models
+    and tools, such as our artificial intelligence-enabled Symptom Checker.
+- source: track technology
+  target: localstorage
+  key: SUBSUM
+  text:
+  - 'To manage cookies, an individual may have the ability to change their browser
+    settings to (for example):  (i) notify them when they receive a cookie, so the
+    individual can choose whether or not to accept it; (ii) disable existing cookies;
+    or (iii) automatically reject cookies (or certain types of cookies, such as cookies
+    set by third parties).  Note that similar controls may or may not exist for other
+    tracking technologies, such as pixels, SDKs, and localStorage.'
+- source: track technology
+  target: sdk
+  key: SUBSUM
+  text:
+  - 'To manage cookies, an individual may have the ability to change their browser
+    settings to (for example):  (i) notify them when they receive a cookie, so the
+    individual can choose whether or not to accept it; (ii) disable existing cookies;
+    or (iii) automatically reject cookies (or certain types of cookies, such as cookies
+    set by third parties).  Note that similar controls may or may not exist for other
+    tracking technologies, such as pixels, SDKs, and localStorage.'
+- source: type of device
+  target: identifier
+  key: SUBSUM
+  text:
+  - For example, we may share device-related data (such as unique identifier like
+    IDFA/AAID or another proprietary identifier, type of device, IP address, cookies,
+    and other information associated with your browsing and Platform usage), other
+    user identifiers (e.g., email address or phone number), individual preferences
+    and characteristics (such as insights and inferences related to patterns and behaviors),
+    and actions taken on our Services (e.g., page views, purchases, clicks) to these
+    adtech companies in order to better identify and understand our users or others,
+    assist with such targeted advertising, or otherwise analyze, measure, and optimize
+    advertising campaigns.
+nodes:
+- type: ACTOR
+  id: Socialbakers
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: adtech company
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: api
+- type: ACTOR
+  id: automatic data collection technology
+- type: ACTOR
+  id: brand partnership
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: communication with you
+- type: ACTOR
+  id: company with whom we offer product
+- type: ACTOR
+  id: digital property
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: identify technology
+- type: ACTOR
+  id: influencer
+- type: ACTOR
+  id: localstorage
+- type: ACTOR
+  id: logging technology
+- type: ACTOR
+  id: marketing provider
+- type: ACTOR
+  id: mobile application
+- type: ACTOR
+  id: pharmacy
+- type: ACTOR
+  id: platform
+- type: ACTOR
+  id: property
+- type: ACTOR
+  id: public authorities
+- type: ACTOR
+  id: publicly available source
+- type: ACTOR
+  id: publisher
+- type: ACTOR
+  id: sdk
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service provider perform service on behalf
+- type: ACTOR
+  id: source
+- type: ACTOR
+  id: sponsor organizations
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: tool
+- type: ACTOR
+  id: track technology
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account
+- type: DATA
+  id: account log in
+- type: DATA
+  id: advertising advertising measurement data
+- type: DATA
+  id: advertising advertising measurement datum
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: browser id
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: characteristic
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: consumer health datum
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: customer record
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: date time of visit
+- type: DATA
+  id: datum associate with view of
+- type: DATA
+  id: debit card
+- type: DATA
+  id: description
+- type: DATA
+  id: device datum
+- type: DATA
+  id: device type
+- type: DATA
+  id: digital identifier
+- type: DATA
+  id: driver's license number
+- type: DATA
+  id: education information
+- type: DATA
+  id: email address
+- type: DATA
+  id: employment information
+- type: DATA
+  id: error occur during visit to service
+- type: DATA
+  id: financial account
+- type: DATA
+  id: financial account number
+- type: DATA
+  id: financial information
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: goal
+- type: DATA
+  id: government identifier
+- type: DATA
+  id: health information
+- type: DATA
+  id: identifier
+- type: DATA
+  id: individual preference
+- type: DATA
+  id: inference
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about device
+- type: DATA
+  id: information about insurance policy number
+- type: DATA
+  id: information associate with browsing usage
+- type: DATA
+  id: information regard use of website
+- type: DATA
+  id: information you enter
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: information you share
+- type: DATA
+  id: insurance
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: internet information
+- type: DATA
+  id: internet network information
+- type: DATA
+  id: ip address
+- type: DATA
+  id: issue identifiers
+- type: DATA
+  id: keystroke activity on services
+- type: DATA
+  id: medical history
+- type: DATA
+  id: metric on open
+- type: DATA
+  id: mouse movement
+- type: DATA
+  id: operating system
+- type: DATA
+  id: option
+- type: DATA
+  id: path take to services through services
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information about use of service
+- type: DATA
+  id: personal information we receive from third party
+- type: DATA
+  id: personal information you direct we
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: preference
+- type: DATA
+  id: professional information
+- type: DATA
+  id: proprietary identifier
+- type: DATA
+  id: protected classification
+- type: DATA
+  id: purchase consider
+- type: DATA
+  id: purchase history
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: relate datum
+- type: DATA
+  id: sensitive personal datum
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: signature
+- type: DATA
+  id: ssn
+- type: DATA
+  id: time spend on service
+- type: DATA
+  id: transaction detail
+- type: DATA
+  id: transaction information
+- type: DATA
+  id: type of device
+- type: DATA
+  id: url enter
+- type: DATA
+  id: user agent string datum
+- type: DATA
+  id: version

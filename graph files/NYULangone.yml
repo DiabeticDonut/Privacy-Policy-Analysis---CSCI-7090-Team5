@@ -1,0 +1,523 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may also share certain information to other devices or applications as per
+    your preferences, such those set by your account settings.
+  - We may use vendors and share information with them to help us operate our business
+    and NYU MyChart, or administer activities on our behalf, such as NYU MyChart maintenance,
+    payment processing, and facilitating telehealth video services.
+  - 'We use your information for many purposes, such as to: (i) provide various products
+    or services to you, including by processing your payments; (ii) analyze trends
+    and conduct research about improving our products and services; (iii) provide
+    support and respond to questions from customers and NYU MyChart users; (iv) improve
+    NYU MyChart, products, or services; (v) learn about users'' needs; (vi) contact
+    users for research, informational, and marketing purposes; (vii) track traffic
+    patterns and NYU MyChart usage; (viii) provide customer service; (ix) correlate
+    information with other commercially available information to identify demographics
+    and preferences to assist us in our marketing efforts; (x) provide specific relevant
+    marketing, promotional, or other information to you; (xi) address information
+    security and/or privacy issues, network functioning, and troubleshooting; (xii)
+    investigate claims and/or legal actions, violations of our policies and procedures,
+    and compliance with relevant applicable laws and legal process; (xiii) comply
+    with applicable laws, regulations, or legal process as well as industry standards
+    and our company policies; or (xiv) prevent, investigate, identify, or take any
+    other action with regard to suspected or actual fraudulent or illegal activity,
+    or any activity that violates our policies.'
+  purposes:
+    analytics:
+    - 'for many purposes, such as to: (i) provide various products or services to
+      you, including by processing your payments; (ii) analyze trends and conduct
+      research about improving our products and services; (iii) provide support and
+      respond to questions from customers and NYU MyChart users; (iv) improve NYU
+      MyChart, products, or services; (v) learn about users'' needs; (vi) contact
+      users for research, informational, and marketing purposes; (vii) track traffic
+      patterns and NYU MyChart usage; (viii) provide customer service; (ix) correlate
+      information with other commercially available information to identify demographics
+      and preferences to assist us in our marketing efforts; (x) provide specific
+      relevant marketing, promotional, or other information to you; (xi) address information
+      security and/or privacy issues, network functioning, and troubleshooting; (xii)
+      investigate claims and/or legal actions, violations of our policies and procedures,
+      and compliance with relevant applicable laws and legal process; (xiii) comply
+      with applicable laws, regulations, or legal process as well as industry standards
+      and our company policies; or (xiv) prevent, investigate, identify, or take any
+      other action with regard to suspected or actual fraudulent or illegal activity,
+      or any activity that violates our policies'
+    security:
+    - 'for many purposes, such as to: (i) provide various products or services to
+      you, including by processing your payments; (ii) analyze trends and conduct
+      research about improving our products and services; (iii) provide support and
+      respond to questions from customers and NYU MyChart users; (iv) improve NYU
+      MyChart, products, or services; (v) learn about users'' needs; (vi) contact
+      users for research, informational, and marketing purposes; (vii) track traffic
+      patterns and NYU MyChart usage; (viii) provide customer service; (ix) correlate
+      information with other commercially available information to identify demographics
+      and preferences to assist us in our marketing efforts; (x) provide specific
+      relevant marketing, promotional, or other information to you; (xi) address information
+      security and/or privacy issues, network functioning, and troubleshooting; (xii)
+      investigate claims and/or legal actions, violations of our policies and procedures,
+      and compliance with relevant applicable laws and legal process; (xiii) comply
+      with applicable laws, regulations, or legal process as well as industry standards
+      and our company policies; or (xiv) prevent, investigate, identify, or take any
+      other action with regard to suspected or actual fraudulent or illegal activity,
+      or any activity that violates our policies'
+    services:
+    - 'for many purposes, such as to: (i) provide various products or services to
+      you, including by processing your payments; (ii) analyze trends and conduct
+      research about improving our products and services; (iii) provide support and
+      respond to questions from customers and NYU MyChart users; (iv) improve NYU
+      MyChart, products, or services; (v) learn about users'' needs; (vi) contact
+      users for research, informational, and marketing purposes; (vii) track traffic
+      patterns and NYU MyChart usage; (viii) provide customer service; (ix) correlate
+      information with other commercially available information to identify demographics
+      and preferences to assist us in our marketing efforts; (x) provide specific
+      relevant marketing, promotional, or other information to you; (xi) address information
+      security and/or privacy issues, network functioning, and troubleshooting; (xii)
+      investigate claims and/or legal actions, violations of our policies and procedures,
+      and compliance with relevant applicable laws and legal process; (xiii) comply
+      with applicable laws, regulations, or legal process as well as industry standards
+      and our company policies; or (xiv) prevent, investigate, identify, or take any
+      other action with regard to suspected or actual fraudulent or illegal activity,
+      or any activity that violates our policies'
+    - to help us operate our business and NYU MyChart, or administer activities on
+      our behalf, such as NYU MyChart maintenance, payment processing, and facilitating
+      telehealth video services
+- source: we
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - We or third parties, including our vendors, may collect personal information about
+    your online activities over time and across different online services when you
+    use NYU MyChart.
+  purposes: {}
+- source: we
+  target: geo
+  key: COLLECT
+  text:
+  - We may use GPS (global positioning systems) software, geo-filtering, and other
+    location-aware technologies to locate you, sometimes precisely, for purposes such
+    as verifying your location and delivering or restricting content based on your
+    location.
+  purposes:
+    analytics:
+    - to locate you, sometimes precisely, for purposes such as verifying your location
+      and delivering or restricting content based on your location
+    security:
+    - to locate you, sometimes precisely, for purposes such as verifying your location
+      and delivering or restricting content based on your location
+    services:
+    - to locate you, sometimes precisely, for purposes such as verifying your location
+      and delivering or restricting content based on your location
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We or third parties, including our vendors, may collect personal information about
+    your online activities over time and across different online services when you
+    use NYU MyChart.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Information, including personal information, may also be shared: (i) as permitted
+    by law; (ii) where we determine that disclosure of specific information is necessary
+    to comply with the request of a law enforcement or regulatory agency or other
+    legal process; or (iii) to enforce our policies, or to protect legal rights, property,
+    or safety.'
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+  - We may also share your personal information at your direction.
+  - We may share your personal information in the event we sell or transfer all or
+    a portion of our business assets (e.g., further to a merger, reorganization, liquidation,
+    or any other business transaction), including negotiations of such transactions.
+  - We will store your personal information for no longer than is necessary for the
+    performance of our obligations or to achieve the purposes for which the information
+    was collected, or as may be permitted under applicable law.
+  - We, and our vendors, may obtain personal information that you provide to us directly,
+    for example, data you submit when you complete forms, fill out questionnaires,
+    schedule in-person or telehealth video call appointments, request prescription
+    refills, add or change pharmacies, add personal notes, enroll in research studies,
+    send messages to your care team, or make payments through NYU MyChart.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may use vendors and share information with them to help us operate our business
+    and NYU MyChart, or administer activities on our behalf, such as NYU MyChart maintenance,
+    payment processing, and facilitating telehealth video services.
+  purposes:
+    services:
+    - to help us operate our business and NYU MyChart, or administer activities on
+      our behalf, such as NYU MyChart maintenance, payment processing, and facilitating
+      telehealth video services
+- source: UNSPECIFIED_ACTOR
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - We or third parties, including our vendors, may collect personal information about
+    your online activities over time and across different online services when you
+    use NYU MyChart.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - We or third parties, including our vendors, may collect personal information about
+    your online activities over time and across different online services when you
+    use NYU MyChart.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+  - We, and our vendors, may obtain personal information that you provide to us directly,
+    for example, data you submit when you complete forms, fill out questionnaires,
+    schedule in-person or telehealth video call appointments, request prescription
+    refills, add or change pharmacies, add personal notes, enroll in research studies,
+    send messages to your care team, or make payments through NYU MyChart.
+  purposes: {}
+- source: business partner
+  target: personal information
+  key: COLLECT
+  text:
+  - Any information, including personal information, that you provide on one of these
+    co-branded services may be shared with these partners.
+  - These arrangements may include business partners, sponsors, and co-branded online
+    services (referred to here as "co-branded services").
+  purposes: {}
+- source: clinic location feature
+  target: geolocation
+  key: COLLECT
+  text:
+  - Our clinic location feature may access and use information about your device location
+    to suggest appropriate clinic locations.
+  purposes:
+    services:
+    - to suggest appropriate clinic locations
+- source: epic
+  target: personal information submit to nyu mychart
+  key: COLLECT
+  text:
+  - Personal information submitted to NYU MyChart, such as your communications with
+    your health providers, may be shared with our service provider, Epic, and added
+    to your medical record.
+  purposes: {}
+- source: healthcare organization
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, you may share your information with friends, family, other individuals,
+    or other healthcare organizations.
+  purposes: {}
+- source: service provider
+  target: personal information submit to nyu mychart
+  key: COLLECT
+  text:
+  - Personal information submitted to NYU MyChart, such as your communications with
+    your health providers, may be shared with our service provider, Epic, and added
+    to your medical record.
+  purposes: {}
+- source: we
+  target: nyu langone
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to personal information obtained through the NYU Langone
+    MyChart website, mychart.nyulmc.org ( "NYU MyChart"), which is operated by NYU
+    Langone Health ("NYU Langone", "we", "us", "our").
+- source: we
+  target: nyu langone health
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to personal information obtained through the NYU Langone
+    MyChart website, mychart.nyulmc.org ( "NYU MyChart"), which is operated by NYU
+    Langone Health ("NYU Langone", "we", "us", "our").
+- source: activity on behalf
+  target: nyu mychart maintenance
+  key: SUBSUM
+  text:
+  - We may use vendors and share information with them to help us operate our business
+    and NYU MyChart, or administer activities on our behalf, such as NYU MyChart maintenance,
+    payment processing, and facilitating telehealth video services.
+- source: activity on behalf
+  target: payment processing
+  key: SUBSUM
+  text:
+  - We may use vendors and share information with them to help us operate our business
+    and NYU MyChart, or administer activities on our behalf, such as NYU MyChart maintenance,
+    payment processing, and facilitating telehealth video services.
+- source: activity on behalf
+  target: telehealth video service
+  key: SUBSUM
+  text:
+  - We may use vendors and share information with them to help us operate our business
+    and NYU MyChart, or administer activities on our behalf, such as NYU MyChart maintenance,
+    payment processing, and facilitating telehealth video services.
+- source: area within nyu mychart you visit
+  target: device identifier
+  key: SUBSUM
+  text:
+  - This type of usage information may include the device you are using, your IP address,
+    device ID, other unique identifier, geolocation, crash analytics, all of the areas
+    within NYU MyChart that you visit, and the time of the visit.
+- source: area within nyu mychart you visit
+  target: geolocation
+  key: SUBSUM
+  text:
+  - This type of usage information may include the device you are using, your IP address,
+    device ID, other unique identifier, geolocation, crash analytics, all of the areas
+    within NYU MyChart that you visit, and the time of the visit.
+- source: area within nyu mychart you visit
+  target: identifier
+  key: SUBSUM
+  text:
+  - This type of usage information may include the device you are using, your IP address,
+    device ID, other unique identifier, geolocation, crash analytics, all of the areas
+    within NYU MyChart that you visit, and the time of the visit.
+- source: area within nyu mychart you visit
+  target: ip address
+  key: SUBSUM
+  text:
+  - This type of usage information may include the device you are using, your IP address,
+    device ID, other unique identifier, geolocation, crash analytics, all of the areas
+    within NYU MyChart that you visit, and the time of the visit.
+- source: area within nyu mychart you visit
+  target: time of visit
+  key: SUBSUM
+  text:
+  - This type of usage information may include the device you are using, your IP address,
+    device ID, other unique identifier, geolocation, crash analytics, all of the areas
+    within NYU MyChart that you visit, and the time of the visit.
+- source: arrangement with company not own
+  target: business partner
+  key: SUBSUM
+  text:
+  - From time to time we may enter into an arrangement with another company that is
+    not owned by or affiliated with us to provide additional features on NYU MyChart.
+  - These arrangements may include business partners, sponsors, and co-branded online
+    services (referred to here as "co-branded services").
+- source: arrangement with company not own
+  target: co - branded online service
+  key: SUBSUM
+  text:
+  - From time to time we may enter into an arrangement with another company that is
+    not owned by or affiliated with us to provide additional features on NYU MyChart.
+  - These arrangements may include business partners, sponsors, and co-branded online
+    services (referred to here as "co-branded services").
+- source: arrangement with company not own
+  target: sponsor
+  key: SUBSUM
+  text:
+  - From time to time we may enter into an arrangement with another company that is
+    not owned by or affiliated with us to provide additional features on NYU MyChart.
+  - These arrangements may include business partners, sponsors, and co-branded online
+    services (referred to here as "co-branded services").
+- source: information we obtain about you
+  target: datum we obtain from third party
+  key: SUBSUM
+  text:
+  - We may combine certain information we collect through tracking technologies with
+    other information we obtain about you, which may include data we obtain from third
+    parties.
+- source: insurance coverage information
+  target: insurance card photo
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: patient information not collect through nyu mychart
+  target: information contain in electronic medical record at office
+  key: SUBSUM
+  text:
+  - NYU MyChart is hosted through a service provider, Epic Systems Corporation ("Epic"),
+    which processes patient information not collected through NYU MyChart, such as
+    information contained in your electronic medical record at your doctor's office.
+- source: personal information
+  target: account credential
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information
+  target: for datum you submit
+  key: SUBSUM
+  text:
+  - We, and our vendors, may obtain personal information that you provide to us directly,
+    for example, data you submit when you complete forms, fill out questionnaires,
+    schedule in-person or telehealth video call appointments, request prescription
+    refills, add or change pharmacies, add personal notes, enroll in research studies,
+    send messages to your care team, or make payments through NYU MyChart.
+- source: personal information
+  target: insurance coverage information
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information
+  target: nickname
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information
+  target: payment processing information
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information
+  target: relate information
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information
+  target: vaccine documentation
+  key: SUBSUM
+  text:
+  - Personal information we, and our vendors, collect may include your nickname, account
+    credentials, email address, phone number, insurance coverage information (including
+    insurance card photos), vaccine documentation, health-related information, and
+    payment processing information.
+- source: personal information submit to nyu mychart
+  target: communication with health provider
+  key: SUBSUM
+  text:
+  - Personal information submitted to NYU MyChart, such as your communications with
+    your health providers, may be shared with our service provider, Epic, and added
+    to your medical record.
+- source: type of usage information
+  target: area within nyu mychart you visit
+  key: SUBSUM
+  text:
+  - This type of usage information may include the device you are using, your IP address,
+    device ID, other unique identifier, geolocation, crash analytics, all of the areas
+    within NYU MyChart that you visit, and the time of the visit.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: activity on behalf
+- type: ACTOR
+  id: arrangement with company not own
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: clinic location feature
+- type: ACTOR
+  id: co - branded online service
+- type: ACTOR
+  id: epic
+- type: ACTOR
+  id: healthcare organization
+- type: ACTOR
+  id: nyu langone
+- type: ACTOR
+  id: nyu langone health
+- type: ACTOR
+  id: nyu mychart maintenance
+- type: ACTOR
+  id: payment processing
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: sponsor
+- type: ACTOR
+  id: telehealth video service
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account credential
+- type: DATA
+  id: area within nyu mychart you visit
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: communication with health provider
+- type: DATA
+  id: datum we obtain from third party
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: for datum you submit
+- type: DATA
+  id: geo
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information contain in electronic medical record at office
+- type: DATA
+  id: information we obtain about you
+- type: DATA
+  id: insurance card photo
+- type: DATA
+  id: insurance coverage information
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: nickname
+- type: DATA
+  id: patient information not collect through nyu mychart
+- type: DATA
+  id: payment processing information
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information submit to nyu mychart
+- type: DATA
+  id: phone number
+- type: DATA
+  id: relate information
+- type: DATA
+  id: time of visit
+- type: DATA
+  id: type of usage information
+- type: DATA
+  id: vaccine documentation

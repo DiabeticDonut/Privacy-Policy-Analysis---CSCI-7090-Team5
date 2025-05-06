@@ -1,0 +1,298 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - "Do You Share My Personal Data?\n\nPartner programs \n\nWe often share:"
+  - 'We often share: De-identified and/or aggregated data about how Woebot users use
+    the app and its effectiveness'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - But in order to comply with your preferences, we'll have to use just one tiny
+    cookie so that you're not asked to make this choice again.
+  - 'Please note: We only use cookies on our website, not on any mobile applications.'
+  - This website stores cookies on your computer.
+  purposes:
+    legal:
+    - in order to comply with your preferences
+    services:
+    - in order to comply with your preferences
+- source: we
+  target: identifiable datum about
+  key: COLLECT
+  text:
+  - 'If you are using the Services through a clinical program or as part of a study
+    and you consent, we may also share: Identifiable data about how you''re doing
+    such as survey responses, mood trends, or your confirmation that Woebot has understood
+    a concerning entry that''s beyond what it can support'
+  purposes: {}
+- source: we
+  target: personal datum we store associate with you
+  key: COLLECT
+  text:
+  - 'We may access, preserve, and disclose any personal data we store associated with
+    you to external parties if we, in good faith, believe doing so is required or
+    appropriate to:'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - -identified and/or aggregated data is not personal data and we may use and share
+    this data as permitted by applicable law, such as with academic partners.
+  - This privacy policy applies to and describes how we collect, store, use, and share
+    personal data about you through our software, website, mobile application, documentation,
+    and related services (together, the " Services ").
+  - We may use your personal data to create de-identified and/or aggregated data,
+    like approximate location information, information about the device you use to
+    access our Services, information about conversational trends, or other analyses
+    we create.
+  - We retain the personal data we collect for as long as you use our Services, or
+    as necessary to fulfill the purposes for which it was collected, provide our Services,
+    resolve disputes, establish legal defenses, conduct audits, pursue legitimate
+    business purposes, enforce our agreements, and comply with applicable laws.
+  - We store personal data so that your experience with the Services is personalized
+    based on your past interactions and for other reasons listed above.
+  purposes:
+    analytics:
+    - to create de-identified and/or aggregated data, like approximate location information,
+      information about the device you use to access our Services, information about
+      conversational trends, or other analyses we create
+- source: we
+  target: request
+  key: COLLECT
+  text:
+  - We will process your request in accordance with applicable laws.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal datum we store associate with you
+  key: COLLECT
+  text:
+  - 'We may access, preserve, and disclose any personal data we store associated with
+    you to external parties if we, in good faith, believe doing so is required or
+    appropriate to:'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - These third parties may have limited and controlled access to personal data in
+    connection with the services they provide such as hosting or customer service.
+  purposes: {}
+- source: academic partner
+  target: personal information
+  key: COLLECT
+  text:
+  - -identified and/or aggregated data is not personal data and we may use and share
+    this data as permitted by applicable law, such as with academic partners.
+  purposes: {}
+- source: technical service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, some technical service providers use personal data to help make the
+    Services work.
+  purposes:
+    services:
+    - to help make the Services work
+- source: we
+  target: customer service
+  key: SUBSUM
+  text:
+  - These third parties may have limited and controlled access to personal data in
+    connection with the services they provide such as hosting or customer service.
+- source: we
+  target: hosting
+  key: SUBSUM
+  text:
+  - These third parties may have limited and controlled access to personal data in
+    connection with the services they provide such as hosting or customer service.
+- source: aggregate / deidentified / pseudonymized information
+  target: coarse geolocation
+  key: SUBSUM
+  text:
+  - We may use your personal data to create de-identified and/or aggregated data,
+    like approximate location information, information about the device you use to
+    access our Services, information about conversational trends, or other analyses
+    we create.
+- source: aggregate / deidentified / pseudonymized information
+  target: information about conversational trend
+  key: SUBSUM
+  text:
+  - We may use your personal data to create de-identified and/or aggregated data,
+    like approximate location information, information about the device you use to
+    access our Services, information about conversational trends, or other analyses
+    we create.
+- source: clinical partner program
+  target: licensed healthcare provider
+  key: SUBSUM
+  text:
+  - Clinical partner programs are a specific type of partner program that include
+    a licensed healthcare provider.
+- source: identifiable datum about
+  target: mood trend
+  key: SUBSUM
+  text:
+  - 'If you are using the Services through a clinical program or as part of a study
+    and you consent, we may also share: Identifiable data about how you''re doing
+    such as survey responses, mood trends, or your confirmation that Woebot has understood
+    a concerning entry that''s beyond what it can support'
+- source: identifiable datum about
+  target: survey response
+  key: SUBSUM
+  text:
+  - 'If you are using the Services through a clinical program or as part of a study
+    and you consent, we may also share: Identifiable data about how you''re doing
+    such as survey responses, mood trends, or your confirmation that Woebot has understood
+    a concerning entry that''s beyond what it can support'
+- source: inaccurate personal datum we hold about you
+  target: phi
+  key: SUBSUM
+  text:
+  - 'In addition, under certain data protection laws, individuals may have rights
+    around their personal data which may include (as applicable): The right to rectification
+    which enables you to correct any inaccurate or incomplete personal data we hold
+    about you (including Protected Health Information (PHI))'
+- source: inaccurate personal datum we hold about you
+  target: protected health information
+  key: SUBSUM
+  text:
+  - 'In addition, under certain data protection laws, individuals may have rights
+    around their personal data which may include (as applicable): The right to rectification
+    which enables you to correct any inaccurate or incomplete personal data we hold
+    about you (including Protected Health Information (PHI))'
+- source: information from google analytics
+  target: demographic
+  key: SUBSUM
+  text:
+  - 'What Personal Data Do You Collect & How Is It Used?
+
+
+    Usage data
+
+
+    Details: Information from Google Analytics or other analytics vendors, like website
+    visitor or app user behavior and demographics.'
+- source: information from google analytics
+  target: website visitor behavior
+  key: SUBSUM
+  text:
+  - 'What Personal Data Do You Collect & How Is It Used?
+
+
+    Usage data
+
+
+    Details: Information from Google Analytics or other analytics vendors, like website
+    visitor or app user behavior and demographics.'
+- source: partner program
+  target: specific type
+  key: SUBSUM
+  text:
+  - Clinical partner programs are a specific type of partner program that include
+    a licensed healthcare provider.
+- source: personal identifier
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'Details: Other personal data you provide to us, including any personal identifiers
+    like your birthdate'
+- source: personal information
+  target: attachment you share
+  key: SUBSUM
+  text:
+  - 'Details: Other personal data you provide to us, including any personal identifiers
+    or attachments you share'
+- source: personal information
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Details: Other personal data you provide to us, including any personal identifiers
+    like your birthdate'
+  - 'Details: Other personal data you provide to us, including any personal identifiers
+    or attachments you share'
+- source: technical network control
+  target: multi - factor authentication
+  key: SUBSUM
+  text:
+  - 'This may include (as appropriate): Using technical network controls like multi-factor
+    authentication and deny-all/allow-by-exception in a manner designed to maintain
+    controlled access'
+- source: usage information
+  target: time of day
+  key: SUBSUM
+  text:
+  - 'Details: Usage information, like the time of day or how often you use each tool'
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: academic partner
+- type: ACTOR
+  id: clinical partner program
+- type: ACTOR
+  id: customer service
+- type: ACTOR
+  id: hosting
+- type: ACTOR
+  id: licensed healthcare provider
+- type: ACTOR
+  id: partner program
+- type: ACTOR
+  id: specific type
+- type: ACTOR
+  id: technical service provider
+- type: ACTOR
+  id: we
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: attachment you share
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: demographic
+- type: DATA
+  id: identifiable datum about
+- type: DATA
+  id: inaccurate personal datum we hold about you
+- type: DATA
+  id: information about conversational trend
+- type: DATA
+  id: information from google analytics
+- type: DATA
+  id: mood trend
+- type: DATA
+  id: multi - factor authentication
+- type: DATA
+  id: personal datum we store associate with you
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phi
+- type: DATA
+  id: protected health information
+- type: DATA
+  id: request
+- type: DATA
+  id: survey response
+- type: DATA
+  id: technical network control
+- type: DATA
+  id: time of day
+- type: DATA
+  id: usage information
+- type: DATA
+  id: website visitor behavior

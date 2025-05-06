@@ -1,0 +1,14 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: listing
+  target: sponsor link
+  key: SUBSUM
+  text:
+  - listings (such as sponsored links).
+nodes:
+- type: DATA
+  id: listing
+- type: DATA
+  id: sponsor link

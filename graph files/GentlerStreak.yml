@@ -1,0 +1,60 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: advertising id
+  key: COLLECT
+  text:
+  - We collect an identifier for advertisers (IDFA) which is a random device identifier
+    assigned by Apple to a user's iOS device.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We will use your Location Data to show you the route map of your workout.
+  - Your Location Data will be accessed locally through Apple Health and will not
+    be stored or cached by the App.
+  purposes: {}
+- source: we
+  target: health data
+  key: COLLECT
+  text:
+  - We will use your Health Data to show your Activity Cloud, workouts summary, workout
+    details and determine your heart rate zones.
+  - Your Health Data will be accessed locally through Apple Health and will not be
+    stored or cached by the app.
+  purposes:
+    analytics:
+    - to show your Activity Cloud, workouts summary, workout details and determine
+      your heart rate zones
+    services:
+    - to show your Activity Cloud, workouts summary, workout details and determine
+      your heart rate zones
+- source: we
+  target: identifier for advertiser
+  key: COLLECT
+  text:
+  - We collect an identifier for advertisers (IDFA) which is a random device identifier
+    assigned by Apple to a user's iOS device.
+  purposes: {}
+- source: we
+  target: gentler stories llc
+  key: SUBSUM
+  text:
+  - 'Gentler Stories LLC ("us", "we", or "our") operates the Gentler Streak: Workout
+    Tracker application (''this app'').'
+nodes:
+- type: ACTOR
+  id: gentler stories llc
+- type: ACTOR
+  id: we
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health data
+- type: DATA
+  id: identifier for advertiser

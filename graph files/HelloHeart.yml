@@ -1,0 +1,955 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'If you choose to submit your request via email, please include "Privacy Rights
+    Request" in the subject line and clearly provide us with the following information:
+    what type of request are you making, your full name, email address, phone number,
+    and a valid residential address.'
+  - We may automatically collect information or inferences about you, such as through
+    cookies and other tracking technologies, when you interact with our Digital Properties.
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use anonymized, de-identified, or aggregated information for any purpose
+    permitted by law.
+  purposes: {}
+- source: we
+  target: choice
+  key: COLLECT
+  text:
+  - We provide a variety of ways for you to control the personal information we hold
+    about you, including choices about how we use that data.
+  purposes: {}
+- source: we
+  target: combine information
+  key: COLLECT
+  text:
+  - We may combine information that we receive from the various sources described
+    in this Privacy Policy, including third party sources, and use and disclose the
+    combined information for the purposes identified below.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies to improve your experience.
+  purposes:
+    services:
+    - to improve your experience
+- source: we
+  target: different information
+  key: COLLECT
+  text:
+  - In some cases, we may request different or additional information, including a
+    signed declaration that you are who you say you are.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - 'If you choose to submit your request via email, please include "Privacy Rights
+    Request" in the subject line and clearly provide us with the following information:
+    what type of request are you making, your full name, email address, phone number,
+    and a valid residential address.'
+  purposes: {}
+- source: we
+  target: inference
+  key: COLLECT
+  text:
+  - We may automatically collect information or inferences about you, such as through
+    cookies and other tracking technologies, when you interact with our Digital Properties.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - 'If you choose to submit your request via email, please include "Privacy Rights
+    Request" in the subject line and clearly provide us with the following information:
+    what type of request are you making, your full name, email address, phone number,
+    and a valid residential address.'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - As part of these limited-time contests or sweepstakes, we may collect your Personal
+    Information, such as your name, email address, and phone number and use, disclose,
+    or sell that information as described in our privacy notice, including for marketing
+    purposes.
+  - As part of these surveys we may collect Personal Information, such as your name,
+    preferences, experiences, beliefs, opinions, and other responses to the survey
+    questions.
+  - For example, we may use Personal Information we collect to personalize advertising
+    to you (including by developing product, brand, or services audiences and identifying
+    you across devices/sites); to analyze interactions with us or our Digital Properties,
+    or to send you newsletters, surveys, questionnaires, promotions, or information
+    about events or webinars.
+  - Once you or your company has terminated your relationship with us, we may retain
+    your Personal Information in our systems and records in order to ensure adequate
+    fulfillment of surviving provisions in terminated contracts or for other legitimate
+    business purposes, such as to enable easier future user onboarding, in order to
+    demonstrate our business practices and contractual obligations, or to provide
+    you with information about our products and services in case of interest.
+  - 'We collect Personal Information about you from the following sources:'
+  - We may collect Personal Data about you from publicly available sources, such as
+    public profiles and websites.
+  - We may collect Personal Data from third parties, such as service and content providers,
+    social media companies, data brokers and our business customers that employ or
+    contract with you.
+  - We may collect Personal Information you provide to us directly, such as when you
+    contact us through our Digital Properties, interact with us in person, sign up
+    for offers or newsletters, communicate with us, place or customize orders, or
+    sign up for an account or other services.
+  - 'We may disclose Personal Information to third parties, including to the categories
+    of recipients described below:'
+  - 'We may use Personal Information for the following purposes:'
+  - We will provide your Personal Information to you in writing in a readily usable
+    format.
+  purposes:
+    advertising:
+    - to personalize advertising to you (including by developing product, brand, or
+      services audiences and identifying you across devices/sites); to analyze interactions
+      with us or our Digital Properties, or to send you newsletters, surveys, questionnaires,
+      promotions, or information about events or webinars
+    analytics:
+    - to personalize advertising to you (including by developing product, brand, or
+      services audiences and identifying you across devices/sites); to analyze interactions
+      with us or our Digital Properties, or to send you newsletters, surveys, questionnaires,
+      promotions, or information about events or webinars
+    legal:
+    - in order to ensure adequate fulfillment of surviving provisions in terminated
+      contracts or for other legitimate business purposes, such as to enable easier
+      future user onboarding, in order to demonstrate our business practices and contractual
+      obligations, or to provide you with information about our products and services
+      in case of interest
+    services:
+    - in order to ensure adequate fulfillment of surviving provisions in terminated
+      contracts or for other legitimate business purposes, such as to enable easier
+      future user onboarding, in order to demonstrate our business practices and contractual
+      obligations, or to provide you with information about our products and services
+      in case of interest
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - 'If you choose to submit your request via email, please include "Privacy Rights
+    Request" in the subject line and clearly provide us with the following information:
+    what type of request are you making, your full name, email address, phone number,
+    and a valid residential address.'
+  purposes: {}
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - 'If you choose to submit your request via email, please include "Privacy Rights
+    Request" in the subject line and clearly provide us with the following information:
+    what type of request are you making, your full name, email address, phone number,
+    and a valid residential address.'
+  purposes: {}
+- source: we
+  target: protect class information
+  key: COLLECT
+  text:
+  - 'These offerings may involve collecting the following categories of Personal Information
+    from customers who participate: identifiers; customer records; protected class
+    and demographic information; commercial information and preferences; internet
+    or other electronic network activity information and device information; audio,
+    electronic, visual, or other sensory information; and inferences.'
+  - We are providing you with this information so that you may make an informed decision
+    on whether to participate in our programs.
+  purposes: {}
+- source: we
+  target: sensitive personal data
+  key: COLLECT
+  text:
+  - 'We only use and disclose Sensitive Personal Data for the following purposes:
+    (i) performing services or providing goods reasonably expected by an average person
+    in that context; (ii) detecting security incidents; (iii) resisting malicious,
+    deceptive, or illegal actions; (iv) ensuring the physical safety of individuals;
+    (v) for short-term, transient use, including non-personalized advertising; (vi)
+    performing or providing internal business services; (vii) verifying or maintaining
+    the quality or safety of a service or device; or (viii) for purposes that do not
+    infer characteristics about you.'
+  purposes:
+    security:
+    - 'for the following purposes: (i) performing services or providing goods reasonably
+      expected by an average person in that context; (ii) detecting security incidents;
+      (iii) resisting malicious, deceptive, or illegal actions; (iv) ensuring the
+      physical safety of individuals; (v) for short-term, transient use, including
+      non-personalized advertising; (vi) performing or providing internal business
+      services; (vii) verifying or maintaining the quality or safety of a service
+      or device; or (viii) for purposes that do not infer characteristics about you'
+    services:
+    - 'for the following purposes: (i) performing services or providing goods reasonably
+      expected by an average person in that context; (ii) detecting security incidents;
+      (iii) resisting malicious, deceptive, or illegal actions; (iv) ensuring the
+      physical safety of individuals; (v) for short-term, transient use, including
+      non-personalized advertising; (vi) performing or providing internal business
+      services; (vii) verifying or maintaining the quality or safety of a service
+      or device; or (viii) for purposes that do not infer characteristics about you'
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Information to third parties, including to the categories
+    of recipients described below:'
+  purposes: {}
+- source: we
+  target: asset
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    How We Disclose Personal Information
+
+
+    such as if we acquire assets of another entity, or sell or transfer all or a portion
+    of our business or assets, including through a sale in connection with bankruptcy
+    and other forms of corporate change.'
+  - 'Privacy Notice
+
+
+    How We Use Personal Information
+
+
+    such as if we acquire assets of another business or sell or transfer all or a
+    portion of our business or assets, including through a sale in connection with
+    bankruptcy and other forms of corporate change.'
+- source: we
+  target: digital property
+  key: SUBSUM
+  text:
+  - This Privacy Notice ("Privacy Notice") describes how Hello Heart, Inc. ("Hello
+    Heart," "us," "we," "our") handles Personal Information that we collect when you
+    visit our websites,, including our general information website at https://www.helloheart.com/,
+    social media accounts, and other online features (collectively, our "Digital Properties"),
+    in-person events, and through other offline interactions.
+- source: we
+  target: hello heart
+  key: SUBSUM
+  text:
+  - This Privacy Notice ("Privacy Notice") describes how Hello Heart, Inc. ("Hello
+    Heart," "us," "we," "our") handles Personal Information that we collect when you
+    visit our websites,, including our general information website at https://www.helloheart.com/,
+    social media accounts, and other online features (collectively, our "Digital Properties"),
+    in-person events, and through other offline interactions.
+- source: we
+  target: hello heart inc.
+  key: SUBSUM
+  text:
+  - This Privacy Notice ("Privacy Notice") describes how Hello Heart, Inc. ("Hello
+    Heart," "us," "we," "our") handles Personal Information that we collect when you
+    visit our websites,, including our general information website at https://www.helloheart.com/,
+    social media accounts, and other online features (collectively, our "Digital Properties"),
+    in-person events, and through other offline interactions.
+- source: account setting
+  target: default preference
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your browsing history, search history, preference information (including
+    marketing and purchasing preferences), account settings (including any default
+    preferences), and other information regarding your interactions with and use of
+    the Digital Properties.'
+- source: choice
+  target: accessibility setting
+  key: SUBSUM
+  text:
+  - enable our Digital Properties to provide enhanced functionality and personalization
+    (e.g., remembering choices you make such as a username, a preferred language selection,
+    accessibility settings, or zip code or region).
+- source: choice
+  target: prefer language selection
+  key: SUBSUM
+  text:
+  - enable our Digital Properties to provide enhanced functionality and personalization
+    (e.g., remembering choices you make such as a username, a preferred language selection,
+    accessibility settings, or zip code or region).
+- source: choice
+  target: region
+  key: SUBSUM
+  text:
+  - enable our Digital Properties to provide enhanced functionality and personalization
+    (e.g., remembering choices you make such as a username, a preferred language selection,
+    accessibility settings, or zip code or region).
+- source: choice
+  target: username
+  key: SUBSUM
+  text:
+  - enable our Digital Properties to provide enhanced functionality and personalization
+    (e.g., remembering choices you make such as a username, a preferred language selection,
+    accessibility settings, or zip code or region).
+- source: choice
+  target: zip code
+  key: SUBSUM
+  text:
+  - enable our Digital Properties to provide enhanced functionality and personalization
+    (e.g., remembering choices you make such as a username, a preferred language selection,
+    accessibility settings, or zip code or region).
+- source: cookie / pixel tag
+  target: datum consider
+  key: SUBSUM
+  text:
+  - The information collected by these Cookies may include data considered sensitive
+    personal information.
+- source: device identifier
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: device identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: digital property
+  target: general information website at https://www.helloheart.com/
+  key: SUBSUM
+  text:
+  - This Privacy Notice ("Privacy Notice") describes how Hello Heart, Inc. ("Hello
+    Heart," "us," "we," "our") handles Personal Information that we collect when you
+    visit our websites,, including our general information website at https://www.helloheart.com/,
+    social media accounts, and other online features (collectively, our "Digital Properties"),
+    in-person events, and through other offline interactions.
+- source: digital property
+  target: offline interaction
+  key: SUBSUM
+  text:
+  - This Privacy Notice ("Privacy Notice") describes how Hello Heart, Inc. ("Hello
+    Heart," "us," "we," "our") handles Personal Information that we collect when you
+    visit our websites,, including our general information website at https://www.helloheart.com/,
+    social media accounts, and other online features (collectively, our "Digital Properties"),
+    in-person events, and through other offline interactions.
+- source: digital property
+  target: online feature
+  key: SUBSUM
+  text:
+  - This Privacy Notice ("Privacy Notice") describes how Hello Heart, Inc. ("Hello
+    Heart," "us," "we," "our") handles Personal Information that we collect when you
+    visit our websites,, including our general information website at https://www.helloheart.com/,
+    social media accounts, and other online features (collectively, our "Digital Properties"),
+    in-person events, and through other offline interactions.
+- source: financial incentive
+  target: prize
+  key: SUBSUM
+  text:
+  - In exchange for your participation in these promotions, you may be offered a financial
+    incentive, such as a prize.
+- source: functionality
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - Third-party Cookies typically enable certain third-party features or functionality
+    to be provided through the Digital Properties (such as, analytics, interactive
+    content, and tailored advertising).
+- source: functionality
+  target: interactive content
+  key: SUBSUM
+  text:
+  - Third-party Cookies typically enable certain third-party features or functionality
+    to be provided through the Digital Properties (such as, analytics, interactive
+    content, and tailored advertising).
+- source: functionality
+  target: tailored advertising
+  key: SUBSUM
+  text:
+  - Third-party Cookies typically enable certain third-party features or functionality
+    to be provided through the Digital Properties (such as, analytics, interactive
+    content, and tailored advertising).
+- source: internal business record
+  target: document management
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    How We Use Personal Information
+
+
+    such as day-to-day operation of our business; maintaining internal business records,
+    such as accounting, document management, and similar activities; enforcing our
+    policies and rules; management reporting; auditing; and IT security and administration'
+- source: method
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as signatures; the content, timing, and method of communications you have
+    with us, such as online chats, calls, and emails; and information you share with
+    or upload to our Digital Properties'
+- source: personal information
+  target: account setting
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your browsing history, search history, preference information (including
+    marketing and purchasing preferences), account settings (including any default
+    preferences), and other information regarding your interactions with and use of
+    the Digital Properties.'
+- source: personal information
+  target: audio recording of telephone call
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as audio recordings of telephone calls and video recordings of our premises.'
+- source: personal information
+  target: audio sensory information
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect'
+  - 'Types of Personal Information We Collect
+
+
+    Audio, electronic, visual, or other sensory information,'
+- source: personal information
+  target: belief
+  key: SUBSUM
+  text:
+  - As part of these surveys we may collect Personal Information, such as your name,
+    preferences, experiences, beliefs, opinions, and other responses to the survey
+    questions.
+- source: personal information
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your browsing history, search history, preference information (including
+    marketing and purchasing preferences), account settings (including any default
+    preferences), and other information regarding your interactions with and use of
+    the Digital Properties.'
+- source: personal information
+  target: coarse geolocation
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    Non-precise geolocation data,'
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your approximate location based on your IP address.'
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect'
+  - 'Types of Personal Information We Collect
+
+
+    Commercial information,'
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: personal information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - As part of these limited-time contests or sweepstakes, we may collect your Personal
+    Information, such as your name, email address, and phone number and use, disclose,
+    or sell that information as described in our privacy notice, including for marketing
+    purposes.
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as signatures; the content, timing, and method of communications you have
+    with us, such as online chats, calls, and emails; and information you share with
+    or upload to our Digital Properties'
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: personal information
+  target: information relate to product purchase
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as information related to products or services purchased, obtained, or considered
+    by the company you represent.'
+- source: personal information
+  target: information you share with
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as signatures; the content, timing, and method of communications you have
+    with us, such as online chats, calls, and emails; and information you share with
+    or upload to our Digital Properties'
+- source: personal information
+  target: internet
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect'
+  - 'Types of Personal Information We Collect
+
+
+    Internet or other electronic network activity information,'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect'
+  - 'Types of Personal Information We Collect
+
+
+    Internet or other electronic network activity information,'
+- source: personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your approximate location based on your IP address.'
+- source: personal information
+  target: method
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as signatures; the content, timing, and method of communications you have
+    with us, such as online chats, calls, and emails; and information you share with
+    or upload to our Digital Properties'
+- source: personal information
+  target: opinion
+  key: SUBSUM
+  text:
+  - As part of these surveys we may collect Personal Information, such as your name,
+    preferences, experiences, beliefs, opinions, and other responses to the survey
+    questions.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - As part of these limited-time contests or sweepstakes, we may collect your Personal
+    Information, such as your name, email address, and phone number and use, disclose,
+    or sell that information as described in our privacy notice, including for marketing
+    purposes.
+  - As part of these surveys we may collect Personal Information, such as your name,
+    preferences, experiences, beliefs, opinions, and other responses to the survey
+    questions.
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - As part of these limited-time contests or sweepstakes, we may collect your Personal
+    Information, such as your name, email address, and phone number and use, disclose,
+    or sell that information as described in our privacy notice, including for marketing
+    purposes.
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your name, email address, physical address, telephone number, other business
+    contact information, and device identifiers (e.g., cookie IDs and IP address)'
+- source: personal information
+  target: preference
+  key: SUBSUM
+  text:
+  - As part of these surveys we may collect Personal Information, such as your name,
+    preferences, experiences, beliefs, opinions, and other responses to the survey
+    questions.
+- source: personal information
+  target: preference information
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your browsing history, search history, preference information (including
+    marketing and purchasing preferences), account settings (including any default
+    preferences), and other information regarding your interactions with and use of
+    the Digital Properties.'
+- source: personal information
+  target: professional information
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect'
+  - 'Types of Personal Information We Collect
+
+
+    Professional or employment-related information,'
+- source: personal information
+  target: record about you
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect'
+  - 'Types of Personal Information We Collect
+
+
+    Records about you,'
+- source: personal information
+  target: sensitive personal datum
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect'
+  - Sensitive Personal Data,
+- source: personal information
+  target: signature
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as signatures; the content, timing, and method of communications you have
+    with us, such as online chats, calls, and emails; and information you share with
+    or upload to our Digital Properties'
+- source: personal information
+  target: timing
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as signatures; the content, timing, and method of communications you have
+    with us, such as online chats, calls, and emails; and information you share with
+    or upload to our Digital Properties'
+- source: personal information
+  target: union membership
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as union membership.'
+- source: personal information
+  target: video recording of premise
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as audio recordings of telephone calls and video recordings of our premises.'
+- source: preference information
+  target: marketing preference
+  key: SUBSUM
+  text:
+  - 'Privacy Notice
+
+
+    Types of Personal Information We Collect
+
+
+    such as your browsing history, search history, preference information (including
+    marketing and purchasing preferences), account settings (including any default
+    preferences), and other information regarding your interactions with and use of
+    the Digital Properties.'
+- source: publicly available source
+  target: public profile
+  key: SUBSUM
+  text:
+  - We may collect Personal Data about you from publicly available sources, such as
+    public profiles and websites.
+- source: technology
+  target: javascript
+  key: SUBSUM
+  text:
+  - This Cookie Notice describes how Hello Heart, Inc. and authorized third parties
+    may use cookies and similar technologies (e.g., pixel tags, web beacons, clear
+    GIFs, JavaScript, and local storage) (collectively referred to in this Notice
+    as "Cookies") on our Digital Properties that link to this Cookie Notice.
+  - We may use other, similar technologies like pixel tags, web beacons, clear GIFs,
+    JavaScript, and local storage objects.
+- source: value you receive from participation
+  target: value of prize
+  key: SUBSUM
+  text:
+  - The value of your Personal Information corresponds to the value you can receive
+    from participation (such as the value of the prize, which will be disclosed in
+    the applicable terms), divided by the total number of participants.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: asset
+- type: ACTOR
+  id: digital property
+- type: ACTOR
+  id: financial incentive
+- type: ACTOR
+  id: functionality
+- type: ACTOR
+  id: general information website at https://www.helloheart.com/
+- type: ACTOR
+  id: hello heart
+- type: ACTOR
+  id: hello heart inc.
+- type: ACTOR
+  id: interactive content
+- type: ACTOR
+  id: javascript
+- type: ACTOR
+  id: offline interaction
+- type: ACTOR
+  id: online feature
+- type: ACTOR
+  id: prize
+- type: ACTOR
+  id: tailored advertising
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: accessibility setting
+- type: DATA
+  id: account setting
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: audio recording of telephone call
+- type: DATA
+  id: audio sensory information
+- type: DATA
+  id: belief
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: choice
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: combine information
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: datum consider
+- type: DATA
+  id: default preference
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: different information
+- type: DATA
+  id: document management
+- type: DATA
+  id: email address
+- type: DATA
+  id: inference
+- type: DATA
+  id: information relate to product purchase
+- type: DATA
+  id: information you share with
+- type: DATA
+  id: internal business record
+- type: DATA
+  id: internet
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: marketing preference
+- type: DATA
+  id: method
+- type: DATA
+  id: opinion
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: prefer language selection
+- type: DATA
+  id: preference
+- type: DATA
+  id: preference information
+- type: DATA
+  id: professional information
+- type: DATA
+  id: protect class information
+- type: DATA
+  id: public profile
+- type: DATA
+  id: publicly available source
+- type: DATA
+  id: record about you
+- type: DATA
+  id: region
+- type: DATA
+  id: sensitive personal data
+- type: DATA
+  id: sensitive personal datum
+- type: DATA
+  id: signature
+- type: DATA
+  id: timing
+- type: DATA
+  id: union membership
+- type: DATA
+  id: username
+- type: DATA
+  id: value of prize
+- type: DATA
+  id: value you receive from participation
+- type: DATA
+  id: video recording of premise
+- type: DATA
+  id: zip code

@@ -1,0 +1,2837 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For this reason, we may transfer your information to other countries that may
+    have different laws and data protection compliance requirements to those that
+    apply in the country in which you are located.
+  - Online Data is aggregated with the Other Information and data we collect as described
+    in this Privacy Policy and/or similar data collected by partners to create groups
+    of users and certain general-interest categories or segments that we have inferred
+    based on (a) demographic or interest data and GeoIP Data, (b) the pages you view
+    and links you click when viewing an email or using the Services and those of our
+    partners, and/or (c) the search terms you enter when using certain search services.
+  - 'Privacy
+
+
+    Privacy Policy Summary
+
+
+    How We Collect or Create Information'
+  - Under applicable law, we may share Other Information with other parties who already
+    possess your Personal Information in order to enhance their records about you
+    or enhance their ability to provide products and services.
+  - 'Use of Cookies and Tracking Technology
+
+
+    What Information We Disclose to Third Parties'
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to:'
+  - We also share information with other Ziff Davis Companies and our partners for
+    the purposes of targeted advertising.
+  - We are providing you with this information and ability to control these settings
+    in accordance with our commitment to the Digital Advertising Alliance's Self Regulatory
+    Principles.
+  - We may also sell or transfer your information to certain third parties, such as
+    advertisers who will use this data for marketing purposes, including serving ads
+    that they believe are relevant to your interests.
+  - We may also share your information with third party vendors involved in the administration
+    of such events.
+  - We may transfer your information to recipients in other countries.
+  - We may use mobile analytics software to collect data and to better understand
+    the functionality of our mobile software, devices and applications on your phone
+    and other devices.
+  - We share your information with other businesses owned by Ziff Davis, Inc. ("Ziff
+    Davis Companies") to assist us in operating our services, improving them, and
+    further developing them.
+  - We use this information to get a more accurate picture of audience interests in
+    order to serve ads we believe are more relevant to your interests.
+  - We will nevertheless process your information, from the point at which we receive
+    the data, in accordance with the provisions of this policy.
+  purposes:
+    advertising:
+    - for the purposes of targeted advertising
+    - in order to serve ads we believe are more relevant to your interests
+    analytics:
+    - in order to enhance their records about you or enhance their ability to provide
+      products and services
+    - to get a more accurate picture of audience interests
+    services:
+    - in order to enhance their records about you or enhance their ability to provide
+      products and services
+    - to assist us in operating our services, improving them, and further developing
+      them
+- source: we
+  target: accurate picture of audience interest
+  key: COLLECT
+  text:
+  - We use this information to get a more accurate picture of audience interests in
+    order to serve ads we believe are more relevant to your interests.
+  purposes:
+    advertising:
+    - in order to serve ads we believe are more relevant to your interests
+- source: we
+  target: action tag
+  key: COLLECT
+  text:
+  - We may also use web beacons, clear gif technology, or action tags as mechanisms
+    to collect aggregate site visitation data by tracking how users navigate to and
+    through our Websites.
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Otherwise we will disclose only aggregate information regarding its users' responses
+    in surveys or quizzes to other participants in the survey.
+  - Otherwise, we will disclose only aggregate information to other participants.
+  - We may share de-identified data segments with third parties, and where we do,
+    we implement technical measures and contractual requirements to prevent identification.
+  purposes: {}
+- source: we
+  target: aggregate site visitation datum
+  key: COLLECT
+  text:
+  - We may also use web beacons, clear gif technology, or action tags as mechanisms
+    to collect aggregate site visitation data by tracking how users navigate to and
+    through our Websites.
+  purposes: {}
+- source: we
+  target: anonymous identifier
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: we
+  target: associated information relate to aggregate content preference
+  key: COLLECT
+  text:
+  - For example, we may connect information about your IP address to known corporate
+    or User Information and use the associated information related to aggregate content
+    preferences to assist in our efforts to market services to you or the originating
+    corporations.
+  purposes:
+    advertising:
+    - to assist in our efforts to market services to you or the originating corporations
+    services:
+    - to assist in our efforts to market services to you or the originating corporations
+- source: we
+  target: collect information
+  key: COLLECT
+  text:
+  - When you use a co-branded service (a service operated with a partner of Lose It!),
+    or register or otherwise provide information on a co-branded site, where applicable,
+    we may pass the collected information back to that partner, which may include
+    third party service providers whose services are embedded into and/or appear within
+    the Services.
+  purposes: {}
+- source: we
+  target: commerce offering
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: Commerce Offerings: using cookies to track your browsing history
+    and the amount of money spent at a particular third party merchant''s site to
+    offer coupons and other offers that are relevant to your shopping experience.'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - For example, if you read an article about a particular subject on the Services,
+    we may use cookies from a vendor to later serve you an advertisement for a particular
+    product or service related to the viewed article.
+  - We may also use web beacons, clear gif technology, or action tags as mechanisms
+    to collect aggregate site visitation data by tracking how users navigate to and
+    through our Websites.
+  - We may use web beacon in conjunction with cookies to track web-site activity on
+    www.loseit.com.
+  - When you receive email messages or newsletters from us, we may use web beacons,
+    customized links, clear GIFs or similar technologies to determine whether the
+    email has been opened and which links you click in order to provide you with more
+    focused email communications or other information, and/or to aggregate that information
+    with other data we collect to use for some or all of the purposes outlined in
+    this Privacy Policy.
+  purposes:
+    advertising:
+    - to later serve you an advertisement for a particular product or service related
+      to the viewed article
+    analytics:
+    - to determine whether the email has been opened and which links you click in
+      order to provide you with more focused email communications or other information,
+      and/or to aggregate that information with other data we collect to use for some
+      or all of the purposes outlined in this Privacy Policy
+    - to track web-site activity on www.loseit.com
+- source: we
+  target: copy of information
+  key: COLLECT
+  text:
+  - In response, we will cancel or remove your information but may retain and use
+    copies of your information as necessary to comply with our legal obligations,
+    resolve disputes, and enforce our agreements.
+  purposes: {}
+- source: we
+  target: customize link
+  key: COLLECT
+  text:
+  - When you receive email messages or newsletters from us, we may use web beacons,
+    customized links, clear GIFs or similar technologies to determine whether the
+    email has been opened and which links you click in order to provide you with more
+    focused email communications or other information, and/or to aggregate that information
+    with other data we collect to use for some or all of the purposes outlined in
+    this Privacy Policy.
+  purposes:
+    analytics:
+    - to determine whether the email has been opened and which links you click in
+      order to provide you with more focused email communications or other information,
+      and/or to aggregate that information with other data we collect to use for some
+      or all of the purposes outlined in this Privacy Policy
+- source: we
+  target: data identify you in important way
+  key: COLLECT
+  text:
+  - 'We share data that personally identifies you in three important ways:'
+  purposes: {}
+- source: we
+  target: datum not identify individual user
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user:'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: we
+  target: datum you make
+  key: COLLECT
+  text:
+  - 'We may collect User Information about you from the following sources: Data you
+    make public: We may collect or obtain your Personal Information that you clearly
+    choose to make public, including via social media (e.g., we may collect information
+    from your social media profiles if you make a public post about us) or through
+    our chats, forums or communities on the Services.'
+  purposes: {}
+- source: we
+  target: demographic information about user base
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - If you use a third party connection or log-in (e.g., Facebook Connect, Twitter,
+    or Google+) to access the Services, create a membership or profile on any part
+    of the Services, access our content or forward our content to another person,
+    platform or service, we may also receive your username or email address for those
+    third party services or other information available about you or collected from
+    you on those services.
+  purposes: {}
+- source: we
+  target: event level datum
+  key: COLLECT
+  text:
+  - As noted above, we may share event level data with our analytics partners Amplitude,
+    Singular, and/or Google - as well as both event level data and email addresses
+    with our analytics partner Iterable - to help us learn about and improve use of
+    the Apps.
+  purposes:
+    analytics:
+    - to help us learn about and improve use of the Apps
+    services:
+    - to help us learn about and improve use of the Apps
+- source: we
+  target: genetic datum
+  key: COLLECT
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+  purposes: {}
+- source: we
+  target: identification
+  key: COLLECT
+  text:
+  - 'Use of Personal Information
+
+
+    We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: Audience Engagement: identification and development of audience
+    engagement, advertising and promotional strategies on various platforms and channels,
+    both within the Service and on Channels.'
+  purposes: {}
+- source: we
+  target: information about lose it user
+  key: COLLECT
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as:'
+  purposes: {}
+- source: we
+  target: information about use of lose it service for marketing purpose
+  key: COLLECT
+  text:
+  - These partners help us to analyze information about the use of Lose It! Services
+    for marketing purposes or in order to improve the Lose It! Services.
+  purposes:
+    advertising:
+    - for marketing purposes or in order to improve the Lose It! Services
+    services:
+    - for marketing purposes or in order to improve the Lose It! Services
+- source: we
+  target: information about use of product
+  key: COLLECT
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+  purposes: {}
+- source: we
+  target: information collect from you through different mean
+  key: COLLECT
+  text:
+  - We may match information collected from you through different means or at different
+    times and use such information along with offline and online information obtained
+    from other sources (including from third parties), including, but not limited
+    to, demographic information and updated contact information, for the purposes
+    of learning more about you so we can provide you with relevant content and advertising.
+  purposes:
+    analytics:
+    - for the purposes of learning more about you
+    services:
+    - for the purposes of learning more about you
+- source: we
+  target: information need
+  key: COLLECT
+  text:
+  - In such circumstances, we will only provide the contractor with the information
+    needed to perform the services (for example, name and address if a contractor
+    is delivering a product to you), and all contractors will be required to agree
+    to confidentiality obligations with respect to your personal information.
+  purposes: {}
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We use the information we collect to make our products better
+    and improve your experience.'
+  purposes:
+    services:
+    - to make our products better and improve your experience
+- source: we
+  target: information we collect from you
+  key: COLLECT
+  text:
+  - When you use our website, we share information that we collect from you, such
+    as your email (in hashed form), IP address, or information about your browser
+    or operating system, with our identity partners/service providers.
+  purposes: {}
+- source: we
+  target: online data
+  key: COLLECT
+  text:
+  - Online Data is aggregated with the Other Information and data we collect and/or
+    similar data collected by partners to create groups of users and certain general-interest
+    categories or segments that we have inferred.
+  - We may also sell or transfer Online Data to certain third parties such as advertisers
+    who will use this data to serve ads that they believe are relevant to your interests,
+    and who agree to maintain the confidentiality of this information.
+  - We may use Online Data as well as other User Information to send you OBA.
+  - We use Online Data as well as other User Information to send you online behavioral
+    ads.
+  - We use this information to get a more accurate picture of audience interests in
+    order to serve ads we believe are more relevant to your interests.
+  purposes:
+    advertising:
+    - in order to serve ads we believe are more relevant to your interests
+    - to send you online behavioral ads
+- source: we
+  target: page view
+  key: COLLECT
+  text:
+  - We store page views, clicks, and search terms used for ad personalization, targeting
+    separately from your Personal Information.
+  purposes: {}
+- source: we
+  target: personal diet datum enter into product
+  key: COLLECT
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+  purposes: {}
+- source: we
+  target: personal diet information
+  key: COLLECT
+  text:
+  - For example, we store personal information and Personal Diet Information in a
+    secure, limited access facility, and we use industry-standard firewalls and security
+    software designed to protect the security and integrity of your Personal Diet
+    Information.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - We may disclose your Personally Identifiable Information (including Genetic Information)
+    when we reasonably believe that it is required by law, a duly authorized court
+    order, or legal process and to protect and defend the rights and interests of
+    Lose It!, its affiliates, suppliers, or users.
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user:'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Collection of User Information: We may collect User Information about you from
+    the following sources: Service data: We may collect or obtain your Personal Information
+    when you visit, download, use or register to use any part of our Service.'
+  - Consistent with our legitimate interests and any choices that we offer or consents
+    that may be required under applicable laws, we may use technical information as
+    described in this Privacy Policy and use personal information for our marketing
+    purposes.
+  - Depending on where you reside, when you register for certain Services, we may
+    share the Personal Information you provide with certain advertisers and sponsors.
+  - For example, we store personal information and Personal Diet Information in a
+    secure, limited access facility, and we use industry-standard firewalls and security
+    software designed to protect the security and integrity of your Personal Diet
+    Information.
+  - In certain instances, we may use Secure Sockets Layer encryption and/or transfer
+    certain personal information in a non-human readable format to provide protection.
+  - Under some circumstances, we may sell or share the personal data you provide to
+    us (excluding data that originates from Google Fit and Health Connect) to provide
+    ads to you that align with your interests.
+  - 'We collect Personal Information and other information about Lose It! users such
+    as:'
+  - 'We may collect User Information about you from the following sources: Data you
+    provide: We may obtain your Personal Information when you provide it to us across
+    our Services (e.g., where you sign up for emails, newsletters or SMS messages;
+    register for site membership or create a profile or account on any part of the
+    Services; enter a sweepstakes, contest, competition or prize draw; participate
+    in surveys and quizzes; perform search queries through the Services; contact us
+    via email, telephone or by any other means; make a purchase; etc.).'
+  - 'We may collect User Information about you from the following sources: Third party
+    information: We may collect or obtain your Personal Information from third parties
+    who provide it to us.'
+  - 'We rely on the following legal grounds to process your personal information:
+    Legitimate interests - We may use your personal information for our legitimate
+    interests to improve our products and services.'
+  - 'We rely on the following legal grounds to process your personal information:
+    Performance of a contract - If you choose to make a purchase through the Websites
+    or Apps, we need to collect and use your personal information to perform our agreement
+    with you.'
+  - We will only retain your personal information for as long as necessary to fulfill
+    the purposes for which it was collected and processed, including for the purposes
+    of satisfying any legal, regulatory, accounting or reporting requirements.
+  purposes:
+    advertising:
+    - for our marketing purposes
+    - to provide ads to you that align with your interests
+    legal:
+    - to fulfill the purposes for which it was collected and processed, including
+      for the purposes of satisfying any legal, regulatory, accounting or reporting
+      requirements
+    - to perform our agreement with you
+    security:
+    - to process your personal information
+    - to provide protection
+    services:
+    - to improve our products and services
+    - to process your personal information
+- source: we
+  target: personal information you choose
+  key: COLLECT
+  text:
+  - 'We may collect User Information about you from the following sources: Data you
+    make public: We may collect or obtain your Personal Information that you clearly
+    choose to make public, including via social media (e.g., we may collect information
+    from your social media profiles if you make a public post about us) or through
+    our chats, forums or communities on the Services.'
+  purposes: {}
+- source: we
+  target: purchase
+  key: COLLECT
+  text:
+  - 'Use of Personal Information
+
+
+    We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: User Engagement and Purchases: tracking purchase traffic and
+    activity across the Service and on Channels, including review of your browsing
+    history (if available); provision of analytics and measurement of cost of traffic
+    against money being made.'
+  purposes: {}
+- source: we
+  target: relationship datum
+  key: COLLECT
+  text:
+  - 'Collection of User Information: We may collect User Information about you from
+    the following sources: Relationship data: We may collect or obtain your Personal
+    Information in the ordinary course of our relationship with you (e.g., if you
+    purchase a service from us).'
+  purposes: {}
+- source: we
+  target: report base on use of technology by third party company on individual basis
+  key: COLLECT
+  text:
+  - We may receive reports based on the use of these technologies by these third party
+    companies on an individual and aggregated basis.
+  purposes: {}
+- source: we
+  target: technical information
+  key: COLLECT
+  text:
+  - Consistent with our legitimate interests and any choices that we offer or consents
+    that may be required under applicable laws, we may use technical information as
+    described in this Privacy Policy and use personal information for our marketing
+    purposes.
+  purposes: {}
+- source: we
+  target: third party information
+  key: COLLECT
+  text:
+  - 'We may collect User Information about you from the following sources: Third party
+    information: We may collect or obtain your Personal Information from third parties
+    who provide it to us.'
+  purposes: {}
+- source: we
+  target: user engagement
+  key: COLLECT
+  text:
+  - 'Use of Personal Information
+
+
+    We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: User Engagement and Purchases: tracking purchase traffic and
+    activity across the Service and on Channels, including review of your browsing
+    history (if available); provision of analytics and measurement of cost of traffic
+    against money being made.'
+  purposes: {}
+- source: we
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to:'
+  - We may disclose your User Information to other entities within the Lose It! affiliates
+    for legitimate business purposes (including operating the Services, and providing
+    services to you), in accordance with applicable law.
+  - We may share your User Information with our partners such as your name, postal
+    address, email, or other identifier.
+  - We may use Online Data as well as other User Information to send you OBA.
+  - We use Online Data as well as other User Information to send you online behavioral
+    ads.
+  purposes:
+    advertising:
+    - to send you online behavioral ads
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+    services:
+    - for legitimate business purposes (including operating the Services, and providing
+      services to you)
+- source: we
+  target: user information about you
+  key: COLLECT
+  text:
+  - We may also receive User Information about you from third parties (e.g., social
+    network sites).
+  - 'We may collect User Information about you from the following sources: Content
+    and advertising information: If you choose to interact with any third party content
+    or advertising on the Services or Channels, we may receive User Information about
+    you from the relevant third party.'
+  - 'We may collect or obtain User Information about you: directly from you (e.g.,
+    where you contact us); in the course of our relationship with you (e.g., if you
+    make a purchase); when you make your Personal Information public (e.g., if you
+    make a public post about us on social media); when you download, install, or use
+    any of our Services; when you visit our Services; when you register to use any
+    part of the Services; or when you interact with any third party content or advertising
+    on the Services.'
+  purposes: {}
+- source: we
+  target: user information you provide to we with datum obtain from third party
+  key: COLLECT
+  text:
+  - We may also use User Information you have provided to us with data obtained from
+    third parties to enhance our records or enhance our ability to provide products
+    and services, such as appending additional information to your profile.
+  purposes:
+    services:
+    - to enhance our records or enhance our ability to provide products and services,
+      such as appending additional information to your profile
+- source: we
+  target: user setting
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: we
+  target: username
+  key: COLLECT
+  text:
+  - If you use a third party connection or log-in (e.g., Facebook Connect, Twitter,
+    or Google+) to access the Services, create a membership or profile on any part
+    of the Services, access our content or forward our content to another person,
+    platform or service, we may also receive your username or email address for those
+    third party services or other information available about you or collected from
+    you on those services.
+  purposes: {}
+- source: we
+  target: video viewing history
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: Amplitude
+  target: datum not identify individual user
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: Amplitude
+  target: event level datum
+  key: COLLECT
+  text:
+  - As noted above, we may share event level data with our analytics partners Amplitude,
+    Singular, and/or Google - as well as both event level data and email addresses
+    with our analytics partner Iterable - to help us learn about and improve use of
+    the Apps.
+  purposes:
+    analytics:
+    - to help us learn about and improve use of the Apps
+    services:
+    - to help us learn about and improve use of the Apps
+- source: Amplitude
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: Google
+  target: datum not identify individual user
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: Google
+  target: event level datum
+  key: COLLECT
+  text:
+  - As noted above, we may share event level data with our analytics partners Amplitude,
+    Singular, and/or Google - as well as both event level data and email addresses
+    with our analytics partner Iterable - to help us learn about and improve use of
+    the Apps.
+  purposes:
+    analytics:
+    - to help us learn about and improve use of the Apps
+    services:
+    - to help us learn about and improve use of the Apps
+- source: Google
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: Iterable
+  target: datum not identify individual user
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: Iterable
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Under applicable law, we may share Other Information with other parties who already
+    possess your Personal Information in order to enhance their records about you
+    or enhance their ability to provide products and services.
+  purposes:
+    analytics:
+    - in order to enhance their records about you or enhance their ability to provide
+      products and services
+    services:
+    - in order to enhance their records about you or enhance their ability to provide
+      products and services
+- source: Singular
+  target: datum not identify individual user
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: Singular
+  target: event level datum
+  key: COLLECT
+  text:
+  - As noted above, we may share event level data with our analytics partners Amplitude,
+    Singular, and/or Google - as well as both event level data and email addresses
+    with our analytics partner Iterable - to help us learn about and improve use of
+    the Apps.
+  purposes:
+    analytics:
+    - to help us learn about and improve use of the Apps
+    services:
+    - to help us learn about and improve use of the Apps
+- source: Singular
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Because of the international nature of our business, we may need to transfer your
+    information within the Ziff Davis group of companies, and to third parties as
+    noted above, in connection with the purposes set out in this Policy.
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from FitNow
+    with information about you from other sites or services; and (iii) place or recognize
+    a unique cookie on your browser.'
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from Lose
+    It! with information about you from other sites or services; and (iii) place or
+    recognize a unique cookie on your browser.'
+  - 'Use of Cookies and Tracking Technology
+
+
+    What Information We Disclose to Third Parties'
+  - We also share information with other Ziff Davis Companies and our partners for
+    the purposes of targeted advertising.
+  - We may also share your information with third party vendors involved in the administration
+    of such events.
+  - We share your information with other businesses owned by Ziff Davis, Inc. ("Ziff
+    Davis Companies") to assist us in operating our services, improving them, and
+    further developing them.
+  purposes:
+    advertising:
+    - for the purposes of targeted advertising
+    services:
+    - to assist us in operating our services, improving them, and further developing
+      them
+- source: UNSPECIFIED_ACTOR
+  target: advertising id
+  key: COLLECT
+  text:
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from FitNow
+    with information about you from other sites or services; and (iii) place or recognize
+    a unique cookie on your browser.'
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from Lose
+    It! with information about you from other sites or services; and (iii) place or
+    recognize a unique cookie on your browser.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may share de-identified data segments with third parties, and where we do,
+    we implement technical measures and contractual requirements to prevent identification.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: anonymous identifier
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'Use of Cookies and Tracking Technology
+
+
+    Lose It! and its partners may use cookies and other tracking technologies to analyze
+    trends, administer Services, track users'' movements around the Services and on
+    third party sites, devices and applications, and to gather demographic information
+    about our user base.'
+  purposes:
+    analytics:
+    - to analyze trends, administer Services, track users' movements around the Services
+      and on third party sites, devices and applications, and to gather demographic
+      information about our user base
+- source: UNSPECIFIED_ACTOR
+  target: datum about mobile device
+  key: COLLECT
+  text:
+  - When you use our apps, third parties may collect data about your mobile device
+    in order to serve ads on other apps or websites that are tailored to your interest.
+  purposes:
+    advertising:
+    - in order to serve ads on other apps or websites that are tailored to your interest
+- source: UNSPECIFIED_ACTOR
+  target: demographic information about user base
+  key: COLLECT
+  text:
+  - 'Use of Cookies and Tracking Technology
+
+
+    Lose It! and its partners may use cookies and other tracking technologies to analyze
+    trends, administer Services, track users'' movements around the Services and on
+    third party sites, devices and applications, and to gather demographic information
+    about our user base.'
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: device identifier
+  key: COLLECT
+  text:
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from FitNow
+    with information about you from other sites or services; and (iii) place or recognize
+    a unique cookie on your browser.'
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from Lose
+    It! with information about you from other sites or services; and (iii) place or
+    recognize a unique cookie on your browser.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about you
+  key: COLLECT
+  text:
+  - 'Use of Cookies and Tracking Technology
+
+
+    Lose It! and/or certain third parties may collect information about you for online
+    behavioral advertising ("OBA") purposes in order for you to receive relevant interest-based
+    advertising on the Services and on other websites, platforms and media channels.'
+  - and/or certain third parties may collect information about you for online behavioral
+    advertising purposes in order for you to receive relevant interest-based advertising
+    on the Services and on other websites, platforms and media channels.
+  purposes:
+    advertising:
+    - for online behavioral advertising ("OBA") purposes
+    - for online behavioral advertising purposes
+    - for you to receive relevant interest-based advertising on the Services and on
+      other websites, platforms and media channels
+    - in order for you to receive relevant interest-based advertising on the Services
+      and on other websites, platforms and media channels
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - If you choose to interact with any such advertising, plugins or content, information
+    about your activities on the Services and Channels to provide you targeted advertising
+    based upon your interests may be shared with the relevant third party provider.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: ip address
+  key: COLLECT
+  text:
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from FitNow
+    with information about you from other sites or services; and (iii) place or recognize
+    a unique cookie on your browser.'
+  - 'Our partners may also: (i) collect information directly from your device, such
+    as your IP address, device ID, advertising ID, and information about your browser
+    or operating system; (ii) combine User Information about you received from Lose
+    It! with information about you from other sites or services; and (iii) place or
+    recognize a unique cookie on your browser.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: any relevant third-party
+    acquirers, in the event that we sell or transfer all or any relevant portion of
+    our business or assets (including in the event of a reorganization, dissolution
+    or liquidation);'
+  - 'In addition, we may disclose your User Information to: any relevant third-party
+    provider, where our Services use third party advertising, plugins or content.'
+  - These third party providers may collect User Information from our Services for
+    additional purposes, such as to monitor fraud around the internet.
+  - These third party providers may collect User Information from our Services for
+    their own purposes, including but not limited to monitoring fraud around the web.
+  - We may engage third party providers to assist with the collection, storage and
+    segmentation of Online Data and the providers are required to maintain the confidentiality
+    of this information.
+  - We may engage third party providers to assist with the collection, storage and
+    segmentation of your information and the providers are required to maintain the
+    confidentiality of this information.
+  - We may share your User Information with our partners such as your name, postal
+    address, email, or other identifier.
+  purposes:
+    security:
+    - for additional purposes, such as to monitor fraud around the internet
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+    - for their own purposes, including but not limited to monitoring fraud around
+      the web
+- source: UNSPECIFIED_ACTOR
+  target: user setting
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: video viewing history
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: Ziff Davis
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We also share information with other Ziff Davis Companies and our partners for
+    the purposes of targeted advertising.
+  - We share your information with other businesses owned by Ziff Davis, Inc. ("Ziff
+    Davis Companies") to assist us in operating our services, improving them, and
+    further developing them.
+  purposes:
+    advertising:
+    - for the purposes of targeted advertising
+    services:
+    - to assist us in operating our services, improving them, and further developing
+      them
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may also sell or transfer your information to certain third parties, such as
+    advertisers who will use this data for marketing purposes, including serving ads
+    that they believe are relevant to your interests.
+  purposes: {}
+- source: advertiser
+  target: data identify you in important way
+  key: COLLECT
+  text:
+  - 'We share data that personally identifies you in three important ways: With third
+    parties such as advertisers and business partners.'
+  purposes: {}
+- source: advertiser
+  target: online data
+  key: COLLECT
+  text:
+  - We may also sell or transfer Online Data to certain third parties such as advertisers
+    who will use this data to serve ads that they believe are relevant to your interests,
+    and who agree to maintain the confidentiality of this information.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - Depending on where you reside, when you register for certain Services, we may
+    share the Personal Information you provide with certain advertisers and sponsors.
+  purposes: {}
+- source: analytic provider
+  target: anonymous identifier
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: analytic provider
+  target: datum not identify individual user
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: analytic provider
+  target: demographic information about user base
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: analytic provider
+  target: event level datum
+  key: COLLECT
+  text:
+  - As noted above, we may share event level data with our analytics partners Amplitude,
+    Singular, and/or Google - as well as both event level data and email addresses
+    with our analytics partner Iterable - to help us learn about and improve use of
+    the Apps.
+  purposes:
+    analytics:
+    - to help us learn about and improve use of the Apps
+    services:
+    - to help us learn about and improve use of the Apps
+- source: analytic provider
+  target: information as
+  key: COLLECT
+  text:
+  - This software may record information such as how often you use the application,
+    the events that occur within the application, aggregated usage, performance data,
+    and where the application was downloaded from.
+  - We may use mobile analytics software to collect data and to better understand
+    the functionality of our mobile software, devices and applications on your phone
+    and other devices.
+  purposes: {}
+- source: analytic provider
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'We may share Personally Identifiable Information and/or data that does not identify
+    an individual user: With our product and marketing analytics partners: Iterable,
+    Amplitude, Singular, and/or Google.'
+  purposes:
+    advertising:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    analytics:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To measure performance of the products and Lose It! Services
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    security:
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+    services:
+    - For internal purposes, which may require the transfer of such information to
+      other Lose It! affiliates for administrative purposes, for technical maintenance
+      purposes, the marketing and promotion of products and services that might be
+      of interest to you
+    - To allow you to participate in Challenges, contests and surveys
+    - To communicate with you, respond to your requests and manage our relationship
+    - To fulfill the services and products you request from us
+    - To measure performance of the products and Lose It! Services
+    - To personalize the products and services provided to you
+    - 'Use of Personal Information
+
+
+      We may share Personally Identifiable Information and/or data that does not identify
+      an individual user: To operate and improve the Websites, App, and Services,
+      including developing new features and products and training artificial intelligence
+      and machine learning tools.'
+- source: analytic provider
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: third party Processors
+    (such as analytic providers, data centers; etc.), located anywhere in the world,
+    subject to the requirements noted below in this Privacy Policy;'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: analytic provider
+  target: user setting
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: analytic provider
+  target: video viewing history
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: auth provider
+  target: information we collect from you
+  key: COLLECT
+  text:
+  - When you use our website, we share information that we collect from you, such
+    as your email (in hashed form), IP address, or information about your browser
+    or operating system, with our identity partners/service providers.
+  purposes: {}
+- source: business partner
+  target: data identify you in important way
+  key: COLLECT
+  text:
+  - 'We share data that personally identifies you in three important ways: With third
+    parties such as advertisers and business partners.'
+  purposes: {}
+- source: contractor
+  target: information need
+  key: COLLECT
+  text:
+  - In such circumstances, we will only provide the contractor with the information
+    needed to perform the services (for example, name and address if a contractor
+    is delivering a product to you), and all contractors will be required to agree
+    to confidentiality obligations with respect to your personal information.
+  purposes: {}
+- source: country have different law to those apply in country in locate
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For this reason, we may transfer your information to other countries that may
+    have different laws and data protection compliance requirements to those that
+    apply in the country in which you are located.
+  purposes: {}
+- source: court
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: any relevant party, law
+    enforcement agency, or court, to the extent necessary for the establishment, exercise,
+    or defense of legal rights;'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: datum center
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: third party Processors
+    (such as analytic providers, data centers; etc.), located anywhere in the world,
+    subject to the requirements noted below in this Privacy Policy;'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: e - commerce partner
+  target: anonymous identifier
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: e - commerce partner
+  target: demographic information about user base
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: e - commerce partner
+  target: user setting
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: e - commerce partner
+  target: video viewing history
+  key: COLLECT
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+  purposes: {}
+- source: entity within lose it affiliate
+  target: user information
+  key: COLLECT
+  text:
+  - We may disclose your User Information to other entities within the Lose It! affiliates
+    for legitimate business purposes (including operating the Services, and providing
+    services to you), in accordance with applicable law.
+  purposes:
+    services:
+    - for legitimate business purposes (including operating the Services, and providing
+      services to you)
+- source: insurer
+  target: genetic information
+  key: COLLECT
+  text:
+  - Even so, you may be asked to share your Genetic Information with other insurers.
+  purposes: {}
+- source: law enforcement agency
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: any relevant party, law
+    enforcement agency, or court, to the extent necessary for the establishment, exercise,
+    or defense of legal rights;'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: legal authority
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: legal and regulatory authorities,
+    upon request, or for the purposes of reporting any actual or suspected breach
+    of applicable law or regulation;'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: outside professional advisor
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: outside professional advisors
+    (such as accountants, auditors, or lawyers), subject to binding contractual obligations
+    of confidentiality;'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: relevant party
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: any relevant party for
+    the purposes of prevention, investigation, detection, or prosecution of criminal
+    offenses or the execution of criminal penalties, including safeguarding against
+    and the prevention of threats to public security;'
+  - 'In addition, we may disclose your User Information to: any relevant party, law
+    enforcement agency, or court, to the extent necessary for the establishment, exercise,
+    or defense of legal rights;'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: sponsor
+  target: personal information
+  key: COLLECT
+  text:
+  - Depending on where you reside, when you register for certain Services, we may
+    share the Personal Information you provide with certain advertisers and sponsors.
+  purposes: {}
+- source: sponsor of contest
+  target: user information
+  key: COLLECT
+  text:
+  - 'In addition, we may disclose your User Information to: any sponsors of contests,
+    competitions, sweepstakes and prize draws, or content offerings, the registration
+    data for such events is to be used by us as part of User Information, and may
+    be shared with the sponsor and others, subject to this Policy and the sponsor''s
+    privacy policy.'
+  purposes:
+    security:
+    - for the purposes of prevention, investigation, detection, or prosecution of
+      criminal offenses or the execution of criminal penalties, including safeguarding
+      against and the prevention of threats to public security
+- source: third party support communication with you via email
+  target: data identify you in important way
+  key: COLLECT
+  text:
+  - 'We share data that personally identifies you in three important ways: With third
+    parties that support our communication with you via email or messages or that
+    provide analytics that permit us to better understand how our products are used.'
+  purposes: {}
+- source: clickstream datum
+  target: click on customize link
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Log files, which may include IP addresses, browser type, ISP referring/exit
+    pages, operating system, date/time stamps and/or clickstream data, including any
+    clicks on customized links.'
+- source: commercially available source
+  target: data broker
+  key: SUBSUM
+  text:
+  - This may include offline channels such as through telephone or direct mail efforts;
+    from customers, vendors, suppliers, third parties, commercially available or publicly-available
+    sources (e.g., data brokers, data aggregators, public databases, etc.); third
+    party affiliate network operators; referral sources; and social network sites
+    or services (e.g., Facebook, Twitter, LinkedIn, etc.).
+- source: commercially available source
+  target: datum aggregator
+  key: SUBSUM
+  text:
+  - This may include offline channels such as through telephone or direct mail efforts;
+    from customers, vendors, suppliers, third parties, commercially available or publicly-available
+    sources (e.g., data brokers, data aggregators, public databases, etc.); third
+    party affiliate network operators; referral sources; and social network sites
+    or services (e.g., Facebook, Twitter, LinkedIn, etc.).
+- source: commercially available source
+  target: public database
+  key: SUBSUM
+  text:
+  - This may include offline channels such as through telephone or direct mail efforts;
+    from customers, vendors, suppliers, third parties, commercially available or publicly-available
+    sources (e.g., data brokers, data aggregators, public databases, etc.); third
+    party affiliate network operators; referral sources; and social network sites
+    or services (e.g., Facebook, Twitter, LinkedIn, etc.).
+- source: cookie / pixel tag
+  target: different type
+  key: SUBSUM
+  text:
+  - Please see our Cookie Policy for more information, including a more in-depth explanation
+    of what cookies are, the different types of cookies used on the Services, and
+    how to change or delete them.
+- source: datum collect
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'Examples of data that may be collected include: IP addresses, Advertising ID,
+    or any ads that you click while using our app.'
+- source: datum collect
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Examples of data that may be collected include: IP addresses, Advertising ID,
+    or any ads that you click while using our app.'
+- source: e - commerce opportunity
+  target: merchant
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Searches for and interactions with e-commerce opportunities, such as merchants
+    and offers contained in the Services.'
+- source: e - commerce opportunity
+  target: offer
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Searches for and interactions with e-commerce opportunities, such as merchants
+    and offers contained in the Services.'
+- source: email
+  target: content
+  key: SUBSUM
+  text:
+  - 'A. Categories of health data collection, purpose and source: Information collected
+    through the use of cookies, eTags, Javascript, pixel tags, device ID tracking,
+    anonymous identifiers, and other technologies, including information collected
+    using such methods and technologies about (i) your visits to, and interaction
+    and engagement with, the Services, content and ads on third party websites, applications,
+    platforms and other media channels ("Channels"), and (ii) your interaction with
+    emails including the content and ads therein (collectively, "Online Data").'
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Information collected through the use of cookies, eTags, Javascript, pixel
+    tags, device ID tracking, anonymous identifiers and other technologies, including
+    information collected using such methods and technologies about (i) your visits
+    to, and interaction and engagement with, the Services, content and ads on third
+    party websites, applications, platforms and other media channels ( "Channels"
+    ), and (ii) your interaction with emails including the content and ads therein
+    (collectively, "Online Data" ).'
+- source: financial information
+  target: billing information for purchase
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Financial information, such as your credit/debit card number or other billing
+    information for purchases and product upgrades.'
+- source: financial information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Financial information, such as your credit/debit card number or other billing
+    information for purchases and product upgrades.'
+- source: information about lose it user
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: "Advertising ID", which is a unique, user-resettable identification number
+    for advertising associated with a device (e.g., iOS uses the Identifier for Advertising
+    (or "IDFA") and Android uses Google Advertising ID)'
+- source: information about lose it user
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: IP addresses, browser type and your operating system.'
+- source: information about lose it user
+  target: consent record
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Consent records: records of any consents you may have given, together with
+    the date and time, means of consent and any related information (e.g., the subject
+    matter of the consent).'
+- source: information about lose it user
+  target: date
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Consent records: records of any consents you may have given, together with
+    the date and time, means of consent and any related information (e.g., the subject
+    matter of the consent).'
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Pages visited on the Websites referring and exit pages, and the dates and
+    times of the visits.'
+- source: information about lose it user
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Email address and Lose It! password.'
+- source: information about lose it user
+  target: financial information
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Financial information, such as your credit/debit card number or other billing
+    information for purchases and product upgrades.'
+- source: information about lose it user
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Location data and other information about devices used to access and interact
+    with the Websites or App.'
+- source: information about lose it user
+  target: information collect from promotion with third party company
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Information collected from promotions with third party companies.'
+- source: information about lose it user
+  target: information relate to you
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Any additional information relating to you and your use of the Websites, Apps
+    or Lose It! Services.'
+- source: information about lose it user
+  target: information you make
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Information that you make publicly available or publicly post using tools
+    made available on the Websites or via the App.'
+- source: information about lose it user
+  target: information you provide in user to user message
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Information you may provide in user-to-user messages.'
+- source: information about lose it user
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: IP addresses, browser type and your operating system.'
+- source: information about lose it user
+  target: lose it password
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Email address and Lose It! password.'
+- source: information about lose it user
+  target: personal information
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+- source: information about lose it user
+  target: record of consent you give
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Consent records: records of any consents you may have given, together with
+    the date and time, means of consent and any related information (e.g., the subject
+    matter of the consent).'
+- source: information about lose it user
+  target: related information
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Consent records: records of any consents you may have given, together with
+    the date and time, means of consent and any related information (e.g., the subject
+    matter of the consent).'
+- source: information about lose it user
+  target: test result generate from genetic datum
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Test results generated from a user''s genetic data.'
+- source: information about lose it user
+  target: unique identifier we assign to account
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: A unique identifier we assign to your account and/or your instance of the
+    Lose It! app based on any of the above types of information.'
+- source: information about use of product
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+- source: information about use of service
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Information about your use of the Services, such as usage data and statistical
+    information, which may be aggregated'
+- source: information about use of service
+  target: statistical information
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Information about your use of the Services, such as usage data and statistical
+    information, which may be aggregated'
+- source: information about user
+  target: genetic datum
+  key: SUBSUM
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+- source: information about user
+  target: information about use of product
+  key: SUBSUM
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+- source: information about user
+  target: personal diet datum enter into product
+  key: SUBSUM
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+- source: information about you
+  target: user information
+  key: SUBSUM
+  text:
+  - Certain tracking technologies enable us to assign a unique identifier to you,
+    and relate information about your use of the Services to other information about
+    you, including your User Information.
+- source: information need
+  target: postal address
+  key: SUBSUM
+  text:
+  - In such circumstances, we will only provide the contractor with the information
+    needed to perform the services (for example, name and address if a contractor
+    is delivering a product to you), and all contractors will be required to agree
+    to confidentiality obligations with respect to your personal information.
+- source: information we collect from you
+  target: email address
+  key: SUBSUM
+  text:
+  - When you use our website, we share information that we collect from you, such
+    as your email (in hashed form), IP address, or information about your browser
+    or operating system, with our identity partners/service providers.
+- source: information we collect from you
+  target: hashed form
+  key: SUBSUM
+  text:
+  - When you use our website, we share information that we collect from you, such
+    as your email (in hashed form), IP address, or information about your browser
+    or operating system, with our identity partners/service providers.
+- source: information we collect from you
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you use our website, we share information that we collect from you, such
+    as your email (in hashed form), IP address, or information about your browser
+    or operating system, with our identity partners/service providers.
+- source: local share object
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Local Shared Objects, such as Flash cookies, and Local Storage, such as HTML5.'
+- source: log file
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'A. Categories of health data collection, purpose and source: Log files, which
+    may include IP addresses, browser type, ISP, referrer, accessed pages, operating
+    system, date/time stamps and clicks.'
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Log files, which may include IP addresses, browser type, ISP referring/exit
+    pages, operating system, date/time stamps and/or clickstream data, including any
+    clicks on customized links.'
+- source: log file
+  target: click
+  key: SUBSUM
+  text:
+  - 'A. Categories of health data collection, purpose and source: Log files, which
+    may include IP addresses, browser type, ISP, referrer, accessed pages, operating
+    system, date/time stamps and clicks.'
+- source: log file
+  target: clickstream datum
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Log files, which may include IP addresses, browser type, ISP referring/exit
+    pages, operating system, date/time stamps and/or clickstream data, including any
+    clicks on customized links.'
+- source: log file
+  target: date time stamp
+  key: SUBSUM
+  text:
+  - 'A. Categories of health data collection, purpose and source: Log files, which
+    may include IP addresses, browser type, ISP, referrer, accessed pages, operating
+    system, date/time stamps and clicks.'
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Log files, which may include IP addresses, browser type, ISP referring/exit
+    pages, operating system, date/time stamps and/or clickstream data, including any
+    clicks on customized links.'
+- source: log file
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'A. Categories of health data collection, purpose and source: Log files, which
+    may include IP addresses, browser type, ISP, referrer, accessed pages, operating
+    system, date/time stamps and clicks.'
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Log files, which may include IP addresses, browser type, ISP referring/exit
+    pages, operating system, date/time stamps and/or clickstream data, including any
+    clicks on customized links.'
+- source: log file
+  target: isp refer exit page
+  key: SUBSUM
+  text:
+  - 'We also collect other kinds of information from you or other sources, which we
+    refer to as "Other Information" in this Policy, which may include but is not limited
+    to: Log files, which may include IP addresses, browser type, ISP referring/exit
+    pages, operating system, date/time stamps and/or clickstream data, including any
+    clicks on customized links.'
+- source: log file
+  target: referrer
+  key: SUBSUM
+  text:
+  - 'A. Categories of health data collection, purpose and source: Log files, which
+    may include IP addresses, browser type, ISP, referrer, accessed pages, operating
+    system, date/time stamps and clicks.'
+- source: outside professional advisor
+  target: accountant
+  key: SUBSUM
+  text:
+  - 'In addition, we may disclose your User Information to: outside professional advisors
+    (such as accountants, auditors, or lawyers), subject to binding contractual obligations
+    of confidentiality;'
+- source: outside professional advisor
+  target: auditor
+  key: SUBSUM
+  text:
+  - 'In addition, we may disclose your User Information to: outside professional advisors
+    (such as accountants, auditors, or lawyers), subject to binding contractual obligations
+    of confidentiality;'
+- source: personal diet datum enter into product
+  target: food
+  key: SUBSUM
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+- source: personal diet datum enter into product
+  target: gender
+  key: SUBSUM
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+- source: personal diet datum enter into product
+  target: height
+  key: SUBSUM
+  text:
+  - 'It is important to review our Privacy Policy in full, but below is a summary
+    of the main points: We collect various types of information about users, including
+    personal diet data entered by users into our products (such as height and weight,
+    gender, and details about food and drinks), genetic data (where provided by a
+    user), and information about your use of our products (like contact and device
+    information).'
+- source: personal identifier
+  target: genetic information
+  key: SUBSUM
+  text:
+  - We may disclose your Personally Identifiable Information (including Genetic Information)
+    when we reasonably believe that it is required by law, a duly authorized court
+    order, or legal process and to protect and defend the rights and interests of
+    Lose It!, its affiliates, suppliers, or users.
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+- source: personal information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+- source: personal information
+  target: height
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+- source: personal information
+  target: name of company
+  key: SUBSUM
+  text:
+  - You may also provide personal information such as your name, the name of your
+    company and your photo.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+  - You may also provide personal information such as your name, the name of your
+    company and your photo.
+- source: personal information
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Privacy
+
+
+    Privacy Policy Summary
+
+
+    Collection of Personal Information
+
+
+    Lose It! collects and uses your personal information, including information that
+    could personally identify you or is deemed to personally identify you by applicable
+    law ("Personally Identifiable Information") to manage and enhance your use and
+    experience of the Websites and Apps and Lose It! Services.'
+- source: personal information
+  target: photo
+  key: SUBSUM
+  text:
+  - You may also provide personal information such as your name, the name of your
+    company and your photo.
+- source: personal information
+  target: specific detail of food you consume
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+- source: public area of services
+  target: blog
+  key: SUBSUM
+  text:
+  - Please note that Lose It! is not responsible for the information you volunteer
+    about yourself in the discussions in certain public areas of the Services, such
+    as forums, blogs, wikis, chat rooms, private messages, message boards or other
+    publicly accessible interaction, or information that you choose to make public
+    in your member profile or other areas of the Services that allow users to upload
+    or post content.
+- source: public area of services
+  target: chat room
+  key: SUBSUM
+  text:
+  - Please note that Lose It! is not responsible for the information you volunteer
+    about yourself in the discussions in certain public areas of the Services, such
+    as forums, blogs, wikis, chat rooms, private messages, message boards or other
+    publicly accessible interaction, or information that you choose to make public
+    in your member profile or other areas of the Services that allow users to upload
+    or post content.
+- source: public area of services
+  target: forum
+  key: SUBSUM
+  text:
+  - Please note that Lose It! is not responsible for the information you volunteer
+    about yourself in the discussions in certain public areas of the Services, such
+    as forums, blogs, wikis, chat rooms, private messages, message boards or other
+    publicly accessible interaction, or information that you choose to make public
+    in your member profile or other areas of the Services that allow users to upload
+    or post content.
+- source: public area of services
+  target: message board
+  key: SUBSUM
+  text:
+  - Please note that Lose It! is not responsible for the information you volunteer
+    about yourself in the discussions in certain public areas of the Services, such
+    as forums, blogs, wikis, chat rooms, private messages, message boards or other
+    publicly accessible interaction, or information that you choose to make public
+    in your member profile or other areas of the Services that allow users to upload
+    or post content.
+- source: public area of services
+  target: publicly accessible interaction
+  key: SUBSUM
+  text:
+  - Please note that Lose It! is not responsible for the information you volunteer
+    about yourself in the discussions in certain public areas of the Services, such
+    as forums, blogs, wikis, chat rooms, private messages, message boards or other
+    publicly accessible interaction, or information that you choose to make public
+    in your member profile or other areas of the Services that allow users to upload
+    or post content.
+- source: public area of services
+  target: wiki
+  key: SUBSUM
+  text:
+  - Please note that Lose It! is not responsible for the information you volunteer
+    about yourself in the discussions in certain public areas of the Services, such
+    as forums, blogs, wikis, chat rooms, private messages, message boards or other
+    publicly accessible interaction, or information that you choose to make public
+    in your member profile or other areas of the Services that allow users to upload
+    or post content.
+- source: service message
+  target: order confirmation
+  key: SUBSUM
+  text:
+  - When you opt-out of promotional communications from us, you may still receive
+    service messages (such as an order confirmation) and legally mandated notices.
+- source: specific detail of food you consume
+  target: genetic result
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+- source: specific detail of food you consume
+  target: photograph
+  key: SUBSUM
+  text:
+  - 'We collect Personal Information and other information about Lose It! users such
+    as: Personal data: including, your name, birthdate, height and weight, sex, and
+    specific details of the foods and drinks that you consume, including photographs,
+    your exercise, and genetic results.'
+- source: technology
+  target: html5
+  key: SUBSUM
+  text:
+  - We and our partners (including but not limited to e-commerce partners, affiliates,
+    and analytics providers) also may use technologies such as pixel tags, e-tags,
+    IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to
+    analyze trends; administer the Services; collect and store information such as
+    user settings, anonymous browser identifiers and video viewing history; supplement
+    our server logs and other methods of traffic and response measurement; track users'
+    location and movements around the Services; gather demographic information about
+    our user base; and to improve our understanding of traffic on the Services, visitor
+    behavior, and responses to promotional campaigns.
+- source: user information
+  target: email address
+  key: SUBSUM
+  text:
+  - We may share your User Information with our partners such as your name, postal
+    address, email, or other identifier.
+- source: user information
+  target: identifier
+  key: SUBSUM
+  text:
+  - We may share your User Information with our partners such as your name, postal
+    address, email, or other identifier.
+- source: user information
+  target: person name
+  key: SUBSUM
+  text:
+  - We may share your User Information with our partners such as your name, postal
+    address, email, or other identifier.
+- source: user information
+  target: postal address
+  key: SUBSUM
+  text:
+  - We may share your User Information with our partners such as your name, postal
+    address, email, or other identifier.
+- source: user information about you
+  target: detail of purchase history
+  key: SUBSUM
+  text:
+  - We may also create User Information about you, such as records of your interactions
+    with us and details of your purchase history, for internal administrative purposes
+    and analysis.
+- source: user information about you
+  target: record of interaction with we
+  key: SUBSUM
+  text:
+  - We may also create User Information about you, such as records of your interactions
+    with us and details of your purchase history, for internal administrative purposes
+    and analysis.
+  - We may also create User Information about you, such as records of your interactions
+    with us.
+nodes:
+- type: ACTOR
+  id: Amplitude
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: Iterable
+- type: ACTOR
+  id: Personal Information Privacy and Security Association (Vancouver)
+- type: ACTOR
+  id: Singular
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: Ziff Davis
+- type: ACTOR
+  id: accountant
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: auditor
+- type: ACTOR
+  id: auth provider
+- type: ACTOR
+  id: blog
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: chat room
+- type: ACTOR
+  id: commercially available source
+- type: ACTOR
+  id: content
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: country have different law to those apply in country in locate
+- type: ACTOR
+  id: court
+- type: ACTOR
+  id: data broker
+- type: ACTOR
+  id: datum aggregator
+- type: ACTOR
+  id: datum center
+- type: ACTOR
+  id: e - commerce opportunity
+- type: ACTOR
+  id: e - commerce partner
+- type: ACTOR
+  id: email
+- type: ACTOR
+  id: entity within lose it affiliate
+- type: ACTOR
+  id: forum
+- type: ACTOR
+  id: html5
+- type: ACTOR
+  id: insurer
+- type: ACTOR
+  id: law enforcement agency
+- type: ACTOR
+  id: legal authority
+- type: ACTOR
+  id: merchant
+- type: ACTOR
+  id: message board
+- type: ACTOR
+  id: offer
+- type: ACTOR
+  id: outside professional advisor
+- type: ACTOR
+  id: public area of services
+- type: ACTOR
+  id: public database
+- type: ACTOR
+  id: publicly accessible interaction
+- type: ACTOR
+  id: relevant party
+- type: ACTOR
+  id: sponsor
+- type: ACTOR
+  id: sponsor of contest
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: third party support communication with you via email
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: wiki
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: accurate picture of audience interest
+- type: DATA
+  id: action tag
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: aggregate site visitation datum
+- type: DATA
+  id: anonymous identifier
+- type: DATA
+  id: associated information relate to aggregate content preference
+- type: DATA
+  id: billing information for purchase
+- type: DATA
+  id: browser type
+- type: DATA
+  id: click
+- type: DATA
+  id: click on customize link
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: collect information
+- type: DATA
+  id: commerce offering
+- type: DATA
+  id: consent record
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: copy of information
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: customize link
+- type: DATA
+  id: data identify you in important way
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: date time stamp
+- type: DATA
+  id: datum about mobile device
+- type: DATA
+  id: datum collect
+- type: DATA
+  id: datum not identify individual user
+- type: DATA
+  id: datum you make
+- type: DATA
+  id: demographic information about user base
+- type: DATA
+  id: detail of purchase history
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: different type
+- type: DATA
+  id: email address
+- type: DATA
+  id: event level datum
+- type: DATA
+  id: financial information
+- type: DATA
+  id: food
+- type: DATA
+  id: gender
+- type: DATA
+  id: genetic datum
+- type: DATA
+  id: genetic information
+- type: DATA
+  id: genetic result
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: hashed form
+- type: DATA
+  id: height
+- type: DATA
+  id: identification
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information about lose it user
+- type: DATA
+  id: information about use of lose it service for marketing purpose
+- type: DATA
+  id: information about use of product
+- type: DATA
+  id: information about use of service
+- type: DATA
+  id: information about user
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information as
+- type: DATA
+  id: information collect from promotion with third party company
+- type: DATA
+  id: information collect from you through different mean
+- type: DATA
+  id: information need
+- type: DATA
+  id: information relate to you
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information we collect from you
+- type: DATA
+  id: information you make
+- type: DATA
+  id: information you provide in user to user message
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: isp refer exit page
+- type: DATA
+  id: local share object
+- type: DATA
+  id: log file
+- type: DATA
+  id: lose it password
+- type: DATA
+  id: name of company
+- type: DATA
+  id: online data
+- type: DATA
+  id: order confirmation
+- type: DATA
+  id: page view
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal diet datum enter into product
+- type: DATA
+  id: personal diet information
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information you choose
+- type: DATA
+  id: photo
+- type: DATA
+  id: photograph
+- type: DATA
+  id: postal address
+- type: DATA
+  id: purchase
+- type: DATA
+  id: record of consent you give
+- type: DATA
+  id: record of interaction with we
+- type: DATA
+  id: referrer
+- type: DATA
+  id: related information
+- type: DATA
+  id: relationship datum
+- type: DATA
+  id: report base on use of technology by third party company on individual basis
+- type: DATA
+  id: service message
+- type: DATA
+  id: specific detail of food you consume
+- type: DATA
+  id: statistical information
+- type: DATA
+  id: technical information
+- type: DATA
+  id: test result generate from genetic datum
+- type: DATA
+  id: third party information
+- type: DATA
+  id: unique identifier we assign to account
+- type: DATA
+  id: user engagement
+- type: DATA
+  id: user information
+- type: DATA
+  id: user information about you
+- type: DATA
+  id: user information you provide to we with datum obtain from third party
+- type: DATA
+  id: user setting
+- type: DATA
+  id: username
+- type: DATA
+  id: video viewing history

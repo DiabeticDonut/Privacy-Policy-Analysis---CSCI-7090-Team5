@@ -1,0 +1,1532 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Once we receive and confirm your verifiable consumer request (see  Exercising
+    Access and Deletion Rights ), we will disclose to you: The categories of third
+    parties with whom we share that Personal Information.'
+  - Our Services collect information that identifies, relates to, describes, references,
+    is capable of being associated with, or could reasonably be linked, directly or
+    indirectly, with a particular consumer or device (" Personal Information ").
+  - The information we collect on or through our Service includes information that
+    you provide to us or grant us access to when you use our Services and the details
+    of transactions you carry out through our Website or Application and of the fulfillment
+    of your orders.
+  - Third parties may also help us provide you with customer support, and provide
+    us with information so that we may help you use our Service.
+  - We may also save your information to help you check out faster and to provide
+    recommendations for future purchases.
+  - We may also use your information to contact you about devices, products and Services
+    that may be of interest to you, including through newsletters.
+  - Where video files and photographs are submitted through the Application, the Application
+    collects metadata and other information associated with those photographic and
+    videographic images; and
+  purposes:
+    advertising:
+    - to contact you about devices, products and Services that may be of interest
+      to you, including through newsletters
+    services:
+    - to contact you about devices, products and Services that may be of interest
+      to you, including through newsletters
+    - to help you check out faster and to provide recommendations for future purchases
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - However, we may disclose aggregated information about our users, and information
+    that does not identify any individual, without restriction.
+  purposes: {}
+- source: we
+  target: browser information
+  key: COLLECT
+  text:
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  - Neither Hotjar nor we will ever use this information to identify individual users
+    or to match it with further data on an individual user.
+  purposes:
+    analytics:
+    - to identify individual users or to match it with further data on an individual
+      user
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may use cookies to receive and store certain types of information whenever
+    you interact with our Website and Application through your computer or mobile
+    device.
+  purposes:
+    analytics:
+    - to receive and store certain types of information whenever you interact with
+      our Website and Application through your computer or mobile device
+    services:
+    - to receive and store certain types of information whenever you interact with
+      our Website and Application through your computer or mobile device
+- source: we
+  target: cost estimate
+  key: COLLECT
+  text:
+  - If we determine that the request warrants a fee, we will tell you why we made
+    that decision and provide you with a cost estimate before completing your request.
+  purposes: {}
+- source: we
+  target: detail of transaction you carry through website
+  key: COLLECT
+  text:
+  - The information we collect on or through our Service includes information that
+    you provide to us or grant us access to when you use our Services and the details
+    of transactions you carry out through our Website or Application and of the fulfillment
+    of your orders.
+  purposes: {}
+- source: we
+  target: device information
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Device Information . Information
+    about your computer, mobile device, and Internet connection, specifically your
+    IP address, operating system, browser type, and Application version information;'
+  purposes: {}
+- source: we
+  target: file
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Stored Information and Files .'
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Real-time Location Data .'
+  - The Application collects real-time information about the location of your device.
+  purposes: {}
+- source: we
+  target: information about equipment
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns:'
+  purposes:
+    analytics:
+    - Device Information . Information about your computer, mobile device, and Internet
+      connection, specifically your IP address, operating system, browser type, and
+      Application version information
+    - Real-time Location Data
+    - Usage Details . Details of your visits to our Website and Application, such
+      as traffic data, location, logs, referring/exit pages, date and time of your
+      visit to our Website and use of our Application, error information, clickstream
+      data, and other communication data and the resources that you access and use
+      on the Website and Application
+    services:
+    - Real-time Location Data
+    - Stored Information and Files
+- source: we
+  target: information collect about use of services
+  key: COLLECT
+  text:
+  - We receive information collected by third parties about your use of the Services.
+  purposes: {}
+- source: we
+  target: information collect in course of
+  key: COLLECT
+  text:
+  - Your Provider or Facility may provide us with your medical history and communications
+    between you and your Provider, including but not limited to information collected
+    in the course of providing support or monitoring related to an individual's use
+    of the Services, such as biometric information collected through our digital health
+    technologies, surveys, photographs taken and uploaded to the Services by you,
+    or during the audio or video communications with your Provider.
+  purposes: {}
+- source: we
+  target: information relate to use of application
+  key: COLLECT
+  text:
+  - We use Mixpanel, a web and mobile application analytics service provided by Mixpanel,
+    Inc. ("Mixpanel") to collect certain information relating to your use of the Application.
+  purposes: {}
+- source: we
+  target: information we collect about you
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    3. Information We Collect About You and How We Collect It'
+  - 'We collect this information:'
+  - 'We use information that we collect about you or that you provide to us, including
+    any Personal Data:'
+  purposes:
+    analytics:
+    - to administer surveys about our Services
+    legal:
+    - to carry out our obligations and enforce our rights arising from any contracts
+      entered into between you and us or your Provider or Facility and us, including
+      for billing and collection
+    services:
+    - to administer surveys about our Services
+    - to present our Website and Application and their contents to you
+    - to process, fulfill, support, and administer transactions and orders for devices,
+      products and Services ordered by you
+    - to provide you with information, devices, products, or services that you or
+      your Provider or Facility requests from us
+    - to provide you with notices about your iHealth account
+    - to provide, process, fulfill, support, and administer Services ordered by you
+      or your Provider or Facility
+- source: we
+  target: medical history
+  key: COLLECT
+  text:
+  - Your Provider or Facility may provide us with your medical history and communications
+    between you and your Provider, including but not limited to information collected
+    in the course of providing support or monitoring related to an individual's use
+    of the Services, such as biometric information collected through our digital health
+    technologies, surveys, photographs taken and uploaded to the Services by you,
+    or during the audio or video communications with your Provider.
+  purposes: {}
+- source: we
+  target: metadata
+  key: COLLECT
+  text:
+  - Where video files and photographs are submitted through the Application, the Application
+    collects metadata and other information associated with those photographic and
+    videographic images; and
+  purposes: {}
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - However, we may disclose aggregated information about our users, and information
+    that does not identify any individual, without restriction.
+  purposes: {}
+- source: we
+  target: payment for service
+  key: COLLECT
+  text:
+  - We may use your PHI to contact you to the extent permitted by law, to provide
+    requested services, to provide information to your insurers, to obtain payment
+    for our services, to respond to your inquiries and requests, and to respond to
+    inquiries and requests from your insurers.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'For example: if you share your name and contact information to ask a question
+    about our products, we will use that Personal Information to respond to your inquiry.'
+  - Our Services collect information that identifies, relates to, describes, references,
+    is capable of being associated with, or could reasonably be linked, directly or
+    indirectly, with a particular consumer or device (" Personal Information ").
+  - The information we collect automatically may include Personal Data or we may maintain
+    it or associate it with Personal Data we collect in other ways or receive from
+    third parties.
+  - 'We disclose your Personal Information for a business purpose to the following
+    categories of third parties:'
+  - 'We may also disclose your Personal Data:'
+  - 'We may disclose Personal Data that we collect or you provide as described in
+    this privacy policy: to our affiliates, contractors, service providers, and other
+    third parties we use to support our business and who are bound by contractual
+    obligations to keep Personal Data confidential and use it only for the purposes
+    for which we disclose it to them.'
+  - 'We may use or disclose the Personal Information we collect for one or more of
+    the following business purposes :'
+  - 'We share your Personal Information with the following categories of third parties:'
+  purposes:
+    legal:
+    - to comply with any court order, law, or legal process, including to respond
+      to any government or regulatory request; and
+    - to enforce or apply our Terms of Use
+- source: we
+  target: personal information provide in verifiable consumer request
+  key: COLLECT
+  text:
+  - We will only use Personal Information provided in a verifiable consumer request
+    to verify the requestor's identity or authority to make the request.
+  purposes:
+    security:
+    - to verify the requestor's identity or authority to make the request
+- source: we
+  target: phi
+  key: COLLECT
+  text:
+  - We may use your PHI to contact you to the extent permitted by law, to provide
+    requested services, to provide information to your insurers, to obtain payment
+    for our services, to respond to your inquiries and requests, and to respond to
+    inquiries and requests from your insurers.
+  purposes:
+    services:
+    - to contact you to the extent permitted by law, to provide requested services,
+      to provide information to your insurers, to obtain payment for our services,
+      to respond to your inquiries and requests, and to respond to inquiries and requests
+      from your insurers
+- source: we
+  target: phi we need
+  key: COLLECT
+  text:
+  - iHealth will use and disclose PHI only as permitted in accordance with the Notice
+    of Privacy Practices and we only collect the PHI we need to fully perform our
+    Services and to respond to you or your Provider or Facility.
+  purposes: {}
+- source: we
+  target: several type
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Services,
+    specifically information:'
+  purposes: {}
+- source: we
+  target: specific piece of personal information we collect about you
+  key: COLLECT
+  text:
+  - 'Once we receive and confirm your verifiable consumer request (see  Exercising
+    Access and Deletion Rights ), we will disclose to you: The specific pieces of
+    Personal Information we collected about you.'
+  purposes: {}
+- source: we
+  target: store information
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Stored Information and Files .'
+  purposes: {}
+- source: we
+  target: type of information
+  key: COLLECT
+  text:
+  - We may use cookies to receive and store certain types of information whenever
+    you interact with our Website and Application through your computer or mobile
+    device.
+  purposes: {}
+- source: we
+  target: usage detail
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+  purposes: {}
+- source: Hotjar
+  target: browser information
+  key: COLLECT
+  text:
+  - Hotjar stores this information in a pseudonymized user profile.
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  - Neither Hotjar nor we will ever use this information to identify individual users
+    or to match it with further data on an individual user.
+  purposes:
+    analytics:
+    - to identify individual users or to match it with further data on an individual
+      user
+- source: Hotjar
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  purposes: {}
+- source: Hotjar
+  target: device screen size
+  key: COLLECT
+  text:
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  purposes: {}
+- source: Hotjar
+  target: device type
+  key: COLLECT
+  text:
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  purposes: {}
+- source: Hotjar
+  target: geolocation
+  key: COLLECT
+  text:
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  purposes: {}
+- source: Hotjar
+  target: interaction with website
+  key: COLLECT
+  text:
+  - For example, Hotjar records your interaction with our Website through your keyboard
+    strokes, mouse movements and clicks, and how you scroll across multiple pages
+    to find out how our user's interact with different features and elements.
+  purposes: {}
+- source: Hotjar
+  target: ip address
+  key: COLLECT
+  text:
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  purposes: {}
+- source: Hotjar
+  target: session recording
+  key: COLLECT
+  text:
+  - Hotjar uses cookies, session recording and other technologies to collect data
+    on our users' behavior and their devices (in particular device's IP address (captured
+    and stored only in anonymized form), device screen size, device type (unique device
+    identifiers), browser information, geographic location (country only), preferred
+    language used to display our website).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For data access requests, we will select a format to provide your Personal Information
+    that is readily usable and should allow you to transmit the information from one
+    entity to another entity without hindrance.
+  - Third parties may also help us provide you with customer support, and provide
+    us with information so that we may help you use our Service.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information collect in course of
+  key: COLLECT
+  text:
+  - Your Provider or Facility may provide us with your medical history and communications
+    between you and your Provider, including but not limited to information collected
+    in the course of providing support or monitoring related to an individual's use
+    of the Services, such as biometric information collected through our digital health
+    technologies, surveys, photographs taken and uploaded to the Services by you,
+    or during the audio or video communications with your Provider.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: medical history
+  key: COLLECT
+  text:
+  - Your Provider or Facility may provide us with your medical history and communications
+    between you and your Provider, including but not limited to information collected
+    in the course of providing support or monitoring related to an individual's use
+    of the Services, such as biometric information collected through our digital health
+    technologies, surveys, photographs taken and uploaded to the Services by you,
+    or during the audio or video communications with your Provider.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - However, iHealth may disclose your Personal Information to a third party for one
+    or more business purposes.
+  - 'We may disclose Personal Data that we collect or you provide as described in
+    this privacy policy: to a Provider, Facility and/or healthcare team for healthcare
+    purposes;'
+  - 'We may disclose Personal Data that we collect or you provide as described in
+    this privacy policy: to our affiliates, contractors, service providers, and other
+    third parties we use to support our business and who are bound by contractual
+    obligations to keep Personal Data confidential and use it only for the purposes
+    for which we disclose it to them.'
+  purposes: {}
+- source: business partner
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We disclose your Personal Information for a business purpose to the following
+    categories of third parties: Business partners, such as your Provider or a Facility
+    where you are receiving care'
+  - 'We share your Personal Information with the following categories of third parties:
+    Business partners, such as your Provider or a Facility where you are receiving
+    care'
+  purposes: {}
+- source: contractor
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Data that we collect or you provide as described in
+    this privacy policy: to our affiliates, contractors, service providers, and other
+    third parties we use to support our business and who are bound by contractual
+    obligations to keep Personal Data confidential and use it only for the purposes
+    for which we disclose it to them.'
+  purposes: {}
+- source: facility
+  target: information collect in course of
+  key: COLLECT
+  text:
+  - Your Provider or Facility may provide us with your medical history and communications
+    between you and your Provider, including but not limited to information collected
+    in the course of providing support or monitoring related to an individual's use
+    of the Services, such as biometric information collected through our digital health
+    technologies, surveys, photographs taken and uploaded to the Services by you,
+    or during the audio or video communications with your Provider.
+  purposes: {}
+- source: facility
+  target: medical history
+  key: COLLECT
+  text:
+  - Your Provider or Facility may provide us with your medical history and communications
+    between you and your Provider, including but not limited to information collected
+    in the course of providing support or monitoring related to an individual's use
+    of the Services, such as biometric information collected through our digital health
+    technologies, surveys, photographs taken and uploaded to the Services by you,
+    or during the audio or video communications with your Provider.
+  purposes: {}
+- source: facility
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Data that we collect or you provide as described in
+    this privacy policy: to a Provider, Facility and/or healthcare team for healthcare
+    purposes;'
+  purposes: {}
+- source: healthcare team
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Data that we collect or you provide as described in
+    this privacy policy: to a Provider, Facility and/or healthcare team for healthcare
+    purposes;'
+  purposes: {}
+- source: ihealth
+  target: biometric information
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Biometric information'
+  purposes: {}
+- source: ihealth
+  target: california customer record personal information category
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: California Customer Records Personal
+    Information categories'
+  purposes: {}
+- source: ihealth
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Commercial information'
+  purposes: {}
+- source: ihealth
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Geolocation data'
+  purposes: {}
+- source: ihealth
+  target: identifier
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Identifiers'
+  purposes: {}
+- source: ihealth
+  target: inference draw from personal information
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Inferences drawn from other Personal
+    Information'
+  purposes: {}
+- source: ihealth
+  target: internet
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Internet or other similar network
+    activity'
+  purposes: {}
+- source: ihealth
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Internet or other similar network
+    activity'
+  purposes: {}
+- source: ihealth
+  target: personal information
+  key: COLLECT
+  text:
+  - However, iHealth may disclose your Personal Information to a third party for one
+    or more business purposes.
+  - In particular, iHealth collects and has collected Personal Information through
+    its Services from its consumers, as provided below.
+  purposes: {}
+- source: ihealth
+  target: protected classification
+  key: COLLECT
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Protected classification characteristics
+    under California or federal law'
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We disclose your Personal Information for a business purpose to the following
+    categories of third parties: Service providers.'
+  - 'We may disclose Personal Data that we collect or you provide as described in
+    this privacy policy: to our affiliates, contractors, service providers, and other
+    third parties we use to support our business and who are bound by contractual
+    obligations to keep Personal Data confidential and use it only for the purposes
+    for which we disclose it to them.'
+  - 'We share your Personal Information with the following categories of third parties:
+    Service providers'
+  purposes: {}
+- source: we
+  target: facility you receive care
+  key: SUBSUM
+  text:
+  - 'Categories of sources from which iHealth has collected Personal Information :
+    Business partners who we partner with to offer our Services, such as your Provider
+    or a Facility where you are receiving care'
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: business partner who we partner with
+  key: SUBSUM
+  text:
+  - 'Categories of sources from which iHealth has collected Personal Information :
+    Business partners who we partner with to offer our Services, such as your Provider
+    or a Facility where you are receiving care'
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: service provider
+  key: SUBSUM
+  text:
+  - 'Categories of sources from which iHealth has collected Personal Information :
+    Service providers'
+- source: biometric information
+  target: glucose level
+  key: SUBSUM
+  text:
+  - 'We collect this information: directly from you when you provide it to us, for
+    example, when you use our remote patient monitoring devices to obtain your biometric
+    information, such as your pulse rate, oxygen saturation, glucose levels, temperature
+    and weight;'
+- source: biometric information
+  target: identifier information
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Biometric information (e.g., physiological and biological characteristics,
+    or other identifier or identifying information, such as, physical patterns, and
+    sleep, health, or exercise data)'
+- source: biometric information
+  target: oxygen saturation
+  key: SUBSUM
+  text:
+  - 'We collect this information: directly from you when you provide it to us, for
+    example, when you use our remote patient monitoring devices to obtain your biometric
+    information, such as your pulse rate, oxygen saturation, glucose levels, temperature
+    and weight;'
+- source: biometric information
+  target: physiological characteristic
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Biometric information (e.g., physiological and biological characteristics,
+    or other identifier or identifying information, such as, physical patterns, and
+    sleep, health, or exercise data)'
+- source: biometric information
+  target: pulse rate
+  key: SUBSUM
+  text:
+  - 'We collect this information: directly from you when you provide it to us, for
+    example, when you use our remote patient monitoring devices to obtain your biometric
+    information, such as your pulse rate, oxygen saturation, glucose levels, temperature
+    and weight;'
+- source: biometric information
+  target: temperature
+  key: SUBSUM
+  text:
+  - 'We collect this information: directly from you when you provide it to us, for
+    example, when you use our remote patient monitoring devices to obtain your biometric
+    information, such as your pulse rate, oxygen saturation, glucose levels, temperature
+    and weight;'
+- source: biometric information
+  target: weight
+  key: SUBSUM
+  text:
+  - 'We collect this information: directly from you when you provide it to us, for
+    example, when you use our remote patient monitoring devices to obtain your biometric
+    information, such as your pulse rate, oxygen saturation, glucose levels, temperature
+    and weight;'
+- source: business partner
+  target: facility you receive care
+  key: SUBSUM
+  text:
+  - 'We disclose your Personal Information for a business purpose to the following
+    categories of third parties: Business partners, such as your Provider or a Facility
+    where you are receiving care'
+  - 'We share your Personal Information with the following categories of third parties:
+    Business partners, such as your Provider or a Facility where you are receiving
+    care'
+- source: business partner who we partner with
+  target: facility you receive care
+  key: SUBSUM
+  text:
+  - 'Categories of sources from which iHealth has collected Personal Information :
+    Business partners who we partner with to offer our Services, such as your Provider
+    or a Facility where you are receiving care'
+- source: content
+  target: advertising
+  key: SUBSUM
+  text:
+  - 'It does not apply to information collected by: any third party, including through
+    any application or content (including advertising) that may link to or be accessible
+    from or on the Services.'
+- source: detail of visit to website
+  target: clickstream datum
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+- source: detail of visit to website
+  target: communication datum
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+- source: detail of visit to website
+  target: date
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+- source: detail of visit to website
+  target: error information
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+- source: detail of visit to website
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+- source: detail of visit to website
+  target: log
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+- source: detail of visit to website
+  target: traffic datum
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns: Usage Details . Details of your
+    visits to our Website and Application, such as traffic data, location, logs, referring/exit
+    pages, date and time of your visit to our Website and use of our Application,
+    error information, clickstream data, and other communication data and the resources
+    that you access and use on the Website and Application;'
+- source: gender
+  target: gender expression
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: gender
+  target: gender identity
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: geolocation
+  target: movement
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Geolocation data (e.g., physical location or movements)'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Identifiers (e.g., name, mailing address, email address, unique personal
+    identifier, online identifier, Internet Protocol address (IP address), or other
+    similar identifiers)'
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Identifiers (e.g., name, mailing address, email address, unique personal
+    identifier, online identifier, Internet Protocol address (IP address), or other
+    similar identifiers)'
+- source: identifier
+  target: online identifier
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Identifiers (e.g., name, mailing address, email address, unique personal
+    identifier, online identifier, Internet Protocol address (IP address), or other
+    similar identifiers)'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Identifiers (e.g., name, mailing address, email address, unique personal
+    identifier, online identifier, Internet Protocol address (IP address), or other
+    similar identifiers)'
+- source: identifier
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Identifiers (e.g., name, mailing address, email address, unique personal
+    identifier, online identifier, Internet Protocol address (IP address), or other
+    similar identifiers)'
+- source: identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Identifiers (e.g., name, mailing address, email address, unique personal
+    identifier, online identifier, Internet Protocol address (IP address), or other
+    similar identifiers)'
+- source: identifier information
+  target: physical pattern
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Biometric information (e.g., physiological and biological characteristics,
+    or other identifier or identifying information, such as, physical patterns, and
+    sleep, health, or exercise data)'
+- source: identifier information
+  target: sleep datum
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Biometric information (e.g., physiological and biological characteristics,
+    or other identifier or identifying information, such as, physical patterns, and
+    sleep, health, or exercise data)'
+- source: information about use of service
+  target: track activity across time
+  key: SUBSUM
+  text:
+  - Some of these entities may use cookies, web beacons and other technologies to
+    collect information about your use of the Service and other websites, which may
+    include tracking activity across time and unaffiliated properties, including your
+    IP address, web browser, pages viewed, time spent on pages, links clicked and
+    conversion information.
+- source: information about you be
+  target: information from source as
+  key: SUBSUM
+  text:
+  - We may combine your information with other information about you that is available
+    to us, including information from other sources, such as from your insurers, in
+    order to maintain an accurate record of our participants.
+- source: information collect
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Information collected automatically may include usage details, IP addresses, and
+    information collected through cookies; and
+- source: information collect
+  target: ip address
+  key: SUBSUM
+  text:
+  - Information collected automatically may include usage details, IP addresses, and
+    information collected through cookies; and
+- source: information collect
+  target: usage detail
+  key: SUBSUM
+  text:
+  - Information collected automatically may include usage details, IP addresses, and
+    information collected through cookies; and
+- source: information collect in course of
+  target: biometric information
+  key: SUBSUM
+  text:
+  - Your Provider or Facility may provide us with your medical history and communications
+    between you and your Provider, including but not limited to information collected
+    in the course of providing support or monitoring related to an individual's use
+    of the Services, such as biometric information collected through our digital health
+    technologies, surveys, photographs taken and uploaded to the Services by you,
+    or during the audio or video communications with your Provider.
+- source: information exclude from scope of ccpa
+  target: health information cover
+  key: SUBSUM
+  text:
+  - 'Personal Information does not include information that is: (a) publicly available
+    information from government records; (b) deidentified or aggregated consumer information;
+    or (c) certain information excluded from the scope of CCPA, including health or
+    medical information covered by the Health Insurance Portability and Accountability
+    Act of 1996 (HIPAA) and the California Confidentiality of Medical Information
+    Act (CMIA).'
+- source: information we collect about you
+  target: account information for third party service
+  key: SUBSUM
+  text:
+  - 'Information We Collect From Third Parties : Account information for third party
+    services.'
+  - 'Privacy Policy
+
+
+    3. Information We Collect About You and How We Collect It'
+- source: information we collect about you
+  target: information from provider
+  key: SUBSUM
+  text:
+  - '3. Information We Collect About You and How We Collect It
+
+
+    Information We Collect From Third Parties : Information from Providers .'
+  - 'Privacy Policy
+
+
+    3. Information We Collect About You and How We Collect It'
+- source: information we collect about you
+  target: information from service provider
+  key: SUBSUM
+  text:
+  - Information from our service providers .
+  - 'Privacy Policy
+
+
+    3. Information We Collect About You and How We Collect It'
+- source: information we collect about you
+  target: personal information
+  key: SUBSUM
+  text:
+  - 'We use information that we collect about you or that you provide to us, including
+    any Personal Data:'
+- source: internet activity
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Internet or other similar network activity (e.g., browsing history, search
+    history, information on a consumer''s interaction with a website, application,
+    or advertisement)'
+- source: internet activity
+  target: information on interaction with website
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Internet or other similar network activity (e.g., browsing history, search
+    history, information on a consumer''s interaction with a website, application,
+    or advertisement)'
+- source: personal information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Biometric information'
+- source: personal information
+  target: california customer record personal information category
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: California Customer Records Personal
+    Information categories'
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Commercial information'
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Geolocation data'
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Identifiers'
+- source: personal information
+  target: inference draw from personal information
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Inferences drawn from other Personal
+    Information'
+- source: personal information
+  target: internet
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Internet or other similar network
+    activity'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Internet or other similar network
+    activity'
+- source: personal information
+  target: profile reflect preference
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Inferences drawn from other Personal Information (e.g. profile reflecting
+    a person''s preferences, characteristics, psychological trends, predispositions,
+    behavior, attitudes, intelligence, abilities, and aptitudes)'
+- source: personal information
+  target: protected classification
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, iHealth has disclosed the following categories
+    of Personal Information for a business purpose: Protected classification characteristics
+    under California or federal law'
+- source: personal information category list in california customer records statute
+  target: bank account number
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information category list in california customer records statute
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information category list in california customer records statute
+  target: health insurance information
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information category list in california customer records statute
+  target: medical information
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information category list in california customer records statute
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information category list in california customer records statute
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information category list in california customer records statute
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information ihealth collect in precede month
+  target: biometric information
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Biometric information (e.g., physiological and biological characteristics,
+    or other identifier or identifying information, such as, physical patterns, and
+    sleep, health, or exercise data)'
+- source: personal information ihealth collect in precede month
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Commercial information (e.g., records of products purchased, obtained,
+    or considered, or other purchasing or consuming histories or tendencies)'
+- source: personal information ihealth collect in precede month
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Geolocation data (e.g., physical location or movements)'
+- source: personal information ihealth collect in precede month
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Identifiers (e.g., name, mailing address, email address, unique personal
+    identifier, online identifier, Internet Protocol address (IP address), or other
+    similar identifiers)'
+- source: personal information ihealth collect in precede month
+  target: inference
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Inferences drawn from other Personal Information (e.g. profile reflecting
+    a person''s preferences, characteristics, psychological trends, predispositions,
+    behavior, attitudes, intelligence, abilities, and aptitudes)'
+- source: personal information ihealth collect in precede month
+  target: internet
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Internet or other similar network activity (e.g., browsing history, search
+    history, information on a consumer''s interaction with a website, application,
+    or advertisement)'
+- source: personal information ihealth collect in precede month
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Internet or other similar network activity (e.g., browsing history, search
+    history, information on a consumer''s interaction with a website, application,
+    or advertisement)'
+- source: personal information ihealth collect in precede month
+  target: personal information category list in california customer records statute
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Personal Information categories listed in the California Customer Records
+    statute (e.g., name, address, telephone number, bank account number, credit card
+    number, debit card number, medical information, or health insurance information.'
+- source: personal information ihealth collect in precede month
+  target: protected classification
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: protected classification
+  target: age
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: protected classification
+  target: ancestry
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: protected classification
+  target: color
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: protected classification
+  target: gender
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: protected classification
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - 'Categories of Personal Information iHealth has collected in the preceding 12
+    months : Protected classification characteristics under California or federal
+    law (e.g., age (40 years or older), race, color, ancestry, medical condition,
+    physical or mental disability, sex (including gender, gender identity, gender
+    expression, pregnancy or childbirth and related medical conditions)'
+- source: track activity across time
+  target: conversion information
+  key: SUBSUM
+  text:
+  - Some of these entities may use cookies, web beacons and other technologies to
+    collect information about your use of the Service and other websites, which may
+    include tracking activity across time and unaffiliated properties, including your
+    IP address, web browser, pages viewed, time spent on pages, links clicked and
+    conversion information.
+- source: track activity across time
+  target: ip address
+  key: SUBSUM
+  text:
+  - Some of these entities may use cookies, web beacons and other technologies to
+    collect information about your use of the Service and other websites, which may
+    include tracking activity across time and unaffiliated properties, including your
+    IP address, web browser, pages viewed, time spent on pages, links clicked and
+    conversion information.
+- source: track activity across time
+  target: link click
+  key: SUBSUM
+  text:
+  - Some of these entities may use cookies, web beacons and other technologies to
+    collect information about your use of the Service and other websites, which may
+    include tracking activity across time and unaffiliated properties, including your
+    IP address, web browser, pages viewed, time spent on pages, links clicked and
+    conversion information.
+- source: track activity across time
+  target: time spend on page
+  key: SUBSUM
+  text:
+  - Some of these entities may use cookies, web beacons and other technologies to
+    collect information about your use of the Service and other websites, which may
+    include tracking activity across time and unaffiliated properties, including your
+    IP address, web browser, pages viewed, time spent on pages, links clicked and
+    conversion information.
+- source: usage detail
+  target: clickstream datum
+  key: SUBSUM
+  text:
+  - 'We collect several types of information from and about users of our Services,
+    specifically information: about your Internet connection, the equipment you use
+    to access our Website, Application or use our Services and usage details, such
+    as traffic data, logs, referring/exit pages, date and time of your visit to our
+    Website, or use our Application or Services, error information, clickstream data,
+    and other communication data and the resources that you access and use our Website,
+    Application or Services.'
+- source: usage detail
+  target: communication datum
+  key: SUBSUM
+  text:
+  - 'We collect several types of information from and about users of our Services,
+    specifically information: about your Internet connection, the equipment you use
+    to access our Website, Application or use our Services and usage details, such
+    as traffic data, logs, referring/exit pages, date and time of your visit to our
+    Website, or use our Application or Services, error information, clickstream data,
+    and other communication data and the resources that you access and use our Website,
+    Application or Services.'
+- source: usage detail
+  target: date
+  key: SUBSUM
+  text:
+  - 'We collect several types of information from and about users of our Services,
+    specifically information: about your Internet connection, the equipment you use
+    to access our Website, Application or use our Services and usage details, such
+    as traffic data, logs, referring/exit pages, date and time of your visit to our
+    Website, or use our Application or Services, error information, clickstream data,
+    and other communication data and the resources that you access and use our Website,
+    Application or Services.'
+- source: usage detail
+  target: error information
+  key: SUBSUM
+  text:
+  - 'We collect several types of information from and about users of our Services,
+    specifically information: about your Internet connection, the equipment you use
+    to access our Website, Application or use our Services and usage details, such
+    as traffic data, logs, referring/exit pages, date and time of your visit to our
+    Website, or use our Application or Services, error information, clickstream data,
+    and other communication data and the resources that you access and use our Website,
+    Application or Services.'
+- source: usage detail
+  target: log
+  key: SUBSUM
+  text:
+  - 'We collect several types of information from and about users of our Services,
+    specifically information: about your Internet connection, the equipment you use
+    to access our Website, Application or use our Services and usage details, such
+    as traffic data, logs, referring/exit pages, date and time of your visit to our
+    Website, or use our Application or Services, error information, clickstream data,
+    and other communication data and the resources that you access and use our Website,
+    Application or Services.'
+- source: usage detail
+  target: traffic datum
+  key: SUBSUM
+  text:
+  - 'We collect several types of information from and about users of our Services,
+    specifically information: about your Internet connection, the equipment you use
+    to access our Website, Application or use our Services and usage details, such
+    as traffic data, logs, referring/exit pages, date and time of your visit to our
+    Website, or use our Application or Services, error information, clickstream data,
+    and other communication data and the resources that you access and use our Website,
+    Application or Services.'
+nodes:
+- type: ACTOR
+  id: Hotjar
+- type: ACTOR
+  id: Personal Information Privacy and Security Association (Vancouver)
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertising
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: business partner who we partner with
+- type: ACTOR
+  id: content
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: facility
+- type: ACTOR
+  id: facility you receive care
+- type: ACTOR
+  id: healthcare team
+- type: ACTOR
+  id: ihealth
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account information for third party service
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: ancestry
+- type: DATA
+  id: bank account number
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: browser information
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: california customer record personal information category
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: color
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: communication datum
+- type: DATA
+  id: conversion information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: cost estimate
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: date
+- type: DATA
+  id: detail of transaction you carry through website
+- type: DATA
+  id: detail of visit to website
+- type: DATA
+  id: device information
+- type: DATA
+  id: device screen size
+- type: DATA
+  id: device type
+- type: DATA
+  id: email address
+- type: DATA
+  id: error information
+- type: DATA
+  id: file
+- type: DATA
+  id: gender
+- type: DATA
+  id: gender expression
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: glucose level
+- type: DATA
+  id: health information cover
+- type: DATA
+  id: health insurance information
+- type: DATA
+  id: identifier
+- type: DATA
+  id: identifier information
+- type: DATA
+  id: inference
+- type: DATA
+  id: inference draw from personal information
+- type: DATA
+  id: information about equipment
+- type: DATA
+  id: information about use of service
+- type: DATA
+  id: information about you be
+- type: DATA
+  id: information collect
+- type: DATA
+  id: information collect about use of services
+- type: DATA
+  id: information collect in course of
+- type: DATA
+  id: information exclude from scope of ccpa
+- type: DATA
+  id: information from provider
+- type: DATA
+  id: information from service provider
+- type: DATA
+  id: information from source as
+- type: DATA
+  id: information on interaction with website
+- type: DATA
+  id: information relate to use of application
+- type: DATA
+  id: information we collect about you
+- type: DATA
+  id: interaction with website
+- type: DATA
+  id: internet
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: link click
+- type: DATA
+  id: log
+- type: DATA
+  id: medical history
+- type: DATA
+  id: medical information
+- type: DATA
+  id: metadata
+- type: DATA
+  id: movement
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: oxygen saturation
+- type: DATA
+  id: payment for service
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information category list in california customer records statute
+- type: DATA
+  id: personal information ihealth collect in precede month
+- type: DATA
+  id: personal information provide in verifiable consumer request
+- type: DATA
+  id: phi
+- type: DATA
+  id: phi we need
+- type: DATA
+  id: phone number
+- type: DATA
+  id: physical pattern
+- type: DATA
+  id: physiological characteristic
+- type: DATA
+  id: postal address
+- type: DATA
+  id: profile reflect preference
+- type: DATA
+  id: protected classification
+- type: DATA
+  id: pulse rate
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: session recording
+- type: DATA
+  id: several type
+- type: DATA
+  id: sleep datum
+- type: DATA
+  id: specific piece of personal information we collect about you
+- type: DATA
+  id: store information
+- type: DATA
+  id: temperature
+- type: DATA
+  id: time spend on page
+- type: DATA
+  id: track activity across time
+- type: DATA
+  id: traffic datum
+- type: DATA
+  id: type of information
+- type: DATA
+  id: usage detail
+- type: DATA
+  id: weight

@@ -1,0 +1,1224 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may request additional information from you in order to verify your identity
+    and update your Personal Information per your request.
+  purposes:
+    security:
+    - in order to verify your identity and update your Personal Information per your
+      request
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use de-identified information without restriction and may share it with
+    unaffiliated third parties.
+  purposes: {}
+- source: we
+  target: clickstream datum
+  key: COLLECT
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - When submitting your request, please provide us with your name and contact information
+    for purposes of enabling us to begin verifying your identity.
+  purposes:
+    security:
+    - for purposes of enabling us to begin verifying your identity
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'We may use both first-party and third-party cookies on the Sites for the following
+    purposes: to make the Sites function properly, to improve the Sites, to track
+    your interaction with the Sites, to enhance your experience with the Sites, to
+    remember information you have already provided, to collect information about your
+    activities over time and across third party websites or other online services
+    in order to deliver content tailored to your interests; and to provide a secure
+    browsing experience during your use of the Sites.'
+  - We may use functional cookies to remember your choices so we can tailor the Sites
+    to provide you with enhanced features and personalized content.
+  - We may use these cookies in limited circumstances associated with our public-facing
+    sites.
+  - We would use the information collected by such cookies to improve and optimize
+    the Sites.
+  purposes:
+    analytics:
+    - 'for the following purposes: to make the Sites function properly, to improve
+      the Sites, to track your interaction with the Sites, to enhance your experience
+      with the Sites, to remember information you have already provided, to collect
+      information about your activities over time and across third party websites
+      or other online services in order to deliver content tailored to your interests;
+      and to provide a secure browsing experience during your use of the Sites'
+    services:
+    - 'for the following purposes: to make the Sites function properly, to improve
+      the Sites, to track your interaction with the Sites, to enhance your experience
+      with the Sites, to remember information you have already provided, to collect
+      information about your activities over time and across third party websites
+      or other online services in order to deliver content tailored to your interests;
+      and to provide a secure browsing experience during your use of the Sites'
+    - to improve and optimize the Sites
+    - to remember your choices
+- source: we
+  target: diagnostic datum
+  key: COLLECT
+  text:
+  - This information includes log files, timestamps, diagnostic or crash data, website/app
+    performance logs and error messages or reports.
+  - We collect information about how our Services are performing when you use them,
+    like service related diagnostic and performance information.
+  purposes: {}
+- source: we
+  target: error message
+  key: COLLECT
+  text:
+  - This information includes log files, timestamps, diagnostic or crash data, website/app
+    performance logs and error messages or reports.
+  - We collect information about how our Services are performing when you use them,
+    like service related diagnostic and performance information.
+  purposes: {}
+- source: we
+  target: information about visit to site
+  key: COLLECT
+  text:
+  - We may use Google Analytics to obtain information about your visits to the Sites.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - We may request additional information about you if needed to verify your identity.
+  purposes:
+    security:
+    - to verify your identity
+- source: we
+  target: information available from third party service provider
+  key: COLLECT
+  text:
+  - We may collect information available about you from third party service providers
+    to improve the Services, such as identifying health factors related to your treatment
+    to better tailor the Services to you.
+  purposes:
+    services:
+    - to improve the Services
+- source: we
+  target: information on sites
+  key: COLLECT
+  text:
+  - We may use technologies such as cookies, web beacons or pixels, tags, scripts,
+    and other storage technologies (collectively "Tracking Technologies" ) to collect
+    or receive information on the Sites.
+  purposes: {}
+- source: we
+  target: information we get
+  key: COLLECT
+  text:
+  - We use the information we get to improve our Sites and to tailor the Sites to
+    you.
+  purposes:
+    services:
+    - to improve our Sites and to tailor the Sites to you
+- source: we
+  target: log file
+  key: COLLECT
+  text:
+  - This information includes log files, timestamps, diagnostic or crash data, website/app
+    performance logs and error messages or reports.
+  - We collect information about how our Services are performing when you use them,
+    like service related diagnostic and performance information.
+  purposes: {}
+- source: we
+  target: medical record
+  key: COLLECT
+  text:
+  - In connection with your treatment, we may collect medical records from your past,
+    current, and future health care providers.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - When submitting your request, please provide us with your name and contact information
+    for purposes of enabling us to begin verifying your identity.
+  purposes:
+    security:
+    - for purposes of enabling us to begin verifying your identity
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - We may collect information that identifies, relates to, describes, is reasonably
+    capable of being associated with, or could be reasonably linked, directly or indirectly,
+    with a particular user or household ("Personal Information") as further described
+    in the following categories below.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - By using the Services, and visiting the Sites, you agree that we can collect and
+    use your Personal Information as described in this Privacy Statement.
+  - From time to time, we may be required to provide Personal Information to a third
+    party in order to comply with a subpoena, court order, government investigation,
+    or other similar legal process.
+  - If we are involved in a bankruptcy, merger, acquisition, reorganization, or sale
+    of all or a portion of our assets, we may share or transfer your Personal Information
+    as part of such corporate transaction.
+  - 'To help you read this Privacy Statement, we have organized it into the following
+    sections: How We Use and Share Personal Information'
+  - We collect Personal Information from you, from your use of the Services, when
+    you visit the Sites, and from certain third-party sources.
+  - We may collect information that identifies, relates to, describes, is reasonably
+    capable of being associated with, or could be reasonably linked, directly or indirectly,
+    with a particular user or household ("Personal Information") as further described
+    in the following categories below.
+  - 'We may share your Personal Information if we believe it is reasonably necessary
+    to: - Comply with valid legal process (e.g., subpoenas, warrants); - Respond to
+    a government request; - Enforce or apply the Sword Terms and Conditions; - Investigate
+    fraud; - Protect the security or integrity of the Services; - Protect the rights,
+    property, or safety of Sword, our employees, members, or users; or - At your direction
+    or with your permission.'
+  - We may share your Personal Information with our subsidiaries, affiliates, and
+    associated organizations;
+  - We may share your Personal Information with research partners if you provide us
+    with your express consent or if otherwise permitted by law.
+  - We may share your Personal Information with service providers, such as contractors
+    and other third parties we use to support our organization and provide us with
+    services.
+  - 'We may use the Personal Information we collect for one or more of the following
+    business purposes:'
+  purposes:
+    advertising:
+    - for their own marketing purposes
+    legal:
+    - in order to comply with a subpoena, court order, government investigation, or
+      other similar legal process
+- source: we
+  target: personal information provide in verification process
+  key: COLLECT
+  text:
+  - Unless you have previously provided us your Personal Information for another purpose,
+    we will only use the Personal Information provided in the verification process
+    to verify your identity or authority to make a request, and to track and document
+    your request to meet our obligations.
+  purposes:
+    security:
+    - to verify your identity or authority to make a request, and to track and document
+      your request to meet our obligations
+- source: we
+  target: preference
+  key: COLLECT
+  text:
+  - These Tracking Technologies may help us save your preferences, understand how
+    you navigate through the Sites, and improve your experience.
+  purposes: {}
+- source: we
+  target: relate diagnostic information
+  key: COLLECT
+  text:
+  - We collect information about how our Services are performing when you use them,
+    like service related diagnostic and performance information.
+  purposes: {}
+- source: we
+  target: report
+  key: COLLECT
+  text:
+  - This information includes log files, timestamps, diagnostic or crash data, website/app
+    performance logs and error messages or reports.
+  - We collect information about how our Services are performing when you use them,
+    like service related diagnostic and performance information.
+  purposes: {}
+- source: we
+  target: timestamp
+  key: COLLECT
+  text:
+  - This information includes log files, timestamps, diagnostic or crash data, website/app
+    performance logs and error messages or reports.
+  - We collect information about how our Services are performing when you use them,
+    like service related diagnostic and performance information.
+  purposes: {}
+- source: we
+  target: website app performance log
+  key: COLLECT
+  text:
+  - This information includes log files, timestamps, diagnostic or crash data, website/app
+    performance logs and error messages or reports.
+  - We collect information about how our Services are performing when you use them,
+    like service related diagnostic and performance information.
+  purposes: {}
+- source: Facebook
+  target: collect data
+  key: COLLECT
+  text:
+  - However, the collected data is saved and processed by Facebook and Facebook may
+    be able to connect the data with your Facebook account and use the data for their
+    own advertising purposes in accordance with Facebook's Data Use Policy .
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Such third parties may use cookies, APIs, and SDKs on our Sites to enable them
+    to collect and analyze user and device related data and information on our behalf.
+  - The cookies can limit the number of times you see an advert and help to measure
+    the effectiveness of any advertising.
+  - They remember that you have visited a website and this information may be shared
+    with other organizations or advertisers.
+  purposes:
+    analytics:
+    - to enable them to collect and analyze user and device related data and information
+      on our behalf
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - From time to time, we may be required to provide Personal Information to a third
+    party in order to comply with a subpoena, court order, government investigation,
+    or other similar legal process.
+  - We may share your Personal Information with our subsidiaries, affiliates, and
+    associated organizations;
+  purposes:
+    legal:
+    - in order to comply with a subpoena, court order, government investigation, or
+      other similar legal process
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - The cookies can limit the number of times you see an advert and help to measure
+    the effectiveness of any advertising.
+  - They remember that you have visited a website and this information may be shared
+    with other organizations or advertisers.
+  purposes: {}
+- source: associate organization
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your Personal Information with our subsidiaries, affiliates, and
+    associated organizations;
+  purposes: {}
+- source: health care organization
+  target: personal information we create
+  key: COLLECT
+  text:
+  - Personal Information that we create or obtain about you may be shared with health
+    care providers, health plans, or other similar health care organizations as permitted
+    by law or pursuant to your consent.
+  purposes: {}
+- source: health care provider
+  target: personal information we create
+  key: COLLECT
+  text:
+  - Personal Information that we create or obtain about you may be shared with health
+    care providers, health plans, or other similar health care organizations as permitted
+    by law or pursuant to your consent.
+  purposes: {}
+- source: health plan
+  target: personal information we create
+  key: COLLECT
+  text:
+  - Personal Information that we create or obtain about you may be shared with health
+    care providers, health plans, or other similar health care organizations as permitted
+    by law or pursuant to your consent.
+  purposes: {}
+- source: research partner
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your Personal Information with research partners if you provide us
+    with your express consent or if otherwise permitted by law.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your Personal Information with service providers, such as contractors
+    and other third parties we use to support our organization and provide us with
+    services.
+  purposes: {}
+- source: sword
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Sword may also collect certain information when you access, browse, and use our
+    Services.
+  - Sword may also retain certain information as reasonably necessary to comply with
+    our legal obligations (including law enforcement requests), resolve disputes,
+    maintain security, prevent fraud and abuse, as well as to comply with tax, securities,
+    and regulatory compliance requirements.
+  purposes:
+    legal:
+    - to comply with our legal obligations (including law enforcement requests), resolve
+      disputes, maintain security, prevent fraud and abuse, as well as to comply with
+      tax, securities, and regulatory compliance requirements
+    security:
+    - to comply with our legal obligations (including law enforcement requests), resolve
+      disputes, maintain security, prevent fraud and abuse, as well as to comply with
+      tax, securities, and regulatory compliance requirements
+- source: sword
+  target: clinical record create as result of use of services
+  key: COLLECT
+  text:
+  - Any clinical records created as a result of your use of the Services will be securely
+    maintained by Sword for a period that is no less than the minimum number of years
+    such records are required to be maintained under applicable law, which is typically
+    at least six years.
+  purposes: {}
+- source: sword
+  target: information you provide to we include
+  key: COLLECT
+  text:
+  - Sword collects information that you provide to us, including when you enroll,
+    give updates about your condition, respond to a survey, or contact us.
+  purposes: {}
+- source: sword
+  target: personal information
+  key: COLLECT
+  text:
+  - 'How We Use and Share Personal Information
+
+
+    Sharing Personal Information
+
+
+    Sword may share Personal Information with the following categories of third parties
+    for the following purposes:'
+  - Sword will retain the Personal Information you provide while creating your account
+    and your profile until such time as you delete your account or you request deletion
+    provided you are entitled to request deletion under applicable law.
+  purposes: {}
+- source: sword
+  target: phi
+  key: COLLECT
+  text:
+  - The HIPAA Notice of Privacy Practices describes how Sword uses and shares PHI
+    and contains more information about your rights under HIPAA.
+  purposes: {}
+- source: tool
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These tools use cookies to collect information such as how often users visit the
+    Sites, what pages they visit, and what other websites they used prior to coming
+    to the Sites.
+  purposes: {}
+- source: tool
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - These tools use cookies to collect information such as how often users visit the
+    Sites, what pages they visit, and what other websites they used prior to coming
+    to the Sites.
+  purposes: {}
+- source: aggregate / deidentified / pseudonymized information
+  target: for aggregate statistic
+  key: SUBSUM
+  text:
+  - '- To create de-identified information (for example, aggregated statistics) related
+    to the use of the Services or for scientific research;'
+- source: clickstream datum
+  target: access time
+  key: SUBSUM
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+- source: clickstream datum
+  target: browser type
+  key: SUBSUM
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+- source: clickstream datum
+  target: device type
+  key: SUBSUM
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+- source: clickstream datum
+  target: domain name
+  key: SUBSUM
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+- source: clickstream datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+- source: clickstream datum
+  target: relevant statistic
+  key: SUBSUM
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+- source: clickstream datum
+  target: version
+  key: SUBSUM
+  text:
+  - We may also use tracking technologies to collect "clickstream" data, such as the
+    domain name of the service providing you with Internet access, your device type,
+    IP address used to connect your computer to the Internet, your browser type and
+    version, operating system and platform, the average time spent on the Sites, web
+    pages viewed, content searched for, access times and other relevant statistics,
+    and assign unique identifiers to the device or other credentials you use to access
+    the Sites for the same purposes.
+- source: datum from tracking technologies
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Identifiers or Geolocation data , such as Internet Protocol (IP) address; Sensor
+    data , the type and order of exercises, number of repetitions, duration, manner,
+    and individual performance including range of motion, movement errors, and compliance
+    with the assignment movement; and Data from Tracking Technologies , such as information
+    from cookies, web beacons, tags or other tracking technologies, as further described
+    below.
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - Identifiers or Geolocation data , such as Internet Protocol (IP) address; Sensor
+    data , the type and order of exercises, number of repetitions, duration, manner,
+    and individual performance including range of motion, movement errors, and compliance
+    with the assignment movement; and Data from Tracking Technologies , such as information
+    from cookies, web beacons, tags or other tracking technologies, as further described
+    below.
+- source: identify information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: medical information
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: mental condition information
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: password
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: professional information
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: identify information
+  target: username
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: information contain in eligibility file
+  target: email address
+  key: SUBSUM
+  text:
+  - 'If you are participating in a program sponsored by your employer, insurance provider,
+    or healthcare provider, information contained in an eligibility file such as whether
+    you are enrolled in the plan, your name, email, and some related health information;
+    Information We Obtain From Your Health Care Providers and Other Sources:'
+- source: information contain in eligibility file
+  target: person name
+  key: SUBSUM
+  text:
+  - 'If you are participating in a program sponsored by your employer, insurance provider,
+    or healthcare provider, information contained in an eligibility file such as whether
+    you are enrolled in the plan, your name, email, and some related health information;
+    Information We Obtain From Your Health Care Providers and Other Sources:'
+- source: information contain in eligibility file
+  target: related health information
+  key: SUBSUM
+  text:
+  - 'If you are participating in a program sponsored by your employer, insurance provider,
+    or healthcare provider, information contained in an eligibility file such as whether
+    you are enrolled in the plan, your name, email, and some related health information;
+    Information We Obtain From Your Health Care Providers and Other Sources:'
+- source: information we collect
+  target: device reading
+  key: SUBSUM
+  text:
+  - Some of the information we collect relating to the Clinical Services may be Protected
+    Health Information ("PHI") under the Health Insurance Portability and Accountability
+    Act of 1996 ("HIPAA"), such as your medical records that we receive from your
+    healthcare provider, your lab results, your initial assessments, or device readings.
+- source: information we collect
+  target: lab result
+  key: SUBSUM
+  text:
+  - Some of the information we collect relating to the Clinical Services may be Protected
+    Health Information ("PHI") under the Health Insurance Portability and Accountability
+    Act of 1996 ("HIPAA"), such as your medical records that we receive from your
+    healthcare provider, your lab results, your initial assessments, or device readings.
+- source: information we collect
+  target: medical record
+  key: SUBSUM
+  text:
+  - Some of the information we collect relating to the Clinical Services may be Protected
+    Health Information ("PHI") under the Health Insurance Portability and Accountability
+    Act of 1996 ("HIPAA"), such as your medical records that we receive from your
+    healthcare provider, your lab results, your initial assessments, or device readings.
+- source: internet activity
+  target: date
+  key: SUBSUM
+  text:
+  - 'Internet and other electronic activity data , such as the name of the domain
+    and host from which you access the internet; the browser software you use and
+    your operating system; the date and time you access the service; how often you
+    access the Services, and the internet address of the website from which you directly
+    linked to Sword; Log and Troubleshooting Information:'
+- source: internet activity
+  target: host
+  key: SUBSUM
+  text:
+  - 'Internet and other electronic activity data , such as the name of the domain
+    and host from which you access the internet; the browser software you use and
+    your operating system; the date and time you access the service; how often you
+    access the Services, and the internet address of the website from which you directly
+    linked to Sword; Log and Troubleshooting Information:'
+- source: internet activity
+  target: internet address of website from you link to sword
+  key: SUBSUM
+  text:
+  - 'Internet and other electronic activity data , such as the name of the domain
+    and host from which you access the internet; the browser software you use and
+    your operating system; the date and time you access the service; how often you
+    access the Services, and the internet address of the website from which you directly
+    linked to Sword; Log and Troubleshooting Information:'
+- source: internet activity
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Internet and other electronic activity data , such as the name of the domain
+    and host from which you access the internet; the browser software you use and
+    your operating system; the date and time you access the service; how often you
+    access the Services, and the internet address of the website from which you directly
+    linked to Sword; Log and Troubleshooting Information:'
+- source: internet browser
+  target: Mozilla Foundation
+  key: SUBSUM
+  text:
+  - Some Internet browsers (e.g. Internet Explorer, Mozilla Firefox, and Safari) include
+    the ability to transmit "Do Not Track" or "DNT" signals.
+- source: internet browser
+  target: internet explorer
+  key: SUBSUM
+  text:
+  - Some Internet browsers (e.g. Internet Explorer, Mozilla Firefox, and Safari) include
+    the ability to transmit "Do Not Track" or "DNT" signals.
+- source: internet browser
+  target: safari
+  key: SUBSUM
+  text:
+  - Some Internet browsers (e.g. Internet Explorer, Mozilla Firefox, and Safari) include
+    the ability to transmit "Do Not Track" or "DNT" signals.
+- source: mental condition information
+  target: exercise pattern
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: mental condition information
+  target: general health
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: mental condition information
+  target: height
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: mental condition information
+  target: personal motivation
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: mental condition information
+  target: weight
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: professional information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: professional information
+  target: professional information you provide to we
+  key: SUBSUM
+  text:
+  - 'Personal Information We Collect
+
+
+    Information You Provide To Us
+
+
+    Contact or other Identifying Information , such as your name, address, email address,
+    telephone number, username and password; Professional or employment-related information
+    , such as the name of your employer, company, and other professional or employment
+    information you provide to us; Mental and physical condition information , such
+    as height, weight, general health, feelings of pain and fatigue, exercise patterns,
+    personal motivations, information about pregnancies and childbirth, and feelings
+    of anxiety or depression; Medical information such as current or former injuries,
+    medical diagnoses, and whether you are cleared by a physician to exercise; and
+    Communications with Sword, including with the Professionals.'
+- source: sensor datum
+  target: movement error
+  key: SUBSUM
+  text:
+  - Identifiers or Geolocation data , such as Internet Protocol (IP) address; Sensor
+    data , the type and order of exercises, number of repetitions, duration, manner,
+    and individual performance including range of motion, movement errors, and compliance
+    with the assignment movement; and Data from Tracking Technologies , such as information
+    from cookies, web beacons, tags or other tracking technologies, as further described
+    below.
+- source: sensor datum
+  target: range of motion
+  key: SUBSUM
+  text:
+  - Identifiers or Geolocation data , such as Internet Protocol (IP) address; Sensor
+    data , the type and order of exercises, number of repetitions, duration, manner,
+    and individual performance including range of motion, movement errors, and compliance
+    with the assignment movement; and Data from Tracking Technologies , such as information
+    from cookies, web beacons, tags or other tracking technologies, as further described
+    below.
+- source: separate entity
+  target: individual
+  key: SUBSUM
+  text:
+  - SWORD Health, Inc.' contracts with separate entities, including but not limited
+    to Sword Health Care Providers, P.A., Sword Health Care Providers of NJ, P.C.,
+    Sword Health Care Physical Therapy Providers of CA, P.C., other professional practices,
+    companies and individuals (the "Sword Professionals") to engage independent doctors
+    of physical therapy and other professionals (each a "Professional" or together,
+    the "Professionals") to provide Clinical Services to you.
+- source: separate entity
+  target: sword health care physical therapy providers of ca
+  key: SUBSUM
+  text:
+  - SWORD Health, Inc.' contracts with separate entities, including but not limited
+    to Sword Health Care Providers, P.A., Sword Health Care Providers of NJ, P.C.,
+    Sword Health Care Physical Therapy Providers of CA, P.C., other professional practices,
+    companies and individuals (the "Sword Professionals") to engage independent doctors
+    of physical therapy and other professionals (each a "Professional" or together,
+    the "Professionals") to provide Clinical Services to you.
+- source: separate entity
+  target: sword health care providers
+  key: SUBSUM
+  text:
+  - SWORD Health, Inc.' contracts with separate entities, including but not limited
+    to Sword Health Care Providers, P.A., Sword Health Care Providers of NJ, P.C.,
+    Sword Health Care Physical Therapy Providers of CA, P.C., other professional practices,
+    companies and individuals (the "Sword Professionals") to engage independent doctors
+    of physical therapy and other professionals (each a "Professional" or together,
+    the "Professionals") to provide Clinical Services to you.
+- source: separate entity
+  target: sword professionals
+  key: SUBSUM
+  text:
+  - SWORD Health, Inc.' contracts with separate entities, including but not limited
+    to Sword Health Care Providers, P.A., Sword Health Care Providers of NJ, P.C.,
+    Sword Health Care Physical Therapy Providers of CA, P.C., other professional practices,
+    companies and individuals (the "Sword Professionals") to engage independent doctors
+    of physical therapy and other professionals (each a "Professional" or together,
+    the "Professionals") to provide Clinical Services to you.
+- source: service provider
+  target: contractor
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with service providers, such as contractors
+    and other third parties we use to support our organization and provide us with
+    services.
+- source: support function
+  target: phone support
+  key: SUBSUM
+  text:
+  - These companies include our cloud services infrastructure providers, vendors that
+    assist us in marketing and consumer research analytics, fraud prevention, security,
+    communications infrastructure providers, vendors that help us provide some support
+    functions, like phone support or survey tools, and third party partners for analytics
+    and advertising purposes;
+- source: technology
+  target: storage technology
+  key: SUBSUM
+  text:
+  - We may use technologies such as cookies, web beacons or pixels, tags, scripts,
+    and other storage technologies (collectively "Tracking Technologies" ) to collect
+    or receive information on the Sites.
+- source: tool
+  target: Facebook
+  key: SUBSUM
+  text:
+  - We may use tools such as Google Analytics, Facebook, and LinkedIn to help analyze
+    how individuals use the Sites.
+- source: tool
+  target: Google
+  key: SUBSUM
+  text:
+  - We may use tools such as Google Analytics, Facebook, and LinkedIn to help analyze
+    how individuals use the Sites.
+- source: tool
+  target: Microsoft
+  key: SUBSUM
+  text:
+  - We may use tools such as Google Analytics, Facebook, and LinkedIn to help analyze
+    how individuals use the Sites.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: Microsoft
+- type: ACTOR
+  id: Mozilla Foundation
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: associate organization
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: health care organization
+- type: ACTOR
+  id: health care provider
+- type: ACTOR
+  id: health plan
+- type: ACTOR
+  id: individual
+- type: ACTOR
+  id: internet browser
+- type: ACTOR
+  id: internet explorer
+- type: ACTOR
+  id: phone support
+- type: ACTOR
+  id: research partner
+- type: ACTOR
+  id: safari
+- type: ACTOR
+  id: separate entity
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: storage technology
+- type: ACTOR
+  id: support function
+- type: ACTOR
+  id: sword
+- type: ACTOR
+  id: sword health care physical therapy providers of ca
+- type: ACTOR
+  id: sword health care providers
+- type: ACTOR
+  id: sword professionals
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: tool
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: access time
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: clinical record create as result of use of services
+- type: DATA
+  id: collect data
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date
+- type: DATA
+  id: datum from tracking technologies
+- type: DATA
+  id: device reading
+- type: DATA
+  id: device type
+- type: DATA
+  id: diagnostic datum
+- type: DATA
+  id: domain name
+- type: DATA
+  id: email address
+- type: DATA
+  id: error message
+- type: DATA
+  id: exercise pattern
+- type: DATA
+  id: for aggregate statistic
+- type: DATA
+  id: general health
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: height
+- type: DATA
+  id: host
+- type: DATA
+  id: identify information
+- type: DATA
+  id: information about visit to site
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information available from third party service provider
+- type: DATA
+  id: information contain in eligibility file
+- type: DATA
+  id: information on sites
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information we get
+- type: DATA
+  id: information you provide to we include
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: internet address of website from you link to sword
+- type: DATA
+  id: ip address
+- type: DATA
+  id: lab result
+- type: DATA
+  id: log file
+- type: DATA
+  id: medical information
+- type: DATA
+  id: medical record
+- type: DATA
+  id: mental condition information
+- type: DATA
+  id: movement error
+- type: DATA
+  id: password
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information provide in verification process
+- type: DATA
+  id: personal information we create
+- type: DATA
+  id: personal motivation
+- type: DATA
+  id: phi
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: preference
+- type: DATA
+  id: professional information
+- type: DATA
+  id: professional information you provide to we
+- type: DATA
+  id: range of motion
+- type: DATA
+  id: relate diagnostic information
+- type: DATA
+  id: related health information
+- type: DATA
+  id: relevant statistic
+- type: DATA
+  id: report
+- type: DATA
+  id: sensor datum
+- type: DATA
+  id: timestamp
+- type: DATA
+  id: username
+- type: DATA
+  id: version
+- type: DATA
+  id: website app performance log
+- type: DATA
+  id: weight

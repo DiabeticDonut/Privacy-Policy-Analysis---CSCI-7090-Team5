@@ -1,0 +1,1663 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As further described in the "Cookies" section below, our websites and online services
+    store and retrieve cookie identifiers, mobile IDs, and other data.
+  - If you choose to provide it, we may collect special category data, such as in
+    our onboarding forms and initial assessments, and in your communications to Big
+    Health and our affiliates.
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  - Note that sometimes we receive information from and share information among the
+    Big Health Inc. and Big Health Ltd, and vice versa.
+  - 'Section 6: Data Protection Preferences and Rights
+
+
+    Section 6a: Data Protection Preferences and Rights for the European Union (EU),
+    the European Economic Area (EEA) or the United Kingdom (UK)
+
+
+    Special Category Data'
+  - We collect information that you provide to us, information we obtain automatically
+    when you use our Services, information from other sources such as your employer,
+    and third-party services and organizations, as described below.
+  - We may also sell, assign, or otherwise transfer such information in the course
+    of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions,
+    reorganizations, liquidations, similar transactions or proceedings involving all
+    or a portion of Big Health.
+  - We may receive information from your employer to enable us to confirm your eligibility
+    or the eligibility of your dependents or household members, contact you in order
+    to inform you of the availability of the Services, help us measure the effectiveness
+    of the Services, or better support communications with your or other individuals
+    as permitted by law.
+  - We process this Personal Data solely for the purposes of facilitating your receipt
+    of our mental health services via our technological Services, in accordance with
+    your explicit consent per Article 9(2)(a) GDPR.
+  - We, our Service Providers, and our Third Party Business Partners, may also collect
+    certain information about the use of our websites and mobile applications by automated
+    means, such as cookies, web beacons and other technologies ("Technologies").
+  purposes:
+    analytics:
+    - to enable us to confirm your eligibility or the eligibility of your dependents
+      or household members, contact you in order to inform you of the availability
+      of the Services, help us measure the effectiveness of the Services, or better
+      support communications with your or other individuals as permitted by law
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+    - solely for the purposes of facilitating your receipt of our mental health services
+      via our technological Services
+    - to enable us to confirm your eligibility or the eligibility of your dependents
+      or household members, contact you in order to inform you of the availability
+      of the Services, help us measure the effectiveness of the Services, or better
+      support communications with your or other individuals as permitted by law
+- source: we
+  target: activity on website
+  key: COLLECT
+  text:
+  - We automatically log your activity on our websites, Apps, and connected products,
+    including the URL of the website from which you came to our sites, pages you viewed,
+    how long you spent on a page, access times, and other details about your use of
+    and actions on our website.
+  purposes: {}
+- source: we
+  target: aggregate de - identified clinical datum
+  key: COLLECT
+  text:
+  - In some cases, we use aggregated, de-identified clinical data to provide our customers
+    with insight into how their employees are using our Services.
+  purposes:
+    analytics:
+    - to provide our customers with insight into how their employees are using our
+      Services
+- source: we
+  target: collect feedback in material
+  key: COLLECT
+  text:
+  - We may also use collected feedback in our materials to educate others on the benefits
+    of our products but will always get your permission to do so first.
+  purposes:
+    advertising:
+    - to educate others on the benefits of our products
+    analytics:
+    - to educate others on the benefits of our products
+    services:
+    - to educate others on the benefits of our products
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - As further described in the "Cookies" section below, our websites and online services
+    store and retrieve cookie identifiers, mobile IDs, and other data.
+  - Big Health does not "sell" or "share" personal information for money under the
+    CCPA's broad definitions, but Big Health may "sell" or "share" personal information
+    through the use of advertising and analytics-related cookies and pixels on our
+    corporate website.
+  - We use these cookies and pixels for the sole purposes of analytics and for providing
+    targeted behavioral advertising based on your interest in Big Health.
+  purposes:
+    advertising:
+    - for the sole purposes of analytics and for providing targeted behavioral advertising
+      based on your interest in Big Health
+    analytics:
+    - for the sole purposes of analytics and for providing targeted behavioral advertising
+      based on your interest in Big Health
+- source: we
+  target: datum encryption
+  key: COLLECT
+  text:
+  - However, we do use firewalls, data encryption at rest and in transit to protect
+    your Personal Data.
+  purposes:
+    security:
+    - to protect your Personal Data
+- source: we
+  target: demographic information
+  key: COLLECT
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  purposes:
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - As further described in the "Cookies" section below, our websites and online services
+    store and retrieve cookie identifiers, mobile IDs, and other data.
+  purposes: {}
+- source: we
+  target: eligibility information
+  key: COLLECT
+  text:
+  - We ask you to provide your name, organization, and eligibility information to
+    verify your eligibility to receive certain Services from us, certain essential
+    details about yourself and your lifestyle during onboarding so that we may recommend
+    programs to you.
+  purposes:
+    services:
+    - to verify your eligibility to receive certain Services from us, certain essential
+      details about yourself and your lifestyle during onboarding
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - Depending on your device and app settings, we collect geolocation data when you
+    use our Apps or online services.
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - 'Section 2: Uses of Personal Information
+
+
+    Advertising and Personalization:
+
+
+    We use information about how you have interacted with our Services to target and
+    serve personalized online ads to you.'
+  purposes:
+    advertising:
+    - to target and serve personalized online ads to you
+- source: we
+  target: information about mood
+  key: COLLECT
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  purposes:
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'Section 2: Uses of Personal Information
+
+
+    With your consent:
+
+
+    We may use information about you in other ways or for other purposes, where you
+    have given us consent to do so for a specific purpose not listed above.'
+  - We automatically log information about you and your computer, phone, tablet or
+    other devices you use to access the Services.
+  - We may get information about you from other sources, such as your employer, benefits
+    providers, or third-party care providers.
+  - We may use both Protected Information and other information about you to create
+    de-identified and/or aggregated information, such as de-identified demographic
+    information, location information, information about the device from which you
+    access the Services, or other data sets we may create.
+  - 'We use information about you to provide the Services to you, including to:'
+  purposes:
+    advertising:
+    - 'to: Provide search results and notifications that are most relevant for you'
+    - 'to: To inform your Employer or Benefit Sponsor, if you have one, about your
+      registration and other information as described below;'
+    analytics:
+    - to create de-identified and/or aggregated information, such as de-identified
+      demographic information, location information, information about the device
+      from which you access the Services, or other data sets we may create
+    - 'to: Evaluate progress against your self-defined goals;'
+    - 'to: Provide search results and notifications that are most relevant for you'
+    legal:
+    - 'to: Audit interactions, transactions and other compliance activities; and'
+    security:
+    - 'to: Audit interactions, transactions and other compliance activities; and'
+    - 'to: Debug or identify and repair errors with the Services'
+    - 'to: Detect security incidents, protect against malicious, deceptive, fraudulent
+      or illegal activity, and prosecute those responsible for that activity;'
+    - 'to: Ensure internal quality control and safety'
+    - 'to: Help establish and verify the identity and eligibility of users'
+    services:
+    - 'to provide the Services to you, including to:'
+    - 'to: Allow you to register for events'
+    - 'to: Audit interactions, transactions and other compliance activities; and'
+    - 'to: Debug or identify and repair errors with the Services'
+    - 'to: Open, maintain, administer, and manage profiles and accounts for registered
+      users'
+    - 'to: Provide search results and notifications that are most relevant for you'
+    - 'to: Provide you with customized products, Services, content, offers, or materials'
+    - 'to: Provide, deliver, operate and maintain the Services and other products
+      and services that you request, including those from our selected partners;'
+    - 'to: Recommend Services and treatment that may be a good fit for you'
+    - 'to: Respond to comments and questions and provide customer service or technical
+      support'
+    - 'to: To inform your Employer or Benefit Sponsor, if you have one, about your
+      registration and other information as described below;'
+- source: we
+  target: information relate to sleep habit
+  key: COLLECT
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  purposes:
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - We may aggregate and/or de-identify any information that we collect, such that
+    the information no longer identifies any specific individual and therefore is
+    no longer considered personal information.
+  - We may use, disclose and otherwise process such information for our own legitimate
+    business purposes - including historical and statistical analysis and business
+    planning - without restriction.
+  purposes:
+    analytics:
+    - for our own legitimate business purposes - including historical and statistical
+      analysis and business planning -
+- source: we
+  target: information we obtain
+  key: COLLECT
+  text:
+  - We collect information that you provide to us, information we obtain automatically
+    when you use our Services, information from other sources such as your employer,
+    and third-party services and organizations, as described below.
+  purposes: {}
+- source: we
+  target: information you give we through services
+  key: COLLECT
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  purposes:
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - We collect information that you provide to us, information we obtain automatically
+    when you use our Services, information from other sources such as your employer,
+    and third-party services and organizations, as described below.
+  purposes: {}
+- source: we
+  target: insurance information
+  key: COLLECT
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  purposes:
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+- source: we
+  target: organization
+  key: COLLECT
+  text:
+  - We ask you to provide your name, organization, and eligibility information to
+    verify your eligibility to receive certain Services from us, certain essential
+    details about yourself and your lifestyle during onboarding so that we may recommend
+    programs to you.
+  purposes:
+    services:
+    - to verify your eligibility to receive certain Services from us, certain essential
+      details about yourself and your lifestyle during onboarding
+- source: we
+  target: payment datum
+  key: COLLECT
+  text:
+  - When you provide payment data, for example to make a purchase, we will disclose
+    payment and transactional data to banks and other entities as necessary for payment
+    processing, fraud prevention, credit risk reduction, analytics, or other related
+    financial services.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - We ask you to provide your name, organization, and eligibility information to
+    verify your eligibility to receive certain Services from us, certain essential
+    details about yourself and your lifestyle during onboarding so that we may recommend
+    programs to you.
+  purposes:
+    services:
+    - to verify your eligibility to receive certain Services from us, certain essential
+      details about yourself and your lifestyle during onboarding
+- source: we
+  target: personal data about representative
+  key: COLLECT
+  text:
+  - We also may collect Personal Data about representatives and contact persons of
+    our vendors and suppliers who are legal entities.
+  purposes: {}
+- source: we
+  target: personal data fall within
+  key: COLLECT
+  text:
+  - If there is a life-threatening emergency and the data subject is physically or
+    legally incapable of giving consent, we may process Personal Data that falls within
+    these special categories as necessary to protect the vital interests of the data
+    subject or another individual per Art. 9(2)(c) GDPR.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - Through our provision of Services, we may have access to Personally Identifiable
+    Information and Protected Health Information (" PHI "), Personal Data, Special
+    Category Data (and variations thereof) that is subject to specific protections
+    under applicable laws (collectively " Protected Information ").
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, we typically transfer your Personal Data to the United States, where
+    Big Health is headquartered, and the United Kingdom, where Big Health Ltd - Big
+    Health Inc.'s parent entity - is located.
+  - If you communicate with us by email, phone, chat, text or within our app, we will
+    collect personal information from you, such as your name, contact information,
+    and information you provide within your communication to us.
+  - In limited cases, we may provide certain Personal Data to third party businesses
+    with which we have a joint promotional relationship, bundled subscription offer,
+    or other trusted partnership.
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, this may include your name, email address, your registration date, and
+    the date on which you last used our Service and may include additional personal
+    information depending on our agreement with your Benefit Sponsor.
+  - In some cases, you may request that we transfer your Personal Data to another
+    data controller.
+  - 'Section 3: Disclosures of Personal Information
+
+
+    We may disclose your personal information with the following categories of third
+    parties:'
+  - 'Specifically, we may transfer Personal Data from the European Economic Area ("
+    EEA "), the United Kingdom or Switzerland to:'
+  - The personal information we may collect depending on how you use our Services
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+  - Through our provision of Services, we may have access to Personally Identifiable
+    Information and Protected Health Information (" PHI "), Personal Data, Special
+    Category Data (and variations thereof) that is subject to specific protections
+    under applicable laws (collectively " Protected Information ").
+  - We disclose your Personal Data to our third-party service providers, such as IT
+    and related services, payment processors, customer service providers, and other
+    vendors that support our provision of the Services.
+  - We may also disclose personal information where we believe that doing so would
+    be in accordance with or required by any applicable law, regulation or legal process.
+  - We may also process your Personal Data to comply with legal and regulatory obligations.
+  - We may collect personal information that you submit or make available through
+    our interactive features (e.g., Care Navigator, commenting functionalities via
+    a supportive online community of other people on the course and course graduates
+    (the " Sleepio Community "), information request forms for our Services and social
+    media pages).
+  - We may disclose your Personal Data to third-party advertising partners.
+  - We may disclose your personal information to the categories of service providers
+    and third parties identified in Section 3 of this Privacy Notice, and in ways
+    that are described in that section.
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  - We may transfer your Personal Data to countries other than the country in which
+    the data was originally collected for the purposes described in this Privacy Notice.
+  - We process Personal Data you provide to us through a sign-up sheet, badge scan,
+    use of our webinar platforms, or other method of collection offered by us as part
+    of our marketing, education and outreach efforts at conferences, meetings, webinars,
+    and events, or as part of our interactions with you.
+  - We will process your Personal Data in accordance with our legal obligations and
+    in a way that protects your privacy to the extent possible, for example, pseudonymizing
+    information, while still complying with our legal obligations.
+  - We will retain Personal Data for as long as necessary to provide our services,
+    but in no case later than six (6) years following termination of your participation
+    with our Services or withdrawal of your consent.
+  - We will retain and use Personal Data as necessary to comply with our legal obligations,
+    resolve disputes, and enforce our agreements.
+  - Where requested by you, we may use your Personal Data to send you information
+    related to our products, services, educational offerings, or the hosting of or
+    attendance at a future conference, meeting, webinar, or event.
+  - You may connect your account through supported integrations with third parties
+    and we may share your personal information with those third parties.
+  purposes:
+    advertising:
+    - to send you information related to our products, services, educational offerings,
+      or the hosting of or attendance at a future conference, meeting, webinar, or
+      event
+    legal:
+    - to comply with legal and regulatory obligations
+    - to comply with our legal obligations, resolve disputes, and enforce our agreements
+    services:
+    - to send you information related to our products, services, educational offerings,
+      or the hosting of or attendance at a future conference, meeting, webinar, or
+      event
+- source: we
+  target: phi
+  key: COLLECT
+  text:
+  - Through our provision of Services, we may have access to Personally Identifiable
+    Information and Protected Health Information (" PHI "), Personal Data, Special
+    Category Data (and variations thereof) that is subject to specific protections
+    under applicable laws (collectively " Protected Information ").
+  purposes: {}
+- source: we
+  target: pixel
+  key: COLLECT
+  text:
+  - We use these cookies and pixels for the sole purposes of analytics and for providing
+    targeted behavioral advertising based on your interest in Big Health.
+  purposes:
+    advertising:
+    - for the sole purposes of analytics and for providing targeted behavioral advertising
+      based on your interest in Big Health
+    analytics:
+    - for the sole purposes of analytics and for providing targeted behavioral advertising
+      based on your interest in Big Health
+- source: we
+  target: protect information
+  key: COLLECT
+  text:
+  - We may use both Protected Information and other information about you to create
+    de-identified and/or aggregated information, such as de-identified demographic
+    information, location information, information about the device from which you
+    access the Services, or other data sets we may create.
+  purposes:
+    analytics:
+    - to create de-identified and/or aggregated information, such as de-identified
+      demographic information, location information, information about the device
+      from which you access the Services, or other data sets we may create
+- source: we
+  target: protected health information
+  key: COLLECT
+  text:
+  - Through our provision of Services, we may have access to Personally Identifiable
+    Information and Protected Health Information (" PHI "), Personal Data, Special
+    Category Data (and variations thereof) that is subject to specific protections
+    under applicable laws (collectively " Protected Information ").
+  purposes: {}
+- source: we
+  target: publicly available information about company
+  key: COLLECT
+  text:
+  - We may process publicly available information about our company, products and
+    services from posts on social media channels and use that information to better
+    understand our products and services.
+  purposes: {}
+- source: we
+  target: relate information
+  key: COLLECT
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  purposes:
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+- source: we
+  target: request
+  key: COLLECT
+  text:
+  - We will process your request in accordance with Privacy Laws such as the California
+    Consumer Privacy Act of 2018 (" CCPA "), as amended by the California Privacy
+    Rights Act (" CPRA "), Virginia Consumer Data Privacy Act (" VCDPA "), the Connecticut
+    Data Privacy Act (" CTDPA "), the Utah Consumer Privacy Act (" UCPA "), the Colorado
+    Privacy Act (" CPA "), and the Nevada Privacy Law (" NPL ").
+  - We will process your request in accordance with applicable data protection laws.
+  purposes: {}
+- source: we
+  target: salary information
+  key: COLLECT
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+  purposes:
+    services:
+    - In order to establish an account and for you to be able to register for and
+      use the Service
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - We use sensitive personal information for the same purposes except for personalizing
+    ads.
+  purposes:
+    advertising:
+    - for the same purposes except for personalizing ads
+- source: we
+  target: special category data
+  key: COLLECT
+  text:
+  - Through our provision of Services, we may have access to Personally Identifiable
+    Information and Protected Health Information (" PHI "), Personal Data, Special
+    Category Data (and variations thereof) that is subject to specific protections
+    under applicable laws (collectively " Protected Information ").
+  purposes: {}
+- source: we
+  target: voice image
+  key: COLLECT
+  text:
+  - If you consent, we may collect your voice and video image for ongoing quality
+    improvement and quality assurance of our Services as well as for testimonials
+    for promotional materials, as noted above under "Surveys and Testimonials."
+  purposes:
+    advertising:
+    - for ongoing quality improvement and quality assurance of our Services as well
+      as for testimonials for promotional materials
+    services:
+    - for ongoing quality improvement and quality assurance of our Services as well
+      as for testimonials for promotional materials
+- source: LINE
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We, our Service Providers, and our Third Party Business Partners, may also collect
+    certain information about the use of our websites and mobile applications by automated
+    means, such as cookies, web beacons and other technologies ("Technologies").
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: payment datum
+  key: COLLECT
+  text:
+  - When you provide payment data, for example to make a purchase, we will disclose
+    payment and transactional data to banks and other entities as necessary for payment
+    processing, fraud prevention, credit risk reduction, analytics, or other related
+    financial services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - In limited cases, we may provide certain Personal Data to third party businesses
+    with which we have a joint promotional relationship, bundled subscription offer,
+    or other trusted partnership.
+  - You may connect your account through supported integrations with third parties
+    and we may share your personal information with those third parties.
+  purposes: {}
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third-party advertising partners may include Technologies and other tracking
+    tools on our corporate website ( bighealth.com ) to collect information regarding
+    your activities and your device (e.g., your IP address, cookie identifiers, pages
+    visited, location, time of day).
+  - We may disclose your Personal Data to third-party advertising partners.
+  purposes:
+    advertising:
+    - for purposes of delivering personalized advertisements to you when you visit
+      digital properties within their networks
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: device datum
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: device identifier
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: geolocation
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: identifier
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: information collect from service
+  key: COLLECT
+  text:
+  - These advertising partners may use this information (and similar information collected
+    from other services) for purposes of delivering personalized advertisements to
+    you when you visit digital properties within their networks.
+  - We may disclose your Personal Data to third-party advertising partners.
+  purposes:
+    advertising:
+    - for purposes of delivering personalized advertisements to you when you visit
+      digital properties within their networks
+- source: advertiser
+  target: internet activity
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: ip address
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: non - product identifying transaction datum
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose your Personal Data to third-party advertising partners.
+  purposes: {}
+- source: analytic provider
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: analytic provider
+  target: device datum
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: analytic provider
+  target: device identifier
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: analytic provider
+  target: geolocation
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: analytic provider
+  target: identifier
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: analytic provider
+  target: internet activity
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: analytic provider
+  target: ip address
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: analytic provider
+  target: non - product identifying transaction datum
+  key: COLLECT
+  text:
+  - In particular, we let advertising and analytics providers collect identifiers
+    (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app
+    usage, non-product identifying transaction data), device data, and geolocation
+    data through our sites and Apps when you use our online services, but do not "sell"
+    or "share" any other types of personal information.
+  purposes: {}
+- source: bank
+  target: payment datum
+  key: COLLECT
+  text:
+  - When you provide payment data, for example to make a purchase, we will disclose
+    payment and transactional data to banks and other entities as necessary for payment
+    processing, fraud prevention, credit risk reduction, analytics, or other related
+    financial services.
+  purposes: {}
+- source: benefit sponsor
+  target: personal information
+  key: COLLECT
+  text:
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, this may include your name, email address, your registration date, and
+    the date on which you last used our Service and may include additional personal
+    information depending on our agreement with your Benefit Sponsor.
+  purposes: {}
+- source: big health
+  target: personal information
+  key: COLLECT
+  text:
+  - Big Health does not "sell" or "share" personal information for money under the
+    CCPA's broad definitions, but Big Health may "sell" or "share" personal information
+    through the use of advertising and analytics-related cookies and pixels on our
+    corporate website.
+  - This Privacy Notice covers how Big Health collects, receives, uses, retains, and
+    discloses Personal Data (as defined in the GDPR, defined below), and explains
+    the rights and choices available to individuals with respect to their Personal
+    Data.
+  purposes: {}
+- source: big health
+  target: personal information about us state resident
+  key: COLLECT
+  text:
+  - Big Health may collect, use, or disclose personal information about US state residents
+    for purposes listed in Section 2 of our Privacy Notice.
+  purposes: {}
+- source: big health
+  target: personal information describe in section
+  key: COLLECT
+  text:
+  - Big Health may collect the personal information described in Section 1 and as
+    categorized in the table below.
+  purposes: {}
+- source: clinic
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  purposes: {}
+- source: customer service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We disclose your Personal Data to our third-party service providers, such as IT
+    and related services, payment processors, customer service providers, and other
+    vendors that support our provision of the Services.
+  purposes: {}
+- source: health care system
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  purposes: {}
+- source: hospital
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  purposes: {}
+- source: it
+  target: personal information
+  key: COLLECT
+  text:
+  - We disclose your Personal Data to our third-party service providers, such as IT
+    and related services, payment processors, customer service providers, and other
+    vendors that support our provision of the Services.
+  purposes: {}
+- source: medical group
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  purposes: {}
+- source: nhs england
+  target: personal information
+  key: COLLECT
+  text:
+  - NHS England is the controller for any personal information you provided to NHS
+    England to get an NHS login account and verify your identity and uses that personal
+    information solely for that single purpose.
+  purposes: {}
+- source: online service
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As further described in the "Cookies" section below, our websites and online services
+    store and retrieve cookie identifiers, mobile IDs, and other data.
+  purposes: {}
+- source: online service
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - As further described in the "Cookies" section below, our websites and online services
+    store and retrieve cookie identifiers, mobile IDs, and other data.
+  purposes: {}
+- source: online service
+  target: device identifier
+  key: COLLECT
+  text:
+  - As further described in the "Cookies" section below, our websites and online services
+    store and retrieve cookie identifiers, mobile IDs, and other data.
+  purposes: {}
+- source: payment processor
+  target: personal information
+  key: COLLECT
+  text:
+  - We disclose your Personal Data to our third-party service providers, such as IT
+    and related services, payment processors, customer service providers, and other
+    vendors that support our provision of the Services.
+  purposes: {}
+- source: practice
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  purposes: {}
+- source: researcher
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  purposes: {}
+- source: university
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide certain personal information to hospitals, clinics, practices,
+    researchers, universities or other medical groups or health care systems that
+    have contracted with Big Health to permit use of the Services.
+  purposes: {}
+- source: vendor support provision of service
+  target: personal information
+  key: COLLECT
+  text:
+  - We disclose your Personal Data to our third-party service providers, such as IT
+    and related services, payment processors, customer service providers, and other
+    vendors that support our provision of the Services.
+  purposes: {}
+- source: web server
+  target: information about device
+  key: COLLECT
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+  purposes: {}
+- source: web server
+  target: ip address
+  key: COLLECT
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+  purposes: {}
+- source: we
+  target: comprehensive mental health platform page
+  key: SUBSUM
+  text:
+  - The scope of this policy applies to Personal Data collected via our website at
+    www.bighealth.com , www.sleepio.com , www.trydaylight.com and all associated  subdomains
+    (collectively, the " Sites "), our comprehensive mental health platform page (
+    navigator.bighealth.com ), our digital therapeutics and programs designed to improve
+    outcomes (" Apps "), sessions within the applications, events, the related analytics
+    collection, data collection, storage, analysis and reporting tools, and any other
+    online or offline offering of ours that posts this Policy (collectively, the "
+    Services ").
+- source: we
+  target: datum collection
+  key: SUBSUM
+  text:
+  - The scope of this policy applies to Personal Data collected via our website at
+    www.bighealth.com , www.sleepio.com , www.trydaylight.com and all associated  subdomains
+    (collectively, the " Sites "), our comprehensive mental health platform page (
+    navigator.bighealth.com ), our digital therapeutics and programs designed to improve
+    outcomes (" Apps "), sessions within the applications, events, the related analytics
+    collection, data collection, storage, analysis and reporting tools, and any other
+    online or offline offering of ours that posts this Policy (collectively, the "
+    Services ").
+- source: we
+  target: digital therapeutic
+  key: SUBSUM
+  text:
+  - The scope of this policy applies to Personal Data collected via our website at
+    www.bighealth.com , www.sleepio.com , www.trydaylight.com and all associated  subdomains
+    (collectively, the " Sites "), our comprehensive mental health platform page (
+    navigator.bighealth.com ), our digital therapeutics and programs designed to improve
+    outcomes (" Apps "), sessions within the applications, events, the related analytics
+    collection, data collection, storage, analysis and reporting tools, and any other
+    online or offline offering of ours that posts this Policy (collectively, the "
+    Services ").
+- source: we
+  target: online offering of ours
+  key: SUBSUM
+  text:
+  - The scope of this policy applies to Personal Data collected via our website at
+    www.bighealth.com , www.sleepio.com , www.trydaylight.com and all associated  subdomains
+    (collectively, the " Sites "), our comprehensive mental health platform page (
+    navigator.bighealth.com ), our digital therapeutics and programs designed to improve
+    outcomes (" Apps "), sessions within the applications, events, the related analytics
+    collection, data collection, storage, analysis and reporting tools, and any other
+    online or offline offering of ours that posts this Policy (collectively, the "
+    Services ").
+- source: we
+  target: program
+  key: SUBSUM
+  text:
+  - The scope of this policy applies to Personal Data collected via our website at
+    www.bighealth.com , www.sleepio.com , www.trydaylight.com and all associated  subdomains
+    (collectively, the " Sites "), our comprehensive mental health platform page (
+    navigator.bighealth.com ), our digital therapeutics and programs designed to improve
+    outcomes (" Apps "), sessions within the applications, events, the related analytics
+    collection, data collection, storage, analysis and reporting tools, and any other
+    online or offline offering of ours that posts this Policy (collectively, the "
+    Services ").
+- source: we
+  target: related analytic collection
+  key: SUBSUM
+  text:
+  - The scope of this policy applies to Personal Data collected via our website at
+    www.bighealth.com , www.sleepio.com , www.trydaylight.com and all associated  subdomains
+    (collectively, the " Sites "), our comprehensive mental health platform page (
+    navigator.bighealth.com ), our digital therapeutics and programs designed to improve
+    outcomes (" Apps "), sessions within the applications, events, the related analytics
+    collection, data collection, storage, analysis and reporting tools, and any other
+    online or offline offering of ours that posts this Policy (collectively, the "
+    Services ").
+- source: we
+  target: respective representative
+  key: SUBSUM
+  text:
+  - This Privacy Notice (" Privacy Notice ") describes the privacy practices of Big
+    Health Inc. and Big Health Ltd, and their respective representatives, and its
+    affiliates (collectively, " Big Health ", " we ," " us ", " our ").
+- source: we
+  target: service providers
+  key: SUBSUM
+  text:
+  - We, our Service Providers, and our Third Party Business Partners, may also collect
+    certain information about the use of our websites and mobile applications by automated
+    means, such as cookies, web beacons and other technologies ("Technologies").
+- source: we
+  target: share in company
+  key: SUBSUM
+  text:
+  - We may buy or sell/divest/transfer our company (including any shares in the company),
+    or any combination of its products, services, assets and/or businesses.
+- source: activity on website
+  target: access time
+  key: SUBSUM
+  text:
+  - We automatically log your activity on our websites, Apps, and connected products,
+    including the URL of the website from which you came to our sites, pages you viewed,
+    how long you spent on a page, access times, and other details about your use of
+    and actions on our website.
+- source: activity on website
+  target: url of website from you come to site
+  key: SUBSUM
+  text:
+  - We automatically log your activity on our websites, Apps, and connected products,
+    including the URL of the website from which you came to our sites, pages you viewed,
+    how long you spent on a page, access times, and other details about your use of
+    and actions on our website.
+- source: aggregate / deidentified / pseudonymized information
+  target: de - identified demographic information
+  key: SUBSUM
+  text:
+  - We may use both Protected Information and other information about you to create
+    de-identified and/or aggregated information, such as de-identified demographic
+    information, location information, information about the device from which you
+    access the Services, or other data sets we may create.
+- source: aggregate / deidentified / pseudonymized information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - We may use both Protected Information and other information about you to create
+    de-identified and/or aggregated information, such as de-identified demographic
+    information, location information, information about the device from which you
+    access the Services, or other data sets we may create.
+- source: demographic information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+- source: demographic information
+  target: gender
+  key: SUBSUM
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+- source: demographic information
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+- source: demographic information
+  target: religious affiliation
+  key: SUBSUM
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+- source: demographic information
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - In order to establish an account and for you to be able to register for and use
+    the Service, we may collect information from you including, but not limited to,
+    your name, postal address, location, email address, phone number, username, password,
+    demographic information (such as your gender and date of birth, as well as race,
+    ethnicity, religious affiliations, sexual orientation), salary information, employer
+    and other employment related information, insurance information, information about
+    your mood, mental or physical health, or emotional state, information related
+    to your sleep habits and any other information you directly give us through the
+    Services.
+- source: device identifier
+  target: mac address
+  key: SUBSUM
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+- source: form
+  target: intake form
+  key: SUBSUM
+  text:
+  - Depending on the Services you use, you may be asked to complete additional forms
+    (e.g. intake form, initial assessment, consent) which may ask for additional information,
+    including, information about your current or historical health or mental health
+    and treatment, and other information about your lifestyle.
+- source: gender
+  target: gender expression
+  key: SUBSUM
+  text:
+  - 'Section 6: Data Protection Preferences and Rights
+
+
+    Section 6b:  Data Protection Preferences and Rights for Residents of the United
+    States
+
+
+    Your Privacy Rights
+
+
+    Protected classification characteristics under California or federal law Age (40
+    years or older), race, color, ancestry, national origin, citizenship, religion
+    or creed, marital status, medical condition, physical or mental disability, sex
+    (including gender, gender identity, gender expression, pregnancy or childbirth
+    and related medical conditions), sexual orientation, veteran or military status'
+- source: gender
+  target: gender identity
+  key: SUBSUM
+  text:
+  - 'Section 6: Data Protection Preferences and Rights
+
+
+    Section 6b:  Data Protection Preferences and Rights for Residents of the United
+    States
+
+
+    Your Privacy Rights
+
+
+    Protected classification characteristics under California or federal law Age (40
+    years or older), race, color, ancestry, national origin, citizenship, religion
+    or creed, marital status, medical condition, physical or mental disability, sex
+    (including gender, gender identity, gender expression, pregnancy or childbirth
+    and related medical conditions), sexual orientation, veteran or military status'
+- source: information about device
+  target: configuration
+  key: SUBSUM
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+- source: information about device
+  target: device identifier
+  key: SUBSUM
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+- source: information about device
+  target: device type
+  key: SUBSUM
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+- source: information about device
+  target: language
+  key: SUBSUM
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+- source: information about device
+  target: setting
+  key: SUBSUM
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+- source: information about device
+  target: version
+  key: SUBSUM
+  text:
+  - When you visit our websites, our web servers automatically log your Internet Protocol
+    (IP) address and information about your device, including device identifiers (such
+    as MAC address); device type; and your device's operating system, browser, and
+    other software including type, version, language, settings, and configuration.
+- source: interactive feature
+  target: supportive online community of people on course
+  key: SUBSUM
+  text:
+  - We may collect personal information that you submit or make available through
+    our interactive features (e.g., Care Navigator, commenting functionalities via
+    a supportive online community of other people on the course and course graduates
+    (the " Sleepio Community "), information request forms for our Services and social
+    media pages).
+- source: personal information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - If you communicate with us by email, phone, chat, text or within our app, we will
+    collect personal information from you, such as your name, contact information,
+    and information you provide within your communication to us.
+- source: personal information
+  target: datum concern health
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+- source: personal information
+  target: gender identity
+  key: SUBSUM
+  text:
+  - The personal information we may collect depending on how you use our Services
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information
+  target: genetic datum
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+- source: personal information
+  target: information you provide within communication to we
+  key: SUBSUM
+  text:
+  - If you communicate with us by email, phone, chat, text or within our app, we will
+    collect personal information from you, such as your name, contact information,
+    and information you provide within your communication to us.
+- source: personal information
+  target: mental health information
+  key: SUBSUM
+  text:
+  - The personal information we may collect depending on how you use our Services
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - If you communicate with us by email, phone, chat, text or within our app, we will
+    collect personal information from you, such as your name, contact information,
+    and information you provide within your communication to us.
+- source: personal information
+  target: political opinion
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+- source: personal information
+  target: racial origin
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+  - The personal information we may collect depending on how you use our Services
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information
+  target: religious belief
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+- source: personal information
+  target: sensitive personal data
+  key: SUBSUM
+  text:
+  - As a result, we may be required to process Personal Data, including sensitive
+    Personal Data (such as health and medical information), in order to meet these
+    obligations.
+- source: personal information
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+  - The personal information we may collect depending on how you use our Services
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information
+  target: trade union membership
+  key: SUBSUM
+  text:
+  - Special categories of Personal Data include Personal Data revealing racial or
+    ethnic origin, political opinions, religious or philosophical beliefs, trade union
+    membership, data concerning health, data concerning an individual's sex life or
+    sexual orientation, genetic data, and biometric data processed for the purpose
+    of identifying an individual.
+- source: sensitive personal data
+  target: health information
+  key: SUBSUM
+  text:
+  - As a result, we may be required to process Personal Data, including sensitive
+    Personal Data (such as health and medical information), in order to meet these
+    obligations.
+- source: sufficient detail
+  target: relationship with we
+  key: SUBSUM
+  text:
+  - When raising a request or complaint, please provide sufficient details (including
+    your relationship with us) and any relevant documentation.
+nodes:
+- type: ACTOR
+  id: LINE
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: bank
+- type: ACTOR
+  id: benefit sponsor
+- type: ACTOR
+  id: big health
+- type: ACTOR
+  id: clinic
+- type: ACTOR
+  id: comprehensive mental health platform page
+- type: ACTOR
+  id: customer service provider
+- type: ACTOR
+  id: datum collection
+- type: ACTOR
+  id: digital therapeutic
+- type: ACTOR
+  id: health care system
+- type: ACTOR
+  id: hospital
+- type: ACTOR
+  id: interactive feature
+- type: ACTOR
+  id: it
+- type: ACTOR
+  id: medical group
+- type: ACTOR
+  id: nhs england
+- type: ACTOR
+  id: online offering of ours
+- type: ACTOR
+  id: online service
+- type: ACTOR
+  id: payment processor
+- type: ACTOR
+  id: practice
+- type: ACTOR
+  id: program
+- type: ACTOR
+  id: related analytic collection
+- type: ACTOR
+  id: researcher
+- type: ACTOR
+  id: respective representative
+- type: ACTOR
+  id: service providers
+- type: ACTOR
+  id: share in company
+- type: ACTOR
+  id: supportive online community of people on course
+- type: ACTOR
+  id: university
+- type: ACTOR
+  id: vendor support provision of service
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: web server
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: access time
+- type: DATA
+  id: activity on website
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: aggregate de - identified clinical datum
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: collect feedback in material
+- type: DATA
+  id: configuration
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum concern health
+- type: DATA
+  id: datum encryption
+- type: DATA
+  id: de - identified demographic information
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: device datum
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device type
+- type: DATA
+  id: eligibility information
+- type: DATA
+  id: form
+- type: DATA
+  id: gender
+- type: DATA
+  id: gender expression
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: genetic datum
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health information
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about device
+- type: DATA
+  id: information about mood
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information collect from service
+- type: DATA
+  id: information relate to sleep habit
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information we obtain
+- type: DATA
+  id: information you give we through services
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: information you provide within communication to we
+- type: DATA
+  id: insurance information
+- type: DATA
+  id: intake form
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language
+- type: DATA
+  id: mac address
+- type: DATA
+  id: mental health information
+- type: DATA
+  id: non - product identifying transaction datum
+- type: DATA
+  id: organization
+- type: DATA
+  id: payment datum
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal data about representative
+- type: DATA
+  id: personal data fall within
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information about us state resident
+- type: DATA
+  id: personal information describe in section
+- type: DATA
+  id: phi
+- type: DATA
+  id: pixel
+- type: DATA
+  id: political opinion
+- type: DATA
+  id: protect information
+- type: DATA
+  id: protected health information
+- type: DATA
+  id: publicly available information about company
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: racial origin
+- type: DATA
+  id: relate information
+- type: DATA
+  id: relationship with we
+- type: DATA
+  id: religious affiliation
+- type: DATA
+  id: religious belief
+- type: DATA
+  id: request
+- type: DATA
+  id: salary information
+- type: DATA
+  id: sensitive personal data
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: setting
+- type: DATA
+  id: sexual orientation
+- type: DATA
+  id: special category data
+- type: DATA
+  id: sufficient detail
+- type: DATA
+  id: trade union membership
+- type: DATA
+  id: url of website from you come to site
+- type: DATA
+  id: version
+- type: DATA
+  id: voice image

@@ -1,0 +1,1013 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In addition, data may be transferred to our subsidiaries or processors in third
+    countries or subcontractors of our processors in third countries.
+  - Such third parties may use cookies, APIs, and SDKs in Loona to enable them to
+    collect and analyze user and device related data and information on our behalf.
+  - We collect and use this analytics information in an aggregated manner with analytics
+    information so that it cannot reasonably be used to identify any particular user.
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may release your information as permitted by law, such as to comply
+    with a subpoena, or when we believe that release is appropriate to comply with
+    the law; investigate fraud, respond to a government request, enforce or apply
+    our rights; or protect the rights, property, or safety of us or our users, or
+    others.'
+  - 'We use your information for the following purposes: To share information with
+    our group companies.'
+  purposes:
+    advertising:
+    - To fulfill your requests and send you service communications and notifications
+      about matters relevant to your use of Loona Services and your engagement with
+      us, such as information about offers you might be interested in, targeted content,
+      confirmations of purchases, details of events, surveys, changes in our terms,
+      etc.
+    - To send you promotional information through various marketing channels including
+      post, email, social media and etc. about Loona Services and our organization,
+    - To share information with our group companies
+    analytics:
+    - 'To improve and develop Loona Services, including to: obtain feedback; record
+      preferences; conduct statistical analysis; make services and features more relevant;
+      improve user experience; and work with third parties and evaluate data to improve
+      and develop Loona Services'
+    - To share data with another organization for the purposes of a joint venture,
+      collaboration, financing, sale, merger, reorganization or similar event relating
+      to our business
+    - To share information with our group companies
+    legal:
+    - To process and share information with other third parties where required by
+      law, such as regulators, law enforcement agencies or where mandatory under a
+      court order
+    - To process information as is required for our compliance with the law or to
+      establish, exercise or defend legal claims
+    - To share data with another organization for the purposes of a joint venture,
+      collaboration, financing, sale, merger, reorganization or similar event relating
+      to our business
+    security:
+    - To monitor operations, user activity and networks for fraud prevention, including
+      information from third parties who may alert us about suspicious activities
+    - To monitor our networks, Loona Services and systems for suspicious activities,
+      test and audit our systems and deploy appropriate security measures
+    services:
+    - To assist and contact you in relation to your enquiry or to send you information
+      which you have requested about Loona Services
+    - To enable you to make purchases through our Loona Service
+    - To engage our third party service providers who may process your information
+      on our behalf to facilitate the provision of Loona Services and the fulfillment
+      of essential service functions, such as web hosting, cloud storage, analytics,
+      payments, plugins, communications, accounting, security and others
+    - 'To ensure proper administration of our business, including to: keep appropriate
+      records about how Loona Services are used; resolve complaints; conduct troubleshooting;
+      manage our business relationships and identify opportunities; register interactions
+      with our communications, such as emails; enforce our terms; and debt collection'
+    - To fulfill your requests and send you service communications and notifications
+      about matters relevant to your use of Loona Services and your engagement with
+      us, such as information about offers you might be interested in, targeted content,
+      confirmations of purchases, details of events, surveys, changes in our terms,
+      etc.
+    - 'To improve and develop Loona Services, including to: obtain feedback; record
+      preferences; conduct statistical analysis; make services and features more relevant;
+      improve user experience; and work with third parties and evaluate data to improve
+      and develop Loona Services'
+    - To register you as a service user when you sign up for Loona Services and to
+      enable you to use Loona Services and its functionalities
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Even if we delete some or all of your Personal Data, we may continue to retain
+    and use anonymized data previously collected that can no longer be used for personal
+    identification.
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may share aggregate or anonymized information about you with advertisers,
+    publishers, business partners, sponsors, and other third parties.'
+  purposes: {}
+- source: we
+  target: apple id
+  key: COLLECT
+  text:
+  - If you log in with your Apple ID we will receive your Apple ID and may receive
+    the email address associated with your Apple ID, depending on your Apple settings.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and third-parties may use cookies, Software Development Kits (SDKs), and other
+    tracking technologies to automatically collect the Personal Data set forth above.
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: we
+  target: copy of personal datum in machine readable format in accordance with industry
+    standard
+  key: COLLECT
+  text:
+  - In this case, we will provide you with a copy of your personal data in a machine-readable
+    format in accordance with industry standards so that you can pass this information
+    to another data controller.
+  purposes: {}
+- source: we
+  target: datum about you
+  key: COLLECT
+  text:
+  - Please note that we still may retain certain data about you if so needed due to
+    applicable legislation requirements, any potential or ongoing dispute resolution,
+    or in order to enforce our rights.
+  purposes: {}
+- source: we
+  target: datum concern transaction date
+  key: COLLECT
+  text:
+  - We only keep the data concerning transaction dates, currencies, value, the last
+    four digits of your card number and the subject of the transaction.
+  purposes: {}
+- source: we
+  target: detail of request
+  key: COLLECT
+  text:
+  - When you contact or visit us, we may process the details of your request, communications,
+    complaints, or other interaction.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - If you log in via your Google Account we will receive your associated email address.
+  - If you log in with your Apple ID we will receive your Apple ID and may receive
+    the email address associated with your Apple ID, depending on your Apple settings.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'In addition to the information you may provide us directly, we receive information
+    about you from others, including:'
+  - We may receive information about you from our analytics service providers to help
+    us measure traffic and usage trends with data they collect through Loona Services
+    in accordance with their own privacy policies.
+  - We may receive information about you from our partners where our ads are published
+    on a partner's service (in which case they may pass along details on a campaign's
+    success).
+  purposes:
+    analytics:
+    - to help us measure traffic and usage trends with data they collect through Loona
+      Services in accordance with their own privacy policies
+- source: we
+  target: information consider
+  key: COLLECT
+  text:
+  - 'We will process the following information which may be considered personal information:'
+  purposes: {}
+- source: we
+  target: personal datum set
+  key: COLLECT
+  text:
+  - We and third-parties may use cookies, Software Development Kits (SDKs), and other
+    tracking technologies to automatically collect the Personal Data set forth above.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - For instance, if you choose to take our test to determine your ideal sleep schedule,
+    you can voluntarily share personal information with us.
+  - Generally, we will use your personal information to (i) provide Loona Services
+    and enable you to use our service features, (ii) respond to your queries, (iii)
+    develop and promote our organisation and services; (iv) ensure the security and
+    technical availability of Loona Services; and (v) comply with the law.
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may share your Personal Data if our company or any of our affiliates,
+    subsidiaries or business units is involved in a business change such as a merger,
+    divestiture, restructuring, reorganization, acquisition, bankruptcy, dissolution,
+    or liquidation.'
+  - We may transfer your personal information to our group companies, suppliers and
+    other third parties in countries different to your country of residence.
+  - We retain your Personal Data for as long as your account is active or as needed
+    for the purposes of processing.
+  - We will process your personal data as "controller" for the purposes and on the
+    legal grounds for processing set out above.
+  - We will retain your Personal Data only for as long as is necessary for the purposes
+    set out in this Privacy Policy.
+  purposes:
+    services:
+    - to (i) provide Loona Services and enable you to use our service features, (ii)
+      respond to your queries, (iii) develop and promote our organisation and services;
+      (iv) ensure the security and technical availability of Loona Services; and (v)
+      comply with the law
+- source: we
+  target: small text file store on computer
+  key: COLLECT
+  text:
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: we
+  target: software development kits
+  key: COLLECT
+  text:
+  - We and third-parties may use cookies, Software Development Kits (SDKs), and other
+    tracking technologies to automatically collect the Personal Data set forth above.
+  purposes: {}
+- source: we
+  target: specific information regard you
+  key: COLLECT
+  text:
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: we
+  target: technical interaction information
+  key: COLLECT
+  text:
+  - When we send you emails or other communications, we may collect technical interaction
+    information, such as open rates and if you clicked on any content.
+  purposes: {}
+- source: Apple
+  target: datum regard amount of minute spend within loona application
+  key: COLLECT
+  text:
+  - Apple iOS users may opt-in to allow Loona Services to provide data regarding the
+    amount of minutes spent within Loona applications to the Apple iOS "Health" application
+    for display.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We use your information for the following purposes: To process and share information
+    with other third parties where required by law, such as regulators, law enforcement
+    agencies or where mandatory under a court order.'
+  - 'We use your information for the following purposes: To share data with another
+    organization for the purposes of a joint venture, collaboration, financing, sale,
+    merger, reorganization or similar event relating to our business.'
+  purposes:
+    legal:
+    - for the purposes of a joint venture, collaboration, financing, sale, merger,
+      reorganization or similar event relating to our business
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may share aggregate or anonymized information about you with advertisers,
+    publishers, business partners, sponsors, and other third parties.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Such third parties may use cookies, APIs, and SDKs in Loona to enable them to
+    collect and analyze user and device related data and information on our behalf.
+  - We and third-parties may use cookies, Software Development Kits (SDKs), and other
+    tracking technologies to automatically collect the Personal Data set forth above.
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes:
+    analytics:
+    - to enable them to collect and analyze user and device related data and information
+      on our behalf
+- source: UNSPECIFIED_ACTOR
+  target: personal datum set
+  key: COLLECT
+  text:
+  - We and third-parties may use cookies, Software Development Kits (SDKs), and other
+    tracking technologies to automatically collect the Personal Data set forth above.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - These agents and service providers may have access to your personal information
+    in connection with the performance of services for us, and they are bound by appropriate
+    contractual safeguards in place.
+  - We may transfer your personal information to our group companies, suppliers and
+    other third parties in countries different to your country of residence.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: small text file store on computer
+  key: COLLECT
+  text:
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: software development kits
+  key: COLLECT
+  text:
+  - We and third-parties may use cookies, Software Development Kits (SDKs), and other
+    tracking technologies to automatically collect the Personal Data set forth above.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: specific information regard you
+  key: COLLECT
+  text:
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: advertiser
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may share aggregate or anonymized information about you with advertisers,
+    publishers, business partners, sponsors, and other third parties.'
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Additionally, we employ third-party analytics tools such as Google Firebase, RevenueCat,
+    AppsFlyer, and Amplitude to assist us in measuring traffic and usage trends for
+    Loona, among other purposes.
+  - These analytics tools collect data through third-party SDKs integrated into Loona,
+    encompassing details about the features you explore or use within Loona, your
+    interactions within the Loona, and information concerning your subscription.
+  purposes: {}
+- source: browser
+  target: unique information
+  key: COLLECT
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+  purposes: {}
+- source: business partner
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may share aggregate or anonymized information about you with advertisers,
+    publishers, business partners, sponsors, and other third parties.'
+  purposes: {}
+- source: loona
+  target: personal information
+  key: COLLECT
+  text:
+  - In certain situations, Loona may be required to disclose personal information
+    in response to lawful requests by public authorities or for local law enforcement
+    requirements.
+  purposes: {}
+- source: loona services
+  target: datum regard amount of minute spend within loona application
+  key: COLLECT
+  text:
+  - Apple iOS users may opt-in to allow Loona Services to provide data regarding the
+    amount of minutes spent within Loona applications to the Apple iOS "Health" application
+    for display.
+  purposes: {}
+- source: processor
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In addition, data may be transferred to our subsidiaries or processors in third
+    countries or subcontractors of our processors in third countries.
+  purposes: {}
+- source: publisher
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may share aggregate or anonymized information about you with advertisers,
+    publishers, business partners, sponsors, and other third parties.'
+  purposes: {}
+- source: service provider
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - These agents and service providers may have access to your personal information
+    in connection with the performance of services for us, and they are bound by appropriate
+    contractual safeguards in place.
+  purposes: {}
+- source: service provider
+  target: small text file store on computer
+  key: COLLECT
+  text:
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: service provider
+  target: specific information regard you
+  key: COLLECT
+  text:
+  - While using Loona Services, we and our service providers, vendors, and partners,
+    including third parties, may use cookies (a small text files stored on your computer
+    or mobile device to identify your computer and web browser) and other similar
+    technologies to collect or receive specific information regarding you and/or your
+    interaction with Loona Services.
+  purposes: {}
+- source: sponsor
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'We do not share your personal information except as approved by you or as described
+    below: We may share aggregate or anonymized information about you with advertisers,
+    publishers, business partners, sponsors, and other third parties.'
+  purposes: {}
+- source: staff
+  target: personal information
+  key: COLLECT
+  text:
+  - Our staff will access your personal information on a "need-to-know" basis.
+  purposes: {}
+- source: subcontractor of processor in third country
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In addition, data may be transferred to our subsidiaries or processors in third
+    countries or subcontractors of our processors in third countries.
+  purposes: {}
+- source: supplier
+  target: personal information
+  key: COLLECT
+  text:
+  - We may transfer your personal information to our group companies, suppliers and
+    other third parties in countries different to your country of residence.
+  purposes: {}
+- source: we
+  target: loona
+  key: SUBSUM
+  text:
+  - This privacy policy explains how we, Loona Inc. of 8 The Green, Ste B, Dover,
+    DE, 19901, USA or any of our affiliated entities( "Loona", "we", "us", "our" )
+    process your personal information ( "you", "your" ) when you use our website,
+    app or other services.
+- source: we
+  target: loona inc. of the green
+  key: SUBSUM
+  text:
+  - This privacy policy explains how we, Loona Inc. of 8 The Green, Ste B, Dover,
+    DE, 19901, USA or any of our affiliated entities( "Loona", "we", "us", "our" )
+    process your personal information ( "you", "your" ) when you use our website,
+    app or other services.
+- source: analytic provider
+  target: Amplitude
+  key: SUBSUM
+  text:
+  - Additionally, we employ third-party analytics tools such as Google Firebase, RevenueCat,
+    AppsFlyer, and Amplitude to assist us in measuring traffic and usage trends for
+    Loona, among other purposes.
+- source: analytic provider
+  target: AppsFlyer
+  key: SUBSUM
+  text:
+  - Additionally, we employ third-party analytics tools such as Google Firebase, RevenueCat,
+    AppsFlyer, and Amplitude to assist us in measuring traffic and usage trends for
+    Loona, among other purposes.
+- source: analytic provider
+  target: Google
+  key: SUBSUM
+  text:
+  - Additionally, we employ third-party analytics tools such as Google Firebase, RevenueCat,
+    AppsFlyer, and Amplitude to assist us in measuring traffic and usage trends for
+    Loona, among other purposes.
+- source: analytic provider
+  target: RevenueCat
+  key: SUBSUM
+  text:
+  - Additionally, we employ third-party analytics tools such as Google Firebase, RevenueCat,
+    AppsFlyer, and Amplitude to assist us in measuring traffic and usage trends for
+    Loona, among other purposes.
+- source: detail of use of loona
+  target: area
+  key: SUBSUM
+  text:
+  - Details of your use of Loona, including frequency of use, areas and features of
+    the application that you access and information regarding engagement with particular
+    features of the app.
+- source: detail of use of loona
+  target: frequency of use
+  key: SUBSUM
+  text:
+  - Details of your use of Loona, including frequency of use, areas and features of
+    the application that you access and information regarding engagement with particular
+    features of the app.
+- source: detail of use of loona
+  target: information regard engagement with particular feature of app
+  key: SUBSUM
+  text:
+  - Details of your use of Loona, including frequency of use, areas and features of
+    the application that you access and information regarding engagement with particular
+    features of the app.
+- source: email address
+  target: update
+  key: SUBSUM
+  text:
+  - 'email: privacy@loona.app 16. UPDATES'
+- source: essential service function
+  target: accounting
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To engage our third party
+    service providers who may process your information on our behalf to facilitate
+    the provision of Loona Services and the fulfillment of essential service functions,
+    such as web hosting, cloud storage, analytics, payments, plugins, communications,
+    accounting, security and others.'
+- source: essential service function
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To engage our third party
+    service providers who may process your information on our behalf to facilitate
+    the provision of Loona Services and the fulfillment of essential service functions,
+    such as web hosting, cloud storage, analytics, payments, plugins, communications,
+    accounting, security and others.'
+- source: essential service function
+  target: cloud storage
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To engage our third party
+    service providers who may process your information on our behalf to facilitate
+    the provision of Loona Services and the fulfillment of essential service functions,
+    such as web hosting, cloud storage, analytics, payments, plugins, communications,
+    accounting, security and others.'
+- source: essential service function
+  target: payment
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To engage our third party
+    service providers who may process your information on our behalf to facilitate
+    the provision of Loona Services and the fulfillment of essential service functions,
+    such as web hosting, cloud storage, analytics, payments, plugins, communications,
+    accounting, security and others.'
+- source: essential service function
+  target: plugin
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To engage our third party
+    service providers who may process your information on our behalf to facilitate
+    the provision of Loona Services and the fulfillment of essential service functions,
+    such as web hosting, cloud storage, analytics, payments, plugins, communications,
+    accounting, security and others.'
+- source: essential service function
+  target: web hosting
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To engage our third party
+    service providers who may process your information on our behalf to facilitate
+    the provision of Loona Services and the fulfillment of essential service functions,
+    such as web hosting, cloud storage, analytics, payments, plugins, communications,
+    accounting, security and others.'
+- source: information about yourself
+  target: email address
+  key: SUBSUM
+  text:
+  - 'If you are under 13, do not: (i) use or provide any information in Loona or through
+    any of its features, or (ii) provide any information about yourself to us, including
+    your name, address, telephone number or email address.'
+- source: information about yourself
+  target: person name
+  key: SUBSUM
+  text:
+  - 'If you are under 13, do not: (i) use or provide any information in Loona or through
+    any of its features, or (ii) provide any information about yourself to us, including
+    your name, address, telephone number or email address.'
+- source: information about yourself
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'If you are under 13, do not: (i) use or provide any information in Loona or through
+    any of its features, or (ii) provide any information about yourself to us, including
+    your name, address, telephone number or email address.'
+- source: information about yourself
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'If you are under 13, do not: (i) use or provide any information in Loona or through
+    any of its features, or (ii) provide any information about yourself to us, including
+    your name, address, telephone number or email address.'
+- source: information you provide to we
+  target: account detail
+  key: SUBSUM
+  text:
+  - 'Information You Provide To Us Directly : Account details.'
+- source: information you provide to we
+  target: detail of request
+  key: SUBSUM
+  text:
+  - 'Information You Provide To Us Directly : Details of your request.'
+- source: information you provide to we
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Information You Provide To Us Directly : Activity Data and Health Data.'
+- source: internet activity
+  target: detail about connection between browser
+  key: SUBSUM
+  text:
+  - Some of these advertisements may be personalized, which means that they may try
+    to be relevant to you using data collected by ad networks and ad-serving providers
+    regarding your app usage patterns over time, including details about connections
+    between various browsers and devices.
+- source: marketing channel
+  target: email
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To send you promotional information
+    through various marketing channels including post, email, social media and etc.
+    about Loona Services and our organization, reviewing and optimizing campaign performance
+    and profiling information about your interests known, observed or inferred for
+    direct marketing purposes.'
+- source: marketing channel
+  target: post
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To send you promotional information
+    through various marketing channels including post, email, social media and etc.
+    about Loona Services and our organization, reviewing and optimizing campaign performance
+    and profiling information about your interests known, observed or inferred for
+    direct marketing purposes.'
+- source: marketing channel
+  target: social media
+  key: SUBSUM
+  text:
+  - 'We use your information for the following purposes: To send you promotional information
+    through various marketing channels including post, email, social media and etc.
+    about Loona Services and our organization, reviewing and optimizing campaign performance
+    and profiling information about your interests known, observed or inferred for
+    direct marketing purposes.'
+- source: new feature
+  target: feature of loona
+  key: SUBSUM
+  text:
+  - 'Communications from us and our affiliated companies may include but are not limited
+    to: operational communications concerning your Account or the use of Loona (e.g.,
+    technical and security notices, updates to this Privacy Policy and Loona Terms
+    of Use ), and updates concerning new and existing features (e.g., changes/updates
+    to features of Loona and their scope, prices of in-app subscriptions).'
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - You may decide to share information with us through your social media account,
+    such as your interaction with our posts and content, social media profile by sharing
+    your "stories" and 'likes' on social media platforms, such as Twitter and Instagram,
+    TikTok.
+- source: social media
+  target: Twitter
+  key: SUBSUM
+  text:
+  - You may decide to share information with us through your social media account,
+    such as your interaction with our posts and content, social media profile by sharing
+    your "stories" and 'likes' on social media platforms, such as Twitter and Instagram,
+    TikTok.
+- source: social media
+  target: tiktok
+  key: SUBSUM
+  text:
+  - You may decide to share information with us through your social media account,
+    such as your interaction with our posts and content, social media profile by sharing
+    your "stories" and 'likes' on social media platforms, such as Twitter and Instagram,
+    TikTok.
+- source: technical interaction information
+  target: open rate
+  key: SUBSUM
+  text:
+  - When we send you emails or other communications, we may collect technical interaction
+    information, such as open rates and if you clicked on any content.
+- source: transaction information
+  target: amount
+  key: SUBSUM
+  text:
+  - Transaction information such as your purchases in our Loona Services, including
+    date of purchase, currency, amount, payment type and the last four digits of your
+    card number.
+- source: transaction information
+  target: currency
+  key: SUBSUM
+  text:
+  - Transaction information such as your purchases in our Loona Services, including
+    date of purchase, currency, amount, payment type and the last four digits of your
+    card number.
+- source: transaction information
+  target: date of purchase
+  key: SUBSUM
+  text:
+  - Transaction information such as your purchases in our Loona Services, including
+    date of purchase, currency, amount, payment type and the last four digits of your
+    card number.
+- source: transaction information
+  target: last digit of card number
+  key: SUBSUM
+  text:
+  - Transaction information such as your purchases in our Loona Services, including
+    date of purchase, currency, amount, payment type and the last four digits of your
+    card number.
+- source: transaction information
+  target: payment type
+  key: SUBSUM
+  text:
+  - Transaction information such as your purchases in our Loona Services, including
+    date of purchase, currency, amount, payment type and the last four digits of your
+    card number.
+- source: unique information
+  target: account id
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: browser type
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: date
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: ip address
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: online identifier
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: operating system
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: time of access
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: unique information
+  target: time zone setting
+  key: SUBSUM
+  text:
+  - When accessing Loona Services, your device and browser will automatically provide
+    unique information such as account ID, mobile device ID, internet protocol (IP)
+    address, cookie ID or online identifiers, operating system, browser type, time
+    zone setting, location and date and time of access .
+- source: user detail
+  target: email address
+  key: SUBSUM
+  text:
+  - Your user details when you sign up as a user of Loona Services, such as your name/
+    user name and email address.
+- source: user detail
+  target: person name
+  key: SUBSUM
+  text:
+  - Your user details when you sign up as a user of Loona Services, such as your name/
+    user name and email address.
+nodes:
+- type: ACTOR
+  id: Amplitude
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: AppsFlyer
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: RevenueCat
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: accounting
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: browser
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: cloud storage
+- type: ACTOR
+  id: email
+- type: ACTOR
+  id: essential service function
+- type: ACTOR
+  id: feature of loona
+- type: ACTOR
+  id: loona
+- type: ACTOR
+  id: loona inc. of the green
+- type: ACTOR
+  id: loona services
+- type: ACTOR
+  id: marketing channel
+- type: ACTOR
+  id: new feature
+- type: ACTOR
+  id: payment
+- type: ACTOR
+  id: plugin
+- type: ACTOR
+  id: post
+- type: ACTOR
+  id: processor
+- type: ACTOR
+  id: publisher
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: sponsor
+- type: ACTOR
+  id: staff
+- type: ACTOR
+  id: subcontractor of processor in third country
+- type: ACTOR
+  id: supplier
+- type: ACTOR
+  id: tiktok
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: web hosting
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account detail
+- type: DATA
+  id: account id
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: amount
+- type: DATA
+  id: apple id
+- type: DATA
+  id: area
+- type: DATA
+  id: browser type
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: copy of personal datum in machine readable format in accordance with industry
+    standard
+- type: DATA
+  id: currency
+- type: DATA
+  id: date
+- type: DATA
+  id: date of purchase
+- type: DATA
+  id: datum about you
+- type: DATA
+  id: datum concern transaction date
+- type: DATA
+  id: datum regard amount of minute spend within loona application
+- type: DATA
+  id: detail about connection between browser
+- type: DATA
+  id: detail of request
+- type: DATA
+  id: detail of use of loona
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: frequency of use
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information about yourself
+- type: DATA
+  id: information consider
+- type: DATA
+  id: information regard engagement with particular feature of app
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: last digit of card number
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: open rate
+- type: DATA
+  id: operating system
+- type: DATA
+  id: payment type
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum set
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: small text file store on computer
+- type: DATA
+  id: software development kits
+- type: DATA
+  id: specific information regard you
+- type: DATA
+  id: technical interaction information
+- type: DATA
+  id: time of access
+- type: DATA
+  id: time zone setting
+- type: DATA
+  id: transaction information
+- type: DATA
+  id: unique information
+- type: DATA
+  id: update
+- type: DATA
+  id: user detail

@@ -1,0 +1,1101 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'As noted above, you have the following rights under GDPR: The right to opt-out,
+    or an opt-in choice for sensitive data, before we share your data with third parties
+    other than our agents, or before we use it for a purpose other than which it was
+    originally collected or subsequently authorized.'
+  - At the direction of your Program Sponsor, We may exchange data with these other
+    providers to provide Our services to you.
+  - 'General Privacy Notice
+
+
+    We may provide information in an anonymous and aggregated format or provide your
+    Personal Information in a group format to third parties that process that Personal
+    Information ("Analytics Processors") to generate Anonymous Information and derive
+    analytical information.'
+  - If your Program Sponsor has enabled this feature, we may collect information from
+    healthcare clearinghouses to provide you access to your health insurance claims
+    through our Program.
+  - This Privacy Notice (the " Notice ") explains what data We collect about you and
+    how We store, analyze and share the data We collect about you through the platform
+    (www.personifyhealth.com) and the Personify Health mobile application.
+  purposes:
+    services:
+    - to provide Our services to you
+    - to provide you access to your health insurance claims through our Program
+- source: we
+  target: activity information
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    If your activity information indicates there may be an abnormality or Program
+    abuse, We may share your activity information with your Program Sponsor and make
+    adjustments, or suspend or terminate your account, in accordance with your Program
+    Sponsor''s instructions.'
+  - If you use these services, the Program Partners may share activity information
+    and results with Us.
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Additionally, We may use Anonymous Data to analyze and understand demographic
+    trends, customer behavior patterns and preferences, and information that can help
+    Us enrich the content and quality of the Program.
+  - In general, across all types of Program Sponsors, We share anonymized and aggregated
+    data with your Program Sponsor.
+  - We collect anonymous and Personal Information about you to provide you with the
+    Program and Our services.
+  - We may use the Anonymous Data for internal purposes, such as analyzing patterns
+    and Program usage to improve Our services.
+  purposes:
+    analytics:
+    - for internal purposes, such as analyzing patterns and Program usage
+    - to analyze and understand demographic trends, customer behavior patterns and
+      preferences, and information that can help Us enrich the content and quality
+      of the Program
+    services:
+    - to analyze and understand demographic trends, customer behavior patterns and
+      preferences, and information that can help Us enrich the content and quality
+      of the Program
+    - to improve Our services
+    - to provide you with the Program and Our services
+- source: we
+  target: amount of personal information
+  key: COLLECT
+  text:
+  - From time to time We may need to disclose limited amounts of your Personal Information.
+  - 'General Privacy Notice
+
+
+    Your Program Sponsor may have engaged Our services through a distributor or aggregator
+    service.'
+  - If directed to do so by your Program Sponsor, We may share limited amounts of
+    Personal Information with these services related to your participation in the
+    Program to facilitate coordination of services across multiple health and wellness
+    providers.
+  purposes:
+    services:
+    - to facilitate coordination of services across multiple health and wellness providers
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    We use Cookies:'
+  purposes:
+    services:
+    - To allow you to navigate the website more quickly and easily
+    - To customize some aspects of the platform to reflect your interests and preferences
+    - To remember your log-in session as you move from one page to the next within
+      the platform
+    - To store your settings and preferences
+- source: we
+  target: datum we collect about you through platform
+  key: COLLECT
+  text:
+  - This Privacy Notice (the " Notice ") explains what data We collect about you and
+    how We store, analyze and share the data We collect about you through the platform
+    (www.personifyhealth.com) and the Personify Health mobile application.
+  purposes: {}
+- source: we
+  target: demographic information about member base as whole
+  key: COLLECT
+  text:
+  - We also use it to analyze trends, administer the web-based platform, track Members'
+    movements on the platform and around the website, and to gather demographic information
+    about Our Member base as a whole.
+  purposes: {}
+- source: we
+  target: eligibility files
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    In other circumstances, We may store Eligibility Files for some of Our clients
+    outside the USA at Amazon Web Services data centers located in the EU if your
+    Program Sponsor so chooses.'
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    Following your deletion request, We may still receive some information about you
+    on your Program Sponsor provided Eligibility Files or in the claims-related information
+    discussed earlier in this Notice.'
+  - 'General Privacy Notice
+
+
+    If your Program Sponsor is your Health Plan, We may share additional information
+    about you and your participation in the Program, to ensure you are provided access
+    to any additional services or engagement opportunities and benefits that may be
+    offered through your Health Plan.'
+  - We may also collect information about you and your participation in the Program
+    through engagement surveys.
+  - We may receive information about you from other sources including publicly available
+    databases or third parties from whom We have purchased data.
+  - We may receive information about you from various sources to support the Program
+    and services included in it.
+  purposes:
+    services:
+    - to ensure you are provided access to any additional services or engagement opportunities
+      and benefits that may be offered through your Health Plan
+    - to support the Program and services included in it
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - If you choose to synchronize a tracking device with the Program, We will receive
+    limited information about your activity to populate your account.
+  purposes:
+    services:
+    - to populate your account
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - Depending on the Program design chosen by your Program Sponsor, We may collect
+    Personal Information through your use of additional services such as the Personify
+    Health Activity Tracking Devices and the Health Stations (additional information
+    on these is provided below).
+  - Depending on your Program design, your Program Sponsor may provide Us your Personal
+    Information to identify you as an individual who is able to join the Program and
+    become a Member.
+  - 'General Privacy Notice
+
+
+    We may be required to disclose your Personal Information if:'
+  - 'General Privacy Notice
+
+
+    We may provide information in an anonymous and aggregated format or provide your
+    Personal Information in a group format to third parties that process that Personal
+    Information ("Analytics Processors") to generate Anonymous Information and derive
+    analytical information.'
+  - 'General Privacy Notice
+
+
+    We may use or disclose your Personal Information to allow your participation in
+    additional third-party provided wellness services or to support the administration
+    of the Program.'
+  - 'General Privacy Notice
+
+
+    When your Program Sponsor is also your medical care provider, We may share your
+    Personal Information, including detailed health and wellness related information,
+    to facilitate treatment activities.'
+  - 'The Personal Information We collect includes, but is not limited to:'
+  - We collect Personal Information you voluntarily provide as you submit it through
+    the web-based platform and the mobile application, by reviewing your use of the
+    web-based platform and mobile application (for example through the completion
+    of a health assessment), your use of a synched tracking device and when you participate
+    in Our phone or on-site services and events.
+  - 'We disclose your Personal Information for the following limited purposes:'
+  - We may share Personal Information with these coaches as necessary for them to
+    provide wellness coaching services directly to you.
+  - We may, from time to time, share your Personal Information with third parties
+    to allow Us to provide you with Our services.
+  purposes:
+    advertising:
+    - To assess your eligibility for other programs that your Program Sponsor or Third-Party
+      Providers may offer;
+    - To ensure that you receive appropriate rewards for participation in Our services
+      and other similar services provided by your Program Sponsor or Third-Party Providers
+    analytics:
+    - To assess your eligibility for other programs that your Program Sponsor or Third-Party
+      Providers may offer;
+    - To conduct in depth analytics about the Program
+    - To evaluate the overall quality and effectiveness of the programs you may participate
+      in
+    - To provide you with information about the services available to you through
+      the Program and platform or provided to you by a Program Partner or a Third-Party
+      Provider
+    legal:
+    - To comply with applicable laws
+    services:
+    - To administer the Program, services and the Personify Health Online Store
+    - To assess your eligibility for other programs that your Program Sponsor or Third-Party
+      Providers may offer;
+    - To coordinate enrollment in additional services made available to you
+    - To enhance your Program experience
+    - To ensure that you receive appropriate rewards for participation in Our services
+      and other similar services provided by your Program Sponsor or Third-Party Providers
+    - To evaluate the overall quality and effectiveness of the programs you may participate
+      in
+    - To provide you with information about the services available to you through
+      the Program and platform or provided to you by a Program Partner or a Third-Party
+      Provider
+    - to allow Us to provide you with Our services
+    - to allow your participation in additional third-party provided wellness services
+      or to support the administration of the Program
+    - to facilitate treatment activities
+    - to identify you as an individual who is able to join the Program and become
+      a Member
+- source: we
+  target: personal information collect
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    We will use the Personal Information collected only to provide you with access
+    to Our services, including:'
+  purposes:
+    advertising:
+    - To track your progress in the Program and, if applicable, track Program incentives
+      and rewards
+    analytics:
+    - To track your progress in the Program and, if applicable, track Program incentives
+      and rewards
+    security:
+    - To provide appropriate security and confidentiality controls to protect your
+      Personal Information
+    services:
+    - To administer and manage the Program and corollary features, such as the Personify
+      Health Online Store
+    - To administer and manage your Personify Health account and Membership
+    - To identify you when you enroll or sign-in
+    - To provide you with information about the Program and Program features
+    - To respond to your questions and requests; and
+    - To track your progress in the Program and, if applicable, track Program incentives
+      and rewards
+- source: we
+  target: personal information provide for operation of waitlist
+  key: COLLECT
+  text:
+  - We will only use the Personal Information provided for the operation of the Waitlist
+    and to notify you if a space in the Program becomes available.
+  purposes:
+    services:
+    - for the operation of the Waitlist
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - You may share your phone number with Us, or We may receive it from your Program
+    Sponsor or third party.
+  purposes: {}
+- source: we
+  target: record
+  key: COLLECT
+  text:
+  - This can help Us analyze Our records to better evaluate the effectiveness of Our
+    services.
+  purposes:
+    analytics:
+    - to better evaluate the effectiveness of Our services
+    services:
+    - to better evaluate the effectiveness of Our services
+- source: we
+  target: relate information
+  key: COLLECT
+  text:
+  - At the direction of your Program Sponsor, your health insurance provider may share
+    claims-related information with Us.
+  - 'General Privacy Notice
+
+
+    With your prior approval, We may receive healthcare-related information from your
+    healthcare provider and any clinics or organized care facility with which your
+    provider is associated.'
+  - We may use this claims-related information (a) to generate aggregate reports to
+    help the Program Sponsor customize an effective Program based on the specific
+    needs of its member base, (b) to recommend specific health and wellness objectives
+    that would be most effective for you, and (c) to help identify effective health
+    and wellness objectives based on changes to your claim history.
+  purposes:
+    advertising:
+    - to generate aggregate reports to help the Program Sponsor customize an effective
+      Program based on the specific needs of its member base, (b) to recommend specific
+      health and wellness objectives that would be most effective for you, and (c)
+      to help identify effective health and wellness objectives based on changes to
+      your claim history
+    analytics:
+    - to generate aggregate reports to help the Program Sponsor customize an effective
+      Program based on the specific needs of its member base, (b) to recommend specific
+      health and wellness objectives that would be most effective for you, and (c)
+      to help identify effective health and wellness objectives based on changes to
+      your claim history
+    services:
+    - to generate aggregate reports to help the Program Sponsor customize an effective
+      Program based on the specific needs of its member base, (b) to recommend specific
+      health and wellness objectives that would be most effective for you, and (c)
+      to help identify effective health and wellness objectives based on changes to
+      your claim history
+- source: we
+  target: report contain identifiable information
+  key: COLLECT
+  text:
+  - In specific circumstances and for limited purposes, such as to ensure proper Program
+    administration or to support tax compliance, We may share reports containing identifiable
+    information with your Program Sponsor.
+  purposes: {}
+- source: we
+  target: result
+  key: COLLECT
+  text:
+  - If you use these services, the Program Partners may share activity information
+    and results with Us.
+  purposes: {}
+- source: we
+  target: statistical information about
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    We use Cookies: To collect statistical information about how you use the website,
+    allowing Us to improve Our services over time.'
+  purposes: {}
+- source: we
+  target: type of browser use
+  key: COLLECT
+  text:
+  - We may also automatically collect additional information when you visit Our web-based
+    platform or mobile application, including the type of browser used, the internet
+    service provider (ISP), referring and exit pages, the files viewed on Our site
+    (e.g., HTML pages, graphics, etc.), date and time stamps of activity on the platform,
+    the accessing IP address (the unique address that identifies your device on the
+    internet) and the operating system your device uses.
+  - We use this additional information to derive a broad, non-specific understanding
+    of the locations from which Our Members access Our services, and to enhance the
+    security controls around platform access.
+  purposes:
+    analytics:
+    - to derive a broad, non-specific understanding of the locations from which Our
+      Members access Our services, and to enhance the security controls around platform
+      access
+    security:
+    - to derive a broad, non-specific understanding of the locations from which Our
+      Members access Our services, and to enhance the security controls around platform
+      access
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'As noted above, you have the following rights under GDPR: The right to opt-out,
+    or an opt-in choice for sensitive data, before we share your data with third parties
+    other than our agents, or before we use it for a purpose other than which it was
+    originally collected or subsequently authorized.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    We may provide information in an anonymous and aggregated format or provide your
+    Personal Information in a group format to third parties that process that Personal
+    Information ("Analytics Processors") to generate Anonymous Information and derive
+    analytical information.'
+  - We may, from time to time, share your Personal Information with third parties
+    to allow Us to provide you with Our services.
+  purposes:
+    services:
+    - to allow Us to provide you with Our services
+- source: UNSPECIFIED_ACTOR
+  target: personal information we hold about you
+  key: COLLECT
+  text:
+  - In the event that We (a) undergo reorganization or liquidation under bankruptcy,
+    or (b) are sold to a third party, any Personal Information We hold about you may
+    be transferred to the reorganized entity or third party, in accordance with applicable
+    laws.
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - The mobile analytics software may record information such as how often you use
+    the mobile application, the events that occur within the mobile application, crash
+    reports and performance data, where the application was downloaded from and other
+    metrics, such as aggregated usage.
+  purposes: {}
+- source: analytics processors
+  target: personal information
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    We may provide information in an anonymous and aggregated format or provide your
+    Personal Information in a group format to third parties that process that Personal
+    Information ("Analytics Processors") to generate Anonymous Information and derive
+    analytical information.'
+  purposes: {}
+- source: base platform
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Our web-based platform uses Cookies to collect information about Member usage
+    of the Program.
+  purposes: {}
+- source: base platform
+  target: information about member usage of program
+  key: COLLECT
+  text:
+  - Our web-based platform uses Cookies to collect information about Member usage
+    of the Program.
+  purposes: {}
+- source: different wellness service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Yes, you can request that all your Personal Information and other data be transferred
+    to a different wellness services provider.
+  purposes: {}
+- source: different wellness service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Yes, you can request that all your Personal Information and other data be transferred
+    to a different wellness services provider.
+  purposes: {}
+- source: health insurance provider
+  target: relate information
+  key: COLLECT
+  text:
+  - At the direction of your Program Sponsor, your health insurance provider may share
+    claims-related information with Us.
+  purposes: {}
+- source: new entity
+  target: personal information
+  key: COLLECT
+  text:
+  - In any such event, the new entity will continue to use your Personal Information
+    in accordance with and within the limits of this Notice to ensure continuation
+    of service.
+  purposes:
+    services:
+    - to ensure continuation of service
+- source: own wellness coach who use system
+  target: personal information
+  key: COLLECT
+  text:
+  - Some Program Sponsors hire their own wellness coaches who use Our systems to deliver
+    their coaching services.
+  - We may share Personal Information with these coaches as necessary for them to
+    provide wellness coaching services directly to you.
+  purposes: {}
+- source: personify health
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    Personify Health will keep anonymized data for the period set forth in its retention
+    policy.'
+  purposes: {}
+- source: personify health
+  target: personal information
+  key: COLLECT
+  text:
+  - As noted above, in certain situations, Personify Health may be required to disclose
+    personal data in response to lawful requests by public authorities, including
+    to meet national security or law enforcement requirements.
+  - 'General Privacy Notice
+
+
+    Personify Health will keep your Personal Information for the duration of your
+    membership.'
+  - In certain situations, Personify Health may be required to disclose personal data
+    in response to lawful requests by public authorities, including to meet national
+    security or law enforcement requirements.
+  - Personify Health is permitted to keep your personal information as permitted or
+    required by law.
+  purposes: {}
+- source: program partners
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In certain instances, the use of such Program Partners may require you to provide
+    additional Personal Information and data to these Program Partners.
+  - Our Program Partners are industry leading health, wellness and wellbeing providers
+    We select to enhance your experience.
+  purposes: {}
+- source: program partners
+  target: activity information
+  key: COLLECT
+  text:
+  - If you use these services, the Program Partners may share activity information
+    and results with Us.
+  purposes: {}
+- source: program partners
+  target: personal information
+  key: COLLECT
+  text:
+  - In certain instances, the use of such Program Partners may require you to provide
+    additional Personal Information and data to these Program Partners.
+  - Our Program Partners are industry leading health, wellness and wellbeing providers
+    We select to enhance your experience.
+  purposes: {}
+- source: program partners
+  target: result
+  key: COLLECT
+  text:
+  - If you use these services, the Program Partners may share activity information
+    and results with Us.
+  purposes: {}
+- source: program sponsor
+  target: activity information
+  key: COLLECT
+  text:
+  - 'General Privacy Notice
+
+
+    If your activity information indicates there may be an abnormality or Program
+    abuse, We may share your activity information with your Program Sponsor and make
+    adjustments, or suspend or terminate your account, in accordance with your Program
+    Sponsor''s instructions.'
+  purposes: {}
+- source: program sponsor
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - In general, across all types of Program Sponsors, We share anonymized and aggregated
+    data with your Program Sponsor.
+  - Your Program Sponsor may use the anonymized information in its discretion, including
+    to evaluate the overall program, as well as to provide additional benefits, programs
+    and services.
+  purposes: {}
+- source: program sponsor
+  target: performance information as leaderboard
+  key: COLLECT
+  text:
+  - Additionally, some performance information such as a leaderboard may be shared
+    with your Program Sponsor on an individual or team basis.
+  purposes: {}
+- source: program sponsor
+  target: personal information
+  key: COLLECT
+  text:
+  - Depending on your Program design, your Program Sponsor may provide Us your Personal
+    Information to identify you as an individual who is able to join the Program and
+    become a Member.
+  purposes:
+    services:
+    - to identify you as an individual who is able to join the Program and become
+      a Member
+- source: program sponsor
+  target: report contain identifiable information
+  key: COLLECT
+  text:
+  - In specific circumstances and for limited purposes, such as to ensure proper Program
+    administration or to support tax compliance, We may share reports containing identifiable
+    information with your Program Sponsor.
+  purposes: {}
+- source: program sponsor
+  target: response
+  key: COLLECT
+  text:
+  - However, if the survey offered gives you the ability to respond to a question
+    by writing in a response, the response will be shared with the Program Sponsor.
+  purposes: {}
+- source: program sponsor
+  target: result
+  key: COLLECT
+  text:
+  - If you decide to take part in a Personify Health Survey the results will be shared
+    with your Program Sponsor in aggregated reports.
+  purposes: {}
+- source: provider integrate with program
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - At the direction of your Program Sponsor, We may exchange data with these other
+    providers to provide Our services to you.
+  - In some cases, your Program Sponsor may offer benefits through other providers
+    that integrate with the Program.
+  purposes:
+    services:
+    - to provide Our services to you
+- source: reorganize entity
+  target: personal information we hold about you
+  key: COLLECT
+  text:
+  - In the event that We (a) undergo reorganization or liquidation under bankruptcy,
+    or (b) are sold to a third party, any Personal Information We hold about you may
+    be transferred to the reorganized entity or third party, in accordance with applicable
+    laws.
+  purposes: {}
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: billing staff
+  key: SUBSUM
+  text:
+  - Examples of the employees who have access to your Personal Information include
+    Our member services staff, Our wellness coaching staff, billing staff and Our
+    data reporting staff.
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: data reporting staff
+  key: SUBSUM
+  text:
+  - Examples of the employees who have access to your Personal Information include
+    Our member services staff, Our wellness coaching staff, billing staff and Our
+    data reporting staff.
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: member service staff
+  key: SUBSUM
+  text:
+  - Examples of the employees who have access to your Personal Information include
+    Our member services staff, Our wellness coaching staff, billing staff and Our
+    data reporting staff.
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: wellness coaching staff
+  key: SUBSUM
+  text:
+  - Examples of the employees who have access to your Personal Information include
+    Our member services staff, Our wellness coaching staff, billing staff and Our
+    data reporting staff.
+- source: biometric information
+  target: blood pressure
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Biometric
+    information such as your blood pressure or weight;'
+- source: biometric information
+  target: weight
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Biometric
+    information such as your blood pressure or weight;'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your contact
+    information, including your first name and last name, home address, personal and
+    business email addresses and your phone number;'
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your contact
+    information, including your first name and last name, home address, personal and
+    business email addresses and your phone number;'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your contact
+    information, including your first name and last name, home address, personal and
+    business email addresses and your phone number;'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your contact
+    information, including your first name and last name, home address, personal and
+    business email addresses and your phone number;'
+- source: corollary feature
+  target: personify health online store
+  key: SUBSUM
+  text:
+  - 'General Privacy Notice
+
+
+    We will use the Personal Information collected only to provide you with access
+    to Our services, including: To administer and manage the Program and corollary
+    features, such as the Personify Health Online Store;'
+- source: information about visit
+  target: prefer setting
+  key: SUBSUM
+  text:
+  - Cookies help Our web-based platform to remember information about your visit,
+    like your preferred settings.
+- source: metric
+  target: aggregate usage
+  key: SUBSUM
+  text:
+  - The mobile analytics software may record information such as how often you use
+    the mobile application, the events that occur within the mobile application, crash
+    reports and performance data, where the application was downloaded from and other
+    metrics, such as aggregated usage.
+- source: multiple layer of security
+  target: antivirus software
+  key: SUBSUM
+  text:
+  - We use multiple layers of security to protect your Personal Information and data,
+    including firewalls, intrusion detection tools and antivirus software.
+- source: multiple layer of security
+  target: firewall
+  key: SUBSUM
+  text:
+  - We use multiple layers of security to protect your Personal Information and data,
+    including firewalls, intrusion detection tools and antivirus software.
+- source: multiple layer of security
+  target: intrusion detection tool
+  key: SUBSUM
+  text:
+  - We use multiple layers of security to protect your Personal Information and data,
+    including firewalls, intrusion detection tools and antivirus software.
+- source: number
+  target: core wellbeing
+  key: SUBSUM
+  text:
+  - Personify Health offers a number of wellness programs under different program
+    names including Complete Wellbeing, Essential Wellbeing, Core Wellbeing, Go Challenge,
+    and Transform.
+- source: personal information
+  target: age
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your gender,
+    date of birth and age;'
+- source: personal information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Biometric
+    information such as your blood pressure or weight;'
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - Additionally, We may create "Anonymous Data" records by removing any Personal
+    Information (including any contact information) that would allow the remaining
+    data to be linked back to you.
+  - 'The Personal Information We collect includes, but is not limited to: Your contact
+    information, including your first name and last name, home address, personal and
+    business email addresses and your phone number;'
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your gender,
+    date of birth and age;'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: The email
+    address you use to sign-in;'
+- source: personal information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your gender,
+    date of birth and age;'
+- source: personal information
+  target: information about fitness
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Information
+    about your fitness and related wellness activities offered within the Program;'
+- source: personal information
+  target: information about health
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Information
+    about your health;'
+- source: personal information
+  target: information about participation in program
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Information
+    about your participation and performance in the Program and related challenges;'
+- source: personal information
+  target: information you share about yourself during call you participate in with
+    health coach
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Information
+    you voluntarily share about yourself during any calls you participate in with
+    Our health coaches;'
+- source: personal information
+  target: information you share with member services team
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Information
+    you voluntarily share with Our Member Services team;'
+- source: personal information
+  target: profile information
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your profile
+    information, including your profile photo and background photo;'
+- source: personal information
+  target: relate information
+  key: SUBSUM
+  text:
+  - 'General Privacy Notice
+
+
+    When your Program Sponsor is also your medical care provider, We may share your
+    Personal Information, including detailed health and wellness related information,
+    to facilitate treatment activities.'
+- source: personal information
+  target: ssn
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your social
+    security number or employee identification number;'
+- source: profile information
+  target: background photo
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your profile
+    information, including your profile photo and background photo;'
+- source: profile information
+  target: profile photo
+  key: SUBSUM
+  text:
+  - 'The Personal Information We collect includes, but is not limited to: Your profile
+    information, including your profile photo and background photo;'
+- source: quality service
+  target: member services through personify health call center
+  key: SUBSUM
+  text:
+  - Our employees at these locations may be required to access your Personal Information
+    to provide you with quality services, including Member Services through the Personify
+    Health Call Center.
+- source: source
+  target: publicly available database
+  key: SUBSUM
+  text:
+  - We may receive information about you from other sources including publicly available
+    databases or third parties from whom We have purchased data.
+- source: tool
+  target: technology
+  key: SUBSUM
+  text:
+  - Personify Health, its Program Partners and vendors use tools such as Cookies,
+    tags, scripts and other similar technologies to enhance and support your experience
+    on the platform.
+- source: type of browser use
+  target: activity on platform
+  key: SUBSUM
+  text:
+  - We may also automatically collect additional information when you visit Our web-based
+    platform or mobile application, including the type of browser used, the internet
+    service provider (ISP), referring and exit pages, the files viewed on Our site
+    (e.g., HTML pages, graphics, etc.), date and time stamps of activity on the platform,
+    the accessing IP address (the unique address that identifies your device on the
+    internet) and the operating system your device uses.
+- source: type of browser use
+  target: date stamp
+  key: SUBSUM
+  text:
+  - We may also automatically collect additional information when you visit Our web-based
+    platform or mobile application, including the type of browser used, the internet
+    service provider (ISP), referring and exit pages, the files viewed on Our site
+    (e.g., HTML pages, graphics, etc.), date and time stamps of activity on the platform,
+    the accessing IP address (the unique address that identifies your device on the
+    internet) and the operating system your device uses.
+- source: type of browser use
+  target: file view on site
+  key: SUBSUM
+  text:
+  - We may also automatically collect additional information when you visit Our web-based
+    platform or mobile application, including the type of browser used, the internet
+    service provider (ISP), referring and exit pages, the files viewed on Our site
+    (e.g., HTML pages, graphics, etc.), date and time stamps of activity on the platform,
+    the accessing IP address (the unique address that identifies your device on the
+    internet) and the operating system your device uses.
+- source: type of browser use
+  target: ip address
+  key: SUBSUM
+  text:
+  - We may also automatically collect additional information when you visit Our web-based
+    platform or mobile application, including the type of browser used, the internet
+    service provider (ISP), referring and exit pages, the files viewed on Our site
+    (e.g., HTML pages, graphics, etc.), date and time stamps of activity on the platform,
+    the accessing IP address (the unique address that identifies your device on the
+    internet) and the operating system your device uses.
+- source: type of browser use
+  target: unique address identify device on internet
+  key: SUBSUM
+  text:
+  - We may also automatically collect additional information when you visit Our web-based
+    platform or mobile application, including the type of browser used, the internet
+    service provider (ISP), referring and exit pages, the files viewed on Our site
+    (e.g., HTML pages, graphics, etc.), date and time stamps of activity on the platform,
+    the accessing IP address (the unique address that identifies your device on the
+    internet) and the operating system your device uses.
+nodes:
+- type: ACTOR
+  id: Personal Information Privacy and Security Association (Vancouver)
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: analytics processors
+- type: ACTOR
+  id: antivirus software
+- type: ACTOR
+  id: base platform
+- type: ACTOR
+  id: billing staff
+- type: ACTOR
+  id: data reporting staff
+- type: ACTOR
+  id: different wellness service provider
+- type: ACTOR
+  id: firewall
+- type: ACTOR
+  id: health insurance provider
+- type: ACTOR
+  id: intrusion detection tool
+- type: ACTOR
+  id: member service staff
+- type: ACTOR
+  id: member services through personify health call center
+- type: ACTOR
+  id: multiple layer of security
+- type: ACTOR
+  id: new entity
+- type: ACTOR
+  id: own wellness coach who use system
+- type: ACTOR
+  id: personify health
+- type: ACTOR
+  id: program partners
+- type: ACTOR
+  id: program sponsor
+- type: ACTOR
+  id: provider integrate with program
+- type: ACTOR
+  id: publicly available database
+- type: ACTOR
+  id: quality service
+- type: ACTOR
+  id: reorganize entity
+- type: ACTOR
+  id: source
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: tool
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: wellness coaching staff
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: activity information
+- type: DATA
+  id: activity on platform
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: aggregate usage
+- type: DATA
+  id: amount of personal information
+- type: DATA
+  id: background photo
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: blood pressure
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: core wellbeing
+- type: DATA
+  id: corollary feature
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: date stamp
+- type: DATA
+  id: datum we collect about you through platform
+- type: DATA
+  id: demographic information about member base as whole
+- type: DATA
+  id: eligibility files
+- type: DATA
+  id: email address
+- type: DATA
+  id: file view on site
+- type: DATA
+  id: gender
+- type: DATA
+  id: information about fitness
+- type: DATA
+  id: information about health
+- type: DATA
+  id: information about member usage of program
+- type: DATA
+  id: information about participation in program
+- type: DATA
+  id: information about visit
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information you share about yourself during call you participate in with health
+    coach
+- type: DATA
+  id: information you share with member services team
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: metric
+- type: DATA
+  id: number
+- type: DATA
+  id: performance information as leaderboard
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information collect
+- type: DATA
+  id: personal information provide for operation of waitlist
+- type: DATA
+  id: personal information we hold about you
+- type: DATA
+  id: personify health online store
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: prefer setting
+- type: DATA
+  id: profile information
+- type: DATA
+  id: profile photo
+- type: DATA
+  id: record
+- type: DATA
+  id: relate information
+- type: DATA
+  id: report contain identifiable information
+- type: DATA
+  id: response
+- type: DATA
+  id: result
+- type: DATA
+  id: ssn
+- type: DATA
+  id: statistical information about
+- type: DATA
+  id: type of browser use
+- type: DATA
+  id: unique address identify device on internet
+- type: DATA
+  id: weight

@@ -1,0 +1,219 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: fingertip light
+  key: COLLECT
+  text:
+  - This app only needs to open the camera permission (it will prompt before using
+    the app) and collect fingertip light to calculate heart rate by self-developed
+    algorithm.
+  purposes:
+    analytics:
+    - to calculate heart rate by self-developed algorithm
+- source: we
+  target: measurement data
+  key: COLLECT
+  text:
+  - user's measurement data is only stored locally, and we attach great importance
+    to user data security, including GDPR.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nc) For the purpose
+    of serving users, may use your personal information to provide you with information
+    of interest to you, including but not limited to, to send you product and service
+    information, or to share information with partners so that they can You send information
+    about its products and services (the latter requires your prior consent)."
+  purposes:
+    services:
+    - For the purpose of serving users
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) To provide the
+    products and services you request, you must share your personal information with
+    third parties."
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) also does not allow
+    any third party to collect, edit, sell or distribute your personal information
+    in any way."
+  purposes:
+    services:
+    - To provide the products and services you request
+- source: counterparty
+  target: personal information
+  key: COLLECT
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When using the
+    web service for online transactions, you will inevitably disclose your personal
+    information, such as contact information or postal address, to the counterparty
+    or potential counterparty."
+  purposes: {}
+- source: potential counterparty
+  target: personal information
+  key: COLLECT
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When using the
+    web service for online transactions, you will inevitably disclose your personal
+    information, such as contact information or postal address, to the counterparty
+    or potential counterparty."
+  purposes: {}
+- source: datum as language use
+  target: date
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When you use the
+    web service or access the web page, automatically receives and records information
+    on your browser and computer, including but not limited to your IP address, browser
+    type, Data such as language used, date and time of access, hardware and software
+    feature information, and web page records you need;"
+- source: datum as language use
+  target: hardware feature information
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When you use the
+    web service or access the web page, automatically receives and records information
+    on your browser and computer, including but not limited to your IP address, browser
+    type, Data such as language used, date and time of access, hardware and software
+    feature information, and web page records you need;"
+- source: datum as language use
+  target: web page record you need
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When you use the
+    web service or access the web page, automatically receives and records information
+    on your browser and computer, including but not limited to your IP address, browser
+    type, Data such as language used, date and time of access, hardware and software
+    feature information, and web page records you need;"
+- source: information about information release
+  target: evaluation detail
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb)  collects information
+    about your information released by , including but not limited to participation,
+    transaction information, and evaluation details;"
+- source: information about information release
+  target: participation
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb)  collects information
+    about your information released by , including but not limited to participation,
+    transaction information, and evaluation details;"
+- source: information about information release
+  target: transaction information
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb)  collects information
+    about your information released by , including but not limited to participation,
+    transaction information, and evaluation details;"
+- source: information on browser
+  target: browser type
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When you use the
+    web service or access the web page, automatically receives and records information
+    on your browser and computer, including but not limited to your IP address, browser
+    type, Data such as language used, date and time of access, hardware and software
+    feature information, and web page records you need;"
+- source: information on browser
+  target: datum as language use
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When you use the
+    web service or access the web page, automatically receives and records information
+    on your browser and computer, including but not limited to your IP address, browser
+    type, Data such as language used, date and time of access, hardware and software
+    feature information, and web page records you need;"
+- source: information on browser
+  target: ip address
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When you use the
+    web service or access the web page, automatically receives and records information
+    on your browser and computer, including but not limited to your IP address, browser
+    type, Data such as language used, date and time of access, hardware and software
+    feature information, and web page records you need;"
+- source: necessary information
+  target: contact information
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nf) In a transaction
+    created on the platform, if either party fulfills or partially fulfills its trading
+    obligations and requests for information disclosure, has the right to decide to
+    provide the user with the necessary information such as the contact information
+    of the counterparty."
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When using the
+    web service for online transactions, you will inevitably disclose your personal
+    information, such as contact information or postal address, to the counterparty
+    or potential counterparty."
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - "<< Privacy policy >>  And << Terms and conditions >>   \n\nb) When using the
+    web service for online transactions, you will inevitably disclose your personal
+    information, such as contact information or postal address, to the counterparty
+    or potential counterparty."
+- source: thoughtful service
+  target: promotional service
+  key: SUBSUM
+  text:
+  - uses cookies to provide you with more thoughtful and personalized services, including
+    promotional services.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: counterparty
+- type: ACTOR
+  id: potential counterparty
+- type: ACTOR
+  id: promotional service
+- type: ACTOR
+  id: thoughtful service
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: browser type
+- type: DATA
+  id: contact information
+- type: DATA
+  id: date
+- type: DATA
+  id: datum as language use
+- type: DATA
+  id: evaluation detail
+- type: DATA
+  id: fingertip light
+- type: DATA
+  id: hardware feature information
+- type: DATA
+  id: information about information release
+- type: DATA
+  id: information on browser
+- type: DATA
+  id: ip address
+- type: DATA
+  id: measurement data
+- type: DATA
+  id: necessary information
+- type: DATA
+  id: participation
+- type: DATA
+  id: personal information
+- type: DATA
+  id: postal address
+- type: DATA
+  id: transaction information
+- type: DATA
+  id: web page record you need

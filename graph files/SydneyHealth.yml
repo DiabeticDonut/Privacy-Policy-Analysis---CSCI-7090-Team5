@@ -1,0 +1,205 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may use "cookies" to help us improve this website and Application by tracking
+    your navigation habits and to store some of your preferences.
+  purposes:
+    analytics:
+    - to help us improve this website and Application by tracking your navigation
+      habits and to store some of your preferences
+    services:
+    - to help us improve this website and Application by tracking your navigation
+      habits and to store some of your preferences
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We use your IP address to help diagnose problems with our server and to support
+    our administration of this website and Application.
+  purposes:
+    services:
+    - to help diagnose problems with our server and to support our administration
+      of this website and Application
+- source: we
+  target: quantitative user information
+  key: COLLECT
+  text:
+  - We may also gather quantitative user information, such as the number of users
+    and the pages or data accessed, in order to perform administrative, technical,
+    hosting or other functions that help us manage our website and Application and
+    deliver new functionality to you.
+  purposes:
+    services:
+    - in order to perform administrative, technical, hosting or other functions that
+      help us manage our website and Application and deliver new functionality to
+      you
+- source: UNSPECIFIED_ACTOR
+  target: information collect through email
+  key: COLLECT
+  text:
+  - Information collected through email may be shared with our Member Services department,
+    other associates, or third parties that perform services on our behalf.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information on computer
+  key: COLLECT
+  text:
+  - Cookies do not allow websites or applications to gain access to other information
+    on your computer.
+  purposes: {}
+- source: associate
+  target: information collect through email
+  key: COLLECT
+  text:
+  - Information collected through email may be shared with our Member Services department,
+    other associates, or third parties that perform services on our behalf.
+  purposes: {}
+- source: member services department
+  target: information collect through email
+  key: COLLECT
+  text:
+  - Information collected through email may be shared with our Member Services department,
+    other associates, or third parties that perform services on our behalf.
+  purposes: {}
+- source: consumer privacy protection information
+  target: consumer.gov identity theft website
+  key: SUBSUM
+  text:
+  - 'CONSUMER PRIVACY PROTECTION INFORMATION : Consumer.gov Identity Theft website'
+- source: identifier
+  target: account
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: alien registration number
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: credit debit card
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: item
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: license
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: passport
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: ssn
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: identifier
+  target: state identification card
+  key: SUBSUM
+  text:
+  - 'Personal Information is information that can be connected to you through certain
+    identifiers which can include: name, Social Security number (SSN), driver''s license,
+    state identification card, account, credit/debit card, passport or alien registration
+    numbers -- among other items.'
+- source: personal information
+  target: ssn
+  key: SUBSUM
+  text:
+  - PERSONAL INFORMATION (INCLUDING SOCIAL SECURITY NUMBER) PRIVACY PROTECTION POLICY
+- source: quantitative user information
+  target: number of user
+  key: SUBSUM
+  text:
+  - We may also gather quantitative user information, such as the number of users
+    and the pages or data accessed, in order to perform administrative, technical,
+    hosting or other functions that help us manage our website and Application and
+    deliver new functionality to you.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: associate
+- type: ACTOR
+  id: member services department
+- type: ACTOR
+  id: we
+- type: DATA
+  id: account
+- type: DATA
+  id: alien registration number
+- type: DATA
+  id: consumer privacy protection information
+- type: DATA
+  id: consumer.gov identity theft website
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit debit card
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information collect through email
+- type: DATA
+  id: information on computer
+- type: DATA
+  id: ip address
+- type: DATA
+  id: item
+- type: DATA
+  id: license
+- type: DATA
+  id: number of user
+- type: DATA
+  id: passport
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: quantitative user information
+- type: DATA
+  id: ssn
+- type: DATA
+  id: state identification card

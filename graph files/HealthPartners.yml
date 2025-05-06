@@ -1,0 +1,266 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If your employer offers a reward for participating in a program or activity (for
+    example, completing a health assessment), we will only provide enough information
+    to your employer so your employer can administer the reward.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - For example, if you are in need of urgent care and search the mobile version of
+    this Site for an urgent care clinic, we may use location information from your
+    mobile device to direct you to the clinic nearest you.
+  purposes:
+    services:
+    - to direct you to the clinic nearest you
+- source: we
+  target: information about behavior on site help
+  key: COLLECT
+  text:
+  - They also provide information about visitors' behavior on the site that help us
+    improve the site and our marketing programs and to customize the online experience
+    to the users' needs.
+  - We may also use this information to tailor advertisements and offers to you, both
+    on our websites and on other websites.
+  purposes:
+    advertising:
+    - to tailor advertisements and offers to you, both on our websites and on other
+      websites
+- source: we
+  target: information about visitor to site
+  key: COLLECT
+  text:
+  - We collect information about visitors to our site using "cookies" and other technologies
+    that help us to make our site more useful to our visitors.
+  purposes: {}
+- source: we
+  target: information from
+  key: COLLECT
+  text:
+  - If you download one of our mobile applications or access the mobile version of
+    this Site, we may automatically collect certain information from or about your
+    mobile device.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, we collect Personal Information you submit when you register with
+    this Site, make a payment, sign up for a newsletter, or ask us question.
+  - For example, we may use Personal Information to identify someone who is using
+    our site for an illegal purpose and disclose it to law enforcement or our attorneys
+    to consider taking legal action.
+  - We collect your Personal Information through this website only if you provide
+    it to us, and use it as provided in this Website Privacy Policy.
+  - We may share Personal Information with a new entity that controls us, or that
+    we control, as a result of a corporate reorganization, such as a merger, acquisition
+    or similar action.
+  - We may use Personal Information to the extent necessary to protect our website,
+    our rights, and to avoid or minimize our liability.
+  - We will share Personal Information to the extent necessary to comply with a subpoena,
+    court or administrative order, law, rule, regulation, or similar requirement that
+    we believe in good faith legally obligates us to share it.
+  purposes:
+    legal:
+    - to comply with a subpoena, court or administrative order, law, rule, regulation,
+      or similar requirement that we believe in good faith legally obligates us to
+      share it
+    - to identify someone who is using our site for an illegal purpose and disclose
+      it to law enforcement or our attorneys to consider taking legal action
+    security:
+    - to identify someone who is using our site for an illegal purpose and disclose
+      it to law enforcement or our attorneys to consider taking legal action
+    - to protect our website, our rights, and to avoid or minimize our liability
+- source: we
+  target: personal information obtain through website
+  key: COLLECT
+  text:
+  - 'We will use and share Personal Information obtained through this website with
+    our employees, contractors, and others to the extent necessary for any of the
+    following purposes:'
+  purposes: {}
+- source: we
+  target: precise geolocation
+  key: COLLECT
+  text:
+  - Using GPS technology, and with your opt-in consent (on your mobile device), we
+    may also collect precise, real-time location information from your mobile device
+    and use that information to deliver tailored content to you.
+  purposes: {}
+- source: we
+  target: same kind
+  key: COLLECT
+  text:
+  - The types of information we may collect include the same kind of information we
+    collect from a desktop computer visitor.
+  purposes: {}
+- source: contractor
+  target: personal information obtain through website
+  key: COLLECT
+  text:
+  - 'We will use and share Personal Information obtained through this website with
+    our employees, contractors, and others to the extent necessary for any of the
+    following purposes:'
+  purposes: {}
+- source: employer
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If your employer offers a reward for participating in a program or activity (for
+    example, completing a health assessment), we will only provide enough information
+    to your employer so your employer can administer the reward.
+  purposes: {}
+- source: healthpartners
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Website privacy policy
+
+
+    Security of Health Information and Personal Information
+
+
+    How HealthPartners uses and shares personal information'
+  purposes: {}
+- source: most major website
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Most major websites, including this one, use third party cookies and similar technologies
+    to help visitors navigate the site more successfully.
+  purposes:
+    services:
+    - to help visitors navigate the site more successfully
+- source: most major website
+  target: information about behavior on site help
+  key: COLLECT
+  text:
+  - Most major websites, including this one, use third party cookies and similar technologies
+    to help visitors navigate the site more successfully.
+  - They also provide information about visitors' behavior on the site that help us
+    improve the site and our marketing programs and to customize the online experience
+    to the users' needs.
+  purposes: {}
+- source: new entity control we
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share Personal Information with a new entity that controls us, or that
+    we control, as a result of a corporate reorganization, such as a merger, acquisition
+    or similar action.
+  purposes: {}
+- source: file
+  target: plan id card
+  key: SUBSUM
+  text:
+  - 'Depending on your device, the HealthPartners mobile application may have access
+    to the following information from your mobile device: Images and files - The HealthPartners
+    app may read or write to local storage for some files such as the Plan ID card,
+    claims or Explanations of Benefits.'
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - Personal Information includes, for example, your name, home address and phone
+    number, birth date, your sex, email address or other information that is unique
+    to you that may not directly relate to your health.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - Personal Information includes, for example, your name, home address and phone
+    number, birth date, your sex, email address or other information that is unique
+    to you that may not directly relate to your health.
+- source: personal information
+  target: gender
+  key: SUBSUM
+  text:
+  - Personal Information includes, for example, your name, home address and phone
+    number, birth date, your sex, email address or other information that is unique
+    to you that may not directly relate to your health.
+- source: personal information
+  target: information be not relate to health
+  key: SUBSUM
+  text:
+  - Personal Information includes, for example, your name, home address and phone
+    number, birth date, your sex, email address or other information that is unique
+    to you that may not directly relate to your health.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - Personal Information includes, for example, your name, home address and phone
+    number, birth date, your sex, email address or other information that is unique
+    to you that may not directly relate to your health.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - Personal Information includes, for example, your name, home address and phone
+    number, birth date, your sex, email address or other information that is unique
+    to you that may not directly relate to your health.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Personal Information includes, for example, your name, home address and phone
+    number, birth date, your sex, email address or other information that is unique
+    to you that may not directly relate to your health.
+nodes:
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: employer
+- type: ACTOR
+  id: healthpartners
+- type: ACTOR
+  id: most major website
+- type: ACTOR
+  id: new entity control we
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: email address
+- type: DATA
+  id: file
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information about behavior on site help
+- type: DATA
+  id: information about visitor to site
+- type: DATA
+  id: information be not relate to health
+- type: DATA
+  id: information from
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information obtain through website
+- type: DATA
+  id: phone number
+- type: DATA
+  id: plan id card
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: same kind

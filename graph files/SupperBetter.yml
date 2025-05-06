@@ -1,0 +1,136 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - By using the Promotional Code, you understand and agree that your anonymized aggregated
+    data may be shared by SuperBetter with the partner or provider who made the Promotional
+    Code available to you.
+  purposes: {}
+- source: superbetter
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - By using the Promotional Code, you understand and agree that your anonymized aggregated
+    data may be shared by SuperBetter with the partner or provider who made the Promotional
+    Code available to you.
+  purposes: {}
+- source: superbetter
+  target: valid payment method approve
+  key: COLLECT
+  text:
+  - b) Provide SuperBetter with a valid and current payment method that is approved
+    by SuperBetter.
+  purposes: {}
+- source: we
+  target: image
+  key: SUBSUM
+  text:
+  - 'Terms and Conditions
+
+
+    THE SERVICE, INCLUDING ALL COPY, IMAGES, VIDEOS, AUDIO FILES AND OTHER CONTENT
+    THEREIN, AND ANY OTHER INFORMATION, PROPERTY AND RIGHTS GRANTED OR PROVIDED TO
+    YOU BY SUPERBETTER ARE PROVIDED TO YOU ON AN "AS IS" BASIS.'
+- source: we
+  target: video
+  key: SUBSUM
+  text:
+  - 'Terms and Conditions
+
+
+    THE SERVICE, INCLUDING ALL COPY, IMAGES, VIDEOS, AUDIO FILES AND OTHER CONTENT
+    THEREIN, AND ANY OTHER INFORMATION, PROPERTY AND RIGHTS GRANTED OR PROVIDED TO
+    YOU BY SUPERBETTER ARE PROVIDED TO YOU ON AN "AS IS" BASIS.'
+- source: content available
+  target: design
+  key: SUBSUM
+  text:
+  - All content available through the Service, including designs, text, graphics,
+    images, information, software, video, audio and other files, and their selection
+    and arrangement (the "Service Content"), are the proprietary property of SuperBetter
+    or its licensors.
+- source: content available
+  target: graphic
+  key: SUBSUM
+  text:
+  - All content available through the Service, including designs, text, graphics,
+    images, information, software, video, audio and other files, and their selection
+    and arrangement (the "Service Content"), are the proprietary property of SuperBetter
+    or its licensors.
+- source: content available
+  target: video
+  key: SUBSUM
+  text:
+  - All content available through the Service, including designs, text, graphics,
+    images, information, software, video, audio and other files, and their selection
+    and arrangement (the "Service Content"), are the proprietary property of SuperBetter
+    or its licensors.
+- source: custom activity
+  target: challenge host for
+  key: SUBSUM
+  text:
+  - As part of the Service, SuperBetter allows users to create custom activities,
+    including Challenges to host for others ("Custom Content").
+- source: educational service
+  target: activity
+  key: SUBSUM
+  text:
+  - The Service allows users to access and use a variety of educational services,
+    including activities and features to promote social-emotional skills, mental health
+    and resilience training.
+- source: educational service
+  target: feature
+  key: SUBSUM
+  text:
+  - The Service allows users to access and use a variety of educational services,
+    including activities and features to promote social-emotional skills, mental health
+    and resilience training.
+- source: list
+  target: list of designate nationals
+  key: SUBSUM
+  text:
+  - You represent and warrant that (1) you are not organized under the laws of, operating
+    from, or otherwise ordinarily resident in a country or territory that is the target
+    or comprehensive U.S. economic or trade sanctions (i.e., an embargo) or (2) identified
+    on a list of prohibited or restricted persons, such as the U.S. Treasury Department's
+    List of Specially Designated Nationals and Blocked Persons, or (3) otherwise the
+    target of U.S. sanctions.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: activity
+- type: ACTOR
+  id: challenge host for
+- type: ACTOR
+  id: content available
+- type: ACTOR
+  id: custom activity
+- type: ACTOR
+  id: design
+- type: ACTOR
+  id: educational service
+- type: ACTOR
+  id: feature
+- type: ACTOR
+  id: graphic
+- type: ACTOR
+  id: image
+- type: ACTOR
+  id: list
+- type: ACTOR
+  id: list of designate nationals
+- type: ACTOR
+  id: superbetter
+- type: ACTOR
+  id: video
+- type: ACTOR
+  id: we
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: valid payment method approve

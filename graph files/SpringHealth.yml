@@ -1,0 +1,1761 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - HOW WE PROTECT AND STORE YOUR INFORMATION
+  - How We May Use and Disclose Other Information
+  - If your child directly uses your Spring Health account, either with or without
+    your permission, we may collect information directly from your child.
+  - 'Privacy Policy
+
+
+    A.     We may share your information under limited circumstances in the manner
+    and for the purposes described below:'
+  - This service may also collect information regarding the use of other websites,
+    apps and online resources.
+  - 'We and our third party service providers may collect Other Information in a variety
+    of ways, including:'
+  - We may use and disclose Other Information for any purpose, except where we are
+    required to do otherwise under applicable law.
+  - if you are one of our Providers, we will share your information with third parties
+    to confirm your eligibility to carry out the Services.
+  - if, in the future, we sell or transfer some or all of our business or assets to
+    a third party, we may disclose information to a potential or actual third party
+    purchaser of our business or assets.
+  purposes:
+    legal:
+    - to confirm your eligibility to carry out the
+    services:
+    - to confirm your eligibility to carry out the
+    - to confirm your eligibility to carry out the Services
+- source: we
+  target: amend information
+  key: COLLECT
+  text:
+  - Where appropriate, we will transmit the amended information to third parties having
+    access to your Personal Information.
+  purposes: {}
+- source: we
+  target: computer type
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: device manufacturer
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: feedback
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    If you provide to us any ideas, proposals, suggestions, recommendations or other
+    materials (" Feedback "), whether related to the Services or otherwise.'
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We may collect the physical location of your device by, for example, using satellite,
+    cell phone tower or WiFi We may use your device's physical location to provide
+    you with personalized location-based services and content.
+  - We may collect the physical location of your device by, for example, using satellite,
+    cell phone tower or WiFi signals.
+  purposes:
+    services:
+    - to provide you with personalized location-based services and content
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    We collect information about you if you:'
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - ': When you download and use the Apps, we and our service providers may track
+    and collect usage data, such as the date and time the App on your device accesses
+    our servers and what information and files have been downloaded to the App based
+    on your device number.'
+  - 'Privacy Policy
+
+
+    App usage data: When you use the Apps, we and our service providers may track
+    and collect usage data, such as the date and time the App on your device accesses
+    our servers and what information and files have been downloaded to the App based
+    on your device number.'
+  purposes: {}
+- source: we
+  target: internet browser type
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - Collecting IP addresses is standard practice and is done automatically by many
+    websites, applications and other We use IP addresses for purposes such as calculating
+    usage levels, diagnosing server problems and administering the Services.
+  purposes:
+    analytics:
+    - for purposes such as calculating usage levels, diagnosing server problems and
+      administering the Services
+    services:
+    - for purposes such as calculating usage levels, diagnosing server problems and
+      administering the Services
+- source: we
+  target: language
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: mac address
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: model
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: necessary identification datum
+  key: COLLECT
+  text:
+  - Where your right to object concerns the processing of personal data for direct
+    marketing purposes, we may retain necessary identification data to prevent future
+    processing for these purposes; or
+  purposes: {}
+- source: we
+  target: operating system name
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: personal datum collect
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    3.             We may use personal data collected if you use our Websites or Services
+    if you consent or as permitted by applicable law in the following ways:'
+  - 'Privacy Policy
+
+
+    3.             We may use personal data collected if you use our Websites or Services
+    or if you consent or as permitted by applicable law in the following ways:'
+  - 'Privacy Policy
+
+
+    4.             We may use personal data collected if you use our Websites or Services
+    or if you consent or as permitted by applicable law in the following ways:'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - In certain cases, we may collect your personal information using tracking or profiling
+    technology.
+  - In some circumstances we may store your personal information for longer periods
+    of time as required or permitted by law, for instance where we are required to
+    do so in accordance with legal, regulatory, tax, accounting requirements.
+  - In specific circumstances we may store your personal information for longer periods
+    of time so that we have an accurate record of your dealings with us in the event
+    of any complaints or challenges, or if we reasonably believe there is a prospect
+    of litigation relating to your personal information or dealings.
+  - 'In the past 12 months, we have disclosed your Personal Information for a business
+    purpose to the following categories of third parties:'
+  - 'Privacy Policy
+
+
+    2.             If you are one of our Providers, we may use your personal information
+    in the following ways:'
+  - 'Privacy Policy
+
+
+    2.  If you are one of our Providers, we may use your personal data in the following
+    ways:'
+  - 'Privacy Policy
+
+
+    3.             Personal information we collect with your consent or as permitted
+    by law'
+  - 'Privacy Policy
+
+
+    How We May Use and Disclose Your Personal Information'
+  - 'Privacy Policy
+
+
+    How we protect and store personal information'
+  - 'Privacy Policy
+
+
+    If we disclosed your personal information and identify the personal information
+    categories that each category of recipient'
+  - 'Privacy Policy
+
+
+    We May Use Personal Information:'
+  - 'Privacy Policy
+
+
+    We can continue to use your personal information following a request for restriction,
+    where:'
+  - 'Privacy Policy
+
+
+    We will only collect, use and share your personal information where we are satisfied
+    that we have an appropriate legal basis to do this.'
+  - 'Privacy Policy
+
+
+    we will provide your personal information to our Providers, as necessary to allow
+    you to avail of specific elements of our Services;'
+  - 'Privacy Policy
+
+
+    we will provide your personal information to our Providers, as necessary to allow
+    you to avail of that specific element of our Services;'
+  - This privacy policy also explains how we collect, use and share personal information
+    if you are one of our Providers, including if you go through the application process
+    to become one of our Providers.
+  - This privacy policy also explains how we collect, use and share personal information
+    if you are or represent one of our Providers, including if you go through the
+    application process to become one of our Providers.
+  - WHAT PERSONAL INFORMATION WE COLLECT AND WHEN AND WHY WE USE IT
+  - 'We and our service providers may collect Personal Information in a variety of
+    ways, including:'
+  - We may also use and/or disclose your personal information for other purposes which
+    you consent to or which are required or permitted by law.
+  - We may collect Personal Information directly from you through the Services, e.g.,
+    when you answer a Questionnaire or register for an account.
+  - We may receive your Personal Information from other sources with your consent
+    or as permitted by applicable law, such as from your insurance or healthcare provider,
+    public databases, joint marketing partners and other third parties.
+  - 'We may use Personal Information:'
+  - We may use personal information, including sensitive information, from many Services
+    users to create non-identifiable " aggregate data " (for example, reports that
+    calculate the percentage of users who have a particular response to or result
+    from the Questionnaires) that may be disclosed to third parties.
+  - We may, in certain cases, use or communicate your personal information, without
+    your consent, for certain other purposes permitted by law, such as fraud prevention
+    or to provide a service requested by you.
+  - We store your personal information in both written and digital formats.
+  - We will only collect, use, or communicate your personal information with your
+    consent.
+  - We will retain your Personal Information for the period necessary to fulfill the
+    purposes outlined in this Privacy Policy unless a longer retention period is required
+    or permitted by law.
+  - We will retain your Personal Information in a file specific to you at our offices
+    in 245 Fifth Ave., 21sth floor, New York, NY 10016 and the data centers of our
+    service providers.
+  - We will retain your Personal Information in a file specific to you at our offices
+    in 60 Madison Ave., 2nd floor, New York, NY 10010 and the data centers of our
+    service providers.
+  - We will retain your personal information for as long as is reasonably necessary
+    for the purposes for which it was collected, as explained in this privacy policy.
+  - 'You can ask us to provide your personal information to you in a structured, commonly
+    used, machine-readable format, or you can ask to have it transferred directly
+    to another data controller, but in each case only where:'
+  - 'You can ask us to provide your personal information to you in a structured, commonly
+    used, machine-readable format, or you can ask to have it transferred directly
+    to another data controller, in accordance with further instructions of the National
+    Authority:'
+  purposes:
+    analytics:
+    - to create non-identifiable " aggregate data " (for example, reports that calculate
+      the percentage of users who have a particular response to or result from the
+      Questionnaires) that may be disclosed to third
+    - to create non-identifiable " aggregate data " (for example, reports that calculate
+      the percentage of users who have a particular response to or result from the
+      Questionnaires) that may be disclosed to third parties
+    legal:
+    - for other purposes which you consent to or which are required or permitted by
+      law
+    services:
+    - to allow you to avail of specific elements of our Services
+    - to allow you to avail of that specific element of our Services
+    - to provide a service requested by you
+- source: we
+  target: personal information collect
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    4.             We may use personal information collected if you use our Websites
+    or Services or if you consent or as permitted by applicable law in the following
+    ways:'
+  purposes: {}
+- source: we
+  target: screen resolution
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'We may also collect the following Sensitive Personal Information:'
+  purposes: {}
+- source: we
+  target: sufficient information allow
+  key: COLLECT
+  text:
+  - For privacy protection, we will ask you to provide sufficient information that
+    allows us to reasonably verify you are the person about whom we collected personal
+    information or an authorized representative.
+  purposes:
+    security:
+    - For privacy protection
+- source: we
+  target: version
+  key: COLLECT
+  text:
+  - Certain information is collected by most browsers or automatically through your
+    device, such as your Media Access Control (MAC) address, computer type (Windows
+    or Macintosh), screen resolution, operating system name and version, device manufacturer
+    and model, language, Internet browser type and version and the name and version
+    of the Services (such as the App) you are using. We use this information to ensure
+    that the Services function
+  - We use this information to ensure that the Services function properly.
+  purposes:
+    services:
+    - to ensure that the Services function
+    - to ensure that the Services function properly
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: amend information
+  key: COLLECT
+  text:
+  - Where appropriate, we will transmit the amended information to third parties having
+    access to your Personal Information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We and our third party service providers may collect Other Information in a variety
+    of ways, including:'
+  - if you are one of our Providers, we will share your information with third parties
+    to confirm your eligibility to carry out the Services.
+  - if, in the future, we sell or transfer some or all of our business or assets to
+    a third party, we may disclose information to a potential or actual third party
+    purchaser of our business or assets.
+  purposes:
+    legal:
+    - to confirm your eligibility to carry out the
+    services:
+    - to confirm your eligibility to carry out the
+    - to confirm your eligibility to carry out the Services
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    we will provide your personal information to our Providers, as necessary to allow
+    you to avail of specific elements of our Services;'
+  - 'Privacy Policy
+
+
+    we will provide your personal information to our Providers, as necessary to allow
+    you to avail of that specific element of our Services;'
+  - These employees and third-party services providers have access to your Personal
+    Information only for the purpose of performing services on our behalf, always
+    in accordance with all applicable laws, including HIPAA, and are expressly obligated
+    not to disclose or use your Personal Information for any other purpose.
+  - These third parties have agreed to confidentiality restrictions and use any personal
+    information we share with them or which they collect on our behalf solely for
+    the purpose of providing the contracted service to us.
+  purposes:
+    legal:
+    - only for the purpose of performing services on our behalf, always in accordance
+      with all applicable laws, including HIPAA
+    services:
+    - only for the purpose of performing services on our behalf, always in accordance
+      with all applicable laws, including HIPAA
+    - solely for the purpose of providing the contracted service to us
+    - to allow you to avail of specific elements of our Services
+    - to allow you to avail of that specific element of our Services
+- source: UNSPECIFIED_ACTOR
+  target: personal information within spring care
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    3.       SHARING PERSONAL INFORMATION WITHIN SPRING CARE, WITH OUR SERVICE PROVIDERS,
+    AND OTHER THIRD PARTIES'
+  - 'Privacy Policy
+
+
+    3.     SHARING PERSONAL INFORMATION WITHIN SPRING CARE, WITH OUR SERVICE PROVIDERS,
+    AND OTHER THIRD PARTIES'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information within spring health
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    3.       SHARING PERSONAL INFORMATION WITHIN SPRING HEALTH, WITH OUR SERVICE PROVIDERS,
+    AND OTHER THIRD PARTIES'
+  purposes: {}
+- source: arrangement with insurance
+  target: personal information
+  key: COLLECT
+  text:
+  - Spring may have an arrangement with your insurance or healthcare provider and
+    under that arrangement may be permitted to use and disclose your Personal Information
+    as directed by them, consistent with applicable law.
+  - Spring may have an arrangement with your insurance or healthcare provider and,
+    under that arrangement, may be permitted to use and disclose your Personal Information
+    as directed by them, consistent with applicable law.
+  purposes: {}
+- source: most browser
+  target: computer type
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: device manufacturer
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: internet browser type
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: language
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: mac address
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: model
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: operating system name
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: person name
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: screen resolution
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: most browser
+  target: version
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Browser and device information : Certain information is collected by most browsers
+    or automatically through your device, such as your Media Access Control (MAC)
+    address, computer type (Windows or Macintosh), screen resolution, operating system
+    name and version, device manufacturer and model, language, Internet browser type
+    and version and the name and version of the Services (such as the App) you are
+    using.'
+  purposes: {}
+- source: service provider
+  target: internet activity
+  key: COLLECT
+  text:
+  - ': When you download and use the Apps, we and our service providers may track
+    and collect usage data, such as the date and time the App on your device accesses
+    our servers and what information and files have been downloaded to the App based
+    on your device number.'
+  - 'Privacy Policy
+
+
+    App usage data: When you use the Apps, we and our service providers may track
+    and collect usage data, such as the date and time the App on your device accesses
+    our servers and what information and files have been downloaded to the App based
+    on your device number.'
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We and our service providers may collect Personal Information in a variety of
+    ways, including:'
+  purposes: {}
+- source: service provider
+  target: personal information within spring care
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    3.       SHARING PERSONAL INFORMATION WITHIN SPRING CARE, WITH OUR SERVICE PROVIDERS,
+    AND OTHER THIRD PARTIES'
+  - 'Privacy Policy
+
+
+    3.     SHARING PERSONAL INFORMATION WITHIN SPRING CARE, WITH OUR SERVICE PROVIDERS,
+    AND OTHER THIRD PARTIES'
+  purposes: {}
+- source: service provider
+  target: personal information within spring health
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    3.       SHARING PERSONAL INFORMATION WITHIN SPRING HEALTH, WITH OUR SERVICE PROVIDERS,
+    AND OTHER THIRD PARTIES'
+  purposes: {}
+- source: spring
+  target: personal information
+  key: COLLECT
+  text:
+  - Spring also uses and discloses Personal Information to provide the Services as
+    described below.
+  - Spring may have an arrangement with your insurance or healthcare provider and
+    under that arrangement may be permitted to use and disclose your Personal Information
+    as directed by them, consistent with applicable law.
+  - Spring may have an arrangement with your insurance or healthcare provider and,
+    under that arrangement, may be permitted to use and disclose your Personal Information
+    as directed by them, consistent with applicable law.
+  purposes:
+    services:
+    - to provide the Services
+- source: we
+  target: asset
+  key: SUBSUM
+  text:
+  - if, in the future, we sell or transfer some or all of our business or assets to
+    a third party, we may disclose information to a potential or actual third party
+    purchaser of our business or assets.
+- source: we
+  target: auditing
+  key: SUBSUM
+  text:
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, care delivery support, information technology
+    and related infrastructure provision, email delivery, auditing and other services),
+    and with whom we have a contract that includes appropriate privacy obligations.
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, information technology and related infrastructure
+    provision, email delivery, auditing and other services), and with whom we have
+    a contract that includes appropriate privacy
+- source: we
+  target: care delivery support
+  key: SUBSUM
+  text:
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, care delivery support, information technology
+    and related infrastructure provision, email delivery, auditing and other services),
+    and with whom we have a contract that includes appropriate privacy obligations.
+- source: we
+  target: data analysis
+  key: SUBSUM
+  text:
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, care delivery support, information technology
+    and related infrastructure provision, email delivery, auditing and other services),
+    and with whom we have a contract that includes appropriate privacy obligations.
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, information technology and related infrastructure
+    provision, email delivery, auditing and other services), and with whom we have
+    a contract that includes appropriate privacy
+- source: we
+  target: email delivery
+  key: SUBSUM
+  text:
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, care delivery support, information technology
+    and related infrastructure provision, email delivery, auditing and other services),
+    and with whom we have a contract that includes appropriate privacy obligations.
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, information technology and related infrastructure
+    provision, email delivery, auditing and other services), and with whom we have
+    a contract that includes appropriate privacy
+- source: we
+  target: information technology
+  key: SUBSUM
+  text:
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, care delivery support, information technology
+    and related infrastructure provision, email delivery, auditing and other services),
+    and with whom we have a contract that includes appropriate privacy obligations.
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, information technology and related infrastructure
+    provision, email delivery, auditing and other services), and with whom we have
+    a contract that includes appropriate privacy
+- source: we
+  target: related infrastructure provision
+  key: SUBSUM
+  text:
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, information technology and related infrastructure
+    provision, email delivery, auditing and other services), and with whom we have
+    a contract that includes appropriate privacy
+- source: we
+  target: website hosting
+  key: SUBSUM
+  text:
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, care delivery support, information technology
+    and related infrastructure provision, email delivery, auditing and other services),
+    and with whom we have a contract that includes appropriate privacy obligations.
+  - To our third party service providers who assist us to provide the Services (such
+    as website hosting, data analysis, information technology and related infrastructure
+    provision, email delivery, auditing and other services), and with whom we have
+    a contract that includes appropriate privacy
+- source: general information
+  target: indication
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information i.e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: general information
+  target: overall mood
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information i.e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: general information about health
+  target: indication
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: general information about health
+  target: overall mood
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: id number
+  target: license
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: id number
+  target: national id card
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: id number
+  target: passport
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: information about child
+  target: date of birth
+  key: SUBSUM
+  text:
+  - During the account registration process, the parent or legal guardian can create
+    a child's account by following our instructions for doing so and providing certain
+    information about the child, such as name, date of birth, email address, and/or
+    mailing address.
+- source: information about child
+  target: email address
+  key: SUBSUM
+  text:
+  - During the account registration process, the parent or legal guardian can create
+    a child's account by following our instructions for doing so and providing certain
+    information about the child, such as name, date of birth, email address, and/or
+    mailing address.
+- source: information about child
+  target: person name
+  key: SUBSUM
+  text:
+  - During the account registration process, the parent or legal guardian can create
+    a child's account by following our instructions for doing so and providing certain
+    information about the child, such as name, date of birth, email address, and/or
+    mailing address.
+- source: information about child
+  target: postal address
+  key: SUBSUM
+  text:
+  - During the account registration process, the parent or legal guardian can create
+    a child's account by following our instructions for doing so and providing certain
+    information about the child, such as name, date of birth, email address, and/or
+    mailing address.
+- source: information to you
+  target: for information regard services
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    information to you, for example, information regarding the Services and changes
+    to our terms, conditions and policies.'
+- source: internet activity
+  target: date
+  key: SUBSUM
+  text:
+  - ': When you download and use the Apps, we and our service providers may track
+    and collect usage data, such as the date and time the App on your device accesses
+    our servers and what information and files have been downloaded to the App based
+    on your device number.'
+  - 'Privacy Policy
+
+
+    App usage data: When you use the Apps, we and our service providers may track
+    and collect usage data, such as the date and time the App on your device accesses
+    our servers and what information and files have been downloaded to the App based
+    on your device number.'
+- source: internet activity
+  target: time
+  key: SUBSUM
+  text:
+  - 'App usage data: When you use the Apps, we and our service providers may track
+    and collect usage data, such as the date and time the App on your device accesses'
+- source: particular type
+  target: email address
+  key: SUBSUM
+  text:
+  - Please specify whether you would like us to stop all forms of marketing or just
+    a particular type (e.g. email).
+- source: personal detail
+  target: birth place
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal detail
+  target: complete
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete'
+- source: personal detail
+  target: complete name
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal detail
+  target: current address
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal detail
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal detail
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal detail
+  target: id number
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal detail
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal detail
+  target: photo
+  key: SUBSUM
+  text:
+  - 'Personal details: such as your name, email address, photo, maiden name; alias(es);
+    current and previous addresses; birth date; birth place; ID number (which may
+    include passport, national ID card, driver''s license) and mother/father''s complete
+    name.'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - '"Personal Information" is information that directly or indirectly identifies
+    you as an individual or relates to an identifiable person, including: Name, Email
+    address, Health Information in connection with the quizzes, tests, and questionnaires
+    we make available through the Services (the "Questionnaires").'
+  - '"Personal Information" is information that identifies you as an individual or
+    relates to an identifiable person, including: Name, Email address, Health Information
+    in connection with the quizzes, tests, and questionnaires we make available through
+    the Services (the "Questionnaires").'
+- source: personal information
+  target: health information in connection with quiz we make
+  key: SUBSUM
+  text:
+  - '"Personal Information" is information that directly or indirectly identifies
+    you as an individual or relates to an identifiable person, including: Name, Email
+    address, Health Information in connection with the quizzes, tests, and questionnaires
+    we make available through the Services (the "Questionnaires").'
+  - '"Personal Information" is information that identifies you as an individual or
+    relates to an identifiable person, including: Name, Email address, Health Information
+    in connection with the quizzes, tests, and questionnaires we make available through
+    the Services (the "Questionnaires").'
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - '"Personal Information" is information that directly or indirectly identifies
+    you as an individual or relates to an identifiable person, including: Name, Email
+    address, Health Information in connection with the quizzes, tests, and questionnaires
+    we make available through the Services (the "Questionnaires").'
+  - '"Personal Information" is information that identifies you as an individual or
+    relates to an identifiable person, including: Name, Email address, Health Information
+    in connection with the quizzes, tests, and questionnaires we make available through
+    the Services (the "Questionnaires").'
+- source: personal information
+  target: sensitive information
+  key: SUBSUM
+  text:
+  - We may use personal information, including sensitive information, from many Services
+    users to create non-identifiable " aggregate data " (for example, reports that
+    calculate the percentage of users who have a particular response to or result
+    from the Questionnaires) that may be disclosed to third parties.
+- source: public authority
+  target: public authority outside country of residence
+  key: SUBSUM
+  text:
+  - 'As we believe to be necessary or appropriate, and only as permitted under HIPAA
+    or other applicable law: (a) to comply with legal process; (b) to respond to requests
+    from public and government authorities, including public and government authorities
+    outside your country of residence; (c) to protect our operations or those of any
+    of our affiliates, including in connection with investigating security incidents;
+    or (d) to protect our rights, privacy, safety or property, and/or that of our
+    affiliates, you or others.'
+  - As we believe to be necessary or appropriate, and only as permitted under applicable
+    law (a) to comply with legal processes; (b) to respond to requests from public
+    and government authorities, including public and government authorities outside
+    your country of residence; (c) to protect our operations or those of any of our
+    affiliates, including in connection with investigating security incidents; or
+    (d) to protect our rights, privacy, safety or property, and/or that of our affiliates,
+    you or
+  - 'As we believe to be necessary or appropriate, and only as permitted under applicable
+    law, such as Canada''s Personal Information Protection and Electronic Documents
+    Act , the Quebec Act respecting the protection of personal information in the
+    private sector , and Ontario''s Personal Health Information Protection Act : (a)
+    to comply with legal process; (b) to respond to requests from public and government
+    authorities, including public and government authorities outside your country
+    of residence; (c) to protect our operations or those of any of our affiliates,
+    including in connection with investigating security incidents; or (d) to protect
+    our rights, privacy, safety or property, and/or that of our affiliates, you or'
+  - 'As we believe to be necessary or appropriate, and only as permitted under the
+    Health Insurance Portability & Accountability Act and amendments thereto (HIPAA)
+    or other applicable law such as Canada''s Personal Information Protection and
+    Electronic Documents Act , the Quebec Act respecting the protection of personal
+    information in the private sector , and Ontario''s Personal Health Information
+    Protection Act : (a) to comply with legal process; (b) to respond to requests
+    from public and government authorities, including public and government authorities
+    outside your country of residence; (c) to protect our operations or those of any
+    of our affiliates, including in connection with investigating security incidents;
+    or (d) to protect our rights, privacy, safety or property, and/or that of our
+    affiliates, you or'
+  - 'As we believe to be necessary or appropriate, and only as permitted under the
+    Health Insurance Portability & Accountability Act and amendments thereto (HIPAA)
+    or other applicable law: (a) to comply with legal process; (b) to respond to requests
+    from public and government authorities, including public and government authorities
+    outside your country of residence; (c) to protect our operations or those of any
+    of our affiliates, including in connection with investigating security incidents;
+    or (d) to protect our rights, privacy, safety or property, and/or that of our
+    affiliates, you or others.'
+  - 'Privacy Policy
+
+
+    As we believe to be necessary or appropriate, and only as permitted under applicable
+    law (a) to comply with legal process; (b) to respond to requests from public and
+    government authorities, including public and government authorities outside your
+    country of residence; (c) to protect our operations or those of any of our affiliates,
+    including in connection with investigating security incidents; or (d) to protect
+    our rights, privacy, safety or property, and/or that of our affiliates, you or
+    others.'
+- source: public authority
+  target: public authority outside your
+  key: SUBSUM
+  text:
+  - As we believe to be necessary or appropriate, and only as permitted under applicable
+    law (a) to comply with legal process; (b) to respond to requests from public and
+    government authorities, including public and government authorities outside your
+- source: regulator
+  target: Corporacion de Radio y Television Espanola SA SME
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: aepd
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: anpd
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: brazilian data protection authority
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: bundesbeauftragte fur datenschutz
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: cnil
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: commission nationale
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: commission nationale de l'informatique
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    and the Swedish Data Protection Authority, to comply with all applicable laws,
+    regulations and rules, and requests of law enforcement, regulatory and other governmental
+    agencies;'
+- source: regulator
+  target: commission nationale de l'informatique et des libertes
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: data protection commission
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: dpc
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: german data protection authority
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: ico
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    and the Swedish Data Protection Authority, to comply with all applicable laws,
+    regulations and rules, and requests of law enforcement, regulatory and other governmental
+    agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: imy
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: office
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    and the Swedish Data Protection Authority, to comply with all applicable laws,
+    regulations and rules, and requests of law enforcement, regulatory and other governmental
+    agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: office of australian information commissioner
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+- source: regulator
+  target: spanish data protection commissioner
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: swedish authority for privacy protection
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes (CNIL),
+    the German data protection authorities, the Data Protection Commission (DPC),
+    and the Swedish Authority for Privacy Protection (IMY), and the Spanish Data Protection
+    Commissioner ( Agencia Espanola de Proteccion de Datos , (AEPD)), to comply with
+    all applicable laws, regulations and rules, and requests of law enforcement, regulatory
+    and other governmental agencies;'
+- source: regulator
+  target: swedish data protection authority
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Office of the Australian Information Commissioner (OAIC),and the Swedish Data
+    Protection Authority, to comply with all applicable laws, regulations and rules,
+    and requests of law enforcement, regulatory and other governmental agencies;'
+  - 'Privacy Policy
+
+
+    with our regulators, which may include but is not limited to the Information Commissioner''s
+    Office (ICO), Commission Nationale de l''Informatique et des Libertes, Bundesbeauftragte
+    fur Datenschutz und Informationsfreiheit, the Data Protection Commission (DPC),
+    the Swedish Data Protection Authority and the Brazilian Data Protection Authority
+    (ANPD), to comply with all applicable laws, regulations and rules, and requests
+    of law enforcement, regulatory and other governmental agencies;'
+- source: sensitive information about you
+  target: activity level
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information i.e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: sensitive information about you
+  target: daily habit
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information i.e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: sensitive information about you
+  target: daily nutrition habit
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information i.e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: sensitive information about you
+  target: general information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information i.e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+- source: sensitive information about you
+  target: racial origin health information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive information about you : racial origin and health information i.e. general
+    information about your health and wellbeing, including indications about your
+    overall mood and daily habits, information on your mental wellbeing, daily habits,
+    activity levels, daily nutrition and eating habits as well as information about
+    your personal, family and social life which is entered by you when registering
+    for an account or in any Questionnaires we make available through the Services.'
+nodes:
+- type: ACTOR
+  id: Corporacion de Radio y Television Espanola SA SME
+- type: ACTOR
+  id: Personal Information Privacy and Security Association (Vancouver)
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: aepd
+- type: ACTOR
+  id: anpd
+- type: ACTOR
+  id: arrangement with insurance
+- type: ACTOR
+  id: asset
+- type: ACTOR
+  id: auditing
+- type: ACTOR
+  id: brazilian data protection authority
+- type: ACTOR
+  id: bundesbeauftragte fur datenschutz
+- type: ACTOR
+  id: care delivery support
+- type: ACTOR
+  id: cnil
+- type: ACTOR
+  id: commission nationale
+- type: ACTOR
+  id: commission nationale de l'informatique
+- type: ACTOR
+  id: commission nationale de l'informatique et des libertes
+- type: ACTOR
+  id: data analysis
+- type: ACTOR
+  id: data protection commission
+- type: ACTOR
+  id: dpc
+- type: ACTOR
+  id: email delivery
+- type: ACTOR
+  id: german data protection authority
+- type: ACTOR
+  id: ico
+- type: ACTOR
+  id: imy
+- type: ACTOR
+  id: information technology
+- type: ACTOR
+  id: most browser
+- type: ACTOR
+  id: office
+- type: ACTOR
+  id: office of australian information commissioner
+- type: ACTOR
+  id: public authority
+- type: ACTOR
+  id: public authority outside country of residence
+- type: ACTOR
+  id: public authority outside your
+- type: ACTOR
+  id: regulator
+- type: ACTOR
+  id: related infrastructure provision
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: spanish data protection commissioner
+- type: ACTOR
+  id: spring
+- type: ACTOR
+  id: swedish authority for privacy protection
+- type: ACTOR
+  id: swedish data protection authority
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: website hosting
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: activity level
+- type: DATA
+  id: amend information
+- type: DATA
+  id: birth place
+- type: DATA
+  id: complete
+- type: DATA
+  id: complete name
+- type: DATA
+  id: computer type
+- type: DATA
+  id: current address
+- type: DATA
+  id: daily habit
+- type: DATA
+  id: daily nutrition habit
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: device manufacturer
+- type: DATA
+  id: email address
+- type: DATA
+  id: feedback
+- type: DATA
+  id: for information regard services
+- type: DATA
+  id: general information
+- type: DATA
+  id: general information about health
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health information in connection with quiz we make
+- type: DATA
+  id: id number
+- type: DATA
+  id: indication
+- type: DATA
+  id: information about child
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information to you
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: internet browser type
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language
+- type: DATA
+  id: license
+- type: DATA
+  id: mac address
+- type: DATA
+  id: model
+- type: DATA
+  id: national id card
+- type: DATA
+  id: necessary identification datum
+- type: DATA
+  id: operating system name
+- type: DATA
+  id: overall mood
+- type: DATA
+  id: particular type
+- type: DATA
+  id: passport
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum collect
+- type: DATA
+  id: personal detail
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information collect
+- type: DATA
+  id: personal information within spring care
+- type: DATA
+  id: personal information within spring health
+- type: DATA
+  id: photo
+- type: DATA
+  id: postal address
+- type: DATA
+  id: racial origin health information
+- type: DATA
+  id: screen resolution
+- type: DATA
+  id: sensitive information
+- type: DATA
+  id: sensitive information about you
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sufficient information allow
+- type: DATA
+  id: time
+- type: DATA
+  id: version

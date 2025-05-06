@@ -1,0 +1,1076 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If your child directly uses their Galileo account, either with or without your
+    permission, we may collect information directly from the child.
+  - We may disclose the information in accordance with Section 4.
+  - We may share information with our service providers if necessary for them to perform
+    business, professional, or technology services for us, always in accordance with
+    all applicable laws.
+  - We may use cookies and other information to provide relevant interest-based advertising
+    to you.
+  - We may use your information to direct or recommend alternative treatments, therapies,
+    health care providers, or settings of care to you or to describe a health-related
+    product or service.
+  purposes:
+    advertising:
+    - to direct or recommend alternative treatments, therapies, health care providers,
+      or settings of care to you or to describe a health-related product or service
+    - to provide relevant interest-based advertising to you
+    legal:
+    - for them to perform business, professional, or technology services for us, always
+      in accordance with all applicable laws
+    services:
+    - for them to perform business, professional, or technology services for us, always
+      in accordance with all applicable laws
+    - to direct or recommend alternative treatments, therapies, health care providers,
+      or settings of care to you or to describe a health-related product or service
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - After we delete Personal Data, we may retain De-Identified Data and will continue
+    to use De-Identified Data as permitted under this Galileo Site Privacy Policy.
+  - By deleting your Personal Data, we will remove it from active databases, however,
+    it may remain in archives and we also may continue to use De-Identified Data about
+    your use of Services.
+  - We also may create and use de-identified data, in which information is removed
+    from your protected health information so that you cannot be identified ("De-identified
+    Data"), as authorized by law.
+  - We may create and use de-identified information, in which information is removed
+    from your Personal Data so that you cannot be identified ("De-identified Data"),
+    without restriction.
+  purposes: {}
+- source: we
+  target: application version information
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: Information about
+    your computer, mobile device, and internet connection, specifically your IP address,
+    operating system, browser type, and Application version information.'
+  purposes: {}
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: Information about
+    your computer, mobile device, and internet connection, specifically your IP address,
+    operating system, browser type, and Application version information.'
+  purposes: {}
+- source: we
+  target: clickstream datum
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: that is about you but individually does
+    not identify you, such as traffic data, location data, logs, referring/exit pages,
+    date and time of your visit to our Website or use of our Application, error information,
+    clickstream data, and other communication data and the resources that you access
+    and use on the Website or through our Application; and/or'
+  purposes: {}
+- source: we
+  target: communication datum
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: that is about you but individually does
+    not identify you, such as traffic data, location data, logs, referring/exit pages,
+    date and time of your visit to our Website or use of our Application, error information,
+    clickstream data, and other communication data and the resources that you access
+    and use on the Website or through our Application; and/or'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may use cookies and other information to provide relevant interest-based advertising
+    to you.
+  purposes:
+    advertising:
+    - to provide relevant interest-based advertising to you
+- source: we
+  target: credit / debit card number
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: that is about you but individually does
+    not identify you, such as traffic data, location data, logs, referring/exit pages,
+    date and time of your visit to our Website or use of our Application, error information,
+    clickstream data, and other communication data and the resources that you access
+    and use on the Website or through our Application; and/or'
+  purposes: {}
+- source: we
+  target: date of birth
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: detail of visit to website
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+  purposes: {}
+- source: we
+  target: driver's license number
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: error information
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: that is about you but individually does
+    not identify you, such as traffic data, location data, logs, referring/exit pages,
+    date and time of your visit to our Website or use of our Application, error information,
+    clickstream data, and other communication data and the resources that you access
+    and use on the Website or through our Application; and/or'
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: that is about you but individually does
+    not identify you, such as traffic data, location data, logs, referring/exit pages,
+    date and time of your visit to our Website or use of our Application, error information,
+    clickstream data, and other communication data and the resources that you access
+    and use on the Website or through our Application; and/or'
+  purposes: {}
+- source: we
+  target: health bill
+  key: COLLECT
+  text:
+  - It also helps us to keep your health bills lower (avoid repeating lab tests).
+  purposes: {}
+- source: we
+  target: health information
+  key: COLLECT
+  text:
+  - For example, we may use your health information to review our treatment and services
+    and to evaluate the performance of our physicians and health care professionals.
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes:
+    analytics:
+    - to review our treatment and services and to evaluate the performance of our
+      physicians and health care professionals
+    services:
+    - to review our treatment and services and to evaluate the performance of our
+      physicians and health care professionals
+- source: we
+  target: home
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: information about computer
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: Information about
+    your computer, mobile device, and internet connection, specifically your IP address,
+    operating system, browser type, and Application version information.'
+  purposes: {}
+- source: we
+  target: information about equipment
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically:'
+  purposes:
+    analytics:
+    - details of your visits to our Website or Application, such as traffic data,
+      location data, logs, referring/exit pages, date and time of your visit to our
+      Website or use of our Application, error information, clickstream data, and
+      other communication data and the resources that you access and use on the Website
+      or in the Application; and
+    - 'specifically: Information about your computer, mobile device, and internet
+      connection, specifically your IP address, operating system, browser type, and
+      Application version information'
+    services:
+    - details of your visits to our Website or Application, such as traffic data,
+      location data, logs, referring/exit pages, date and time of your visit to our
+      Website or use of our Application, error information, clickstream data, and
+      other communication data and the resources that you access and use on the Website
+      or in the Application; and
+- source: we
+  target: information relate to use of website
+  key: COLLECT
+  text:
+  - We use tools such as Google Analytics, Mixpanel, and Adjust to collect certain
+    information relating to your use of the Website and/or Application.
+  purposes: {}
+- source: we
+  target: information we collect about you
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    2. Information We Collect About You and How We Collect It'
+  - 'We collect this information:'
+  - 'We may use information that we collect about you or that you provide to us as
+    follows, subject to the health information restrictions in Section I, the Privacy
+    Policy for Medical Group Patients:'
+  purposes:
+    advertising:
+    - to promote our Website, Application, and services to you
+    analytics:
+    - to create De-Identified Data such as aggregate statistics relating to the use
+      of our Application
+    services:
+    - to facilitate access to your medical records available through health information
+      exchanges
+    - to notify you about changes to our Website, our Application, or any products
+      or services we offer or provide though them
+    - to present our Website, Application, and their contents to you
+    - to process, fulfill, and administer transactions and orders for services for
+      you
+    - to provide you with information or services that you request from us
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: Information about
+    your computer, mobile device, and internet connection, specifically your IP address,
+    operating system, browser type, and Application version information.'
+  purposes: {}
+- source: we
+  target: last digit
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: log
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: that is about you but individually does
+    not identify you, such as traffic data, location data, logs, referring/exit pages,
+    date and time of your visit to our Website or use of our Application, error information,
+    clickstream data, and other communication data and the resources that you access
+    and use on the Website or through our Application; and/or'
+  purposes: {}
+- source: we
+  target: medical history
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: operating system
+  key: COLLECT
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: Information about
+    your computer, mobile device, and internet connection, specifically your IP address,
+    operating system, browser type, and Application version information.'
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - The information we collect automatically may include Personal Data or we may maintain
+    it or associate it with Personal Data we collect in other ways or receive from
+    third parties.
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  - 'We may disclose Personal Data that we collect or you provide as follows, subject
+    to the health information restrictions in Section I, Notice of Privacy Practices:
+    to our subsidiaries and affiliates;'
+  purposes:
+    legal:
+    - to comply with any court order, law, or legal process, including to respond
+      to any government or regulatory request;
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: protect health information
+  key: COLLECT
+  text:
+  - 'AS REQUIRED BY LAW: We may use and disclose your protected health information
+    to the extent required by any applicable federal, state or local law.'
+  - For any purpose other than described above, we only use or disclose your protected
+    health information with your written authorization.
+  - We may also disclose protected health information to a health care provider to
+    whom you have been referred to ensure they have the necessary information to diagnose
+    or treat you.
+  - 'We may use or disclose your protected health information in the following unique
+    circumstances without your authorization: to assist in public health activities,
+    such as disease tracking and reporting information about products under the under
+    the U.S. Food and Drug Administration''s jurisdiction; to inform authorities to
+    protect victims of abuse or neglect; for health care oversight purposes, such
+    as investigations of fraud; in response to a legal order or other lawful process
+    during a judicial or administrative proceeding; to law enforcement officials as
+    required by law or in compliance with a court order; to coroners, funeral directors
+    and organ donation agencies as authorized by law; for research purposes pursuant
+    to a valid authorization from you or following institutional review board protocols;
+    to avert a serious threat to health or safety; to assist in specialized government
+    functions, such certain military activity and national security purposes; for
+    workers'' compensation reporting; and other required uses and disclosures.'
+  - We may use or disclose your protected health information to support our health
+    care operations, which include internal administration, business planning, and
+    activities that improve the quality and cost effectiveness of the care provided
+    to you.
+  - We will use and disclose your protected health information to provide, coordinate,
+    or manage your health care and any related services.
+  purposes:
+    analytics:
+    - for research purposes pursuant to a valid authorization from you or following
+      institutional review board protocols; to avert a serious threat to health or
+      safety; to assist in specialized government functions, such certain military
+      activity and national security purposes; for workers' compensation reporting;
+      and other required uses and disclosures
+    - to assist in public health activities, such as disease tracking and reporting
+      information about products under the under the U.S. Food and Drug Administration's
+      jurisdiction; to inform authorities to protect victims of abuse or neglect;
+      for health care oversight purposes, such as investigations of fraud;
+    legal:
+    - for research purposes pursuant to a valid authorization from you or following
+      institutional review board protocols; to avert a serious threat to health or
+      safety; to assist in specialized government functions, such certain military
+      activity and national security purposes; for workers' compensation reporting;
+      and other required uses and disclosures
+    security:
+    - for research purposes pursuant to a valid authorization from you or following
+      institutional review board protocols; to avert a serious threat to health or
+      safety; to assist in specialized government functions, such certain military
+      activity and national security purposes; for workers' compensation reporting;
+      and other required uses and disclosures
+    - to assist in public health activities, such as disease tracking and reporting
+      information about products under the under the U.S. Food and Drug Administration's
+      jurisdiction; to inform authorities to protect victims of abuse or neglect;
+      for health care oversight purposes, such as investigations of fraud;
+    services:
+    - to ensure they have the necessary information to diagnose or treat you
+    - to provide, coordinate, or manage your health care and any related services
+    - to support our health care operations, which include internal administration,
+      business planning, and activities that improve the quality and cost effectiveness
+      of the care provided to you
+- source: we
+  target: several type
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information:'
+  purposes: {}
+- source: we
+  target: ssn
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: by which you may be personally identified,
+    such as name, postal address, billing address, work address, shipping address,
+    email address, home, work, and mobile telephone numbers, driver''s license number,
+    date of birth, credit or debit card number (for payment purposes only), the last
+    four digits of your Social Security Number, your medical history, and health information
+    ("Personal Data");'
+  purposes: {}
+- source: we
+  target: traffic datum
+  key: COLLECT
+  text:
+  - 'We collect several types of information from and about users of our Website and
+    Application, specifically information: that is about you but individually does
+    not identify you, such as traffic data, location data, logs, referring/exit pages,
+    date and time of your visit to our Website or use of our Application, error information,
+    clickstream data, and other communication data and the resources that you access
+    and use on the Website or through our Application; and/or'
+  purposes: {}
+- source: Adjust
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Google Analytics, Mixpanel, and Adjust use "cookies", which are text files placed
+    on your computer or phone, to help us analyze how users use the site.
+  purposes:
+    analytics:
+    - to help us analyze how users use the site
+- source: Google
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Google Analytics, Mixpanel, and Adjust use "cookies", which are text files placed
+    on your computer or phone, to help us analyze how users use the site.
+  purposes:
+    analytics:
+    - to help us analyze how users use the site
+- source: Mixpanel
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Google Analytics, Mixpanel, and Adjust use "cookies", which are text files placed
+    on your computer or phone, to help us analyze how users use the site.
+  purposes:
+    analytics:
+    - to help us analyze how users use the site
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Data that we collect or you provide as follows, subject
+    to the health information restrictions in Section I, Notice of Privacy Practices:
+    to contractors and third-party service providers that we use to support our business
+    and who are contractually bound to keep your Personal Data confidential;'
+  - 'We may disclose Personal Data that we collect or you provide as follows, subject
+    to the health information restrictions in Section I, Notice of Privacy Practices:
+    to our subsidiaries and affiliates;'
+  purposes:
+    legal:
+    - to comply with any court order, law, or legal process, including to respond
+      to any government or regulatory request;
+- source: company we merge
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Data that we collect or you provide as follows, subject
+    to the health information restrictions in Section I, Notice of Privacy Practices:
+    to a company we merge, acquire, or that buys us, or in the event of change in
+    structure of our company of any form;'
+  purposes:
+    legal:
+    - to comply with any court order, law, or legal process, including to respond
+      to any government or regulatory request;
+- source: contractor
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Data that we collect or you provide as follows, subject
+    to the health information restrictions in Section I, Notice of Privacy Practices:
+    to contractors and third-party service providers that we use to support our business
+    and who are contractually bound to keep your Personal Data confidential;'
+  purposes:
+    legal:
+    - to comply with any court order, law, or legal process, including to respond
+      to any government or regulatory request;
+- source: galileo
+  target: different type
+  key: COLLECT
+  text:
+  - Galileo collects different types of information about you, including web-behavior
+    information via cookies, beacons, and other similar tracking technologies when
+    you use our app and website, and information you provide to us about yourself,
+    like when you create an account, purchase a subscription, complete surveys, or
+    contact Member Services.
+  purposes: {}
+- source: galileo inc.
+  target: information about you
+  key: COLLECT
+  text:
+  - This section of our Privacy Policy ("Site Privacy Policy") explains how Galileo,
+    Inc. collects, uses, and discloses information about you obtained when you visit
+    the website www.galileohealth.com (our "Website") and the Galileo application
+    (our "Application") and our practices for collecting, using, maintaining, protecting,
+    and disclosing that information.
+  purposes: {}
+- source: health care provider
+  target: protect health information
+  key: COLLECT
+  text:
+  - Your protected health information may be used and disclosed by our health care
+    providers, our staff, and others outside of our office that are involved in your
+    care and treatment for the purpose of providing health care services to you, to
+    support our business operations, to obtain payment for your care, and any other
+    use authorized or required by law.
+  purposes: {}
+- source: health care provider to refer
+  target: protect health information
+  key: COLLECT
+  text:
+  - We may also disclose protected health information to a health care provider to
+    whom you have been referred to ensure they have the necessary information to diagnose
+    or treat you.
+  purposes:
+    services:
+    - to ensure they have the necessary information to diagnose or treat you
+- source: health information exchange share medical record with we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Data that we collect or you provide as follows, subject
+    to the health information restrictions in Section I, Notice of Privacy Practices:
+    to health information exchanges that share your medical records with us;'
+  purposes:
+    legal:
+    - to comply with any court order, law, or legal process, including to respond
+      to any government or regulatory request;
+- source: medical group
+  target: health information
+  key: COLLECT
+  text:
+  - The Medical Group uses and discloses your health information for normal business
+    activities that fall within the categories of treatment, payment, and healthcare
+    operations, as well as other narrow purposes provided by law.
+  purposes:
+    services:
+    - for normal business activities that fall within the categories of treatment,
+      payment, and healthcare operations, as well as other narrow purposes provided
+      by law
+- source: member of medical group
+  target: protected health information
+  key: COLLECT
+  text:
+  - The members of the Medical Group may share Protected Health Information with each
+    other for treatment, payment, and health care operations related to the Affiliated
+    Covered Entity.
+  purposes:
+    services:
+    - for treatment, payment, and health care operations related to the Affiliated
+      Covered Entity
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share information with our service providers if necessary for them to perform
+    business, professional, or technology services for us, always in accordance with
+    all applicable laws.
+  purposes:
+    legal:
+    - for them to perform business, professional, or technology services for us, always
+      in accordance with all applicable laws
+    services:
+    - for them to perform business, professional, or technology services for us, always
+      in accordance with all applicable laws
+- source: staff
+  target: protect health information
+  key: COLLECT
+  text:
+  - Your protected health information may be used and disclosed by our health care
+    providers, our staff, and others outside of our office that are involved in your
+    care and treatment for the purpose of providing health care services to you, to
+    support our business operations, to obtain payment for your care, and any other
+    use authorized or required by law.
+  purposes: {}
+- source: aggregate / deidentified / pseudonymized information
+  target: aggregate statistic relate to use of application
+  key: SUBSUM
+  text:
+  - 'We may use information that we collect about you or that you provide to us as
+    follows, subject to the health information restrictions in Section I, the Privacy
+    Policy for Medical Group Patients: to create De-Identified Data such as aggregate
+    statistics relating to the use of our Application;'
+- source: correspondence
+  target: email address
+  key: SUBSUM
+  text:
+  - 'The information we collect on or through our Website or through our Application
+    are: records and copies of your correspondence (including email addresses), if
+    you contact us;'
+- source: detail of visit to website
+  target: clickstream datum
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+- source: detail of visit to website
+  target: communication datum
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+- source: detail of visit to website
+  target: date
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+- source: detail of visit to website
+  target: error information
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+- source: detail of visit to website
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+- source: detail of visit to website
+  target: log
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+- source: detail of visit to website
+  target: traffic datum
+  key: SUBSUM
+  text:
+  - 'As you navigate through and interact with our Website and Application, we may
+    use automatic data collection technologies to collect certain information about
+    your equipment, browsing actions, and patterns, specifically: details of your
+    visits to our Website or Application, such as traffic data, location data, logs,
+    referring/exit pages, date and time of your visit to our Website or use of our
+    Application, error information, clickstream data, and other communication data
+    and the resources that you access and use on the Website or in the Application;
+    and'
+- source: different type
+  target: beacon
+  key: SUBSUM
+  text:
+  - Galileo collects different types of information about you, including web-behavior
+    information via cookies, beacons, and other similar tracking technologies when
+    you use our app and website, and information you provide to us about yourself,
+    like when you create an account, purchase a subscription, complete surveys, or
+    contact Member Services.
+- source: different type
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Galileo collects different types of information about you, including web-behavior
+    information via cookies, beacons, and other similar tracking technologies when
+    you use our app and website, and information you provide to us about yourself,
+    like when you create an account, purchase a subscription, complete surveys, or
+    contact Member Services.
+- source: different type
+  target: information you provide to we about yourself
+  key: SUBSUM
+  text:
+  - Galileo collects different types of information about you, including web-behavior
+    information via cookies, beacons, and other similar tracking technologies when
+    you use our app and website, and information you provide to us about yourself,
+    like when you create an account, purchase a subscription, complete surveys, or
+    contact Member Services.
+- source: different type
+  target: tracking technology
+  key: SUBSUM
+  text:
+  - Galileo collects different types of information about you, including web-behavior
+    information via cookies, beacons, and other similar tracking technologies when
+    you use our app and website, and information you provide to us about yourself,
+    like when you create an account, purchase a subscription, complete surveys, or
+    contact Member Services.
+- source: different type
+  target: web behavior information
+  key: SUBSUM
+  text:
+  - Galileo collects different types of information about you, including web-behavior
+    information via cookies, beacons, and other similar tracking technologies when
+    you use our app and website, and information you provide to us about yourself,
+    like when you create an account, purchase a subscription, complete surveys, or
+    contact Member Services.
+- source: health care operation
+  target: activity improve quality of care provide to you
+  key: SUBSUM
+  text:
+  - We may use or disclose your protected health information to support our health
+    care operations, which include internal administration, business planning, and
+    activities that improve the quality and cost effectiveness of the care provided
+    to you.
+- source: health care operation
+  target: internal administration
+  key: SUBSUM
+  text:
+  - We may use or disclose your protected health information to support our health
+    care operations, which include internal administration, business planning, and
+    activities that improve the quality and cost effectiveness of the care provided
+    to you.
+- source: healthcare provider
+  target: Levin Papantonio Thomas Mitchell Rafferty & Proctor, P.A
+  key: SUBSUM
+  text:
+  - 'It does not apply to information collected by: the physicians or other healthcare
+    providers that we contract with, including Galilea Medical Group, P.A;'
+- source: healthcare provider
+  target: galilea medical group
+  key: SUBSUM
+  text:
+  - 'It does not apply to information collected by: the physicians or other healthcare
+    providers that we contract with, including Galilea Medical Group, P.A;'
+- source: information about child
+  target: date of birth
+  key: SUBSUM
+  text:
+  - During the user registration process, a parent or guardian can create a children's
+    account by providing certain information about the child, including name, birth
+    date, email and password.
+- source: information about child
+  target: email address
+  key: SUBSUM
+  text:
+  - During the user registration process, a parent or guardian can create a children's
+    account by providing certain information about the child, including name, birth
+    date, email and password.
+- source: information about child
+  target: password
+  key: SUBSUM
+  text:
+  - During the user registration process, a parent or guardian can create a children's
+    account by providing certain information about the child, including name, birth
+    date, email and password.
+- source: information about child
+  target: person name
+  key: SUBSUM
+  text:
+  - During the user registration process, a parent or guardian can create a children's
+    account by providing certain information about the child, including name, birth
+    date, email and password.
+- source: information about you
+  target: different type
+  key: SUBSUM
+  text:
+  - Galileo collects different types of information about you, including web-behavior
+    information via cookies, beacons, and other similar tracking technologies when
+    you use our app and website, and information you provide to us about yourself,
+    like when you create an account, purchase a subscription, complete surveys, or
+    contact Member Services.
+- source: information collect
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Information collected automatically may include usage details, IP addresses, and
+    information collected through cookies, web beacons, geolocation services, and
+    other tracking technologies; and
+- source: information collect
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Information collected automatically may include usage details, IP addresses, and
+    information collected through cookies, web beacons, geolocation services, and
+    other tracking technologies; and
+- source: information collect
+  target: ip address
+  key: SUBSUM
+  text:
+  - Information collected automatically may include usage details, IP addresses, and
+    information collected through cookies, web beacons, geolocation services, and
+    other tracking technologies; and
+- source: information collect
+  target: usage detail
+  key: SUBSUM
+  text:
+  - Information collected automatically may include usage details, IP addresses, and
+    information collected through cookies, web beacons, geolocation services, and
+    other tracking technologies; and
+- source: medical group
+  target: affiliated covered entity
+  key: SUBSUM
+  text:
+  - This Notice describes how Galilea Medical Group, PA and members of its Affiliated
+    Covered Entity (collectively, the "Medical Group," "we," or "us") (and Galileo,
+    Inc., when acting on behalf of the Medical Group) may use and disclose health
+    information about you ("Protected Health Information") and how you can access
+    this information.
+- source: tool
+  target: Adjust
+  key: SUBSUM
+  text:
+  - We use tools such as Google Analytics, Mixpanel, and Adjust to collect certain
+    information relating to your use of the Website and/or Application.
+- source: tool
+  target: Google
+  key: SUBSUM
+  text:
+  - We use tools such as Google Analytics, Mixpanel, and Adjust to collect certain
+    information relating to your use of the Website and/or Application.
+- source: tool
+  target: Mixpanel
+  key: SUBSUM
+  text:
+  - We use tools such as Google Analytics, Mixpanel, and Adjust to collect certain
+    information relating to your use of the Website and/or Application.
+nodes:
+- type: ACTOR
+  id: Adjust
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: Levin Papantonio Thomas Mitchell Rafferty & Proctor, P.A
+- type: ACTOR
+  id: Mixpanel
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: activity improve quality of care provide to you
+- type: ACTOR
+  id: affiliated covered entity
+- type: ACTOR
+  id: company we merge
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: galilea medical group
+- type: ACTOR
+  id: galileo
+- type: ACTOR
+  id: galileo inc.
+- type: ACTOR
+  id: health care operation
+- type: ACTOR
+  id: health care provider
+- type: ACTOR
+  id: health care provider to refer
+- type: ACTOR
+  id: health information exchange share medical record with we
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: internal administration
+- type: ACTOR
+  id: medical group
+- type: ACTOR
+  id: member of medical group
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: staff
+- type: ACTOR
+  id: tool
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: aggregate statistic relate to use of application
+- type: DATA
+  id: application version information
+- type: DATA
+  id: beacon
+- type: DATA
+  id: browser type
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: communication datum
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: correspondence
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: detail of visit to website
+- type: DATA
+  id: different type
+- type: DATA
+  id: driver's license number
+- type: DATA
+  id: email address
+- type: DATA
+  id: error information
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health bill
+- type: DATA
+  id: health information
+- type: DATA
+  id: home
+- type: DATA
+  id: information about child
+- type: DATA
+  id: information about computer
+- type: DATA
+  id: information about equipment
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information collect
+- type: DATA
+  id: information relate to use of website
+- type: DATA
+  id: information we collect about you
+- type: DATA
+  id: information you provide to we about yourself
+- type: DATA
+  id: ip address
+- type: DATA
+  id: last digit
+- type: DATA
+  id: log
+- type: DATA
+  id: medical history
+- type: DATA
+  id: operating system
+- type: DATA
+  id: password
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: protect health information
+- type: DATA
+  id: protected health information
+- type: DATA
+  id: several type
+- type: DATA
+  id: ssn
+- type: DATA
+  id: tracking technology
+- type: DATA
+  id: traffic datum
+- type: DATA
+  id: usage detail
+- type: DATA
+  id: web behavior information

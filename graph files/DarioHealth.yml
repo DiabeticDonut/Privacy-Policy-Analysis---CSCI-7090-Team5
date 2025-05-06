@@ -1,0 +1,1690 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - HOW WE COLLECT INFORMATION
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES:'
+  - We also collect information automatically through your wearable devices that are
+    connected to the Services.
+  purposes:
+    services:
+    - To support our Services
+- source: we
+  target: choice regard use of personal information for marketing purpose
+  key: COLLECT
+  text:
+  - We give you choices regarding our use and disclosure of your personal information
+    for marketing purposes.
+  purposes: {}
+- source: we
+  target: code
+  key: COLLECT
+  text:
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - We ask that you provide your name and contact information, and we may ask for
+    additional information about your interactions with us to verify your identity.
+  - We must also collect your contact information to send you rewards that you are
+    eligible for.
+  purposes:
+    advertising:
+    - to send you rewards that you are eligible for
+    services:
+    - to send you rewards that you are eligible for
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - However, under the broad definitions in U.S. state privacy laws, DarioHealth may
+    "sell" or "share" personal information through the use of cookies and pixels on
+    our corporate website.
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES: Analytics and Performance Cookies - To collect information about
+    how and when our Services are accessed.'
+  - We may use pixel tags provided by us or by third party advertisers, service providers
+    and ad networks in combination with our cookies to provide offers and information
+    of interest to you.
+  - We use these cookies and pixels for the sole purpose of providing targeted behavioral
+    advertising based on your interest in DarioHealth.
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes:
+    advertising:
+    - for the sole purpose of providing targeted behavioral advertising based on your
+      interest in DarioHealth
+    - to provide offers and information of interest to you
+    services:
+    - To support our Services
+- source: we
+  target: copy of personal information
+  key: COLLECT
+  text:
+  - In the event of an erasure request, we may retain a copy of your personal information
+    for our record keeping purposes and to avoid entering your personal information
+    in our systems after your request.
+  purposes:
+    security:
+    - for our record keeping purposes and to avoid entering your personal information
+      in our systems after your request
+    services:
+    - for our record keeping purposes and to avoid entering your personal information
+      in our systems after your request
+- source: we
+  target: datum about visit
+  key: COLLECT
+  text:
+  - Pixel Tags - These small graphic files allow us and third parties to monitor and
+    collect data about your visit, such as the IP address of the computer that downloaded
+    the page where the tag appears, how long you remained on the page, which browser
+    you used to get there, and the identification number of any cookie previously
+    placed by that server on your computer.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - With your consent or subject to applicable law, we may use your email address
+    or phone number to send you messages, such as feature changes and special offers.
+  purposes:
+    services:
+    - to send you messages, such as feature changes and special offers
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We limit the uses of geolocation data and health data we collect to those that
+    are necessary to provide the relevant Services.
+  - We may share this data for business purposes with service providers.
+  purposes: {}
+- source: we
+  target: inference draw from
+  key: COLLECT
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Inferences - We, and our third-party advertising and analytics partners, may collect
+    inferences drawn from any of the information identified above to create a profile
+    reflecting your preferences, characteristics, psychological trends, predispositions,
+    behavior, attitudes, intelligence, abilities, or aptitudes.'
+  purposes:
+    analytics:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+    services:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES: Analytics and Performance Cookies - To collect information about
+    how and when our Services are accessed.'
+  - We use this information to help operate our Services more efficiently, to gather
+    broad demographic information and monitor activity levels.
+  purposes:
+    analytics:
+    - to help operate our Services more efficiently, to gather broad demographic information
+      and monitor activity levels
+    services:
+    - To support our Services
+    - to help operate our Services more efficiently, to gather broad demographic information
+      and monitor activity levels
+- source: we
+  target: information regard physical health
+  key: COLLECT
+  text:
+  - We may collect information regarding your physical and mental health, such as
+    information on medications, medical history, lifestyle habits, pain, fitness and
+    training characteristics, pregnancy, body traits (e.g., posture), exercise activity
+    and motion (e.g., steps, cardio activity, kcal, intensity), height, weight, nutrition
+    (e.g., carbohydrate consumption), blood pressure, blood test results (e.g., last
+    HbA1c), mental or emotional health status, and other health-related information.
+  purposes: {}
+- source: we
+  target: information you share
+  key: COLLECT
+  text:
+  - The information you share will be shared according to your instructions and actions,
+    and we have no control over what happens with your information once you share
+    it with others.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - We ask that you provide your name and contact information, and we may ask for
+    additional information about your interactions with us to verify your identity.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - Additionally, you may integrate third-party software development kits ("SDKs")
+    with certain Services, subject to your consent where required by law, and we may
+    collect personal information from these SDKs.
+  - In accordance with HIPAA and any relevant instructions or contractual obligations
+    with your Provider Company, you may ask us to share your PHI with family, close
+    friends, or others involved in your care or to share your personal information
+    in a disaster relief situation.
+  - In certain situations, we may be required to disclose personal data in response
+    to lawful requests by public authorities, including to meet national security
+    or law enforcement requirements.
+  - 'Privacy Policy
+
+
+    We may collect, use and disclose your personal information with your consent,
+    except as required or permitted by law.'
+  - We also may collect personal information from your employer, employee assistance
+    plan or health plan as well as your coach, mental health service provider, healthcare
+    providers you access through the Services, or other Providing Company provider.
+  - We may continue to retain your personal information after you deactivate your
+    user account or stop using the Services, as reasonably necessary to comply with
+    our legal obligations, to resolve disputes regarding our users, enforce our agreements
+    or protect our legitimate interests, in each case consistent with applicable law.
+  - We may disclose personal information to comply with applicable law and regulations,
+    which may include laws outside your country of residence.
+  - We may disclose personal information with certain service providers whose services
+    and solutions complement, facilitate and enhance our own.
+  - We may disclose personal information with third parties in connection with a transaction,
+    such as a merger, sale of company assets or shares, reorganization, financing,
+    change of control or acquisition of all or a portion of our business, or in the
+    event of a bankruptcy or related or similar proceedings in compliance with applicable
+    laws.
+  - We may disclose your personal information (excluding your PHI in identifiable
+    form) with other companies, such as companies with whom we jointly offer products
+    and services, SDK providers, and our third-party advertising and analytics partners.
+  - We may disclose your personal information (excluding your PHI in identifiable
+    form) with our affiliates for the purposes described in this Privacy Policy.
+  - 'We may further use your personal information to the extent necessary for the
+    purposes of our legitimate interests in achieving the following objectives:'
+  - We may share personal information with third party advisors, such as consultants
+    or legal advisors, in the context of our relationship with you.
+  - We may use your personal information to the extent necessary for the purposes
+    of our legitimate interests in better understanding your interests and preferences
+    so we can personalize our interactions with you and provide you with information
+    and/or offers tailored to your interests.
+  - We may use your personal information to the extent necessary for the purposes
+    of our legitimates interests in improving our Services.
+  - We will keep your personal information for as long as necessary to achieve the
+    purposes set forth above.
+  - Where permitted or required by applicable data protection laws, we may disclose
+    your personal information pursuant to a legal request or in compliance with applicable
+    laws, if we have good faith belief that the law requires us to do so, with or
+    without notice to you.
+  - Where permitted or required by law, we may disclose your personal information
+    with others, including law enforcement, if we believe in good faith that it will
+    help protect the rights, property or personal safety of DarioHealth, any of our
+    users or any member of the general public, with or without notice to you.
+  purposes:
+    advertising:
+    - For identifying usage trends; For determining the effectiveness of our promotional
+      campaigns
+    - for the purposes of our legitimate interests in better understanding your interests
+      and preferences so we can personalize our interactions with you and provide
+      you with information and/or offers tailored to your interests
+    analytics:
+    - For data analysis to, for example, improve our efficiency
+    - For identifying usage trends; For determining the effectiveness of our promotional
+      campaigns
+    - for the purposes of our legitimate interests in better understanding your interests
+      and preferences so we can personalize our interactions with you and provide
+      you with information and/or offers tailored to your interests
+    legal:
+    - For audits to verify that our internal processes function as intended and to
+      address legal, regulatory or contractual requirements
+    - to comply with applicable law and regulations, which may include laws outside
+      your country of residence
+    - to resolve disputes regarding our users, enforce our agreements or protect our
+      legitimate interests, in each case consistent with applicable law
+    security:
+    - For enhancing, improving, repairing, maintaining or modifying our current products
+      and services, as well as undertaking quality and safety assurance measures
+    - For fraud prevention and security monitoring to, for example, detect and prevent
+      cyberattacks and identity theft
+    - to resolve disputes regarding our users, enforce our agreements or protect our
+      legitimate interests, in each case consistent with applicable law
+    services:
+    - For developing new products and services
+    - For enhancing, improving, repairing, maintaining or modifying our current products
+      and services, as well as undertaking quality and safety assurance measures
+    - for the purposes of our legitimate interests in better understanding your interests
+      and preferences so we can personalize our interactions with you and provide
+      you with information and/or offers tailored to your interests
+    - for the purposes of our legitimates interests in improving our Services
+- source: we
+  target: personal information associate with registered account
+  key: COLLECT
+  text:
+  - We will keep personal information associated with a registered account for so
+    long as your account is active.
+  purposes: {}
+- source: we
+  target: personal information qualify as sensitive datum under applicable data protection
+    law
+  key: COLLECT
+  text:
+  - As indicated, we may also collect personal information that qualifies as sensitive
+    data under applicable data protection laws ("Sensitive Personal Information").
+  purposes: {}
+- source: we
+  target: phi
+  key: COLLECT
+  text:
+  - Further, we may disclose your PHI in ways that contribute to the public good (e.g.,
+    public health and research), so long as we meet certain HIPAA requirements before
+    such disclosure.
+  - If you are unable to tell us your preferences (e.g., if you are unconscious),
+    we may share your PHI if we believe it is in your best interest, subject to applicable
+    law.
+  - In accordance with HIPAA and any relevant instructions or contractual obligations
+    with your Provider Company, you may ask us to share your PHI with family, close
+    friends, or others involved in your care or to share your personal information
+    in a disaster relief situation.
+  - These disclosures include those that help with public health and safety issues
+    (e.g., preventing disease, helping with recalls, reporting adverse reactions,
+    suspected abuse, neglect or domestic violence or preventing or reducing a serious
+    threat to anyone's health or safety).  We also may share your PHI for health research
+    or if state or federal laws require it, to respond to court or administrative
+    orders or to address workers' compensation, law enforcement and other government
+    requests.  In addition, we may disclose your PHI to respond to organ and tissue
+    donation requests or to work with a medical examiner, coroner or funeral director.
+  - We also may share your PHI if we believe it is necessary to lessen a serious and
+    imminent threat to health or safety.
+  purposes:
+    legal:
+    - for health research or if state or federal laws require it, to respond to court
+      or administrative orders or to address workers' compensation, law enforcement
+      and other government requests
+    - to respond to organ and tissue donation requests or to work with a medical examiner,
+      coroner or funeral director
+    services:
+    - to respond to organ and tissue donation requests or to work with a medical examiner,
+      coroner or funeral director
+- source: we
+  target: phi consistent
+  key: COLLECT
+  text:
+  - Instead, we will process your PHI consistent with the obligations in our contract
+    with the Provider Company, and you should contact your Provider Company for a
+    copy of the relevant privacy policy.
+  purposes: {}
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - With your consent or subject to applicable law, we may use your email address
+    or phone number to send you messages, such as feature changes and special offers.
+  purposes:
+    services:
+    - to send you messages, such as feature changes and special offers
+- source: we
+  target: pixel
+  key: COLLECT
+  text:
+  - We use these cookies and pixels for the sole purpose of providing targeted behavioral
+    advertising based on your interest in DarioHealth.
+  purposes:
+    advertising:
+    - for the sole purpose of providing targeted behavioral advertising based on your
+      interest in DarioHealth
+- source: we
+  target: race / ethnicity
+  key: COLLECT
+  text:
+  - We collect race/ethnicity data for clinical data and research purposes; we may
+    also use aggregate race/ethnicity data for customer reporting purposes.
+  purposes:
+    analytics:
+    - for clinical data and research purposes
+    - for customer reporting purposes
+    services:
+    - for customer reporting purposes
+- source: we
+  target: right request
+  key: COLLECT
+  text:
+  - We will process your rights requests in accordance with applicable laws.
+  purposes: {}
+- source: we
+  target: share object
+  key: COLLECT
+  text:
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes: {}
+- source: we
+  target: specific information
+  key: COLLECT
+  text:
+  - We may need to request specific information from you to help us confirm your identity
+    and ensure your right to access your personal information or to exercise any of
+    your other rights.
+  purposes:
+    security:
+    - to help us confirm your identity and ensure your right to access your personal
+      information or to exercise any of your other rights
+- source: Google
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Google Analytics uses its own cookies.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties may access your information through cookies, pixels, clear
+    GIFs, and similar technologies deployed on our Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - Our third-party business partners may use these technologies to collect information
+    about your online activities over time and across different websites and services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: datum about visit
+  key: COLLECT
+  text:
+  - Pixel Tags - These small graphic files allow us and third parties to monitor and
+    collect data about your visit, such as the IP address of the computer that downloaded
+    the page where the tag appears, how long you remained on the page, which browser
+    you used to get there, and the identification number of any cookie previously
+    placed by that server on your computer.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - Our third-party business partners may use these technologies to collect information
+    about your online activities over time and across different websites and services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - Our third-party business partners may also use your personal information to analyze
+    and track your interactions and movement around the Services and elsewhere on
+    the internet for our and their own purposes.
+  - We may disclose personal information with third parties in connection with a transaction,
+    such as a merger, sale of company assets or shares, reorganization, financing,
+    change of control or acquisition of all or a portion of our business, or in the
+    event of a bankruptcy or related or similar proceedings in compliance with applicable
+    laws.
+  - We may disclose your personal information (excluding your PHI in identifiable
+    form) with other companies, such as companies with whom we jointly offer products
+    and services, SDK providers, and our third-party advertising and analytics partners.
+  purposes:
+    analytics:
+    - to analyze and track your interactions and movement around the Services and
+      elsewhere on the internet for our and their own purposes
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES:'
+  purposes:
+    services:
+    - To support our Services
+- source: advertiser
+  target: code
+  key: COLLECT
+  text:
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes: {}
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES: Analytics and Performance Cookies - To collect information about
+    how and when our Services are accessed.'
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes:
+    services:
+    - To support our Services
+- source: advertiser
+  target: inference draw from
+  key: COLLECT
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Inferences - We, and our third-party advertising and analytics partners, may collect
+    inferences drawn from any of the information identified above to create a profile
+    reflecting your preferences, characteristics, psychological trends, predispositions,
+    behavior, attitudes, intelligence, abilities, or aptitudes.'
+  purposes:
+    analytics:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+    services:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+- source: advertiser
+  target: information about
+  key: COLLECT
+  text:
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES: Analytics and Performance Cookies - To collect information about
+    how and when our Services are accessed.'
+  purposes:
+    services:
+    - To support our Services
+- source: advertiser
+  target: internet activity
+  key: COLLECT
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - Our third-party business partners, including our advertising and analytics partners,
+    may use your personal information to communicate with you about new features,
+    events, or products that may be of interest to you, including based on your interactions
+    with our Services.
+  - We may disclose your personal information (excluding your PHI in identifiable
+    form) with other companies, such as companies with whom we jointly offer products
+    and services, SDK providers, and our third-party advertising and analytics partners.
+  purposes:
+    advertising:
+    - to communicate with you about new features, events, or products that may be
+      of interest to you, including based on your interactions with our Services
+    services:
+    - to communicate with you about new features, events, or products that may be
+      of interest to you, including based on your interactions with our Services
+- source: advertiser
+  target: share object
+  key: COLLECT
+  text:
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES:'
+  purposes:
+    services:
+    - To support our Services
+- source: analytic provider
+  target: code
+  key: COLLECT
+  text:
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes: {}
+- source: analytic provider
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES: Analytics and Performance Cookies - To collect information about
+    how and when our Services are accessed.'
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes:
+    services:
+    - To support our Services
+- source: analytic provider
+  target: inference draw from
+  key: COLLECT
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Inferences - We, and our third-party advertising and analytics partners, may collect
+    inferences drawn from any of the information identified above to create a profile
+    reflecting your preferences, characteristics, psychological trends, predispositions,
+    behavior, attitudes, intelligence, abilities, or aptitudes.'
+  purposes:
+    analytics:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+    services:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+- source: analytic provider
+  target: information about
+  key: COLLECT
+  text:
+  - 'To support our Services, we, and our third party advertising and analytics partners,
+    may use one or more of the following cookie or similar tracking technologies for
+    the purposes set forth in this Privacy Policy: TYPES OF TRACKING TECHNOLOGIES
+    AND PURPOSES: Analytics and Performance Cookies - To collect information about
+    how and when our Services are accessed.'
+  purposes:
+    services:
+    - To support our Services
+- source: analytic provider
+  target: internet activity
+  key: COLLECT
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+  purposes: {}
+- source: analytic provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Our third-party business partners, including our advertising and analytics partners,
+    may use your personal information to communicate with you about new features,
+    events, or products that may be of interest to you, including based on your interactions
+    with our Services.
+  - We may disclose your personal information (excluding your PHI in identifiable
+    form) with other companies, such as companies with whom we jointly offer products
+    and services, SDK providers, and our third-party advertising and analytics partners.
+  purposes:
+    advertising:
+    - to communicate with you about new features, events, or products that may be
+      of interest to you, including based on your interactions with our Services
+    services:
+    - to communicate with you about new features, events, or products that may be
+      of interest to you, including based on your interactions with our Services
+- source: analytic provider
+  target: share object
+  key: COLLECT
+  text:
+  - When providing our Services, we, and our third-party business partners, including
+    advertising and analytics partners, may place and/or store code or other types
+    of information on your device or within your browser, such as cookies, locally
+    shared objects, and similar tracking technologies for the purposes set out in
+    this Privacy Policy.
+  purposes: {}
+- source: consultant
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share personal information with third party advisors, such as consultants
+    or legal advisors, in the context of our relationship with you.
+  purposes: {}
+- source: dariohealth
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'DarioHealth will retain this data as long as you: 1) remain a DarioHealth user
+    and 2) have not affirmatively withdrawn your consent.'
+  purposes: {}
+- source: dariohealth
+  target: personal information
+  key: COLLECT
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:'
+  - However, under the broad definitions in U.S. state privacy laws, DarioHealth may
+    "sell" or "share" personal information through the use of cookies and pixels on
+    our corporate website.
+  purposes:
+    analytics:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+    services:
+    - to create a profile reflecting your preferences, characteristics, psychological
+      trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes
+- source: healthcare provider
+  target: personal information
+  key: COLLECT
+  text:
+  - DarioHealth enables you to share your personal information with others, including
+    healthcare providers, friends and contacts via social media, our app or other
+    platforms.
+  purposes: {}
+- source: legal advisor
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share personal information with third party advisors, such as consultants
+    or legal advisors, in the context of our relationship with you.
+  purposes: {}
+- source: many base service
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Many web-based services use cookies to provide useful features for their users.
+  purposes:
+    services:
+    - to provide useful features for their users
+- source: sdk provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose your personal information (excluding your PHI in identifiable
+    form) with other companies, such as companies with whom we jointly offer products
+    and services, SDK providers, and our third-party advertising and analytics partners.
+  purposes: {}
+- source: service provider
+  target: geolocation
+  key: COLLECT
+  text:
+  - We limit the uses of geolocation data and health data we collect to those that
+    are necessary to provide the relevant Services.
+  - We may share this data for business purposes with service providers.
+  purposes: {}
+- source: service provider service complement
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose personal information with certain service providers whose services
+    and solutions complement, facilitate and enhance our own.
+  purposes: {}
+- source: biometric information
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: body trait
+  target: posture
+  key: SUBSUM
+  text:
+  - We may collect information regarding your physical and mental health, such as
+    information on medications, medical history, lifestyle habits, pain, fitness and
+    training characteristics, pregnancy, body traits (e.g., posture), exercise activity
+    and motion (e.g., steps, cardio activity, kcal, intensity), height, weight, nutrition
+    (e.g., carbohydrate consumption), blood pressure, blood test results (e.g., last
+    HbA1c), mental or emotional health status, and other health-related information.
+- source: business partner
+  target: advertiser
+  key: SUBSUM
+  text:
+  - 'INFORMATION WE COLLECT FROM THIRD PARTIES : To the extent permitted by applicable
+    law, from public databases, where permitted by law, or from third-party private
+    sources, such as data brokers or our business partners, including advertising
+    and analytics partners.'
+- source: business partner
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - 'INFORMATION WE COLLECT FROM THIRD PARTIES : To the extent permitted by applicable
+    law, from public databases, where permitted by law, or from third-party private
+    sources, such as data brokers or our business partners, including advertising
+    and analytics partners.'
+- source: commercial information
+  target: purchase history
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Commercial information -  Including records of your purchase history and transactions
+    with us, as well as purchasing or consuming histories or tendencies;'
+- source: commercial information
+  target: record
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Commercial information -  Including records of your purchase history and transactions
+    with us, as well as purchasing or consuming histories or tendencies;'
+- source: commercial information
+  target: tendency
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Commercial information -  Including records of your purchase history and transactions
+    with us, as well as purchasing or consuming histories or tendencies;'
+- source: commercial information
+  target: transaction with we
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Commercial information -  Including records of your purchase history and transactions
+    with us, as well as purchasing or consuming histories or tendencies;'
+- source: dariohealth
+  target: labstyle innovation ltd.
+  key: SUBSUM
+  text:
+  - References to DarioHealth include our subsidiaries and trade names, including
+    Labstyle Innovation Ltd., Upright, wayForward, and Twill Inc. (collectively, "DarioHealth,"
+    "us," "we" or "Company").
+- source: dariohealth
+  target: twill inc.
+  key: SUBSUM
+  text:
+  - References to DarioHealth include our subsidiaries and trade names, including
+    Labstyle Innovation Ltd., Upright, wayForward, and Twill Inc. (collectively, "DarioHealth,"
+    "us," "we" or "Company").
+- source: dariohealth
+  target: upright
+  key: SUBSUM
+  text:
+  - References to DarioHealth include our subsidiaries and trade names, including
+    Labstyle Innovation Ltd., Upright, wayForward, and Twill Inc. (collectively, "DarioHealth,"
+    "us," "we" or "Company").
+- source: dariohealth
+  target: wayforward
+  key: SUBSUM
+  text:
+  - References to DarioHealth include our subsidiaries and trade names, including
+    Labstyle Innovation Ltd., Upright, wayForward, and Twill Inc. (collectively, "DarioHealth,"
+    "us," "we" or "Company").
+- source: datum about visit
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Pixel Tags - These small graphic files allow us and third parties to monitor and
+    collect data about your visit, such as the IP address of the computer that downloaded
+    the page where the tag appears, how long you remained on the page, which browser
+    you used to get there, and the identification number of any cookie previously
+    placed by that server on your computer.
+- source: datum about visit
+  target: ip address
+  key: SUBSUM
+  text:
+  - Pixel Tags - These small graphic files allow us and third parties to monitor and
+    collect data about your visit, such as the IP address of the computer that downloaded
+    the page where the tag appears, how long you remained on the page, which browser
+    you used to get there, and the identification number of any cookie previously
+    placed by that server on your computer.
+- source: demographic information
+  target: age
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Demographic information - Including age, gender (including gender identity and
+    expression), sexual orientation, and other personal information that may be considered
+    a protected classification characteristic under California or federal laws;'
+- source: demographic information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Demographic information - Including age, gender (including gender identity and
+    expression), sexual orientation, and other personal information that may be considered
+    a protected classification characteristic under California or federal laws;'
+- source: demographic information
+  target: protected classification
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Demographic information - Including age, gender (including gender identity and
+    expression), sexual orientation, and other personal information that may be considered
+    a protected classification characteristic under California or federal laws;'
+- source: demographic information
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Demographic information - Including age, gender (including gender identity and
+    expression), sexual orientation, and other personal information that may be considered
+    a protected classification characteristic under California or federal laws;'
+- source: financial information
+  target: online payment account information
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Financial information - Including your payment card or online payment account
+    information and billing address;'
+- source: financial information
+  target: payment card
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Financial information - Including your payment card or online payment account
+    information and billing address;'
+- source: financial information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Financial information - Including your payment card or online payment account
+    information and billing address;'
+- source: gender
+  target: gender identity
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Demographic information - Including age, gender (including gender identity and
+    expression), sexual orientation, and other personal information that may be considered
+    a protected classification characteristic under California or federal laws;'
+  - Protected classification characteristics under California or federal law Age,
+    race, ancestry, marital status (in relation to how family members are related),
+    pregnancy, medical condition, physical or mental disability, sex (including gender,
+    gender identity, gender expression)
+- source: health plan
+  target: provider company
+  key: SUBSUM
+  text:
+  - If an organization, such as your or your partner's, spouse's or parent/guardian's
+    employer, university or health plan (including a Provider Company), is paying
+    for your access to our Services (each a "Sponsor Organization"), use of our Services
+    may require you to provide additional registration information.
+- source: identifier
+  target: account name
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: alias
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: online identifier
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Identifiers - Including real name, alias, date of birth, postal address, unique
+    personal identifier, online identifier, internet protocol address, email address,
+    account name or other similar identifiers;'
+- source: information associate with social medium account
+  target: email address
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: information associate with social medium account
+  target: gender
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: information associate with social medium account
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: information associate with social medium account
+  target: person name
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: information associate with social medium account
+  target: profile picture
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: information associate with social medium account
+  target: username
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: information collect under circumstance
+  target: date of birth
+  key: SUBSUM
+  text:
+  - Information collected under these circumstances may include, but is not limited
+    to, name, email address, date of birth and phone number.
+- source: information collect under circumstance
+  target: email address
+  key: SUBSUM
+  text:
+  - Information collected under these circumstances may include, but is not limited
+    to, name, email address, date of birth and phone number.
+- source: information collect under circumstance
+  target: person name
+  key: SUBSUM
+  text:
+  - Information collected under these circumstances may include, but is not limited
+    to, name, email address, date of birth and phone number.
+- source: information collect under circumstance
+  target: phone number
+  key: SUBSUM
+  text:
+  - Information collected under these circumstances may include, but is not limited
+    to, name, email address, date of birth and phone number.
+- source: information qualify as personal information under applicable u.s. state
+    privacy law
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - In this section, "personal information" means information that qualifies as "personal
+    information" or a similar term under an applicable U.S. state privacy law, including
+    information that identifies, relates to, describes, is reasonably capable of being
+    associated with, or could reasonably be linked, directly or indirectly, to a particular
+    person.
+- source: internet activity
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+- source: internet activity
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: internet activity
+  target: clickstream datum
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: internet activity
+  target: device identifier
+  key: SUBSUM
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+- source: internet activity
+  target: identifier
+  key: SUBSUM
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+- source: internet activity
+  target: information associate with social medium account
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: internet activity
+  target: information regard
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: internet activity
+  target: ip address
+  key: SUBSUM
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+- source: internet activity
+  target: operate system
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Internet or other electronic network activity information - Including your browser
+    type and operating system; browsing history, clickstream data, search history
+    on the Services, and information regarding how you interact with the Services,
+    an internet website, application, email, newsletter, or advertisement, including
+    access logs and other activity information related to your use of the Services;
+    the referring URL, or the website or application that led you to our Services;
+    and, if you link your information associated with your social media account such
+    as your name, username, email address, gender, profile picture, other unique identifier,
+    etc.;'
+- source: internet activity
+  target: operating system
+  key: SUBSUM
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+- source: internet activity
+  target: refer webpage url
+  key: SUBSUM
+  text:
+  - We and our third-party business partners, including advertising and analytics
+    partners, automatically collect information when you use our Services through
+    cookies, pixel tags, clear GIFs, or similar technologies on our Services, including
+    the information referred to above as "Internet or other electronic network activity,"
+    such as your browser type and operating system, web pages you view, your interactions
+    with content or webpages on the Services, links you click, your IP address, device
+    identifier, or other identifiers, the length of time you visit our Services, the
+    referring webpage URL or app that led you to our Services, the information, content,
+    or advertisements you view, hover over, or click on, and the search terms you
+    enter.
+- source: message
+  target: feature change
+  key: SUBSUM
+  text:
+  - With your consent or subject to applicable law, we may use your email address
+    or phone number to send you messages, such as feature changes and special offers.
+- source: message
+  target: special offer
+  key: SUBSUM
+  text:
+  - With your consent or subject to applicable law, we may use your email address
+    or phone number to send you messages, such as feature changes and special offers.
+- source: personal characteristic
+  target: blood pressure test
+  key: SUBSUM
+  text:
+  - Biometric Data Physical characteristics such as height and weight, blood tests,
+    blood pressure tests, nutrient consumption, exercise activity and motion (e.g.,
+    steps, cardio activity, kcal, type and intensity), posture information, gait,
+    physical, mental, and emotional health status
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: blood test
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: cardio activity
+  key: SUBSUM
+  text:
+  - Biometric Data Physical characteristics such as height and weight, blood tests,
+    blood pressure tests, nutrient consumption, exercise activity and motion (e.g.,
+    steps, cardio activity, kcal, type and intensity), posture information, gait,
+    physical, mental, and emotional health status
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: exercise activity
+  key: SUBSUM
+  text:
+  - Biometric Data Physical characteristics such as height and weight, blood tests,
+    blood pressure tests, nutrient consumption, exercise activity and motion (e.g.,
+    steps, cardio activity, kcal, type and intensity), posture information, gait,
+    physical, mental, and emotional health status
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: gait
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: height
+  key: SUBSUM
+  text:
+  - Biometric Data Physical characteristics such as height and weight, blood tests,
+    blood pressure tests, nutrient consumption, exercise activity and motion (e.g.,
+    steps, cardio activity, kcal, type and intensity), posture information, gait,
+    physical, mental, and emotional health status
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: kcal
+  key: SUBSUM
+  text:
+  - Biometric Data Physical characteristics such as height and weight, blood tests,
+    blood pressure tests, nutrient consumption, exercise activity and motion (e.g.,
+    steps, cardio activity, kcal, type and intensity), posture information, gait,
+    physical, mental, and emotional health status
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: nutrient consumption
+  key: SUBSUM
+  text:
+  - Biometric Data Physical characteristics such as height and weight, blood tests,
+    blood pressure tests, nutrient consumption, exercise activity and motion (e.g.,
+    steps, cardio activity, kcal, type and intensity), posture information, gait,
+    physical, mental, and emotional health status
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: physical health status
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal characteristic
+  target: posture information
+  key: SUBSUM
+  text:
+  - 'DarioHealth may collect personal information in a variety of ways, including:
+    Biometric information - Including physical characteristics such as height and
+    weight, blood tests, blood pressure tests, nutrient consumption, exercise activity
+    and motion (e.g., steps, cardio activity, kcal, type and intensity), posture information,
+    gait, physical, mental, and emotional health status'
+- source: personal information
+  target: information we collect
+  key: SUBSUM
+  text:
+  - We encourage you to read the Privacy Policy carefully prior to using the Services,
+    as it describes the types of personal information we collect, how we collect it,
+    how we use the information we collect, how long we keep the information and under
+    what circumstances and with whom your personal information may be disclosed.
+- source: personal information
+  target: information you provide
+  key: SUBSUM
+  text:
+  - To offer these rewards, we must track your personal information, such as your
+    use of the Services and the information you provide when doing so and performing
+    the actions described above.
+- source: sensitive personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Sensitive Personal Information may include race or ethnicity, geolocation, and
+    health data.
+- source: sensitive personal information
+  target: health datum
+  key: SUBSUM
+  text:
+  - Sensitive Personal Information may include race or ethnicity, geolocation, and
+    health data.
+- source: sensitive personal information
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - Sensitive Personal Information may include race or ethnicity, geolocation, and
+    health data.
+- source: services feature
+  target: base base chatbot name
+  key: SUBSUM
+  text:
+  - Directly from you (e.g., when you register for the Services or interact with us
+    or certain Services or DarioHealth features, such as assessments, Dario's artificial
+    intelligence-based ("Al-based") chatbot named Anna, behavioral matrices and click-throughs
+    to third parties within the Services), from devices, including your wearable devices,
+    connected to the Services, your coach or mental health service provider (including
+    for wayForward Services);
+- source: services feature
+  target: click through
+  key: SUBSUM
+  text:
+  - Directly from you (e.g., when you register for the Services or interact with us
+    or certain Services or DarioHealth features, such as assessments, Dario's artificial
+    intelligence-based ("Al-based") chatbot named Anna, behavioral matrices and click-throughs
+    to third parties within the Services), from devices, including your wearable devices,
+    connected to the Services, your coach or mental health service provider (including
+    for wayForward Services);
+- source: source
+  target: personal information
+  key: SUBSUM
+  text:
+  - The categories of sources from which we collect personal information and our business
+    and commercial purposes for using personal information are set forth above.
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: base base chatbot name
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: click through
+- type: ACTOR
+  id: consultant
+- type: ACTOR
+  id: dariohealth
+- type: ACTOR
+  id: health plan
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: labstyle innovation ltd.
+- type: ACTOR
+  id: legal advisor
+- type: ACTOR
+  id: many base service
+- type: ACTOR
+  id: provider company
+- type: ACTOR
+  id: sdk provider
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service provider service complement
+- type: ACTOR
+  id: services feature
+- type: ACTOR
+  id: twill inc.
+- type: ACTOR
+  id: upright
+- type: ACTOR
+  id: wayforward
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account name
+- type: DATA
+  id: age
+- type: DATA
+  id: alias
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: blood pressure test
+- type: DATA
+  id: blood test
+- type: DATA
+  id: body trait
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: cardio activity
+- type: DATA
+  id: choice regard use of personal information for marketing purpose
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: code
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: copy of personal information
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum about visit
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: exercise activity
+- type: DATA
+  id: feature change
+- type: DATA
+  id: financial information
+- type: DATA
+  id: gait
+- type: DATA
+  id: gender
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health datum
+- type: DATA
+  id: height
+- type: DATA
+  id: identifier
+- type: DATA
+  id: inference draw from
+- type: DATA
+  id: information about
+- type: DATA
+  id: information associate with social medium account
+- type: DATA
+  id: information collect under circumstance
+- type: DATA
+  id: information qualify as personal information under applicable u.s. state privacy
+    law
+- type: DATA
+  id: information regard
+- type: DATA
+  id: information regard physical health
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you share
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: kcal
+- type: DATA
+  id: message
+- type: DATA
+  id: nutrient consumption
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: online payment account information
+- type: DATA
+  id: operate system
+- type: DATA
+  id: operating system
+- type: DATA
+  id: payment card
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information associate with registered account
+- type: DATA
+  id: personal information qualify as sensitive datum under applicable data protection
+    law
+- type: DATA
+  id: phi
+- type: DATA
+  id: phi consistent
+- type: DATA
+  id: phone number
+- type: DATA
+  id: physical health status
+- type: DATA
+  id: pixel
+- type: DATA
+  id: postal address
+- type: DATA
+  id: posture
+- type: DATA
+  id: posture information
+- type: DATA
+  id: profile picture
+- type: DATA
+  id: protected classification
+- type: DATA
+  id: purchase history
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: record
+- type: DATA
+  id: refer webpage url
+- type: DATA
+  id: right request
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sexual orientation
+- type: DATA
+  id: share object
+- type: DATA
+  id: source
+- type: DATA
+  id: special offer
+- type: DATA
+  id: specific information
+- type: DATA
+  id: tendency
+- type: DATA
+  id: transaction with we
+- type: DATA
+  id: username

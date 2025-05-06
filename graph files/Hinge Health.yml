@@ -1,0 +1,939 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, where We are processing personal information based on contract requirements,
+    We generally will retain the information for the duration of the contract plus
+    some additional limited period of time that is necessary to comply with law or
+    that represents the statute of limitations for legal claims that could arise from
+    the contractual relationship.
+  - If you are a resident of California, California law requires Us to disclose the
+    following additional information with respect to Our collection, use, and disclosure
+    of personal information.
+  - In order to personalize the Services, We may analyze your preferences, information,
+    and habits.
+  - 'Table of Contents
+
+
+    Disclosure of information
+
+
+    We disclose information as permitted by law and for other reasons We may describe
+    to you.'
+  - 'Table of Contents
+
+
+    How We Collect Information'
+  - 'Table of Contents
+
+
+    Information we collect
+
+
+    Customer Service and Feedback : We may collect information from you when you request
+    customer support or information from Us, provide feedback or reviews about your
+    experience with Us or Our products, or otherwise communicate with or contact Us.'
+  - We collect information automatically .
+  - We collect information from you directly .
+  - We collect information when you use Our Services or otherwise interact with Us.
+  - We disclose information if We think We have to in order to comply with the law
+    or to protect ourselves .
+  - We disclose information with service providers and other third parties we work
+    with .
+  - We disclose information within Our family of companies . We may disclose information
+    with the Hinge Health family of companies, which includes all direct and indirect
+    subsidiaries and affiliates of parent company Hinge Health, Inc. and any future
+    related companies.
+  - We may also acquire information from other sources to help Us maintain the accuracy
+    of the information We collect, personalize your experience with the Services,
+    target Our communications so that We can inform you of products and services or
+    other offers that may be of interest to you, measure ad quality and responses,
+    and for internal business analysis or other business purposes.
+  - We may also use information to provide you with customer service.
+  - We may collect information when you use the Service, or enter a promotion or contest,
+    or if you participate in any of Our surveys or provide a review.
+  - We may disclose information with data analytics vendors or market research companies.
+  - We may disclose information with external companies who perform business, technical,
+    professional, or marketing related services for Us.
+  - We may use information to answer your questions and comments, including providing
+    you with information about this Policy or Our Terms and Conditions .
+  - We may use information to make Our Services better, such as by responding to your
+    inquiries and sending you administrative communications; obtaining your feedback
+    on Our Sites and Our offerings; statistically analyzing user behavior and activity;
+    using machine learning, artificial intelligence, or other similar technology to
+    analyze and process your content and information; providing Our users with more
+    relevant content; and conducting research and measurement activities.
+  - We may use information to process and fulfill orders, administer your account,
+    and provide you with access to particular tools and services.
+  - We may use information to run a sweepstakes or contest.
+  - We use information for marketing purposes .
+  - We use information for other lawful purposes or as we may disclose to you .
+  - We use information so you can use Our products and Services .
+  - We use information to communicate with you .
+  - We use information to identify fraud, and secure Our Services and systems in an
+    effort to protect you and Our other customers.
+  - We use information to improve Our products and Services .
+  - We use information to personalize the Services.
+  - We use information to protect Our company and others .
+  - We will disclose information if a government agency or regulatory body requests
+    it.
+  purposes:
+    advertising:
+    - for marketing purposes
+    - to help Us maintain the accuracy of the information We collect, personalize
+      your experience with the Services, target Our communications so that We can
+      inform you of products and services or other offers that may be of interest
+      to you, measure ad quality and responses, and for internal business analysis
+      or other business purposes
+    - to run a sweepstakes or contest
+    analytics:
+    - to help Us maintain the accuracy of the information We collect, personalize
+      your experience with the Services, target Our communications so that We can
+      inform you of products and services or other offers that may be of interest
+      to you, measure ad quality and responses, and for internal business analysis
+      or other business purposes
+    legal:
+    - for other lawful purposes or as we may disclose to you
+    security:
+    - to identify fraud, and secure Our Services and systems in an effort to protect
+      you and Our other customers
+    - to protect Our company and others
+    services:
+    - In order to personalize the Services
+    - to answer your questions and comments, including providing you with information
+      about this Policy or Our Terms and Conditions
+    - to communicate with you
+    - to help Us maintain the accuracy of the information We collect, personalize
+      your experience with the Services, target Our communications so that We can
+      inform you of products and services or other offers that may be of interest
+      to you, measure ad quality and responses, and for internal business analysis
+      or other business purposes
+    - to improve Our products and Services
+    - to make Our Services better
+    - to personalize the Services
+    - to process and fulfill orders, administer your account, and provide you with
+      access to particular tools and services
+    - to provide you with customer service
+    - to run a sweepstakes or contest
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We disclose aggregate or anonymous information . We may disclose aggregate, anonymous,
+    or de-identified information that cannot reasonably be used to identify you or
+    via scientific research papers regarding Our Services.
+  purposes: {}
+- source: we
+  target: audio datum
+  key: COLLECT
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+  purposes: {}
+- source: we
+  target: automatic information about visitor
+  key: COLLECT
+  text:
+  - We use web beacons to collect automatic information about Our visitors but not
+    personal information.
+  purposes: {}
+- source: we
+  target: category of information
+  key: COLLECT
+  text:
+  - For example, We may disclose all categories of information to respond to a court
+    order or subpoena.
+  purposes:
+    legal:
+    - to respond to a court order or subpoena
+- source: we
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - We may also use your contact information to request permission to use information
+    you have volunteered in other contexts.
+  - We may collect your name, email address, phone number or other contact information.
+  purposes:
+    analytics:
+    - to request permission to use information you have volunteered in other contexts
+    services:
+    - to request permission to use information you have volunteered in other contexts
+- source: we
+  target: content you create
+  key: COLLECT
+  text:
+  - 'Information we collect
+
+
+    Consumer-Generated Content : We may collect content that you create and then share
+    with Us on third-party social networks.'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may also make use of "persistent" or "memory based" cookies, which remain on
+    your computer's hard drive until you delete them.
+  - We use web beacons to collect automatic information about Our visitors but not
+    personal information.
+  purposes: {}
+- source: we
+  target: datum about you
+  key: COLLECT
+  text:
+  - We and Our third party service providers collect data about you using automated
+    technology like cookies and pixels via Our Services.
+  purposes: {}
+- source: we
+  target: demographic information
+  key: COLLECT
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - We may collect your name, email address, phone number or other contact information.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Table of Contents
+
+
+    Information we collect
+
+
+    Location Information: We may collect or infer information about your location
+    based on your zip code or IP address.'
+  purposes: {}
+- source: we
+  target: habit
+  key: COLLECT
+  text:
+  - In order to personalize the Services, We may analyze your preferences, information,
+    and habits.
+  purposes:
+    services:
+    - In order to personalize the Services
+- source: we
+  target: identifier
+  key: COLLECT
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+  purposes: {}
+- source: we
+  target: inference
+  key: COLLECT
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+  purposes: {}
+- source: we
+  target: information about new product
+  key: COLLECT
+  text:
+  - We provide you with information about new products and special offers or promotions
+    which may include advertisements for Our products and services that are tailored
+    to you.
+  purposes: {}
+- source: we
+  target: information about use of services
+  key: COLLECT
+  text:
+  - We may collect information about your use of Our Services, including technical
+    information about your device, browser or mobile carrier; usage information such
+    as when you access the Services, for how long, and the websites you accessed before
+    or after your use of the Services; and device identifiers and IP address.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - We get information about you from other sources .
+  - We may collect information about you from Our business partners or affiliates.
+  purposes: {}
+- source: we
+  target: information from indicate interest
+  key: COLLECT
+  text:
+  - 'Information we collect
+
+
+    Interests and Demographic Information : In order to better understand Our customers
+    and offer products and services of interest to you, We may collect information
+    from or about you that indicates your interests or demographic information.'
+  purposes:
+    advertising:
+    - In order to better understand Our customers and offer products and services
+      of interest to you
+    analytics:
+    - In order to better understand Our customers and offer products and services
+      of interest to you
+    services:
+    - In order to better understand Our customers and offer products and services
+      of interest to you
+- source: we
+  target: information we collect from
+  key: COLLECT
+  text:
+  - 'Table of Contents
+
+
+    Disclosure of information
+
+
+    We may disclose information We collect from and about you as follows:'
+  - We may use the information that We collect from and about you for a variety of
+    business purposes, as noted below.
+  purposes: {}
+- source: we
+  target: information you provide
+  key: COLLECT
+  text:
+  - We may also collect information you provide to create an account or profile, such
+    as your username and password.
+  purposes: {}
+- source: we
+  target: information you share on account
+  key: COLLECT
+  text:
+  - If you link a third-party social media account with Us, we may collect information
+    you have publicly shared on your account.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+  purposes: {}
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We disclose aggregate or anonymous information . We may disclose aggregate, anonymous,
+    or de-identified information that cannot reasonably be used to identify you or
+    via scientific research papers regarding Our Services.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - We may collect your name, email address, phone number or other contact information.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - As described in the "Targeted Advertising and Analytics" section above, We process
+    personal information to understand and improve your experience with Our Services.
+  - We collect personal information for the business and commercial purposes described
+    in the "Use of Information" section above.
+  - We disclose personal information for the business and commercial purposes described
+    in the "Disclosure of Information" section above.
+  - We retain personal information for as long as necessary to carry out the purposes
+    for which We originally collected it and for other purposes described in this
+    privacy policy.
+  - We will retain your personal information for as long as is necessary for the purposes
+    set out in this Policy unless a longer period is required under applicable law
+    or is needed to resolve disputes or protect Our legal rights.
+  purposes:
+    analytics:
+    - for the business and commercial purposes described in the "Use of Information"
+      section above
+    - to understand and improve your experience with Our Services
+    legal:
+    - for the business and commercial purposes described in the "Disclosure of Information"
+      section above
+    - to carry out the purposes for which We originally collected it
+    services:
+    - to understand and improve your experience with Our Services
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - We may collect your name, email address, phone number or other contact information.
+  purposes: {}
+- source: we
+  target: preference
+  key: COLLECT
+  text:
+  - In order to personalize the Services, We may analyze your preferences, information,
+    and habits.
+  - We may use information to personalize your experience with us, including saving
+    preferences or settings.
+  purposes:
+    services:
+    - In order to personalize the Services
+    - to personalize your experience with us
+- source: we
+  target: preference set
+  key: COLLECT
+  text:
+  - This information allows Us to determine whether you have visited the Sites previously
+    and save and remember any preferences that may have been set and statistically
+    monitor how many people are using Our Sites and for what purpose.
+  purposes: {}
+- source: we
+  target: setting
+  key: COLLECT
+  text:
+  - We may use information to personalize your experience with us, including saving
+    preferences or settings.
+  purposes:
+    services:
+    - to personalize your experience with us
+- source: Match Group
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Hinge Health collects information from you (a) that you choose to share with Us
+    when using Our Services and when you otherwise interact with Us, such as through
+    Our customer service channels, (b) that We collect automatically when you use
+    Our Services, and (c) that We receive from third parties.
+  - We disclose information within Our family of companies . We may disclose information
+    with the Hinge Health family of companies, which includes all direct and indirect
+    subsidiaries and affiliates of parent company Hinge Health, Inc. and any future
+    related companies.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In some circumstances these entities may use your information for their own purposes.
+  - We disclose information with service providers and other third parties we work
+    with .
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: datum about you
+  key: COLLECT
+  text:
+  - We and Our third party service providers collect data about you using automated
+    technology like cookies and pixels via Our Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: device identifier
+  key: COLLECT
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about use of services
+  key: COLLECT
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: sdks
+  key: COLLECT
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may disclose information with data analytics vendors or market research companies.
+  purposes: {}
+- source: contractor
+  target: personal information
+  key: COLLECT
+  text:
+  - In addition, We limit Our employees' and contractors' access to personal information.
+  - Only those employees and contractors with a business reason to know have access
+    to this information, and then may only access or use the minimum necessary for
+    the task at hand.
+  purposes: {}
+- source: customer service
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Table of Contents
+
+
+    Information we collect
+
+
+    Customer Service and Feedback : We may collect information from you when you request
+    customer support or information from Us, provide feedback or reviews about your
+    experience with Us or Our products, or otherwise communicate with or contact Us.'
+  purposes: {}
+- source: external company who perform relate service for us
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may disclose information with external companies who perform business, technical,
+    professional, or marketing related services for Us.
+  purposes: {}
+- source: feedback
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Table of Contents
+
+
+    Information we collect
+
+
+    Customer Service and Feedback : We may collect information from you when you request
+    customer support or information from Us, provide feedback or reviews about your
+    experience with Us or Our products, or otherwise communicate with or contact Us.'
+  purposes: {}
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We disclose information with service providers and other third parties we work
+    with .
+  purposes: {}
+- source: we
+  target: Match Group
+  key: SUBSUM
+  text:
+  - By visiting hingehealth.com and using Hinge Health's services (collectively, the
+    "Services") you acknowledge that you accept the practices and policies outlined
+    in this Privacy Policy.
+  - Hinge Health, Inc. and its subsidiaries or affiliates (collectively, "We", "Us",
+    "Our", or "Hinge Health"), including Hinge Health MSO, Inc. (the "MSO"), an independent
+    management entity with a national network of physicians, physical therapists and
+    other healthcare providers who provide clinical services, and each of the professional
+    service corporations and other clinical entities within such network to which
+    the MSO provides management and administrative services,
+- source: we
+  target: independent management entity
+  key: SUBSUM
+  text:
+  - Hinge Health, Inc. and its subsidiaries or affiliates (collectively, "We", "Us",
+    "Our", or "Hinge Health"), including Hinge Health MSO, Inc. (the "MSO"), an independent
+    management entity with a national network of physicians, physical therapists and
+    other healthcare providers who provide clinical services, and each of the professional
+    service corporations and other clinical entities within such network to which
+    the MSO provides management and administrative services,
+- source: we
+  target: mso
+  key: SUBSUM
+  text:
+  - Hinge Health, Inc. and its subsidiaries or affiliates (collectively, "We", "Us",
+    "Our", or "Hinge Health"), including Hinge Health MSO, Inc. (the "MSO"), an independent
+    management entity with a national network of physicians, physical therapists and
+    other healthcare providers who provide clinical services, and each of the professional
+    service corporations and other clinical entities within such network to which
+    the MSO provides management and administrative services,
+- source: we
+  target: national network of physician who provide clinical service
+  key: SUBSUM
+  text:
+  - Hinge Health, Inc. and its subsidiaries or affiliates (collectively, "We", "Us",
+    "Our", or "Hinge Health"), including Hinge Health MSO, Inc. (the "MSO"), an independent
+    management entity with a national network of physicians, physical therapists and
+    other healthcare providers who provide clinical services, and each of the professional
+    service corporations and other clinical entities within such network to which
+    the MSO provides management and administrative services,
+- source: Match Group
+  target: direct subsidiary
+  key: SUBSUM
+  text:
+  - We disclose information within Our family of companies . We may disclose information
+    with the Hinge Health family of companies, which includes all direct and indirect
+    subsidiaries and affiliates of parent company Hinge Health, Inc. and any future
+    related companies.
+- source: Match Group
+  target: future related company
+  key: SUBSUM
+  text:
+  - We disclose information within Our family of companies . We may disclose information
+    with the Hinge Health family of companies, which includes all direct and indirect
+    subsidiaries and affiliates of parent company Hinge Health, Inc. and any future
+    related companies.
+- source: channel
+  target: email
+  key: SUBSUM
+  text:
+  - We deliver content to you through various channels, such as email and social media
+    platforms.
+- source: channel
+  target: social media
+  key: SUBSUM
+  text:
+  - We deliver content to you through various channels, such as email and social media
+    platforms.
+- source: element of information
+  target: phi you post
+  key: SUBSUM
+  text:
+  - Through your use of the Services, you may choose to make certain elements of your
+    information, including PHI that you post and/or disclose in the course of engaging
+    with the Services, available to other participants and users.
+- source: geolocation
+  target: zip code
+  key: SUBSUM
+  text:
+  - Examples may include date of birth, age or age range, gender, geographic location
+    (e.g., zip code), favorite products, hobbies and interests, household or lifestyle
+    data, or transactional information about the products or services that you purchase.
+- source: hardware
+  target: tablet computer
+  key: SUBSUM
+  text:
+  - If you are using a device or other hardware provided by Hinge Health, such as
+    a tablet computer, you are responsible for maintaining the security of any such
+    device; if you lose any hardware We provided to you, you are fully responsible
+    for any such lost device, including loss, breach, or misuse of any data contained
+    on or within the hardware.
+- source: information about use of services
+  target: conversion information
+  key: SUBSUM
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+- source: information about use of services
+  target: device identifier
+  key: SUBSUM
+  text:
+  - We may collect information about your use of Our Services, including technical
+    information about your device, browser or mobile carrier; usage information such
+    as when you access the Services, for how long, and the websites you accessed before
+    or after your use of the Services; and device identifiers and IP address.
+- source: information about use of services
+  target: ip address
+  key: SUBSUM
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+  - We may collect information about your use of Our Services, including technical
+    information about your device, browser or mobile carrier; usage information such
+    as when you access the Services, for how long, and the websites you accessed before
+    or after your use of the Services; and device identifiers and IP address.
+- source: information about use of services
+  target: mobile network information
+  key: SUBSUM
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+- source: information about use of services
+  target: technical information
+  key: SUBSUM
+  text:
+  - We may collect information about your use of Our Services, including technical
+    information about your device, browser or mobile carrier; usage information such
+    as when you access the Services, for how long, and the websites you accessed before
+    or after your use of the Services; and device identifiers and IP address.
+- source: information about use of services
+  target: usage information as
+  key: SUBSUM
+  text:
+  - We may collect information about your use of Our Services, including technical
+    information about your device, browser or mobile carrier; usage information such
+    as when you access the Services, for how long, and the websites you accessed before
+    or after your use of the Services; and device identifiers and IP address.
+- source: information about use of services
+  target: web browser
+  key: SUBSUM
+  text:
+  - These entities may use cookies, web beacons, software development kits ("SDKs"),
+    device identifiers, and other technologies to collect information about your use
+    of Our Services and other website and mobile apps, including your IP address,
+    web browser, mobile network information, pages viewed, time spent on pages or
+    in mobile apps, links clicked, and conversion information.
+- source: information relate to recent interaction with us
+  target: email address
+  key: SUBSUM
+  text:
+  - We may verify your request by asking you to provide information related to your
+    recent interactions with Us, such as your name, email address, or phone number.
+- source: information relate to recent interaction with us
+  target: person name
+  key: SUBSUM
+  text:
+  - We may verify your request by asking you to provide information related to your
+    recent interactions with Us, such as your name, email address, or phone number.
+- source: information relate to recent interaction with us
+  target: phone number
+  key: SUBSUM
+  text:
+  - We may verify your request by asking you to provide information related to your
+    recent interactions with Us, such as your name, email address, or phone number.
+- source: information you provide
+  target: password
+  key: SUBSUM
+  text:
+  - We may also collect information you provide to create an account or profile, such
+    as your username and password.
+- source: information you provide
+  target: username
+  key: SUBSUM
+  text:
+  - We may also collect information you provide to create an account or profile, such
+    as your username and password.
+- source: non - promotional communication
+  target: relationship with us
+  key: SUBSUM
+  text:
+  - If you opt out, We may still send you non-promotional communications, such as
+    those about your account, relationship with Us, or Our ongoing business relations.
+- source: personal information
+  target: audio datum
+  key: SUBSUM
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+- source: personal information
+  target: demographic information
+  key: SUBSUM
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+- source: personal information
+  target: inference
+  key: SUBSUM
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'We collect the following categories of personal information: identifiers, demographic
+    information, commercial information, internet or other electronic network activity
+    information, audio and visual data, and inferences.'
+- source: sensitive personal information in connection with request
+  target: government identifier
+  key: SUBSUM
+  text:
+  - Please do not provide any sensitive personal information in connection with the
+    request, such as a driver's license or other government-issued ID.
+- source: sensitive personal information in connection with request
+  target: license
+  key: SUBSUM
+  text:
+  - Please do not provide any sensitive personal information in connection with the
+    request, such as a driver's license or other government-issued ID.
+- source: variety of activity
+  target: contest
+  key: SUBSUM
+  text:
+  - Where permitted, We collect and publish consumer-generated content in connection
+    with a variety of activities, including contests and other promotions, Site community  features,
+    consumer engagement, and third-party social networking.
+- source: variety of activity
+  target: promotion
+  key: SUBSUM
+  text:
+  - Where permitted, We collect and publish consumer-generated content in connection
+    with a variety of activities, including contests and other promotions, Site community  features,
+    consumer engagement, and third-party social networking.
+nodes:
+- type: ACTOR
+  id: Match Group
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: channel
+- type: ACTOR
+  id: contest
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: customer service
+- type: ACTOR
+  id: direct subsidiary
+- type: ACTOR
+  id: email
+- type: ACTOR
+  id: external company who perform relate service for us
+- type: ACTOR
+  id: feedback
+- type: ACTOR
+  id: future related company
+- type: ACTOR
+  id: hardware
+- type: ACTOR
+  id: independent management entity
+- type: ACTOR
+  id: mso
+- type: ACTOR
+  id: national network of physician who provide clinical service
+- type: ACTOR
+  id: promotion
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: tablet computer
+- type: ACTOR
+  id: variety of activity
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: audio datum
+- type: DATA
+  id: automatic information about visitor
+- type: DATA
+  id: category of information
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content you create
+- type: DATA
+  id: conversion information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: datum about you
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: element of information
+- type: DATA
+  id: email address
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: government identifier
+- type: DATA
+  id: habit
+- type: DATA
+  id: identifier
+- type: DATA
+  id: inference
+- type: DATA
+  id: information about new product
+- type: DATA
+  id: information about use of services
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information from indicate interest
+- type: DATA
+  id: information relate to recent interaction with us
+- type: DATA
+  id: information we collect from
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you share on account
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: license
+- type: DATA
+  id: mobile network information
+- type: DATA
+  id: non - promotional communication
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: password
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phi you post
+- type: DATA
+  id: phone number
+- type: DATA
+  id: preference
+- type: DATA
+  id: preference set
+- type: DATA
+  id: relationship with us
+- type: DATA
+  id: sdks
+- type: DATA
+  id: sensitive personal information in connection with request
+- type: DATA
+  id: setting
+- type: DATA
+  id: technical information
+- type: DATA
+  id: usage information as
+- type: DATA
+  id: username
+- type: DATA
+  id: web browser
+- type: DATA
+  id: zip code

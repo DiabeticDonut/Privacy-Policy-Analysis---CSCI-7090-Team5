@@ -1,0 +1,256 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Terms of use and Privacy Policy
+
+
+    Privacy Policy
+
+
+    What information we collect and how we use it'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Those third-party services may use and store anonymous aggregate data such as
+    the IP addresses or device identifiers of the devices, device characteristics,
+    location data, version of Pillow installed on your device, the iOS version that
+    your device is running on and whether or not you have access to our premium features.
+  - We never share any of your sleep, audio or health data with any of those services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: email address
+  key: COLLECT
+  text:
+  - If any of those services require your name or email address, for example in case
+    you want to contact our support team, then those services will ask you explicitly
+    to share this information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: person name
+  key: COLLECT
+  text:
+  - If any of those services require your name or email address, for example in case
+    you want to contact our support team, then those services will ask you explicitly
+    to share this information.
+  purposes: {}
+- source: pillow
+  target: audio record
+  key: COLLECT
+  text:
+  - If you enable the audio recording functionality in Pillow, then Pillow might process
+    the audio recorded by the microphone of your device while you are using Pillow
+    and store one or more audio recordings in the form of digital audio files on your
+    device.
+  purposes: {}
+- source: pillow
+  target: audio recording in form of digital audio file
+  key: COLLECT
+  text:
+  - If you enable the audio recording functionality in Pillow, then Pillow might process
+    the audio recorded by the microphone of your device while you are using Pillow
+    and store one or more audio recordings in the form of digital audio files on your
+    device.
+  purposes: {}
+- source: pillow
+  target: category of datum
+  key: COLLECT
+  text:
+  - If you permit Pillow to access those categories of data, then Pillow will process
+    that data to perform sleep analysis, calculate your sleep quality score, and help
+    you gain a better understanding of your sleep habits and of how your sleep quality
+    is correlated to certain health metrics.
+  purposes:
+    analytics:
+    - to perform sleep analysis, calculate your sleep quality score, and help you
+      gain a better understanding of your sleep habits and of how your sleep quality
+      is correlated to certain health metrics
+- source: pillow
+  target: datum record
+  key: COLLECT
+  text:
+  - If you provide access to that data, then Pillow will process that data and store
+    the result in the form of a sleep analysis report on the device that you use to
+    run Pillow.
+  - If you use Pillow for sleep tracking, then Pillow will ask for access to the data
+    recorded by the motion sensors and the microphone of your device while you are
+    using Pillow.
+  purposes: {}
+- source: pillow
+  target: digital audio file
+  key: COLLECT
+  text:
+  - If you enable backups and data synchronization between your devices using iCloud,
+    then Pillow will transmit your processed sleep data and any digital audio files
+    to your personal iCloud digital storage that resides in the servers that are owned
+    and operated by Apple.
+  purposes: {}
+- source: pillow
+  target: process sleep datum
+  key: COLLECT
+  text:
+  - If you enable backups and data synchronization between your devices using iCloud,
+    then Pillow will transmit your processed sleep data and any digital audio files
+    to your personal iCloud digital storage that resides in the servers that are owned
+    and operated by Apple.
+  purposes: {}
+- source: pillow
+  target: result
+  key: COLLECT
+  text:
+  - If you provide access to that data, then Pillow will process that data and store
+    the result in the form of a sleep analysis report on the device that you use to
+    run Pillow.
+  purposes: {}
+- source: we
+  target: neybox digital ltd.
+  key: SUBSUM
+  text:
+  - 'Terms of use and Privacy Policy
+
+
+    Terms of Use
+
+
+    General
+
+
+    These Terms of Use govern, together with the Privacy Policy, your use of the Pillow:
+    Automatic Sleep Tracker mobile application (the "Application") and related services
+    provided by Neybox Digital Ltd. ("Us", "We").'
+- source: aggregate / deidentified / pseudonymized information
+  target: device characteristic
+  key: SUBSUM
+  text:
+  - Those third-party services may use and store anonymous aggregate data such as
+    the IP addresses or device identifiers of the devices, device characteristics,
+    location data, version of Pillow installed on your device, the iOS version that
+    your device is running on and whether or not you have access to our premium features.
+- source: aggregate / deidentified / pseudonymized information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Those third-party services may use and store anonymous aggregate data such as
+    the IP addresses or device identifiers of the devices, device characteristics,
+    location data, version of Pillow installed on your device, the iOS version that
+    your device is running on and whether or not you have access to our premium features.
+- source: aggregate / deidentified / pseudonymized information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Those third-party services may use and store anonymous aggregate data such as
+    the IP addresses or device identifiers of the devices, device characteristics,
+    location data, version of Pillow installed on your device, the iOS version that
+    your device is running on and whether or not you have access to our premium features.
+- source: aggregate / deidentified / pseudonymized information
+  target: ios version device run on
+  key: SUBSUM
+  text:
+  - Those third-party services may use and store anonymous aggregate data such as
+    the IP addresses or device identifiers of the devices, device characteristics,
+    location data, version of Pillow installed on your device, the iOS version that
+    your device is running on and whether or not you have access to our premium features.
+- source: aggregate / deidentified / pseudonymized information
+  target: ip address
+  key: SUBSUM
+  text:
+  - Those third-party services may use and store anonymous aggregate data such as
+    the IP addresses or device identifiers of the devices, device characteristics,
+    location data, version of Pillow installed on your device, the iOS version that
+    your device is running on and whether or not you have access to our premium features.
+- source: aggregate / deidentified / pseudonymized information
+  target: version of pillow instal on device
+  key: SUBSUM
+  text:
+  - Those third-party services may use and store anonymous aggregate data such as
+    the IP addresses or device identifiers of the devices, device characteristics,
+    location data, version of Pillow installed on your device, the iOS version that
+    your device is running on and whether or not you have access to our premium features.
+- source: health datum
+  target: specific category
+  key: SUBSUM
+  text:
+  - Pillow will also ask for your explicit permission to access specific categories
+    of health data that are stored on your device through Apple Health.
+- source: intellectual property
+  target: copyright content
+  key: SUBSUM
+  text:
+  - All rights in and to the Services, including any trademarks, service marks, trade
+    names and copyrighted content (collectively "Intellectual Property") presented
+    within the Application are the property of Neybox Digital Ltd. and/or third parties.
+- source: intellectual property
+  target: service mark
+  key: SUBSUM
+  text:
+  - All rights in and to the Services, including any trademarks, service marks, trade
+    names and copyrighted content (collectively "Intellectual Property") presented
+    within the Application are the property of Neybox Digital Ltd. and/or third parties.
+- source: intellectual property
+  target: trade name
+  key: SUBSUM
+  text:
+  - All rights in and to the Services, including any trademarks, service marks, trade
+    names and copyrighted content (collectively "Intellectual Property") presented
+    within the Application are the property of Neybox Digital Ltd. and/or third parties.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: neybox digital ltd.
+- type: ACTOR
+  id: pillow
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: audio record
+- type: DATA
+  id: audio recording in form of digital audio file
+- type: DATA
+  id: category of datum
+- type: DATA
+  id: copyright content
+- type: DATA
+  id: datum record
+- type: DATA
+  id: device characteristic
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: digital audio file
+- type: DATA
+  id: email address
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health datum
+- type: DATA
+  id: intellectual property
+- type: DATA
+  id: ios version device run on
+- type: DATA
+  id: ip address
+- type: DATA
+  id: person name
+- type: DATA
+  id: process sleep datum
+- type: DATA
+  id: result
+- type: DATA
+  id: service mark
+- type: DATA
+  id: specific category
+- type: DATA
+  id: trade name
+- type: DATA
+  id: version of pillow instal on device

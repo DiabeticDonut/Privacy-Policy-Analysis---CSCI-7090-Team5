@@ -1,0 +1,1920 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Additionally, provided you opt in, we may Process and share some data with
+  - Additionally, we may transfer your data to organizations based in countries that
+    have not been granted an adequacy decision under the General Data Protection Regulation.
+  - Additionally, when you opt into sharing, we share certain data with Third Parties.
+  - For example, if we have reason to believe that you or any other person may be
+    in immediate danger or your privacy has been infringed upon, we may use the information
+    to investigate or reach out to you or the appropriate authorities if it is legally
+    appropriate/permitted to do so.
+  - For example, if you identify as a Member of the LGBTQ+ community and would prefer
+    a Therapist who has relevant expertise, experience, and training to provide therapy
+    services for LGBTQ+ Members, we Process information to allow us to match you with
+    an appropriate Therapist that can meet these needs.
+  - For example, we process certain data to make sure only you are able to access
+    your account, and to place controls or challenges to prevent unauthorized access.
+  - 'Here''s some more information about the purposes for which we share your data:
+    If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may share certain data with Therapist recruiters in order to
+    facilitate, monitor, and track the recruitment process.'
+  - 'Here''s some more information about the purposes for which we share your data:
+    We may share certain data with that provide limited services that help us operate
+    the Platform.'
+  - In addition to processing, we also share some data with in order for us to operate
+    the Platform and to perform necessary website and application functions.
+  - In addition, if you opt in to Analytics (previously "Performance cookies"), we
+    may process some data to track site visits across our sister sites such as ReGain
+    and Teen Counseling, and our BetterHelp Business and therapist acquisition web
+    properties.
+  - 'Once we receive and verify your consumer request, we can provide: The categories
+    of Third Parties with whom we shared that personal information.'
+  - Once you start therapy, we need to process certain data to enable therapy tools
+    within the Platform such as journal entries, setting goals and providing relevant
+    worksheets.
+  - 'To facilitate these services, we also process data from individuals who engage
+    with us and provide their data in a professional capacity on behalf of an organization,
+    such as: Conference attendees who attend a BetterHelp presentation or event, and
+    provide information for additional outreach from our representatives.'
+  - We Process the information used to complete this questionnaire.
+  - We Process this data to do things like operate the Platform and make sure you
+    are able to use our services effectively.
+  - 'We also process data from individuals who engage with us and provide their data
+    in a professional capacity on behalf of an organization, such as: Business owners
+    who request a BetterHelp Business product demonstration; HR managers responsible
+    for overseeing their company''s active BetterHelp Business account ("Account Administrator")
+    Conference attendees who attend a BetterHelp presentation or event, and provide
+    information for additional outreach from our representatives.'
+  - We may Process IP address, hashed email address, External Identifiers and Internal
+    Identifiers (if available based on the settings of your device) and will share
+    the information with Third Parties, if you opt in to Advertising (previously "Targeting
+    cookies") and web beacons.
+  - We may Process IP address, hashed email address, and (if available based on the
+    settings of your device) and will share the information with Third Parties, if
+    you opt in to Advertising (previously "Targeting cookies") and web beacons.
+  - We may also Process data to know when you have already seen certain notifications
+    on the Platform and do not need to be shown them again.
+  - We may also Process data to send you periodic emails or text messages.
+  - We may also process your data to track potential abuse on the platform, prevent
+    and detect security incidents, protect against malicious, deceptive, fraudulent,
+    or illegal activity, or prosecute those responsible for such activities.
+  - We transfer data from the EU to the U.S because our servers are located in the
+    US.
+  - We use limited data to operate the Platform and to carry out certain profiling
+    activities to support and grow our business.
+  - When you visit the website, app, or Platform, we Process information like the
+    particular pages visited or which features you interacted with, the amount of
+    time on the website or app, site/app/Platform errors, information about the type
+    of device and browser you're using, and IP address.
+  purposes:
+    advertising:
+    - for additional outreach from our representatives
+    - to facilitate, monitor, and track the recruitment process
+    analytics:
+    - to facilitate, monitor, and track the recruitment process
+    - to operate the Platform and to carry out certain profiling activities to support
+      and grow our business
+    - to track site visits across our sister sites such as ReGain and Teen Counseling,
+      and our BetterHelp Business and therapist acquisition web properties
+    legal:
+    - to investigate or reach out to you or the appropriate authorities if it is legally
+      appropriate/permitted to do so
+    security:
+    - to investigate or reach out to you or the appropriate authorities if it is legally
+      appropriate/permitted to do so
+    - to make sure only you are able to access your account, and to place controls
+      or challenges to prevent unauthorized access
+    - to track potential abuse on the platform, prevent and detect security incidents,
+      protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute
+      those responsible for such activities
+    services:
+    - To facilitate these services
+    - in order for us to operate the Platform and to perform necessary website and
+      application functions
+    - to allow us to match you with an appropriate Therapist that can meet these needs
+    - to do things like operate the Platform and make sure you are able to use our
+      services effectively
+    - to enable therapy tools within the Platform such as journal entries, setting
+      goals and providing relevant worksheets
+    - to know when you have already seen certain notifications on the Platform and
+      do not need to be shown them again
+    - to operate the Platform and to carry out certain profiling activities to support
+      and grow our business
+    - to send you periodic emails or text messages
+- source: we
+  target: account name user select
+  key: COLLECT
+  text:
+  - Once a user creates an account with the Platform, we Process data such as the
+    account name the user selects, and other demographic and contact information,
+    such as email, age, phone number, emergency contact details, and whether a user
+    verifies their email address.
+  purposes: {}
+- source: we
+  target: account registration datum
+  key: COLLECT
+  text:
+  - 'If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may Process Therapist Data, Therapy Quality Data, Therapist Engagement
+    Data, User ID, Onboarding Data, Account Registration Data to:'
+  purposes:
+    advertising:
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    analytics:
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    legal:
+    - To pay you and comply with all relevant tax laws
+    security:
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Verify your identity and secure your account'
+    services:
+    - 'to: Assist in the Therapist recruitment process and onboard you to the Platform'
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    - 'to: Operate the Platform, match clients to you based on your preferences, and
+      facilitate the communication between you and your clients'
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Send you email, calls or SMS reminders, notifications & updates about your
+      application, profile or account'
+- source: we
+  target: amount of time
+  key: COLLECT
+  text:
+  - When you visit the website, app, or Platform, we Process information like the
+    particular pages visited or which features you interacted with, the amount of
+    time on the website or app, site/app/Platform errors, information about the type
+    of device and browser you're using, and IP address.
+  purposes: {}
+- source: we
+  target: amount of time on website
+  key: COLLECT
+  text:
+  - When you visit the website, app, or Platform, we Process information like the
+    particular pages visited or which features you interacted with, the amount of
+    time on the website or app, site/app/Platform errors, information about the type
+    of device and browser you're using, and IP address.
+  purposes: {}
+- source: we
+  target: app
+  key: COLLECT
+  text:
+  - When you visit the website, app, or Platform, we Process information like the
+    particular pages visited or which features you interacted with, the amount of
+    time on the website or app, site/app/Platform errors, information about the type
+    of device and browser you're using, and IP address.
+  purposes: {}
+- source: we
+  target: biometric information
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Biometric information;'
+  purposes: {}
+- source: we
+  target: client feedback about therapist
+  key: COLLECT
+  text:
+  - We Process client feedback about their Therapist including, ratings and reviews
+    of their Therapist, actions regarding switching Therapists or quitting therapy,
+    and the reason selected by the client.
+  purposes: {}
+- source: we
+  target: clinical health record
+  key: COLLECT
+  text:
+  - 'What is collected: We Process "Clinical Health Record" which is a record with
+    the minimum information your therapist would need to identify you and document
+    the services you received.'
+  purposes: {}
+- source: we
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Commercial information;'
+  purposes: {}
+- source: we
+  target: communication user have with customer service team
+  key: COLLECT
+  text:
+  - 'What is collected: We Process communications users have with our Customer Service
+    team.'
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - Once a user creates an account with the Platform, we Process data such as the
+    account name the user selects, and other demographic and contact information,
+    such as email, age, phone number, emergency contact details, and whether a user
+    verifies their email address.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - If you opt in to "Analytics (previously "Performance cookies")" , we may use analytics
+    cookies and other tracking technologies to share your data with trusted Service
+    Providers that assist us to data for activities including but not limited to analyzing
+    traffic sources, visits, and site interactions.
+  - We use our own cookies and web beacons to deliver a faster and safer experience,
+    to monitor and analyze usage, to comply with laws, and for advertising purposes.
+  purposes:
+    advertising:
+    - to deliver a faster and safer experience, to monitor and analyze usage, to comply
+      with laws, and for advertising purposes
+    analytics:
+    - to deliver a faster and safer experience, to monitor and analyze usage, to comply
+      with laws, and for advertising purposes
+    - to share your data with trusted Service Providers that assist us to data for
+      activities including but not limited to analyzing traffic sources, visits, and
+      site interactions
+    services:
+    - to deliver a faster and safer experience, to monitor and analyze usage, to comply
+      with laws, and for advertising purposes
+- source: we
+  target: datum about payment transaction on platform as
+  key: COLLECT
+  text:
+  - We Process data about payment transactions on the Platform such as whether a user
+    completed payment for our services, signed up for services using a trial offer,
+    canceled or ended a trial, received a discount or financial aid, or received any
+    extensions or refunds.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - For this purpose, we may share email addresses of Therapists with Stripe and other
+    data that is needed to pay Therapists such as a Therapist's name and tax ID.
+  - Such data includes names, organization email addresses, unique identifiers or
+    "IDs" issued by organizations, organization name, and organization size.
+  - 'We also process data from individuals who engage with us and provide their data
+    in a professional capacity on behalf of an organization, such as: Business owners
+    who request a BetterHelp Business product demonstration; HR managers responsible
+    for overseeing their company''s active BetterHelp Business account ("Account Administrator")
+    Conference attendees who attend a BetterHelp presentation or event, and provide
+    information for additional outreach from our representatives.'
+  - We may Process IP address, hashed email address, External Identifiers and Internal
+    Identifiers (if available based on the settings of your device) and will share
+    the information with Third Parties, if you opt in to Advertising (previously "Targeting
+    cookies") and web beacons.
+  - We may Process IP address, hashed email address, and (if available based on the
+    settings of your device) and will share the information with Third Parties, if
+    you opt in to Advertising (previously "Targeting cookies") and web beacons.
+  purposes: {}
+- source: we
+  target: email interaction with help desk
+  key: COLLECT
+  text:
+  - 'Requesting a copy of my data
+
+
+    Additional data which we maintain includes email interactions with our help desk,
+    which is stored on your email system.'
+  purposes: {}
+- source: we
+  target: external identifiers
+  key: COLLECT
+  text:
+  - We may Process IP address, hashed email address, External Identifiers and Internal
+    Identifiers (if available based on the settings of your device) and will share
+    the information with Third Parties, if you opt in to Advertising (previously "Targeting
+    cookies") and web beacons.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Geolocation data;'
+  - We also utilize your rough location to improve your user experience when using
+    our platform.
+  - When you are filing out this field, we may process your rough location to provide
+    autocomplete suggestions for your convenience.
+  purposes:
+    services:
+    - to improve your user experience when using our platform
+    - to provide autocomplete suggestions for your convenience
+- source: we
+  target: id
+  key: COLLECT
+  text:
+  - Such data includes names, organization email addresses, unique identifiers or
+    "IDs" issued by organizations, organization name, and organization size.
+  - 'We also process data from individuals who engage with us and provide their data
+    in a professional capacity on behalf of an organization, such as: Business owners
+    who request a BetterHelp Business product demonstration; HR managers responsible
+    for overseeing their company''s active BetterHelp Business account ("Account Administrator")
+    Conference attendees who attend a BetterHelp presentation or event, and provide
+    information for additional outreach from our representatives.'
+  purposes: {}
+- source: we
+  target: identifier
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Identifiers;'
+  - Such data includes names, organization email addresses, unique identifiers or
+    "IDs" issued by organizations, organization name, and organization size.
+  - 'We also process data from individuals who engage with us and provide their data
+    in a professional capacity on behalf of an organization, such as: Business owners
+    who request a BetterHelp Business product demonstration; HR managers responsible
+    for overseeing their company''s active BetterHelp Business account ("Account Administrator")
+    Conference attendees who attend a BetterHelp presentation or event, and provide
+    information for additional outreach from our representatives.'
+  purposes: {}
+- source: we
+  target: independent verification of criminal background check
+  key: COLLECT
+  text:
+  - Depending on the country in which you are credentialed, we collect our independent
+    verification of criminal background check.
+  purposes: {}
+- source: we
+  target: information about credential
+  key: COLLECT
+  text:
+  - If you are a Therapist on our Platform, we may also share certain data such as
+    information you volunteer in or through the Platform including, but not limited
+    to, your name, photograph, NPI (if applicable), information about your credentials,
+    experience, specialties and qualifications with insurance payors or health plans
+    for the purposes of contracting with them.
+  purposes:
+    legal:
+    - for the purposes of contracting with them
+- source: we
+  target: information you volunteer in
+  key: COLLECT
+  text:
+  - If you are a Therapist on our Platform, we may also share certain data such as
+    information you volunteer in or through the Platform including, but not limited
+    to, your name, photograph, NPI (if applicable), information about your credentials,
+    experience, specialties and qualifications with insurance payors or health plans
+    for the purposes of contracting with them.
+  - We may also share this information with vendors that accreditate/certify our therapist
+    credentialing processes and otherwise help us streamline the credentialing process.
+  purposes: {}
+- source: we
+  target: internal identifiers
+  key: COLLECT
+  text:
+  - We may Process IP address, hashed email address, External Identifiers and Internal
+    Identifiers (if available based on the settings of your device) and will share
+    the information with Third Parties, if you opt in to Advertising (previously "Targeting
+    cookies") and web beacons.
+  purposes: {}
+- source: we
+  target: internet
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Internet or other similar network activity;'
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Internet or other similar network activity;'
+  - For emails we send, we collect usage data including whether you receive an email,
+    open it, and click any links it contains.
+  - 'Here''s some more information about the purposes for which we share your data:
+    For Members who receive services in connection with an employer, organization,
+    or other business partner, we may share group-level usage data, which cannot be
+    directly connected to you, with your organization.'
+  - We Process usage data about how you interact with emails we send and different
+    features when you're logged into the platform.
+  - When you log onto the Platform, we also collect usage data about activity conducted
+    during that logged in session such as when a user logs in, the login timing, number
+    and length of messages received or sent through the Platform, received or sent
+    message timing, number and duration of live session scheduled or conducted, the
+    number and timing of use of other features such as worksheets, journals, and goals.
+  purposes:
+    services:
+    - For Members who receive services in connection with an employer, organization,
+      or other business partner
+    - For emails we send
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We may Process IP address, hashed email address, External Identifiers and Internal
+    Identifiers (if available based on the settings of your device) and will share
+    the information with Third Parties, if you opt in to Advertising (previously "Targeting
+    cookies") and web beacons.
+  - We may Process IP address, hashed email address, and (if available based on the
+    settings of your device) and will share the information with Third Parties, if
+    you opt in to Advertising (previously "Targeting cookies") and web beacons.
+  - We process your IP address to determine your rough location so that we can personalize
+    the platform for you.
+  - When you visit the website, app, or Platform, we Process information like the
+    particular pages visited or which features you interacted with, the amount of
+    time on the website or app, site/app/Platform errors, information about the type
+    of device and browser you're using, and IP address.
+  purposes:
+    analytics:
+    - to determine your rough location
+    services:
+    - to determine your rough location
+- source: we
+  target: non - public education information
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Non-public education information (per the
+    Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R.
+    Part 99)).'
+  purposes: {}
+- source: we
+  target: number
+  key: COLLECT
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  - When you log onto the Platform, we also collect usage data about activity conducted
+    during that logged in session such as when a user logs in, the login timing, number
+    and length of messages received or sent through the Platform, received or sent
+    message timing, number and duration of live session scheduled or conducted, the
+    number and timing of use of other features such as worksheets, journals, and goals.
+  purposes: {}
+- source: we
+  target: number of journal entry share with therapist
+  key: COLLECT
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  purposes: {}
+- source: we
+  target: number of worksheet share
+  key: COLLECT
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  purposes: {}
+- source: we
+  target: number time
+  key: COLLECT
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  purposes: {}
+- source: we
+  target: onboarding datum
+  key: COLLECT
+  text:
+  - 'If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may Process Therapist Data, Therapy Quality Data, Therapist Engagement
+    Data, User ID, Onboarding Data, Account Registration Data to:'
+  purposes:
+    advertising:
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    analytics:
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    legal:
+    - To pay you and comply with all relevant tax laws
+    security:
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Verify your identity and secure your account'
+    services:
+    - 'to: Assist in the Therapist recruitment process and onboard you to the Platform'
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    - 'to: Operate the Platform, match clients to you based on your preferences, and
+      facilitate the communication between you and your clients'
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Send you email, calls or SMS reminders, notifications & updates about your
+      application, profile or account'
+- source: we
+  target: organization name
+  key: COLLECT
+  text:
+  - Such data includes names, organization email addresses, unique identifiers or
+    "IDs" issued by organizations, organization name, and organization size.
+  - 'We also process data from individuals who engage with us and provide their data
+    in a professional capacity on behalf of an organization, such as: Business owners
+    who request a BetterHelp Business product demonstration; HR managers responsible
+    for overseeing their company''s active BetterHelp Business account ("Account Administrator")
+    Conference attendees who attend a BetterHelp presentation or event, and provide
+    information for additional outreach from our representatives.'
+  purposes: {}
+- source: we
+  target: organization size
+  key: COLLECT
+  text:
+  - Such data includes names, organization email addresses, unique identifiers or
+    "IDs" issued by organizations, organization name, and organization size.
+  - 'We also process data from individuals who engage with us and provide their data
+    in a professional capacity on behalf of an organization, such as: Business owners
+    who request a BetterHelp Business product demonstration; HR managers responsible
+    for overseeing their company''s active BetterHelp Business account ("Account Administrator")
+    Conference attendees who attend a BetterHelp presentation or event, and provide
+    information for additional outreach from our representatives.'
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - Such data includes names, organization email addresses, unique identifiers or
+    "IDs" issued by organizations, organization name, and organization size.
+  - 'We also process data from individuals who engage with us and provide their data
+    in a professional capacity on behalf of an organization, such as: Business owners
+    who request a BetterHelp Business product demonstration; HR managers responsible
+    for overseeing their company''s active BetterHelp Business account ("Account Administrator")
+    Conference attendees who attend a BetterHelp presentation or event, and provide
+    information for additional outreach from our representatives.'
+  purposes: {}
+- source: we
+  target: personal health information
+  key: COLLECT
+  text:
+  - We process personally identifiable information ("PII") and personal health information
+    to conduct our business and provide you with effective service as described in
+    our
+  purposes:
+    services:
+    - to conduct our business and provide you with effective service as described
+      in our
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may Process Therapist Data, Therapy Quality Data, Therapist Engagement
+    Data, User ID, Onboarding Data, Account Registration Data to:'
+  - 'Privacy Policy
+
+
+    SECTION 7 Defining key policy terms
+
+
+    '', we may also share PII with third party advertising partners to deliver more
+    relevant ads and with analytics partners to improve our services.'
+  - We process personally identifiable information ("PII") and personal health information
+    to conduct our business and provide you with effective service as described in
+    our
+  purposes:
+    advertising:
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    analytics:
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    legal:
+    - To pay you and comply with all relevant tax laws
+    security:
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Verify your identity and secure your account'
+    services:
+    - to conduct our business and provide you with effective service as described
+      in our
+    - 'to: Assist in the Therapist recruitment process and onboard you to the Platform'
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    - 'to: Operate the Platform, match clients to you based on your preferences, and
+      facilitate the communication between you and your clients'
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Send you email, calls or SMS reminders, notifications & updates about your
+      application, profile or account'
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Once we receive and verify your consumer request, we can provide: Whether we
+    disclosed your personal information for a business purpose and the personal information
+    categories that each category of recipient obtained.'
+  - Please note that under certain circumstances, we may be required to disclose your
+    Personal Data in response to lawful requests by public authorities, including
+    to meet national security or law enforcement requirements.
+  purposes: {}
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - We Process your address information when you provide it as part of your emergency
+    contact information when you start therapy on the Platform.
+  purposes: {}
+- source: we
+  target: professional information
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Professional or employment-related information;
+    and'
+  purposes: {}
+- source: we
+  target: protected classification
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Protected classification characteristics
+    under California or federal law;'
+  purposes: {}
+- source: we
+  target: related information user share with therapist
+  key: COLLECT
+  text:
+  - We Process written communications and related information users share with their
+    Therapist to facilitate the therapy.
+  purposes:
+    services:
+    - to facilitate the therapy
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Sensitive Personal Information;'
+  purposes: {}
+- source: we
+  target: sensory datum
+  key: COLLECT
+  text:
+  - 'Accordingly, we may have collected: Sensory data;'
+  purposes: {}
+- source: we
+  target: session cancellation
+  key: COLLECT
+  text:
+  - We Process Therapist session availability, session cancellations and no-shows.
+  purposes: {}
+- source: we
+  target: site app platform error
+  key: COLLECT
+  text:
+  - When you visit the website, app, or Platform, we Process information like the
+    particular pages visited or which features you interacted with, the amount of
+    time on the website or app, site/app/Platform errors, information about the type
+    of device and browser you're using, and IP address.
+  purposes: {}
+- source: we
+  target: specific datum
+  key: COLLECT
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  - What specific data are you Processing and why do you collect it?
+  purposes: {}
+- source: we
+  target: specific piece of personal information we collect about you
+  key: COLLECT
+  text:
+  - 'Once we receive and verify your consumer request, we can provide: The specific
+    pieces of personal information we collected about you.'
+  purposes: {}
+- source: we
+  target: state
+  key: COLLECT
+  text:
+  - We also Process data like your Therapist preferences, your state (if applicable),
+    and your country to determine what Therapist to suggest to you based on applicable
+    licensing or accreditation requirements.
+  purposes:
+    advertising:
+    - to determine what Therapist to suggest to you based on applicable licensing
+      or accreditation requirements
+    legal:
+    - to determine what Therapist to suggest to you based on applicable licensing
+      or accreditation requirements
+    services:
+    - to determine what Therapist to suggest to you based on applicable licensing
+      or accreditation requirements
+- source: we
+  target: therapist data
+  key: COLLECT
+  text:
+  - 'If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may Process Therapist Data, Therapy Quality Data, Therapist Engagement
+    Data, User ID, Onboarding Data, Account Registration Data to:'
+  purposes:
+    advertising:
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    analytics:
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    legal:
+    - To pay you and comply with all relevant tax laws
+    security:
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Verify your identity and secure your account'
+    services:
+    - 'to: Assist in the Therapist recruitment process and onboard you to the Platform'
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    - 'to: Operate the Platform, match clients to you based on your preferences, and
+      facilitate the communication between you and your clients'
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Send you email, calls or SMS reminders, notifications & updates about your
+      application, profile or account'
+- source: we
+  target: therapist engagement datum
+  key: COLLECT
+  text:
+  - 'If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may Process Therapist Data, Therapy Quality Data, Therapist Engagement
+    Data, User ID, Onboarding Data, Account Registration Data to:'
+  purposes:
+    advertising:
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    analytics:
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    legal:
+    - To pay you and comply with all relevant tax laws
+    security:
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Verify your identity and secure your account'
+    services:
+    - 'to: Assist in the Therapist recruitment process and onboard you to the Platform'
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    - 'to: Operate the Platform, match clients to you based on your preferences, and
+      facilitate the communication between you and your clients'
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Send you email, calls or SMS reminders, notifications & updates about your
+      application, profile or account'
+- source: we
+  target: therapist information
+  key: COLLECT
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+  purposes:
+    advertising:
+    - In order to engage with Therapists who express an interest in working with us
+      (such as individuals who provide information at in-person or online recruitment
+      events),
+    - In order to engage with Therapists who express an interest in working with us
+      (such as individuals who provide information at in-person or online recruitment
+      events), follow up with Therapists who applied to work with us on the status
+      of their applications, to identify, match, credential, re-credential, run checks,
+      issue 1099s and pay Therapists
+    services:
+    - In order to engage with Therapists who express an interest in working with us
+      (such as individuals who provide information at in-person or online recruitment
+      events),
+    - In order to engage with Therapists who express an interest in working with us
+      (such as individuals who provide information at in-person or online recruitment
+      events), follow up with Therapists who applied to work with us on the status
+      of their applications, to identify, match, credential, re-credential, run checks,
+      issue 1099s and pay Therapists
+    - to identify, match, credential, re-credential, run checks, issue 1099s and pay
+      Therapists
+- source: we
+  target: therapist preference
+  key: COLLECT
+  text:
+  - We also Process data like your Therapist preferences, your state (if applicable),
+    and your country to determine what Therapist to suggest to you based on applicable
+    licensing or accreditation requirements.
+  purposes:
+    advertising:
+    - to determine what Therapist to suggest to you based on applicable licensing
+      or accreditation requirements
+    legal:
+    - to determine what Therapist to suggest to you based on applicable licensing
+      or accreditation requirements
+    services:
+    - to determine what Therapist to suggest to you based on applicable licensing
+      or accreditation requirements
+- source: we
+  target: therapist session availability
+  key: COLLECT
+  text:
+  - We Process Therapist session availability, session cancellations and no-shows.
+  purposes: {}
+- source: we
+  target: therapy data
+  key: COLLECT
+  text:
+  - As highlighted in the table below, we collect and Process "Therapy Data", which
+    includes health and treatment information that is required to facilitate therapy.
+  purposes: {}
+- source: we
+  target: therapy quality datum
+  key: COLLECT
+  text:
+  - 'If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may Process Therapist Data, Therapy Quality Data, Therapist Engagement
+    Data, User ID, Onboarding Data, Account Registration Data to:'
+  purposes:
+    advertising:
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    analytics:
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    legal:
+    - To pay you and comply with all relevant tax laws
+    security:
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Verify your identity and secure your account'
+    services:
+    - 'to: Assist in the Therapist recruitment process and onboard you to the Platform'
+    - 'to: Offer you information about new features, opportunities, perks and other
+      incentives'
+    - 'to: Operate the Platform, match clients to you based on your preferences, and
+      facilitate the communication between you and your clients'
+    - 'to: Provide you quality statistics, feedback from our BetterHelp Clinical Operations
+      team, and feedback from clients'
+    - 'to: Run background checks and other screening required for credentialing and
+      re-credentialing purposes'
+    - 'to: Send you email, calls or SMS reminders, notifications & updates about your
+      application, profile or account'
+- source: we
+  target: word
+  key: COLLECT
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  purposes: {}
+- source: we
+  target: write communication
+  key: COLLECT
+  text:
+  - We Process written communications and related information users share with their
+    Therapist to facilitate the therapy.
+  purposes:
+    services:
+    - to facilitate the therapy
+- source: Stripe
+  target: email address
+  key: COLLECT
+  text:
+  - For this purpose, we may share email addresses of Therapists with Stripe and other
+    data that is needed to pay Therapists such as a Therapist's name and tax ID.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Additionally, we may transfer your data to organizations based in countries that
+    have not been granted an adequacy decision under the General Data Protection Regulation.
+  - Additionally, when you opt into sharing, we share certain data with Third Parties.
+  - We may Process IP address, hashed email address, External Identifiers and Internal
+    Identifiers (if available based on the settings of your device) and will share
+    the information with Third Parties, if you opt in to Advertising (previously "Targeting
+    cookies") and web beacons.
+  - We may Process IP address, hashed email address, and (if available based on the
+    settings of your device) and will share the information with Third Parties, if
+    you opt in to Advertising (previously "Targeting cookies") and web beacons.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'Here''s some more information about the purposes for which we share your data:
+    For Members who receive services in connection with an employer, organization,
+    or other business partner, we may share group-level usage data, which cannot be
+    directly connected to you, with your organization.'
+  purposes:
+    services:
+    - For Members who receive services in connection with an employer, organization,
+      or other business partner
+- source: advertiser
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    SECTION 7 Defining key policy terms
+
+
+    '', we may also share PII with third party advertising partners to deliver more
+    relevant ads and with analytics partners to improve our services.'
+  purposes: {}
+- source: analytic provider
+  target: personal identifier
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    SECTION 7 Defining key policy terms
+
+
+    '', we may also share PII with third party advertising partners to deliver more
+    relevant ads and with analytics partners to improve our services.'
+  purposes: {}
+- source: mental health professional
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Specifically, some laws require mental health professionals to disclose information
+    and/or take action for: (a) reported or suspected abuse; (b) serious suicidal
+    potential; (c) threatened harm; and (d) court-ordered treatment.'
+  purposes: {}
+- source: paralegal at parent company
+  target: legal correspondence
+  key: COLLECT
+  text:
+  - For example, a paralegal at our parent company may receive subpoenas or legal
+    correspondence on behalf of Members or former Members and make sure they are provided
+    to BetterHelp 's Legal team to address.
+  purposes: {}
+- source: recaptcha security api tool we use
+  target: geolocation
+  key: COLLECT
+  text:
+  - Rough location using your IP address is also Processed by the ReCAPTCHA security
+    API tool we use.
+  purposes: {}
+- source: recaptcha security api tool we use
+  target: ip address
+  key: COLLECT
+  text:
+  - Rough location using your IP address is also Processed by the ReCAPTCHA security
+    API tool we use.
+  purposes: {}
+- source: service providers
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Remember that Service Providers can only legally use data at our direction - no
+    other person or company can authorize how they use it and they cannot disclose
+    data that is individually identifiable to any other person or company, other than
+    to us or the Service Providers' own subcontractors provided that they're bound
+    to data Processing terms that are no less restrictive than the Service Provider's
+    terms.
+  - Remember that in addition to needing a series of rigorous security standards (as
+    further detailed ), Service Providers can only legally use data at our direction
+    - no other person or company can authorize how they use it and they cannot disclose
+    data that is individually identifiable to any other person or company, other than
+    to us or the Service Providers' own subcontractors provided that they're bound
+    to data Processing terms that are no less restrictive than the Service Provider's
+    terms.
+  purposes: {}
+- source: therapist
+  target: specific information about you
+  key: COLLECT
+  text:
+  - Your Therapist may request additional specific information about you as required
+    by their license or other accreditation guidelines.
+  purposes: {}
+- source: therapist recruiter
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Here''s some more information about the purposes for which we share your data:
+    If you''re a Therapist on our Platform, or being recruited to join us, in addition
+    to the above, we may share certain data with Therapist recruiters in order to
+    facilitate, monitor, and track the recruitment process.'
+  purposes:
+    advertising:
+    - to facilitate, monitor, and track the recruitment process
+    analytics:
+    - to facilitate, monitor, and track the recruitment process
+- source: vendor accreditate
+  target: information you volunteer in
+  key: COLLECT
+  text:
+  - If you are a Therapist on our Platform, we may also share certain data such as
+    information you volunteer in or through the Platform including, but not limited
+    to, your name, photograph, NPI (if applicable), information about your credentials,
+    experience, specialties and qualifications with insurance payors or health plans
+    for the purposes of contracting with them.
+  - We may also share this information with vendors that accreditate/certify our therapist
+    credentialing processes and otherwise help us streamline the credentialing process.
+  purposes: {}
+- source: client feedback about therapist
+  target: rating
+  key: SUBSUM
+  text:
+  - We Process client feedback about their Therapist including, ratings and reviews
+    of their Therapist, actions regarding switching Therapists or quitting therapy,
+    and the reason selected by the client.
+- source: client feedback about therapist
+  target: reason select
+  key: SUBSUM
+  text:
+  - We Process client feedback about their Therapist including, ratings and reviews
+    of their Therapist, actions regarding switching Therapists or quitting therapy,
+    and the reason selected by the client.
+- source: contact information
+  target: age
+  key: SUBSUM
+  text:
+  - Once a user creates an account with the Platform, we Process data such as the
+    account name the user selects, and other demographic and contact information,
+    such as email, age, phone number, emergency contact details, and whether a user
+    verifies their email address.
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - Once a user creates an account with the Platform, we Process data such as the
+    account name the user selects, and other demographic and contact information,
+    such as email, age, phone number, emergency contact details, and whether a user
+    verifies their email address.
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - Once a user creates an account with the Platform, we Process data such as the
+    account name the user selects, and other demographic and contact information,
+    such as email, age, phone number, emergency contact details, and whether a user
+    verifies their email address.
+- source: datum need
+  target: person name
+  key: SUBSUM
+  text:
+  - For this purpose, we may share email addresses of Therapists with Stripe and other
+    data that is needed to pay Therapists such as a Therapist's name and tax ID.
+- source: datum need
+  target: tax id
+  key: SUBSUM
+  text:
+  - For this purpose, we may share email addresses of Therapists with Stripe and other
+    data that is needed to pay Therapists such as a Therapist's name and tax ID.
+- source: datum you receive as part of request
+  target: contact information
+  key: SUBSUM
+  text:
+  - The data you will receive as part of this request includes the contact information
+    that you input on the site, questionnaire answers, worksheet entries, emergency
+    contact information, messages you sent to your Therapist, journal entries that
+    you created, and other personal information.
+- source: datum you receive as part of request
+  target: journal entry
+  key: SUBSUM
+  text:
+  - The data you will receive as part of this request includes the contact information
+    that you input on the site, questionnaire answers, worksheet entries, emergency
+    contact information, messages you sent to your Therapist, journal entries that
+    you created, and other personal information.
+- source: datum you receive as part of request
+  target: message you send to therapist
+  key: SUBSUM
+  text:
+  - The data you will receive as part of this request includes the contact information
+    that you input on the site, questionnaire answers, worksheet entries, emergency
+    contact information, messages you sent to your Therapist, journal entries that
+    you created, and other personal information.
+- source: datum you receive as part of request
+  target: personal information
+  key: SUBSUM
+  text:
+  - The data you will receive as part of this request includes the contact information
+    that you input on the site, questionnaire answers, worksheet entries, emergency
+    contact information, messages you sent to your Therapist, journal entries that
+    you created, and other personal information.
+- source: datum you receive as part of request
+  target: questionnaire answer
+  key: SUBSUM
+  text:
+  - The data you will receive as part of this request includes the contact information
+    that you input on the site, questionnaire answers, worksheet entries, emergency
+    contact information, messages you sent to your Therapist, journal entries that
+    you created, and other personal information.
+- source: datum you receive as part of request
+  target: worksheet entry
+  key: SUBSUM
+  text:
+  - The data you will receive as part of this request includes the contact information
+    that you input on the site, questionnaire answers, worksheet entries, emergency
+    contact information, messages you sent to your Therapist, journal entries that
+    you created, and other personal information.
+- source: external entity be
+  target: service provider
+  key: SUBSUM
+  text:
+  - An identifier issued by or belonging to an external entity that is not BetterHelp
+    (such as a Service Provider or Third Party) such as a "click" identifier, a cookie
+    identifier or device identifier.
+- source: feature
+  target: journal
+  key: SUBSUM
+  text:
+  - When you log onto the Platform, we also collect usage data about activity conducted
+    during that logged in session such as when a user logs in, the login timing, number
+    and length of messages received or sent through the Platform, received or sent
+    message timing, number and duration of live session scheduled or conducted, the
+    number and timing of use of other features such as worksheets, journals, and goals.
+- source: for cloud hosting provider
+  target: amazon web services
+  key: SUBSUM
+  text:
+  - 'Examples include: Data hosting and storage providers: For example, cloud hosting
+    providers such as Amazon Web Services (AWS).'
+- source: for cloud hosting provider
+  target: aws
+  key: SUBSUM
+  text:
+  - 'Examples include: Data hosting and storage providers: For example, cloud hosting
+    providers such as Amazon Web Services (AWS).'
+- source: functionality
+  target: technology help
+  key: SUBSUM
+  text:
+  - 'Examples include: Technology Service Providers: For example, we sometimes integrate
+    tools into our Platform which give our Platform more functionality, like technology
+    that helps us provide live audio, video and group meetings.'
+- source: geolocation
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - We do not request or process exact location information such as information provided
+    by your phone via GPS.
+- source: identifier
+  target: click identifier
+  key: SUBSUM
+  text:
+  - An identifier issued by or belonging to an external entity that is not BetterHelp
+    (such as a Service Provider or Third Party) such as a "click" identifier, a cookie
+    identifier or device identifier.
+- source: identifier
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - An identifier issued by or belonging to an external entity that is not BetterHelp
+    (such as a Service Provider or Third Party) such as a "click" identifier, a cookie
+    identifier or device identifier.
+- source: identifier
+  target: device identifier
+  key: SUBSUM
+  text:
+  - An identifier issued by or belonging to an external entity that is not BetterHelp
+    (such as a Service Provider or Third Party) such as a "click" identifier, a cookie
+    identifier or device identifier.
+- source: information link to person
+  target: contact information
+  key: SUBSUM
+  text:
+  - For purposes of this Policy and unless otherwise specified, "data" includes information
+    that is linked to one person or household including things like name, email address,
+    phone numbers, device ID, Third Party identifiers, contact information, and communications
+    with Therapists using our digital communication platform (the "Platform") to provide
+    services ("Therapists").
+- source: information link to person
+  target: device identifier
+  key: SUBSUM
+  text:
+  - For purposes of this Policy and unless otherwise specified, "data" includes information
+    that is linked to one person or household including things like name, email address,
+    phone numbers, device ID, Third Party identifiers, contact information, and communications
+    with Therapists using our digital communication platform (the "Platform") to provide
+    services ("Therapists").
+- source: information link to person
+  target: email address
+  key: SUBSUM
+  text:
+  - For purposes of this Policy and unless otherwise specified, "data" includes information
+    that is linked to one person or household including things like name, email address,
+    phone numbers, device ID, Third Party identifiers, contact information, and communications
+    with Therapists using our digital communication platform (the "Platform") to provide
+    services ("Therapists").
+- source: information link to person
+  target: person name
+  key: SUBSUM
+  text:
+  - For purposes of this Policy and unless otherwise specified, "data" includes information
+    that is linked to one person or household including things like name, email address,
+    phone numbers, device ID, Third Party identifiers, contact information, and communications
+    with Therapists using our digital communication platform (the "Platform") to provide
+    services ("Therapists").
+- source: information link to person
+  target: phone number
+  key: SUBSUM
+  text:
+  - For purposes of this Policy and unless otherwise specified, "data" includes information
+    that is linked to one person or household including things like name, email address,
+    phone numbers, device ID, Third Party identifiers, contact information, and communications
+    with Therapists using our digital communication platform (the "Platform") to provide
+    services ("Therapists").
+- source: information link to person
+  target: third party identifier
+  key: SUBSUM
+  text:
+  - For purposes of this Policy and unless otherwise specified, "data" includes information
+    that is linked to one person or household including things like name, email address,
+    phone numbers, device ID, Third Party identifiers, contact information, and communications
+    with Therapists using our digital communication platform (the "Platform") to provide
+    services ("Therapists").
+- source: procedure
+  target: automate system
+  key: SUBSUM
+  text:
+  - 'We have numerous robust security practices such as: We have robust monitoring
+    and alerting systems and procedures in place that include both automated systems
+    and humans.'
+- source: sister site
+  target: BetterHelp
+  key: SUBSUM
+  text:
+  - In addition, if you opt in to Analytics (previously "Performance cookies"), we
+    may process some data to track site visits across our sister sites such as ReGain
+    and Teen Counseling, and our BetterHelp Business and therapist acquisition web
+    properties.
+- source: source of information
+  target: data be
+  key: SUBSUM
+  text:
+  - 'The following Sections outline the data that is by us, as well as the purpose
+    for collection, and the categories of sources of such information:'
+- source: specific datum
+  target: number
+  key: SUBSUM
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  - What specific data are you Processing and why do you collect it?
+- source: specific datum
+  target: number of journal entry share with therapist
+  key: SUBSUM
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  - What specific data are you Processing and why do you collect it?
+- source: specific datum
+  target: number of worksheet share
+  key: SUBSUM
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  - What specific data are you Processing and why do you collect it?
+- source: specific datum
+  target: number time
+  key: SUBSUM
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  - What specific data are you Processing and why do you collect it?
+- source: specific datum
+  target: word
+  key: SUBSUM
+  text:
+  - For Therapists, we process such data as number/times of Therapist logins to the
+    Platform, the number of live sessions conducted by a Therapist, number of messages
+    and words exchanged by a Therapist, number of worksheets shared by a Therapist,
+    and number of journal entries shared with a Therapist.
+  - What specific data are you Processing and why do you collect it?
+- source: therapist information
+  target: area of interest expertise language
+  key: SUBSUM
+  text:
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: bank account information
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: caqh number
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: email address
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: gender
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: government identifier
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: job history
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+- source: therapist information
+  target: license information
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: npi number
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: person name
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: phone number
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: postal address
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist information
+  target: ssn
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapist who express interest in
+  target: individual who provide information at in person recruitment event
+  key: SUBSUM
+  text:
+  - In order to engage with Therapists who express an interest in working with us
+    (such as individuals who provide information at in-person or online recruitment
+    events), follow up with Therapists who applied to work with us on the status of
+    their applications, to identify, match, credential, re-credential, run checks,
+    issue 1099s and pay Therapists, we process Therapist information such as the Therapist's
+    name, bank account information, gender, date of birth, governmental identification
+    numbers (SSN/FEIN), email address, phone number, address, NPI number (if applicable),
+    license information, CAQH number (if applicable), and areas of interest/expertise,
+    education, and job history.
+  - 'What is collected: In order to engage with Therapists who express an interest
+    in working with us (such as individuals who provide information at in-person or
+    online recruitment events), follow up with Therapists who applied to work with
+    us on the status of their applications, to identify, match, credential, re-credential,
+    run checks, issue 1099s and pay Therapists, we process Therapist information such
+    as the Therapist''s name, bank account information, gender, date of birth, governmental
+    identification numbers (SSN/FEIN), email address, phone number, address, NPI number
+    (if applicable), license information, CAQH number (if applicable), and areas of
+    interest/expertise/language, education, and job history.'
+- source: therapy data
+  target: health information require
+  key: SUBSUM
+  text:
+  - As highlighted in the table below, we collect and Process "Therapy Data", which
+    includes health and treatment information that is required to facilitate therapy.
+- source: therapy data
+  target: journal entry
+  key: SUBSUM
+  text:
+  - To help ensure these tools remain fair and accurate, as well as protect the privacy
+    of our Members and Therapists, we either thoroughly review a model or build it
+    internally and, unless you agree otherwise, do not use any Therapy Data, such
+    as sessions data, journal entries, messages, worksheets, or any other type of
+    private communication you have with your Therapist in a session to train an AI
+    or NLU model.
+- source: therapy data
+  target: message
+  key: SUBSUM
+  text:
+  - To help ensure these tools remain fair and accurate, as well as protect the privacy
+    of our Members and Therapists, we either thoroughly review a model or build it
+    internally and, unless you agree otherwise, do not use any Therapy Data, such
+    as sessions data, journal entries, messages, worksheets, or any other type of
+    private communication you have with your Therapist in a session to train an AI
+    or NLU model.
+- source: therapy data
+  target: session datum
+  key: SUBSUM
+  text:
+  - To help ensure these tools remain fair and accurate, as well as protect the privacy
+    of our Members and Therapists, we either thoroughly review a model or build it
+    internally and, unless you agree otherwise, do not use any Therapy Data, such
+    as sessions data, journal entries, messages, worksheets, or any other type of
+    private communication you have with your Therapist in a session to train an AI
+    or NLU model.
+- source: therapy data
+  target: worksheet
+  key: SUBSUM
+  text:
+  - To help ensure these tools remain fair and accurate, as well as protect the privacy
+    of our Members and Therapists, we either thoroughly review a model or build it
+    internally and, unless you agree otherwise, do not use any Therapy Data, such
+    as sessions data, journal entries, messages, worksheets, or any other type of
+    private communication you have with your Therapist in a session to train an AI
+    or NLU model.
+- source: therapy datum
+  target: message send
+  key: SUBSUM
+  text:
+  - This category does not include Therapy Data like the content of any messages sent
+    or received by users, the content of any live sessions, or the content of journal
+    entries, worksheets, or goals.
+nodes:
+- type: ACTOR
+  id: BetterHelp
+- type: ACTOR
+  id: Stripe
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: amazon web services
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: automate system
+- type: ACTOR
+  id: aws
+- type: ACTOR
+  id: external entity be
+- type: ACTOR
+  id: feature
+- type: ACTOR
+  id: for cloud hosting provider
+- type: ACTOR
+  id: functionality
+- type: ACTOR
+  id: individual who provide information at in person recruitment event
+- type: ACTOR
+  id: journal
+- type: ACTOR
+  id: mental health professional
+- type: ACTOR
+  id: paralegal at parent company
+- type: ACTOR
+  id: procedure
+- type: ACTOR
+  id: recaptcha security api tool we use
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service providers
+- type: ACTOR
+  id: sister site
+- type: ACTOR
+  id: technology help
+- type: ACTOR
+  id: therapist
+- type: ACTOR
+  id: therapist recruiter
+- type: ACTOR
+  id: therapist who express interest in
+- type: ACTOR
+  id: vendor accreditate
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account name user select
+- type: DATA
+  id: account registration datum
+- type: DATA
+  id: age
+- type: DATA
+  id: amount of time
+- type: DATA
+  id: amount of time on website
+- type: DATA
+  id: app
+- type: DATA
+  id: area of interest expertise language
+- type: DATA
+  id: bank account information
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: caqh number
+- type: DATA
+  id: click identifier
+- type: DATA
+  id: client feedback about therapist
+- type: DATA
+  id: clinical health record
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: communication user have with customer service team
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: data be
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum about payment transaction on platform as
+- type: DATA
+  id: datum need
+- type: DATA
+  id: datum you receive as part of request
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: email interaction with help desk
+- type: DATA
+  id: external identifiers
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: government identifier
+- type: DATA
+  id: health information require
+- type: DATA
+  id: id
+- type: DATA
+  id: identifier
+- type: DATA
+  id: independent verification of criminal background check
+- type: DATA
+  id: information about credential
+- type: DATA
+  id: information link to person
+- type: DATA
+  id: information you volunteer in
+- type: DATA
+  id: internal identifiers
+- type: DATA
+  id: internet
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: job history
+- type: DATA
+  id: journal entry
+- type: DATA
+  id: legal correspondence
+- type: DATA
+  id: license information
+- type: DATA
+  id: message
+- type: DATA
+  id: message send
+- type: DATA
+  id: message you send to therapist
+- type: DATA
+  id: non - public education information
+- type: DATA
+  id: npi number
+- type: DATA
+  id: number
+- type: DATA
+  id: number of journal entry share with therapist
+- type: DATA
+  id: number of worksheet share
+- type: DATA
+  id: number time
+- type: DATA
+  id: onboarding datum
+- type: DATA
+  id: organization name
+- type: DATA
+  id: organization size
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal health information
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: professional information
+- type: DATA
+  id: protected classification
+- type: DATA
+  id: questionnaire answer
+- type: DATA
+  id: rating
+- type: DATA
+  id: reason select
+- type: DATA
+  id: related information user share with therapist
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sensory datum
+- type: DATA
+  id: session cancellation
+- type: DATA
+  id: session datum
+- type: DATA
+  id: site app platform error
+- type: DATA
+  id: source of information
+- type: DATA
+  id: specific datum
+- type: DATA
+  id: specific information about you
+- type: DATA
+  id: specific piece of personal information we collect about you
+- type: DATA
+  id: ssn
+- type: DATA
+  id: state
+- type: DATA
+  id: tax id
+- type: DATA
+  id: therapist data
+- type: DATA
+  id: therapist engagement datum
+- type: DATA
+  id: therapist information
+- type: DATA
+  id: therapist preference
+- type: DATA
+  id: therapist session availability
+- type: DATA
+  id: therapy data
+- type: DATA
+  id: therapy datum
+- type: DATA
+  id: therapy quality datum
+- type: DATA
+  id: third party identifier
+- type: DATA
+  id: word
+- type: DATA
+  id: worksheet
+- type: DATA
+  id: worksheet entry
+- type: DATA
+  id: write communication

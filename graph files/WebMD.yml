@@ -1,0 +1,1028 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - By accepting the WebMD Terms of Use, you confirm that you have read and understand
+    this Privacy Policy and the WebMD Cookie Policy and you acknowledge that we will
+    store, use and otherwise process your information in the United States where we
+    are located.
+  - Subject to applicable law, we may share your information with PulsePoint, which
+    may also use cookies and other tracking technologies described herein, for behavioral
+    or targeted advertising, and to provide to us analytics, insights, actions and
+    other information related to your use of the Services or those of third parties
+    and to its clients to provide similar services to you.
+  - This Privacy Policy will tell you what information we collect about you and about
+    your use of WebMD and its services.
+  - We may share your information with our subsidiaries, affiliates and companies
+    acquired by or merged with us and our affiliates for their use for the purposes
+    set forth in this Privacy Policy.
+  - We may transfer your information outside the United States to service providers
+    with operations in other countries.
+  - 'When you use the Services, we collect information as follows:'
+  purposes: {}
+- source: we
+  target: age
+  key: COLLECT
+  text:
+  - When participating in a survey, we may require you to provide your location, age
+    and if there are sweepstakes associated with the market research survey, your
+    name and contact information for purposes of sweepstakes administration.
+  purposes:
+    advertising:
+    - for purposes of sweepstakes administration
+    services:
+    - for purposes of sweepstakes administration
+- source: we
+  target: collect information
+  key: COLLECT
+  text:
+  - When you use a co-branded service (a service operated with a partner of WebMD,
+    such as WebMD Lab Testing), or register or otherwise provide information on a
+    co-branded site, where applicable, we may pass the collected information back
+    to that partner, which may include third party service providers whose services
+    are embedded into and/or appear within the Services.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - When participating in a survey, we may require you to provide your location, age
+    and if there are sweepstakes associated with the market research survey, your
+    name and contact information for purposes of sweepstakes administration.
+  purposes:
+    advertising:
+    - for purposes of sweepstakes administration
+    services:
+    - for purposes of sweepstakes administration
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our partners use cookies to collect information about your use of the Services.
+  - We and our service providers collect and store information about users' interactions
+    with unaffiliated websites and applications that use our technologies, including
+    cookies and similar tracking technologies.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - When participating in a survey, we may require you to provide your location, age
+    and if there are sweepstakes associated with the market research survey, your
+    name and contact information for purposes of sweepstakes administration.
+  purposes:
+    advertising:
+    - for purposes of sweepstakes administration
+    services:
+    - for purposes of sweepstakes administration
+- source: we
+  target: information about use of services
+  key: COLLECT
+  text:
+  - We and our partners use cookies to collect information about your use of the Services.
+  purposes: {}
+- source: we
+  target: information about use of webmd sites
+  key: COLLECT
+  text:
+  - Even if you do not register with or provide any personal information to WebMD,
+    we collect information about your use of the WebMD Sites and Apps and the Services.
+  purposes: {}
+- source: we
+  target: information about user
+  key: COLLECT
+  text:
+  - We may also acquire information about our users from external sources.
+  purposes: {}
+- source: we
+  target: information we collect from you
+  key: COLLECT
+  text:
+  - To provide you with certain personalization and advertising services described
+    herein, when you use our WebMD Sites, we may share information that we may collect
+    from you, such as your email address (in hashed form), IP address or information
+    about your browser or operating system, with our service provider, LiveRamp Inc.
+    and its affiliates, which may in turn link demographic or interest-based information
+    to your browser.
+  purposes:
+    advertising:
+    - To provide you with certain personalization and advertising services described
+      herein
+- source: we
+  target: information we have about you
+  key: COLLECT
+  text:
+  - We may share information that we have about you, such as a cookie ID or IP address,
+    with third party advertising service providers who may use this information, on
+    our behalf, to help WebMD deliver advertising on the WebMD Sites as well as on
+    third party websites, as further described in our Cookie Policy .
+  purposes: {}
+- source: we
+  target: information you provide
+  key: COLLECT
+  text:
+  - We will only use the information you provide to send the requested email to your
+    friend.
+  purposes:
+    services:
+    - to send the requested email to your friend
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - When participating in a survey, we may require you to provide your location, age
+    and if there are sweepstakes associated with the market research survey, your
+    name and contact information for purposes of sweepstakes administration.
+  purposes:
+    advertising:
+    - for purposes of sweepstakes administration
+    services:
+    - for purposes of sweepstakes administration
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - If you elect to subscribe to one of our newsletters on a third party website,
+    the operator of that website will provide us with the personal information you
+    have provided in connection with the subscription request, which we may use in
+    accordance with this Privacy Policy as though you had provided it directly to
+    WebMD.
+  - In addition, we may disclose personal information as described below.
+  - 'To cooperate with government authorities and law enforcement officials and private
+    parties to enforce and comply with law, we may release personal information to
+    third parties: (1) to comply with legal requirements such as a law, regulation,
+    search warrant, subpoena or court order; (2) when we believe in good faith that
+    disclosure is necessary to protect our rights, protect your safety or the safety
+    of others, investigate fraud, or respond to a government request; or (3) in special
+    cases, such as in response to a physical threat to you or others, to protect property
+    or defend or assert legal rights.'
+  - We will also retain your personal information as necessary to comply with legal
+    obligations, resolve disputes and enforce our agreements.
+  - We will retain your personal information as long as your account is active or
+    as needed to provide you Services.
+  - We will retain your personal information for as long as necessary to provide the
+    Services to you and fulfill the purposes described in this Privacy Policy.
+  - When you use the Services, we collect, store, use and otherwise process your personal
+    information as described in this Privacy Policy.
+  purposes:
+    legal:
+    - To cooperate with government authorities and law enforcement officials and private
+      parties to enforce and comply with law
+    - to comply with legal obligations, resolve disputes and enforce our agreements
+    - to protect property or defend or assert legal rights
+    security:
+    - to protect property or defend or assert legal rights
+    services:
+    - to process your information
+    - to provide the Services to you and fulfill the purposes described in this Privacy
+      Policy
+- source: we
+  target: precise geolocation
+  key: COLLECT
+  text:
+  - When enabled by you, we collect precise location information provided by your
+    mobile device, such as latitude and longitude.
+  - When enabled by you, we collect precise location information provided by your
+    mobile device, which you may disable through the device settings.
+  purposes: {}
+- source: we
+  target: random number
+  key: COLLECT
+  text:
+  - We use this random number in a manner similar to our use of cookies as described
+    in this Privacy Policy and in our Cookie Policy .
+  - When you download and install one of our Apps onto your mobile device we assign
+    a random number to your App installation.
+  purposes: {}
+- source: Facebook
+  target: information it have about you
+  key: COLLECT
+  text:
+  - While Facebook does not provide any personal information to WebMD, Facebook may
+    use information that it has about you and that it collects performing services
+    for WebMD (which may be associated with personal information that Facebook has
+    about you) as described in its privacy policy available at https://www.facebook.com/about/privacy.
+  purposes: {}
+- source: Google
+  target: information it collect
+  key: COLLECT
+  text:
+  - In addition to using the information it collects performing services for WebMD,
+    Google may also use such information as described in its privacy policy.
+  purposes: {}
+- source: LiveRamp
+  target: information we collect from you
+  key: COLLECT
+  text:
+  - To provide you with certain personalization and advertising services described
+    herein, when you use our WebMD Sites, we may share information that we may collect
+    from you, such as your email address (in hashed form), IP address or information
+    about your browser or operating system, with our service provider, LiveRamp Inc.
+    and its affiliates, which may in turn link demographic or interest-based information
+    to your browser.
+  purposes:
+    advertising:
+    - To provide you with certain personalization and advertising services described
+      herein
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with our subsidiaries, affiliates and companies
+    acquired by or merged with us and our affiliates for their use for the purposes
+    set forth in this Privacy Policy.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: browsing datum
+  key: COLLECT
+  text:
+  - These widgets may collect browsing data which may be received by the third party
+    that provided the widget, and are controlled by these third parties.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our partners use cookies to collect information about your use of the Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: datum about you
+  key: COLLECT
+  text:
+  - However, WebMD does not allow any third parties to gather any data about you in
+    connection with your use of the WebMD Health Manager including through the use
+    of cookies and other tracking technologies.
+  - Other than PWNHealth, WebMD does not allow any third parties to gather any data
+    about you in connection with your purchase of a lab test through WebMD Lab Testing
+    including through the use of cookies or other tracking technologies.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about use of services
+  key: COLLECT
+  text:
+  - We and our partners use cookies to collect information about your use of the Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about use of webmd sites
+  key: COLLECT
+  text:
+  - Our advertising service partners may use cookies and other tracking technologies
+    to collect information about your use of the WebMD Sites, including content you
+    have viewed.
+  - These third parties may use this information to help WebMD deliver advertising
+    on the WebMD Sites and on other third party websites based on your browsing activity
+    on the WebMD Sites.
+  purposes:
+    advertising:
+    - to help WebMD deliver advertising on the WebMD Sites and on other third party
+      websites based on your browsing activity on the WebMD Sites
+- source: UNSPECIFIED_ACTOR
+  target: information we collect from you
+  key: COLLECT
+  text:
+  - To provide you with certain personalization and advertising services described
+    herein, when you use our WebMD Sites, we may share information that we may collect
+    from you, such as your email address (in hashed form), IP address or information
+    about your browser or operating system, with our service provider, LiveRamp Inc.
+    and its affiliates, which may in turn link demographic or interest-based information
+    to your browser.
+  purposes:
+    advertising:
+    - To provide you with certain personalization and advertising services described
+      herein
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'To cooperate with government authorities and law enforcement officials and private
+    parties to enforce and comply with law, we may release personal information to
+    third parties: (1) to comply with legal requirements such as a law, regulation,
+    search warrant, subpoena or court order; (2) when we believe in good faith that
+    disclosure is necessary to protect our rights, protect your safety or the safety
+    of others, investigate fraud, or respond to a government request; or (3) in special
+    cases, such as in response to a physical threat to you or others, to protect property
+    or defend or assert legal rights.'
+  purposes:
+    legal:
+    - To cooperate with government authorities and law enforcement officials and private
+      parties to enforce and comply with law
+    - to protect property or defend or assert legal rights
+    security:
+    - to protect property or defend or assert legal rights
+- source: WebMD
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - This Privacy Policy describes what information WebMD collects about you when you
+    use WebMD's Services and how that information is used, disclosed, and maintained
+    by WebMD.
+  - WebMD contractors sometimes have limited access to your information in the course
+    of providing products or services to WebMD.
+  - WebMD may share information among its subsidiaries or websites that it owns or
+    controls, but information collected under this Privacy Policy is always protected
+    under the terms of this Privacy Policy.
+  purposes: {}
+- source: WebMD
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - WebMD and PWNHealth will use cookies and other tracking technologies to collect
+    information about your usage of WebMD Lab Testing, including which lab tests you
+    have viewed and to statistically analyze trends and other user behavior on the
+    WebMD Lab Testing pages.
+  purposes: {}
+- source: WebMD
+  target: device specific information you install
+  key: COLLECT
+  text:
+  - WebMD may also collect device-specific information when you install and use an
+    App including your device model, operating system information, advertising ID
+    (which is a unique, user-resettable identification number for advertising associated
+    with a mobile device) and App version and usage information.
+  purposes: {}
+- source: WebMD
+  target: information collect under privacy policy
+  key: COLLECT
+  text:
+  - WebMD may share information among its subsidiaries or websites that it owns or
+    controls, but information collected under this Privacy Policy is always protected
+    under the terms of this Privacy Policy.
+  purposes: {}
+- source: WebMD
+  target: information from browser
+  key: COLLECT
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+  purposes: {}
+- source: WebMD
+  target: information you submit in survey
+  key: COLLECT
+  text:
+  - The information you submit in a survey may be used by WebMD for research and measurement
+    purposes, as described below, including to measure the effectiveness of content,
+    advertising or programs.
+  purposes:
+    analytics:
+    - for research and measurement purposes
+- source: WebMD
+  target: internet activity
+  key: COLLECT
+  text:
+  - WebMD and PWNHealth will use cookies and other tracking technologies to collect
+    information about your usage of WebMD Lab Testing, including which lab tests you
+    have viewed and to statistically analyze trends and other user behavior on the
+    WebMD Lab Testing pages.
+  purposes: {}
+- source: WebMD
+  target: non-personal information
+  key: COLLECT
+  text:
+  - PWNHealth may disclose to WebMD certain personal information in the aggregate
+    which does not identify you.
+  purposes: {}
+- source: WebMD
+  target: personal information
+  key: COLLECT
+  text:
+  - In addition, WebMD may use personal information about you for other purposes that
+    are disclosed to you at the time we collect the information and/or with your consent.
+  purposes:
+    analytics:
+    - for other purposes that are disclosed to you at the time we collect the information
+      and/or with your consent
+    legal:
+    - for other purposes that are disclosed to you at the time we collect the information
+      and/or with your consent
+- source: WebMD
+  target: personal information you use
+  key: COLLECT
+  text:
+  - WebMD will share the personal information you use to register with WebMD with
+    PWNHealth for purposes of processing and administering your lab test order.
+  purposes:
+    analytics:
+    - for purposes of processing and administering your lab test order
+    services:
+    - for purposes of processing and administering your lab test order
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Our advertising service partners may use cookies and other tracking technologies
+    to collect information about your use of the WebMD Sites, including content you
+    have viewed.
+  purposes: {}
+- source: advertiser
+  target: information about use of webmd sites
+  key: COLLECT
+  text:
+  - Our advertising service partners may use cookies and other tracking technologies
+    to collect information about your use of the WebMD Sites, including content you
+    have viewed.
+  purposes: {}
+- source: advertiser
+  target: information we have about you
+  key: COLLECT
+  text:
+  - We may share information that we have about you, such as a cookie ID or IP address,
+    with third party advertising service providers who may use this information, on
+    our behalf, to help WebMD deliver advertising on the WebMD Sites as well as on
+    third party websites, as further described in our Cookie Policy .
+  purposes: {}
+- source: advertiser
+  target: internet activity
+  key: COLLECT
+  text:
+  - Our ad network vendors use technologies to collect information about your activities
+    on the WebMD Sites and in our flagship WebMD App to provide you cookie-based targeted
+    advertising on our WebMD Sites and on third party websites based upon your browsing
+    activity and your interests.
+  purposes:
+    advertising:
+    - in our flagship WebMD App to provide you cookie-based targeted advertising on
+      our WebMD Sites and on third party websites based upon your browsing activity
+      and your interests
+- source: company acquire
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with our subsidiaries, affiliates and companies
+    acquired by or merged with us and our affiliates for their use for the purposes
+    set forth in this Privacy Policy.
+  purposes: {}
+- source: operator of website
+  target: personal information
+  key: COLLECT
+  text:
+  - If you elect to subscribe to one of our newsletters on a third party website,
+    the operator of that website will provide us with the personal information you
+    have provided in connection with the subscription request, which we may use in
+    accordance with this Privacy Policy as though you had provided it directly to
+    WebMD.
+  purposes: {}
+- source: pulsepoint
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Subject to applicable law, we may share your information with PulsePoint, which
+    may also use cookies and other tracking technologies described herein, for behavioral
+    or targeted advertising, and to provide to us analytics, insights, actions and
+    other information related to your use of the Services or those of third parties
+    and to its clients to provide similar services to you.
+  purposes: {}
+- source: pwnhealth
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - WebMD and PWNHealth will use cookies and other tracking technologies to collect
+    information about your usage of WebMD Lab Testing, including which lab tests you
+    have viewed and to statistically analyze trends and other user behavior on the
+    WebMD Lab Testing pages.
+  purposes: {}
+- source: pwnhealth
+  target: information it collect about you
+  key: COLLECT
+  text:
+  - PWNHealth will use your personal information and other information it collects
+    about you in providing the WebMD Lab Testing services in accordance with its privacy
+    policy available here and terms of use available here .
+  purposes: {}
+- source: pwnhealth
+  target: internet activity
+  key: COLLECT
+  text:
+  - WebMD and PWNHealth will use cookies and other tracking technologies to collect
+    information about your usage of WebMD Lab Testing, including which lab tests you
+    have viewed and to statistically analyze trends and other user behavior on the
+    WebMD Lab Testing pages.
+  purposes: {}
+- source: pwnhealth
+  target: non-personal information
+  key: COLLECT
+  text:
+  - PWNHealth may disclose to WebMD certain personal information in the aggregate
+    which does not identify you.
+  purposes: {}
+- source: pwnhealth
+  target: payment information
+  key: COLLECT
+  text:
+  - Only PWNHealth will have access to this information.
+  - You will be able to access your lab test orders and results from PWNHealth through
+    your WebMD account but WebMD will never receive your lab test results or your
+    payment information.
+  purposes: {}
+- source: pwnhealth
+  target: personal information
+  key: COLLECT
+  text:
+  - PWNHealth will use your personal information and other information it collects
+    about you in providing the WebMD Lab Testing services in accordance with its privacy
+    policy available here and terms of use available here .
+  purposes: {}
+- source: pwnhealth
+  target: personal information you use
+  key: COLLECT
+  text:
+  - WebMD will share the personal information you use to register with WebMD with
+    PWNHealth for purposes of processing and administering your lab test order.
+  purposes:
+    analytics:
+    - for purposes of processing and administering your lab test order
+    services:
+    - for purposes of processing and administering your lab test order
+- source: service provider
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our service providers collect and store information about users' interactions
+    with unaffiliated websites and applications that use our technologies, including
+    cookies and similar tracking technologies.
+  purposes: {}
+- source: service provider
+  target: information we collect from you
+  key: COLLECT
+  text:
+  - To provide you with certain personalization and advertising services described
+    herein, when you use our WebMD Sites, we may share information that we may collect
+    from you, such as your email address (in hashed form), IP address or information
+    about your browser or operating system, with our service provider, LiveRamp Inc.
+    and its affiliates, which may in turn link demographic or interest-based information
+    to your browser.
+  purposes:
+    advertising:
+    - To provide you with certain personalization and advertising services described
+      herein
+- source: service provider with operation in country
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may transfer your information outside the United States to service providers
+    with operations in other countries.
+  purposes: {}
+- source: widget
+  target: browsing datum
+  key: COLLECT
+  text:
+  - These widgets may collect browsing data which may be received by the third party
+    that provided the widget, and are controlled by these third parties.
+  purposes: {}
+- source: we
+  target: Socialbakers
+  key: SUBSUM
+  text:
+  - Some of our Services, such as WebMD Symptom Checker, are interactive and may request
+    that you submit health-related information, along with other information such
+    as your age and gender.
+- source: we
+  target: WebMD
+  key: SUBSUM
+  text:
+  - Some of our Services, such as WebMD Symptom Checker, are interactive and may request
+    that you submit health-related information, along with other information such
+    as your age and gender.
+- source: browser information
+  target: refer url
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: important information
+  target: spam faq
+  key: SUBSUM
+  text:
+  - 'Important Information & FAQs : Spam FAQs'
+- source: information about use of webmd sites
+  target: content you view
+  key: SUBSUM
+  text:
+  - Our advertising service partners may use cookies and other tracking technologies
+    to collect information about your use of the WebMD Sites, including content you
+    have viewed.
+- source: information from browser
+  target: associate date
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: browser information
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: click
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: device identifier
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: preference
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: setting
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information from browser
+  target: time
+  key: SUBSUM
+  text:
+  - When you access and use the Services, WebMD automatically collects and stores
+    in its server logs information from your browser or mobile device such as your
+    IP address or unique device identifier, browser information (including referring
+    URL), your preferences and settings, cookies and information about the content
+    you have viewed and actions taken (e.g., search queries, ad engagement, clicks
+    and the associated dates and times).
+- source: information partner have access to
+  target: email address
+  key: SUBSUM
+  text:
+  - The information collected by such tracking technologies may be combined with other
+    information that our partners have access to, including your name, email address
+    and physical address, so that we can send you materials, either electronically
+    or by direct mail, that may be of interest to you.
+- source: information partner have access to
+  target: person name
+  key: SUBSUM
+  text:
+  - The information collected by such tracking technologies may be combined with other
+    information that our partners have access to, including your name, email address
+    and physical address, so that we can send you materials, either electronically
+    or by direct mail, that may be of interest to you.
+- source: information partner have access to
+  target: postal address
+  key: SUBSUM
+  text:
+  - The information collected by such tracking technologies may be combined with other
+    information that our partners have access to, including your name, email address
+    and physical address, so that we can send you materials, either electronically
+    or by direct mail, that may be of interest to you.
+- source: information we collect from you
+  target: email address
+  key: SUBSUM
+  text:
+  - To provide you with certain personalization and advertising services described
+    herein, when you use our WebMD Sites, we may share information that we may collect
+    from you, such as your email address (in hashed form), IP address or information
+    about your browser or operating system, with our service provider, LiveRamp Inc.
+    and its affiliates, which may in turn link demographic or interest-based information
+    to your browser.
+- source: information we collect from you
+  target: ip address
+  key: SUBSUM
+  text:
+  - To provide you with certain personalization and advertising services described
+    herein, when you use our WebMD Sites, we may share information that we may collect
+    from you, such as your email address (in hashed form), IP address or information
+    about your browser or operating system, with our service provider, LiveRamp Inc.
+    and its affiliates, which may in turn link demographic or interest-based information
+    to your browser.
+- source: information we have about you
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - We may share information that we have about you, such as a cookie ID or IP address,
+    with third party advertising service providers who may use this information, on
+    our behalf, to help WebMD deliver advertising on the WebMD Sites as well as on
+    third party websites, as further described in our Cookie Policy .
+- source: information we have about you
+  target: ip address
+  key: SUBSUM
+  text:
+  - We may share information that we have about you, such as a cookie ID or IP address,
+    with third party advertising service providers who may use this information, on
+    our behalf, to help WebMD deliver advertising on the WebMD Sites as well as on
+    third party websites, as further described in our Cookie Policy .
+- source: information webmd collect about you
+  target: age
+  key: SUBSUM
+  text:
+  - For example, information that WebMD collects about you may be combined by WebMD
+    with other information available to WebMD through third parties for research and
+    measurement purposes, including measuring the effectiveness of content, advertising
+    or programs.
+  - This information from other sources may include age, gender, demographic, geographic,
+    personal interests, product purchase activity or other information.
+- source: information webmd collect about you
+  target: gender
+  key: SUBSUM
+  text:
+  - For example, information that WebMD collects about you may be combined by WebMD
+    with other information available to WebMD through third parties for research and
+    measurement purposes, including measuring the effectiveness of content, advertising
+    or programs.
+  - This information from other sources may include age, gender, demographic, geographic,
+    personal interests, product purchase activity or other information.
+- source: information webmd collect about you
+  target: product purchase activity
+  key: SUBSUM
+  text:
+  - For example, information that WebMD collects about you may be combined by WebMD
+    with other information available to WebMD through third parties for research and
+    measurement purposes, including measuring the effectiveness of content, advertising
+    or programs.
+  - This information from other sources may include age, gender, demographic, geographic,
+    personal interests, product purchase activity or other information.
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: personal information
+  target: gender
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: personal information
+  target: password
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: personal information
+  target: personal health information in service
+  key: SUBSUM
+  text:
+  - When you enter personal information (including personal health information in
+    various Services), we encrypt the transmission of that information or use SSL
+    connections (Secure Socket Layer) technology.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: personal information
+  target: username
+  key: SUBSUM
+  text:
+  - If you choose to register or update an existing account with WebMD or access certain
+    Services, you may be required to provide certain personal information, such as
+    your name, address, telephone number, gender, email address and date of birth,
+    and a username and password to access your WebMD account.
+- source: policy
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'Policies : Cookie Policy'
+- source: relevant content
+  target: WebMD
+  key: SUBSUM
+  text:
+  - 'Information about your use of the Services may be used for the following purposes:
+    to provide you and people with similar demographic characteristics and interests
+    with more relevant content including advertising both on and off the WebMD Sites
+    and Apps,'
+- source: technology
+  target: tracking technology
+  key: SUBSUM
+  text:
+  - We and our service providers collect and store information about users' interactions
+    with unaffiliated websites and applications that use our technologies, including
+    cookies and similar tracking technologies.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: LiveRamp
+- type: ACTOR
+  id: Socialbakers
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: WebMD
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: company acquire
+- type: ACTOR
+  id: operator of website
+- type: ACTOR
+  id: pulsepoint
+- type: ACTOR
+  id: pwnhealth
+- type: ACTOR
+  id: relevant content
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service provider with operation in country
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: tracking technology
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: widget
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: age
+- type: DATA
+  id: associate date
+- type: DATA
+  id: browser information
+- type: DATA
+  id: browsing datum
+- type: DATA
+  id: click
+- type: DATA
+  id: collect information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content you view
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum about you
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device specific information you install
+- type: DATA
+  id: email address
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: important information
+- type: DATA
+  id: information about use of services
+- type: DATA
+  id: information about use of webmd sites
+- type: DATA
+  id: information about user
+- type: DATA
+  id: information collect under privacy policy
+- type: DATA
+  id: information from browser
+- type: DATA
+  id: information it collect
+- type: DATA
+  id: information it collect about you
+- type: DATA
+  id: information it have about you
+- type: DATA
+  id: information partner have access to
+- type: DATA
+  id: information we collect from you
+- type: DATA
+  id: information we have about you
+- type: DATA
+  id: information webmd collect about you
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you submit in survey
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: password
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal health information in service
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information you use
+- type: DATA
+  id: phone number
+- type: DATA
+  id: policy
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: preference
+- type: DATA
+  id: product purchase activity
+- type: DATA
+  id: random number
+- type: DATA
+  id: refer url
+- type: DATA
+  id: setting
+- type: DATA
+  id: spam faq
+- type: DATA
+  id: time
+- type: DATA
+  id: username

@@ -1,0 +1,1702 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Additionally, we may retain information to comply with the law, prevent fraud,
+    collect fees, resolve disputes, troubleshoot problems, assist with investigations,
+    enforce the Terms of Service and take other actions permitted by law.
+  - Additionally, we may retain information where deletion requests are made to comply
+    with the law and take other actions permitted by law.
+  - For example, based on how you interact with Strava and the Services, we may collect
+    information when you track, complete, or upload activities using the Services.
+  - If Strava becomes involved in a business combination, securities offering, bankruptcy,
+    reorganization, dissolution or other similar transaction, we may share or transfer
+    your information in connection with such transaction.
+  - We collect information from devices and apps you connect to Strava in accordance
+    with the consent you give when you authorize the connection to Strava.
+  - We may collect information directly from you or through our service providers
+    , such as when we collect your feedback through surveys.
+  - We may continue to process your information if we have a separate legal basis
+    to do so (for instance, to comply with a court order) or if your withdrawal of
+    consent was limited to certain processing activities.
+  - 'We may preserve and share your information with third parties, including law
+    enforcement, public or governmental agencies, or private litigants, within or
+    outside your country of residence, if we determine that such disclosure is compelled
+    by or reasonably necessary to comply with the law, including to respond to court
+    orders, warrants, subpoenas, or other legal or regulatory process, or otherwise
+    permitted by law. We may also retain, preserve or disclose your information if
+    we determine that this is reasonably necessary or appropriate to: (1) prevent
+    any person from death or serious bodily injury; (2) to address issues of national
+    security or other issues of public importance; (3) to prevent or detect violations
+    of our Terms of Service or fraud or abuse of Strava or its users; (4) or to protect
+    our operations or our property or other legal rights, including by disclosure
+    to our legal counsel and other consultants and third parties in connection with
+    actual or potential litigation.'
+  - We may share your information with our subsidiaries, who are required to handle
+    your personal information in accordance with their own Privacy Policies.
+  - We may share your information with third parties who provide services to Strava
+    such as supporting, improving, promoting and securing the Services, processing
+    payments, or fulfilling orders.
+  - We retain information as long as it is necessary to provide the Services subject
+    to our legal obligations to further retain such information.
+  - We share your information with other Strava users and the public in accordance
+    with your privacy controls .
+  purposes:
+    legal:
+    - to comply with the law and take other actions permitted by law
+    - to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot
+      problems, assist with investigations, enforce the Terms of Service and take
+      other actions permitted by law
+    security:
+    - to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot
+      problems, assist with investigations, enforce the Terms of Service and take
+      other actions permitted by law
+    services:
+    - to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot
+      problems, assist with investigations, enforce the Terms of Service and take
+      other actions permitted by law
+- source: we
+  target: account information
+  key: COLLECT
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - For example, we may retain publicly available segments or routes and other depersonalized
+    geolocation information to continue to improve the Services, and we use Aggregated
+    Information in Strava Metro and our Global Heatmap.
+  - In addition, we may share aggregated data about our users, as described in more
+    detail in the "Aggregated Information" section below.
+  - We use aggregated, de-identified information for AI Features where possible for
+    their purpose.
+  purposes:
+    services:
+    - to continue to improve the Services
+- source: we
+  target: analytic information
+  key: COLLECT
+  text:
+  - This technical information includes device and network information, cookies, log
+    files and analytics information.
+  - We collect information from your browser, computer, or mobile device, which provides
+    us with technical information when you access or use the Services.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - If you choose to share your contacts with Strava, we will access and store your
+    contacts' information to identify potential connections and help you connect with
+    each other.
+  - We use your contact information , which includes name and email address, so we
+    can contact you when needed regarding the Services, for example, to notify you
+    about material changes to our terms.
+  purposes:
+    analytics:
+    - to identify potential connections and help you connect with each other
+    services:
+    - to identify potential connections and help you connect with each other
+    - 'to: To contact you regarding the Services'
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - In addition, we use cookies and other tracking technologies, including SDKs and
+    other mobile analytics to inform targeted advertising and serve relevant ads.
+  - This technical information includes device and network information, cookies, log
+    files and analytics information.
+  - We collect information from your browser, computer, or mobile device, which provides
+    us with technical information when you access or use the Services.
+  - We use essential cookies to make our website work.
+  purposes:
+    advertising:
+    - to inform targeted advertising and serve relevant ads
+    services:
+    - to make our website work
+- source: we
+  target: date of birth
+  key: COLLECT
+  text:
+  - To enhance safety and privacy for our younger users, we use dates of birth to
+    help confirm that an athlete is old enough to use Strava, and to help provide
+    an age-appropriate experience on Strava and the Services, including Messaging.
+  purposes:
+    security:
+    - To enhance safety and privacy for our younger users
+    - To protect you and the Services, as well as minors
+    services:
+    - to help confirm that an athlete is old enough to use Strava, and to help provide
+      an age-appropriate experience on Strava and the Services, including Messaging
+    - to help provide an age-appropriate experience on Strava and the Services, including
+      Messaging
+- source: we
+  target: device information
+  key: COLLECT
+  text:
+  - This technical information includes device and network information, cookies, log
+    files and analytics information.
+  - We also use device information and information contained in log files, including
+    IP address, to maintain the security and integrity of our Services.
+  - We collect information from your browser, computer, or mobile device, which provides
+    us with technical information when you access or use the Services.
+  purposes:
+    security:
+    - To protect you and the Services, as well as minors
+    - to maintain the security and integrity of our Services
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - For example, we may retain publicly available segments or routes and other depersonalized
+    geolocation information to continue to improve the Services, and we use Aggregated
+    Information in Strava Metro and our Global Heatmap.
+  - We collect and process location information when you sign up for and use the Services.
+  purposes:
+    services:
+    - to continue to improve the Services
+- source: we
+  target: heart rate information
+  key: COLLECT
+  text:
+  - For example, to compare your past efforts, analyze your training, and--with your
+    consent--use your heart rate information to provide you with performance analysis.
+  - 'We use the information we collect and receive to provide the Services, including
+    providing you with the ability to:'
+  purposes:
+    analytics:
+    - to provide you with performance analysis
+    services:
+    - To provide the Services
+    - to provide the Services
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - We may also collect information about you from other Strava users such as when
+    they give you kudos or comment on your activities.
+  purposes: {}
+- source: we
+  target: information from photo
+  key: COLLECT
+  text:
+  - We gather information from photos, videos, posts, comments, messages, kudos, ratings,
+    reviews, and other content you share on the Services , including when you participate
+    in partner events or create segments or routes.
+  purposes: {}
+- source: we
+  target: information necessary
+  key: COLLECT
+  text:
+  - If you choose to use a Third-Party Account to login to Strava, we share only the
+    information necessary for the third-party to enable you to login and to protect
+    and secure your information.
+  purposes: {}
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - Regarding our products or features using machine learning or artificial intelligence,
+    including large language models, ("AI Features"), we use the information we collect
+    to enhance the quality, reliability, and/or accuracy of our AI Features by creating,
+    developing, training, testing, improving, and maintaining AI and ML models run
+    by Strava or our service providers.
+  - 'To assist you with a support request
+
+
+    We use the information we collect and receive to provide support in response to
+    your requests and comments.'
+  - 'To process your subscription
+
+
+    We use the information we collect to process your subscription, including using
+    your location data to determine your country pricing.'
+  - We may also use the information we collect and receive to market and promote the
+    Services, activities and events on Strava, including using email and push notifications,
+    in accordance with your preferences.
+  - We may use the information we collect and receive about you to provide you with
+    targeted advertising if you accept non-essential cookies using our cookie banner
+    or are receiving marketing communications.
+  - We use the information we collect and receive to customize your experience.
+  - We use the information we collect and receive to protect users, enforce our Terms
+    of Service , Acceptable Use Policy , and Community Standards , and promote safety.
+  - 'We use the information we collect and receive to provide the Services, including
+    providing you with the ability to:'
+  - We use the information we collect and receive to serve you with relevant promotions,
+    subject to your notification and email preferences.
+  - We use the information we collect and receive, including feedback you provide,
+    to conduct research, and to analyze, develop, troubleshoot, increase functionality,
+    and otherwise improve the Services.
+  purposes:
+    advertising:
+    - To provide you with targeted commercial content
+    - to market and promote the Services, activities and events on Strava, including
+      using email and push notifications, in accordance with your preferences
+    - to provide you with targeted advertising
+    - to serve you with relevant promotions, subject to your notification and email
+      preferences
+    analytics:
+    - For example, to compare your past efforts, analyze your training, and--with
+      your consent--use your heart rate information to provide you with performance
+      analysis.
+    - to conduct research, and to analyze, develop, troubleshoot, increase functionality,
+      and otherwise improve the Services
+    - to enhance the quality, reliability, and/or accuracy of our AI Features by creating,
+      developing, training, testing, improving, and maintaining AI and ML models run
+      by Strava or our service providers
+    - 'to: Visualize your activities in new ways . For example, by creating personal
+      heatmaps or using your training log'
+    security:
+    - to protect users, enforce our Terms of Service , Acceptable Use Policy , and
+      Community Standards , and promote safety
+    services:
+    - For example, to compare your past efforts, analyze your training, and--with
+      your consent--use your heart rate information to provide you with performance
+      analysis.
+    - To assist you with a support request
+    - To communicate with you
+    - To customize your experience
+    - To improve our Services
+    - To process your subscription
+    - To provide the Services
+    - to conduct research, and to analyze, develop, troubleshoot, increase functionality,
+      and otherwise improve the Services
+    - to customize your experience
+    - to enhance the quality, reliability, and/or accuracy of our AI Features by creating,
+      developing, training, testing, improving, and maintaining AI and ML models run
+      by Strava or our service providers
+    - to market and promote the Services, activities and events on Strava, including
+      using email and push notifications, in accordance with your preferences
+    - to process your subscription
+    - to provide support in response to your requests and comments
+    - to provide the Services
+    - 'to: Interact with other users'
+    - 'to: Manage your training . For example, to set goals and use your training
+      dashboard'
+    - 'to: Provide AI Features'
+    - 'to: Visualize your activities in new ways . For example, by creating personal
+      heatmaps or using your training log'
+- source: we
+  target: information you agree
+  key: COLLECT
+  text:
+  - If you access the Services through Third-Party Accounts , we will collect information
+    you have agreed to make available such as your name, email address, profile information
+    and preferences.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We also use device information and information contained in log files, including
+    IP address, to maintain the security and integrity of our Services.
+  purposes:
+    security:
+    - To protect you and the Services, as well as minors
+    - to maintain the security and integrity of our Services
+- source: we
+  target: log file
+  key: COLLECT
+  text:
+  - The Services use log files .
+  - This technical information includes device and network information, cookies, log
+    files and analytics information.
+  - We collect information from your browser, computer, or mobile device, which provides
+    us with technical information when you access or use the Services.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - Depending on your privacy controls and sharing permissions, we also may use personal
+    information such as health and location information for AI Features, for example,
+    to provide you with training analysis and recommendations.
+  - For example, we use personal information, including your name, avatar, athlete
+    ID, and content you choose to share to compete on segments, participate in clubs,
+    challenges, or events, follow other users, message other users, and use features
+    that help users interact with one another, such as group activities or Flyby .
+  - Note that these requests are subject to certain limitations, for example, we may
+    retain personal information as permitted by law, such as for tax or other record
+    keeping purposes, to process transactions and facilitate customer requests, and
+    for certain other business purposes described in this Privacy Policy.
+  - We may share personal information in accordance with your preferences, as needed
+    to run our business and provide the Services, and where required for legal purposes,
+    as set forth below.
+  purposes:
+    analytics:
+    - to provide you with training analysis and recommendations
+    services:
+    - to compete on segments, participate in clubs, challenges, or events, follow
+      other users, message other users, and use features that help users interact
+      with one another, such as group activities or Flyby
+    - to provide you with training analysis and recommendations
+- source: we
+  target: personal information of individual under year of age
+  key: COLLECT
+  text:
+  - We also may limit how we collect or process the personal information of individuals
+    under 18 years of age.
+  purposes: {}
+- source: we
+  target: public photo
+  key: COLLECT
+  text:
+  - We may also analyze your public photos from specific routes or segments to attach
+    characteristics to those routes or segments (such as shaded, waterfalls, flowers).
+  purposes:
+    services:
+    - to attach characteristics to those routes or segments (such as shaded, waterfalls,
+      flowers)
+- source: we
+  target: publicly available segment
+  key: COLLECT
+  text:
+  - For example, we may retain publicly available segments or routes and other depersonalized
+    geolocation information to continue to improve the Services, and we use Aggregated
+    Information in Strava Metro and our Global Heatmap.
+  purposes:
+    services:
+    - to continue to improve the Services
+- source: we
+  target: same suite of privacy control
+  key: COLLECT
+  text:
+  - We provide the same suite of privacy controls to all of our users worldwide.
+  purposes: {}
+- source: we
+  target: training
+  key: COLLECT
+  text:
+  - For example, to compare your past efforts, analyze your training, and--with your
+    consent--use your heart rate information to provide you with performance analysis.
+  - 'We use the information we collect and receive to provide the Services, including
+    providing you with the ability to:'
+  purposes:
+    services:
+    - To provide the Services
+    - to provide the Services
+- source: we
+  target: variety of privacy control
+  key: COLLECT
+  text:
+  - We provide a variety of privacy controls to manage the sharing of your information
+    and encourage our users to adjust their controls to align with their desired experience.
+  purposes:
+    security:
+    - to manage the sharing of your information
+    services:
+    - to manage the sharing of your information
+- source: Strava
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Information Strava Collects
+  - Other Information
+  - We may share your information with third parties who provide services to Strava
+    such as supporting, improving, promoting and securing the Services, processing
+    payments, or fulfilling orders.
+  purposes: {}
+- source: Strava
+  target: account
+  key: COLLECT
+  text:
+  - Account, Profile, and User Activity
+  - Information Strava Collects
+  purposes: {}
+- source: Strava
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Strava also uses Aggregated Information to generate our Global Heatmap and other
+    community-powered features such as Points of Interest and Start Points .
+  - Strava may use, license, or share this Aggregated Information with third parties
+    for research, business or other purposes such as to improve walking, running or
+    riding in cities via Strava Metro or to help our partners understand more about
+    users, including the people who use their products and services.
+  purposes:
+    analytics:
+    - for research, business or other purposes such as to improve walking, running
+      or riding in cities via Strava Metro or to help our partners understand more
+      about users, including the people who use their products and services
+    - to generate our Global Heatmap and other community-powered features such as
+      Points of Interest and Start Points
+    services:
+    - to generate our Global Heatmap and other community-powered features such as
+      Points of Interest and Start Points
+- source: Strava
+  target: contact information
+  key: COLLECT
+  text:
+  - 'Strava Privacy Policy
+
+
+    Information Strava Collects
+
+
+    Contacts'' Information'
+  purposes: {}
+- source: Strava
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'Strava Privacy Policy
+
+
+    Information Strava Collects
+
+
+    Technical Information, Cookies, and Log Files'
+  purposes: {}
+- source: Strava
+  target: geolocation
+  key: COLLECT
+  text:
+  - Information Strava Collects
+  - Location Information
+  purposes: {}
+- source: Strava
+  target: health information
+  key: COLLECT
+  text:
+  - 'Strava Privacy Policy
+
+
+    Information Strava Collects
+
+
+    Health Information'
+  - Strava may collect or infer health information , such as heart rate.
+  purposes: {}
+- source: Strava
+  target: information about
+  key: COLLECT
+  text:
+  - Strava also collects information about how you use the Services.
+  purposes: {}
+- source: Strava
+  target: information about you
+  key: COLLECT
+  text:
+  - Strava collects information about you, including information that directly or
+    indirectly identifies you, if you or other Strava users choose to share it with
+    Strava.
+  purposes: {}
+- source: Strava
+  target: information generate from connection with third party device
+  key: COLLECT
+  text:
+  - The information generated from your connections with these third-party devices
+    and apps, for example, step count data, or personal information, such as heart
+    rate data (if you have consented to processing of health information), will be
+    passed along to Strava.
+  purposes: {}
+- source: Strava
+  target: information we collect
+  key: COLLECT
+  text:
+  - Strava uses the information we collect and receive as described below.
+  purposes: {}
+- source: Strava
+  target: information you agree
+  key: COLLECT
+  text:
+  - If you access the Services through Third-Party Accounts , we will collect information
+    you have agreed to make available such as your name, email address, profile information
+    and preferences.
+  - This information is collected by the Third-Party Account providers and is provided
+    to Strava under their privacy policies.
+  purposes: {}
+- source: Strava
+  target: insight
+  key: COLLECT
+  text:
+  - 'We use the information we collect and receive to provide the Services, including
+    providing you with the ability to: Share insights with the Strava community .
+    For example, by sharing your public reviews and photos of specific routes or segments.'
+  purposes:
+    services:
+    - For example, by sharing your public reviews and photos of specific routes or
+      segments
+    - To provide the Services
+    - to provide the Services
+- source: Strava
+  target: internet activity
+  key: COLLECT
+  text:
+  - Account, Profile, and User Activity
+  - Information Strava Collects
+  purposes: {}
+- source: Strava
+  target: log file
+  key: COLLECT
+  text:
+  - 'Strava Privacy Policy
+
+
+    Information Strava Collects
+
+
+    Technical Information, Cookies, and Log Files'
+  purposes: {}
+- source: Strava
+  target: option make
+  key: COLLECT
+  text:
+  - Strava provides you the option to make your profile visible to Everyone or Request
+    to Follow; and to make your activities visible to Everyone, only your Followers
+    and you, or Only You.
+  purposes: {}
+- source: Strava
+  target: option remove individual activity you post without
+  key: COLLECT
+  text:
+  - Strava also provides you the option to remove individual activities you have posted
+    without deleting your account.
+  purposes: {}
+- source: Strava
+  target: payment information
+  key: COLLECT
+  text:
+  - 'Strava Privacy Policy
+
+
+    Information Strava Collects
+
+
+    Payment Information'
+  purposes: {}
+- source: Strava
+  target: profile
+  key: COLLECT
+  text:
+  - Account, Profile, and User Activity
+  - Information Strava Collects
+  purposes: {}
+- source: Strava
+  target: technical information
+  key: COLLECT
+  text:
+  - 'Strava Privacy Policy
+
+
+    Information Strava Collects
+
+
+    Technical Information, Cookies, and Log Files'
+  purposes: {}
+- source: Strava
+  target: third party account
+  key: COLLECT
+  text:
+  - Information Strava Collects
+  - Third-Party Accounts
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We enable you to share your information and content with third party apps, plugins,
+    or websites that integrate with the Services, as well as with third parties who
+    work with Strava to offer an integrated feature, such as a challenge sponsor,
+    media streaming, or tracking device.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Strava may use, license, or share this Aggregated Information with third parties
+    for research, business or other purposes such as to improve walking, running or
+    riding in cities via Strava Metro or to help our partners understand more about
+    users, including the people who use their products and services.
+  purposes:
+    analytics:
+    - for research, business or other purposes such as to improve walking, running
+      or riding in cities via Strava Metro or to help our partners understand more
+      about users, including the people who use their products and services
+- source: UNSPECIFIED_ACTOR
+  target: content
+  key: COLLECT
+  text:
+  - We enable you to share your information and content with third party apps, plugins,
+    or websites that integrate with the Services, as well as with third parties who
+    work with Strava to offer an integrated feature, such as a challenge sponsor,
+    media streaming, or tracking device.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information you agree
+  key: COLLECT
+  text:
+  - If you access the Services through Third-Party Accounts , we will collect information
+    you have agreed to make available such as your name, email address, profile information
+    and preferences.
+  - This information is collected by the Third-Party Account providers and is provided
+    to Strava under their privacy policies.
+  purposes: {}
+- source: business partner
+  target: contact information
+  key: COLLECT
+  text:
+  - Contractors and business partners provide business contact information and payment-related
+    information as necessary to facilitate a prospective or actual business relation.
+  purposes: {}
+- source: business partner
+  target: relate information
+  key: COLLECT
+  text:
+  - Contractors and business partners provide business contact information and payment-related
+    information as necessary to facilitate a prospective or actual business relation.
+  purposes: {}
+- source: contractor
+  target: contact information
+  key: COLLECT
+  text:
+  - Contractors and business partners provide business contact information and payment-related
+    information as necessary to facilitate a prospective or actual business relation.
+  purposes: {}
+- source: contractor
+  target: relate information
+  key: COLLECT
+  text:
+  - Contractors and business partners provide business contact information and payment-related
+    information as necessary to facilitate a prospective or actual business relation.
+  purposes: {}
+- source: datum storage facility locate in united states
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you are located outside of the United States and choose to use the Services
+    or provide information to us, you acknowledge and understand that your information
+    will be transferred, processed and stored in the United States, due to the provision
+    of Services being provided from and data storage facilities being located in the
+    United States.
+  purposes: {}
+- source: job applicant
+  target: contact information
+  key: COLLECT
+  text:
+  - Job applicants may provide contact information and resume-related information
+    (e.g., past education and experience) as well as complete relevant background
+    checks.
+  purposes: {}
+- source: job applicant
+  target: relate information
+  key: COLLECT
+  text:
+  - Job applicants may provide contact information and resume-related information
+    (e.g., past education and experience) as well as complete relevant background
+    checks.
+  purposes: {}
+- source: law enforcement
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may preserve and share your information with third parties, including law
+    enforcement, public or governmental agencies, or private litigants, within or
+    outside your country of residence, if we determine that such disclosure is compelled
+    by or reasonably necessary to comply with the law, including to respond to court
+    orders, warrants, subpoenas, or other legal or regulatory process, or otherwise
+    permitted by law. We may also retain, preserve or disclose your information if
+    we determine that this is reasonably necessary or appropriate to: (1) prevent
+    any person from death or serious bodily injury; (2) to address issues of national
+    security or other issues of public importance; (3) to prevent or detect violations
+    of our Terms of Service or fraud or abuse of Strava or its users; (4) or to protect
+    our operations or our property or other legal rights, including by disclosure
+    to our legal counsel and other consultants and third parties in connection with
+    actual or potential litigation.'
+  purposes: {}
+- source: plugin
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We enable you to share your information and content with third party apps, plugins,
+    or websites that integrate with the Services, as well as with third parties who
+    work with Strava to offer an integrated feature, such as a challenge sponsor,
+    media streaming, or tracking device.
+  purposes: {}
+- source: plugin
+  target: content
+  key: COLLECT
+  text:
+  - We enable you to share your information and content with third party apps, plugins,
+    or websites that integrate with the Services, as well as with third parties who
+    work with Strava to offer an integrated feature, such as a challenge sponsor,
+    media streaming, or tracking device.
+  purposes: {}
+- source: private litigant
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may preserve and share your information with third parties, including law
+    enforcement, public or governmental agencies, or private litigants, within or
+    outside your country of residence, if we determine that such disclosure is compelled
+    by or reasonably necessary to comply with the law, including to respond to court
+    orders, warrants, subpoenas, or other legal or regulatory process, or otherwise
+    permitted by law. We may also retain, preserve or disclose your information if
+    we determine that this is reasonably necessary or appropriate to: (1) prevent
+    any person from death or serious bodily injury; (2) to address issues of national
+    security or other issues of public importance; (3) to prevent or detect violations
+    of our Terms of Service or fraud or abuse of Strava or its users; (4) or to protect
+    our operations or our property or other legal rights, including by disclosure
+    to our legal counsel and other consultants and third parties in connection with
+    actual or potential litigation.'
+  purposes: {}
+- source: public agency
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may preserve and share your information with third parties, including law
+    enforcement, public or governmental agencies, or private litigants, within or
+    outside your country of residence, if we determine that such disclosure is compelled
+    by or reasonably necessary to comply with the law, including to respond to court
+    orders, warrants, subpoenas, or other legal or regulatory process, or otherwise
+    permitted by law. We may also retain, preserve or disclose your information if
+    we determine that this is reasonably necessary or appropriate to: (1) prevent
+    any person from death or serious bodily injury; (2) to address issues of national
+    security or other issues of public importance; (3) to prevent or detect violations
+    of our Terms of Service or fraud or abuse of Strava or its users; (4) or to protect
+    our operations or our property or other legal rights, including by disclosure
+    to our legal counsel and other consultants and third parties in connection with
+    actual or potential litigation.'
+  purposes: {}
+- source: service provider
+  target: information necessary
+  key: COLLECT
+  text:
+  - These service providers only have access to the information necessary to perform
+    these limited functions on our behalf and are required to protect and secure your
+    information.
+  purposes: {}
+- source: we
+  target: messaging
+  key: SUBSUM
+  text:
+  - To enhance safety and privacy for our younger users, we use dates of birth to
+    help confirm that an athlete is old enough to use Strava, and to help provide
+    an age-appropriate experience on Strava and the Services, including Messaging.
+- source: account information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+- source: account information
+  target: email address
+  key: SUBSUM
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+- source: account information
+  target: gender
+  key: SUBSUM
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+- source: account information
+  target: password
+  key: SUBSUM
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+- source: account information
+  target: person name
+  key: SUBSUM
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+- source: account information
+  target: username
+  key: SUBSUM
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+- source: account information
+  target: weight
+  key: SUBSUM
+  text:
+  - We collect account information such as your name, email address, date of birth,
+    gender, weight, username and password that helps secure and provide you with access
+    to our Services.
+- source: activity
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Profile, activity and use information is collected about you when you engage in
+    activities such as choosing to upload a photo, video, post, or activity (including
+    date, time and geolocation information as well as your speed and pace and perceived
+    exertion), join a club or challenge, add your equipment usage, view others' activities,
+    or otherwise use the Services.
+- source: activity
+  target: pace
+  key: SUBSUM
+  text:
+  - Profile, activity and use information is collected about you when you engage in
+    activities such as choosing to upload a photo, video, post, or activity (including
+    date, time and geolocation information as well as your speed and pace and perceived
+    exertion), join a club or challenge, add your equipment usage, view others' activities,
+    or otherwise use the Services.
+- source: activity
+  target: speed
+  key: SUBSUM
+  text:
+  - Profile, activity and use information is collected about you when you engage in
+    activities such as choosing to upload a photo, video, post, or activity (including
+    date, time and geolocation information as well as your speed and pace and perceived
+    exertion), join a club or challenge, add your equipment usage, view others' activities,
+    or otherwise use the Services.
+- source: age appropriate experience
+  target: messaging
+  key: SUBSUM
+  text:
+  - To enhance safety and privacy for our younger users, we use dates of birth to
+    help confirm that an athlete is old enough to use Strava, and to help provide
+    an age-appropriate experience on Strava and the Services, including Messaging.
+- source: aptitude
+  target: relative effort
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Inferences drawn from any of the above information to create a profile reflecting
+    your preferences, characteristics, behavior, abilities, and aptitudes, such as
+    Relative Effort'
+- source: biometric information
+  target: exercise datum to extent it contain identify information
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Biometric information, such as your exercise data to the extent it contains identifying
+    information'
+- source: commercial information
+  target: record of purchase of strava subscription
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Commercial information, such as the record of purchase of your Strava subscription'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - We use your contact information , which includes name and email address, so we
+    can contact you when needed regarding the Services, for example, to notify you
+    about material changes to our terms.
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - We use your contact information , which includes name and email address, so we
+    can contact you when needed regarding the Services, for example, to notify you
+    about material changes to our terms.
+- source: content
+  target: photo
+  key: SUBSUM
+  text:
+  - You can rectify, restrict, or delete much of your information by logging into
+    your account, such as to edit your profile, delete content like photos or videos
+    you have posted, remove individual activities from view, delete individual activities
+    , or delete your account.
+- source: electronic information
+  target: photo
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Electronic, visual, or similar information, such as photos'
+- source: feature help
+  target: flyby
+  key: SUBSUM
+  text:
+  - For example, we use personal information, including your name, avatar, athlete
+    ID, and content you choose to share to compete on segments, participate in clubs,
+    challenges, or events, follow other users, message other users, and use features
+    that help users interact with one another, such as group activities or Flyby .
+- source: feature help
+  target: group activity
+  key: SUBSUM
+  text:
+  - For example, we use personal information, including your name, avatar, athlete
+    ID, and content you choose to share to compete on segments, participate in clubs,
+    challenges, or events, follow other users, message other users, and use features
+    that help users interact with one another, such as group activities or Flyby .
+- source: geolocation
+  target: direction
+  key: SUBSUM
+  text:
+  - 'Notice for individuals residing in certain U.S. states
+
+
+    Categories of personal information
+
+
+    Geolocation data, such as the physical location, direction and speed of your recorded
+    activity'
+- source: geolocation
+  target: postal address
+  key: SUBSUM
+  text:
+  - For example, you can tell us about important locations, such as your home or work
+    address, by using our " Hide a Specific Address " feature in your privacy controls.
+- source: geolocation
+  target: record activity
+  key: SUBSUM
+  text:
+  - 'Notice for individuals residing in certain U.S. states
+
+
+    Categories of personal information
+
+
+    Geolocation data, such as the physical location, direction and speed of your recorded
+    activity'
+- source: health information
+  target: heart rate
+  key: SUBSUM
+  text:
+  - Strava may collect or infer health information , such as heart rate.
+- source: identifier
+  target: athlete id
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Identifiers, such as your real name, athlete ID, Internet Protocol (IP) address,
+    email address, and other similar identifiers.'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Identifiers, such as your real name, athlete ID, Internet Protocol (IP) address,
+    email address, and other similar identifiers.'
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Identifiers, such as your real name, athlete ID, Internet Protocol (IP) address,
+    email address, and other similar identifiers.'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Identifiers, such as your real name, athlete ID, Internet Protocol (IP) address,
+    email address, and other similar identifiers.'
+- source: information about you
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - Strava collects information about you, including information that directly or
+    indirectly identifies you, if you or other Strava users choose to share it with
+    Strava.
+- source: information generate from connection with third party device
+  target: for step count datum
+  key: SUBSUM
+  text:
+  - The information generated from your connections with these third-party devices
+    and apps, for example, step count data, or personal information, such as heart
+    rate data (if you have consented to processing of health information), will be
+    passed along to Strava.
+- source: information generate from connection with third party device
+  target: personal information
+  key: SUBSUM
+  text:
+  - The information generated from your connections with these third-party devices
+    and apps, for example, step count data, or personal information, such as heart
+    rate data (if you have consented to processing of health information), will be
+    passed along to Strava.
+- source: information store in file
+  target: browser type
+  key: SUBSUM
+  text:
+  - The information stored in those files includes IP addresses, browser type, internet
+    service provider (ISP), referring/exit pages, platform type, date/time stamp,
+    and number of clicks.
+- source: information store in file
+  target: date time stamp
+  key: SUBSUM
+  text:
+  - The information stored in those files includes IP addresses, browser type, internet
+    service provider (ISP), referring/exit pages, platform type, date/time stamp,
+    and number of clicks.
+- source: information store in file
+  target: ip address
+  key: SUBSUM
+  text:
+  - The information stored in those files includes IP addresses, browser type, internet
+    service provider (ISP), referring/exit pages, platform type, date/time stamp,
+    and number of clicks.
+- source: information store in file
+  target: number of click
+  key: SUBSUM
+  text:
+  - The information stored in those files includes IP addresses, browser type, internet
+    service provider (ISP), referring/exit pages, platform type, date/time stamp,
+    and number of clicks.
+- source: information store in file
+  target: platform type
+  key: SUBSUM
+  text:
+  - The information stored in those files includes IP addresses, browser type, internet
+    service provider (ISP), referring/exit pages, platform type, date/time stamp,
+    and number of clicks.
+- source: information we collect
+  target: feedback you provide
+  key: SUBSUM
+  text:
+  - We use the information we collect and receive, including feedback you provide,
+    to conduct research, and to analyze, develop, troubleshoot, increase functionality,
+    and otherwise improve the Services.
+- source: information you agree
+  target: email address
+  key: SUBSUM
+  text:
+  - If you access the Services through Third-Party Accounts , we will collect information
+    you have agreed to make available such as your name, email address, profile information
+    and preferences.
+- source: information you agree
+  target: person name
+  key: SUBSUM
+  text:
+  - If you access the Services through Third-Party Accounts , we will collect information
+    you have agreed to make available such as your name, email address, profile information
+    and preferences.
+- source: information you agree
+  target: preference
+  key: SUBSUM
+  text:
+  - If you access the Services through Third-Party Accounts , we will collect information
+    you have agreed to make available such as your name, email address, profile information
+    and preferences.
+- source: information you agree
+  target: profile information
+  key: SUBSUM
+  text:
+  - If you access the Services through Third-Party Accounts , we will collect information
+    you have agreed to make available such as your name, email address, profile information
+    and preferences.
+- source: insight be
+  target: statistic of use of services
+  key: SUBSUM
+  text:
+  - identified and aggregated with other non-personal information to provide insights
+    that are valuable to Strava, such as statistics of the use of the Services.
+- source: integrate feature
+  target: challenge sponsor
+  key: SUBSUM
+  text:
+  - We enable you to share your information and content with third party apps, plugins,
+    or websites that integrate with the Services, as well as with third parties who
+    work with Strava to offer an integrated feature, such as a challenge sponsor,
+    media streaming, or tracking device.
+- source: integrate feature
+  target: medium streaming
+  key: SUBSUM
+  text:
+  - We enable you to share your information and content with third party apps, plugins,
+    or websites that integrate with the Services, as well as with third parties who
+    work with Strava to offer an integrated feature, such as a challenge sponsor,
+    media streaming, or tracking device.
+- source: internet activity
+  target: private activity
+  key: SUBSUM
+  text:
+  - You can choose to share your profile data and activity data (including private
+    activities) with these third parties.
+- source: internet activity
+  target: session log
+  key: SUBSUM
+  text:
+  - 'Notice for individuals residing in certain U.S. states
+
+
+    Categories of personal information
+
+
+    Internet or other electronic network activity information, such as session logs'
+- source: item of information
+  target: profile information
+  key: SUBSUM
+  text:
+  - In addition, you can delete some items of information (e.g., profile information)
+    and you can remove individual activities from view on the Services without deleting
+    your account.
+- source: log file
+  target: ip address
+  key: SUBSUM
+  text:
+  - We also use device information and information contained in log files, including
+    IP address, to maintain the security and integrity of our Services.
+- source: measurement
+  target: cadence
+  key: SUBSUM
+  text:
+  - Certain health information may be inferred from sources such as heart rate or
+    other measurements, including power, cadence, and weight or other indicators.
+- source: measurement
+  target: indicator
+  key: SUBSUM
+  text:
+  - Certain health information may be inferred from sources such as heart rate or
+    other measurements, including power, cadence, and weight or other indicators.
+- source: measurement
+  target: power
+  key: SUBSUM
+  text:
+  - Certain health information may be inferred from sources such as heart rate or
+    other measurements, including power, cadence, and weight or other indicators.
+- source: measurement
+  target: weight
+  key: SUBSUM
+  text:
+  - Certain health information may be inferred from sources such as heart rate or
+    other measurements, including power, cadence, and weight or other indicators.
+- source: payment information
+  target: payment card
+  key: SUBSUM
+  text:
+  - When you make a payment on Strava, you will be asked to provide payment information
+    such as your payment card or other payment details.
+- source: payment information
+  target: payment detail
+  key: SUBSUM
+  text:
+  - When you make a payment on Strava, you will be asked to provide payment information
+    such as your payment card or other payment details.
+- source: personal characteristic
+  target: weight
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Physical characteristics such as height or weight, as indicated by you'
+- source: personal information
+  target: age
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Age, as identified by you'
+- source: personal information
+  target: athlete id
+  key: SUBSUM
+  text:
+  - For example, we use personal information, including your name, avatar, athlete
+    ID, and content you choose to share to compete on segments, participate in clubs,
+    challenges, or events, follow other users, message other users, and use features
+    that help users interact with one another, such as group activities or Flyby .
+- source: personal information
+  target: avatar
+  key: SUBSUM
+  text:
+  - For example, we use personal information, including your name, avatar, athlete
+    ID, and content you choose to share to compete on segments, participate in clubs,
+    challenges, or events, follow other users, message other users, and use features
+    that help users interact with one another, such as group activities or Flyby .
+- source: personal information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Biometric information, such as your exercise data to the extent it contains identifying
+    information'
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Commercial information, such as the record of purchase of your Strava subscription'
+- source: personal information
+  target: content you choose
+  key: SUBSUM
+  text:
+  - For example, we use personal information, including your name, avatar, athlete
+    ID, and content you choose to share to compete on segments, participate in clubs,
+    challenges, or events, follow other users, message other users, and use features
+    that help users interact with one another, such as group activities or Flyby .
+- source: personal information
+  target: electronic information
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Electronic, visual, or similar information, such as photos'
+- source: personal information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Gender, as identified by you'
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Depending on your privacy controls and sharing permissions, we also may use personal
+    information such as health and location information for AI Features, for example,
+    to provide you with training analysis and recommendations.
+  - 'Notice for individuals residing in certain U.S. states
+
+
+    Categories of personal information
+
+
+    Geolocation data, such as the physical location, direction and speed of your recorded
+    activity'
+- source: personal information
+  target: heart rate datum
+  key: SUBSUM
+  text:
+  - The information generated from your connections with these third-party devices
+    and apps, for example, step count data, or personal information, such as heart
+    rate data (if you have consented to processing of health information), will be
+    passed along to Strava.
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Identifiers, such as your real name, athlete ID, Internet Protocol (IP) address,
+    email address, and other similar identifiers.'
+- source: personal information
+  target: inference
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Inferences drawn from any of the above information to create a profile reflecting
+    your preferences, characteristics, behavior, abilities, and aptitudes, such as
+    Relative Effort'
+- source: personal information
+  target: internet
+  key: SUBSUM
+  text:
+  - 'Notice for individuals residing in certain U.S. states
+
+
+    Categories of personal information
+
+
+    Internet or other electronic network activity information, such as session logs'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Notice for individuals residing in certain U.S. states
+
+
+    Categories of personal information
+
+
+    Internet or other electronic network activity information, such as session logs'
+- source: personal information
+  target: payment information
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Payment Information'
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - For example, we use personal information, including your name, avatar, athlete
+    ID, and content you choose to share to compete on segments, participate in clubs,
+    challenges, or events, follow other users, message other users, and use features
+    that help users interact with one another, such as group activities or Flyby .
+- source: personal information
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - 'Categories of personal information
+
+
+    Physical characteristics such as height or weight, as indicated by you'
+- source: personal information
+  target: personal information share
+  key: SUBSUM
+  text:
+  - 'You also may request a copy of the following: (1) the categories of personal
+    information we collected about you; (2) the categories of sources from which the
+    personal information is collected; (3) the business or commercial purpose for
+    collecting or selling (if applicable) the personal information; (4) the categories
+    of third parties with whom we shared personal information, and the categories
+    of personal information shared; and (5) the specific pieces of your personal information
+    that we have collected, used, disclosed, or sold.'
+- source: personal information share
+  target: specific piece of personal information we collect
+  key: SUBSUM
+  text:
+  - 'You also may request a copy of the following: (1) the categories of personal
+    information we collected about you; (2) the categories of sources from which the
+    personal information is collected; (3) the business or commercial purpose for
+    collecting or selling (if applicable) the personal information; (4) the categories
+    of third parties with whom we shared personal information, and the categories
+    of personal information shared; and (5) the specific pieces of your personal information
+    that we have collected, used, disclosed, or sold.'
+- source: sensitive category of datum
+  target: health information
+  key: SUBSUM
+  text:
+  - Do we use sensitive categories of data, like health information?
+- source: sensitive information
+  target: health datum
+  key: SUBSUM
+  text:
+  - You have the right to direct us to only use your sensitive information, such as
+    precise geolocation data or health data, for limited purposes, such as providing
+    you with the services you requested.
+- source: sensitive information
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - You have the right to direct us to only use your sensitive information, such as
+    precise geolocation data or health data, for limited purposes, such as providing
+    you with the services you requested.
+- source: services providers
+  target: specific category
+  key: SUBSUM
+  text:
+  - The table below outlines the specific categories of personal information, as well
+    as the categories of Services Providers to whom we have disclosed these categories
+    of personal information during the past 12 months.
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - You can also share your activities with your contacts via text, email, or on social
+    media applications like Meta, Instagram, and Twitter.
+- source: social media
+  target: Twitter
+  key: SUBSUM
+  text:
+  - You can also share your activities with your contacts via text, email, or on social
+    media applications like Meta, Instagram, and Twitter.
+- source: social media
+  target: meta
+  key: SUBSUM
+  text:
+  - You can also share your activities with your contacts via text, email, or on social
+    media applications like Meta, Instagram, and Twitter.
+- source: source
+  target: heart rate
+  key: SUBSUM
+  text:
+  - Certain health information may be inferred from sources such as heart rate or
+    other measurements, including power, cadence, and weight or other indicators.
+- source: source
+  target: measurement
+  key: SUBSUM
+  text:
+  - Certain health information may be inferred from sources such as heart rate or
+    other measurements, including power, cadence, and weight or other indicators.
+- source: third party accounts
+  target: account
+  key: SUBSUM
+  text:
+  - Strava allows you to sign up and log in to the Services using accounts you create
+    with third-party products and services, such as Meta, Google, or Apple (collectively,
+    "Third-Party Accounts").
+- source: track technology
+  target: mobile analytic
+  key: SUBSUM
+  text:
+  - In addition, we use cookies and other tracking technologies, including SDKs and
+    other mobile analytics to inform targeted advertising and serve relevant ads.
+- source: track technology
+  target: sdk
+  key: SUBSUM
+  text:
+  - In addition, we use cookies and other tracking technologies, including SDKs and
+    other mobile analytics to inform targeted advertising and serve relevant ads.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Strava
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: age appropriate experience
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: challenge sponsor
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: datum storage facility locate in united states
+- type: ACTOR
+  id: feature help
+- type: ACTOR
+  id: flyby
+- type: ACTOR
+  id: group activity
+- type: ACTOR
+  id: integrate feature
+- type: ACTOR
+  id: job applicant
+- type: ACTOR
+  id: law enforcement
+- type: ACTOR
+  id: medium streaming
+- type: ACTOR
+  id: messaging
+- type: ACTOR
+  id: meta
+- type: ACTOR
+  id: mobile analytic
+- type: ACTOR
+  id: plugin
+- type: ACTOR
+  id: private litigant
+- type: ACTOR
+  id: public agency
+- type: ACTOR
+  id: sdk
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: services providers
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: specific category
+- type: ACTOR
+  id: track technology
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account
+- type: DATA
+  id: account information
+- type: DATA
+  id: activity
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: analytic information
+- type: DATA
+  id: aptitude
+- type: DATA
+  id: athlete id
+- type: DATA
+  id: avatar
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: cadence
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content
+- type: DATA
+  id: content you choose
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: date time stamp
+- type: DATA
+  id: device information
+- type: DATA
+  id: direction
+- type: DATA
+  id: electronic information
+- type: DATA
+  id: email address
+- type: DATA
+  id: exercise datum to extent it contain identify information
+- type: DATA
+  id: feedback you provide
+- type: DATA
+  id: for step count datum
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health datum
+- type: DATA
+  id: health information
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: heart rate datum
+- type: DATA
+  id: heart rate information
+- type: DATA
+  id: identifier
+- type: DATA
+  id: indicator
+- type: DATA
+  id: inference
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information from photo
+- type: DATA
+  id: information generate from connection with third party device
+- type: DATA
+  id: information necessary
+- type: DATA
+  id: information store in file
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information you agree
+- type: DATA
+  id: insight
+- type: DATA
+  id: insight be
+- type: DATA
+  id: internet
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: item of information
+- type: DATA
+  id: log file
+- type: DATA
+  id: measurement
+- type: DATA
+  id: number of click
+- type: DATA
+  id: option make
+- type: DATA
+  id: option remove individual activity you post without
+- type: DATA
+  id: pace
+- type: DATA
+  id: password
+- type: DATA
+  id: payment card
+- type: DATA
+  id: payment detail
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information of individual under year of age
+- type: DATA
+  id: personal information share
+- type: DATA
+  id: photo
+- type: DATA
+  id: platform type
+- type: DATA
+  id: postal address
+- type: DATA
+  id: power
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: preference
+- type: DATA
+  id: private activity
+- type: DATA
+  id: profile
+- type: DATA
+  id: profile information
+- type: DATA
+  id: public photo
+- type: DATA
+  id: publicly available segment
+- type: DATA
+  id: record activity
+- type: DATA
+  id: record of purchase of strava subscription
+- type: DATA
+  id: relate information
+- type: DATA
+  id: relative effort
+- type: DATA
+  id: same suite of privacy control
+- type: DATA
+  id: sensitive category of datum
+- type: DATA
+  id: sensitive information
+- type: DATA
+  id: session log
+- type: DATA
+  id: source
+- type: DATA
+  id: specific piece of personal information we collect
+- type: DATA
+  id: speed
+- type: DATA
+  id: statistic of use of services
+- type: DATA
+  id: technical information
+- type: DATA
+  id: third party account
+- type: DATA
+  id: third party accounts
+- type: DATA
+  id: training
+- type: DATA
+  id: username
+- type: DATA
+  id: variety of privacy control
+- type: DATA
+  id: weight

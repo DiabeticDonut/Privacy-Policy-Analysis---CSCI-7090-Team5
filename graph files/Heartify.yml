@@ -1,0 +1,2020 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Other data you may submit to us.'
+  - 'We may also obtain information from third parties, such as:'
+  - We may have access to certain information from a third-party social media or authentication
+    service if you log into our App or Website through the service or otherwise provide
+    us with access to information from the service.
+  - We may use this information to enhance the information we already maintain about
+    you, in addition to other purposes described in this Privacy Policy.
+  - We use the information you submitted to us, information collected automatically,
+    and information we obtained from third parties for data analysis, audits, conducting
+    research, analysis, studies or surveys, and identifying usage trends solely for
+    internal business purposes.
+  - We will only share your information with third parties in the ways described in
+    this Privacy Policy.
+  purposes:
+    analytics:
+    - to enhance the information we already maintain about you, in addition to other
+      purposes described in this Privacy Policy
+    services:
+    - to enhance the information we already maintain about you, in addition to other
+      purposes described in this Privacy Policy
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may share aggregated or anonymized information that does not directly identify
+    you with other third parties, not mentioned above, such as our partners and research
+    entities, for statistical, analytic, and scientific purposes.
+  purposes:
+    analytics:
+    - for statistical, analytic, and scientific purposes
+- source: we
+  target: analytic information
+  key: COLLECT
+  text:
+  - For example, we get analytic information from the Apple App Store.
+  purposes: {}
+- source: we
+  target: analytic information from website
+  key: COLLECT
+  text:
+  - 'When you access and use our Websites, we may, once we obtain your consent or
+    under another legitimate basis, automatically process the following data: Analytics
+    information from Websites.'
+  purposes: {}
+- source: we
+  target: anonymized analytic information
+  key: COLLECT
+  text:
+  - We collect anonymized and aggregated analytics information when you use our Websites
+    to help us improve our products and services.
+  purposes: {}
+- source: we
+  target: app setting information
+  key: COLLECT
+  text:
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  purposes:
+    services:
+    - to provide you with all requested Services
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: camera require as light sensor estimate heart rate
+  key: COLLECT
+  text:
+  - For measuring, the App technically accesses your camera required as a light sensor
+    to estimate your heart rate.
+  purposes:
+    analytics:
+    - For measuring
+    - to estimate your heart rate
+- source: we
+  target: collect datum
+  key: COLLECT
+  text:
+  - We also use some automatically collected data for content performance and features
+    testing (A/B testing).
+  purposes:
+    analytics:
+    - for content performance and features testing (A/B testing)
+    services:
+    - for content performance and features testing (A/B testing)
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - We also use your contact information to respond to you when you contact us, to
+    provide you with user support, and to respond to your comments, questions, and
+    requests related to your use or intention to use our App.
+  - We use the contact information you provided to us to inform you about services,
+    features, surveys, newsletters, offers, promotions, contests, and events and send
+    updates about our App, provide other news or information about our selected partners
+    and us that may be interesting to you, including by email, push notification or
+    otherwise, as permitted by law.
+  - We use your contact and device information to send you system notifications, and
+    reminders, let you know about our policies and terms, and send you billing information,
+    if applicable.
+  purposes:
+    advertising:
+    - to inform you about services, features, surveys, newsletters, offers, promotions,
+      contests, and events and send updates about our App, provide other news or information
+      about our selected partners and us that may be interesting to you, including
+      by email, push notification or otherwise, as permitted by law
+    services:
+    - to inform you about services, features, surveys, newsletters, offers, promotions,
+      contests, and events and send updates about our App, provide other news or information
+      about our selected partners and us that may be interesting to you, including
+      by email, push notification or otherwise, as permitted by law
+    - to respond to you when you contact us, to provide you with user support, and
+      to respond to your comments, questions, and requests related to your use or
+      intention to use our App
+    - to send you system notifications, and reminders, let you know about our policies
+      and terms, and send you billing information, if applicable
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies to enable the Websites functionality, make it easier for you to
+    navigate our site, and help us with our marketing efforts.
+  - 'When you access and use our Websites, we may, once we obtain your consent or
+    under another legitimate basis, automatically process the following data: Cookies
+    and other tracking technologies.'
+  purposes:
+    advertising:
+    - to enable the Websites functionality, make it easier for you to navigate our
+      site, and help us with our marketing efforts
+    services:
+    - to enable the Websites functionality, make it easier for you to navigate our
+      site, and help us with our marketing efforts
+- source: we
+  target: copy of personal datum along
+  key: COLLECT
+  text:
+  - If you ask us, we will confirm whether we are processing your Personal Data and,
+    if so, provide you with a copy of the personal data along with certain other details.
+  purposes: {}
+- source: we
+  target: date time stamp
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: datum about website traffic
+  key: COLLECT
+  text:
+  - Through Google Search Console we access data about our Websites traffic.
+  purposes: {}
+- source: we
+  target: datum from apple health
+  key: COLLECT
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health:'
+  purposes: {}
+- source: we
+  target: datum you submit to website
+  key: COLLECT
+  text:
+  - Also, we may collect other data that you submit to our Websites or App as you
+    participate in any interactive features of them, participate in a survey, contest,
+    promotion, sweepstakes, activity, or event, apply for a job, request customer
+    support, communicate with us via third party social media sites or otherwise communicate
+    with us.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  purposes:
+    services:
+    - to provide you with all requested Services
+- source: we
+  target: device information
+  key: COLLECT
+  text:
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  purposes:
+    services:
+    - to provide you with all requested Services
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - By authorizing us to connect with a third-party service, you authorize us to access
+    and store your name, email address(es), profile picture URL, and other information
+    that the third-party service makes available to us, and to use and disclose it
+    under this Privacy Policy.
+  purposes: {}
+- source: we
+  target: employment information of personal datum subject
+  key: COLLECT
+  text:
+  - We will use the Employment information of Personal Data subjects for HR activities
+    and, accordingly, within the business collaboration or employment relations, if
+    such arises
+  purposes:
+    services:
+    - for HR activities and, accordingly, within the business collaboration or employment
+      relations
+- source: we
+  target: event datum about you
+  key: COLLECT
+  text:
+  - Note that PayPal does not share your payment and banking information with us;
+    we only receive events and identifiers data about you and your purchases via payment
+    services.
+  purposes: {}
+- source: we
+  target: health datum
+  key: COLLECT
+  text:
+  - If you have a Heartify account, we transfer your health data to the server storage
+    to provide services, for example, to enable access to your measurements via our
+    Website heartify.world for you.
+  purposes:
+    analytics:
+    - to provide services, for example, to enable access to your measurements via
+      our Website heartify.world for you
+    services:
+    - to provide services, for example, to enable access to your measurements via
+      our Website heartify.world for you
+- source: we
+  target: identification number associate with device
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: in app event
+  key: COLLECT
+  text:
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  purposes:
+    services:
+    - to provide you with all requested Services
+- source: we
+  target: information associate with google account
+  key: COLLECT
+  text:
+  - 'When you use Sign in with Google to access our Services, Google only shares with
+    us the following information associated with your Google Account:'
+  purposes: {}
+- source: we
+  target: information collect
+  key: COLLECT
+  text:
+  - We use the information you submitted to us, information collected automatically,
+    and information we obtained from third parties for data analysis, audits, conducting
+    research, analysis, studies or surveys, and identifying usage trends solely for
+    internal business purposes.
+  purposes: {}
+- source: we
+  target: information process
+  key: COLLECT
+  text:
+  - We or our service providers may use information processed automatically for marketing
+    purposes (to show ads that may interest you or others based on your preferences).
+  - We use information that is processed automatically to understand user behavior
+    and trends better, detect potential outages and technical issues, operate, protect,
+    improve, and optimize our App.
+  purposes:
+    advertising:
+    - for marketing purposes (
+    - to show ads that may interest you or others based on your preferences
+    analytics:
+    - to understand user behavior and trends better, detect potential outages and
+      technical issues, operate, protect, improve, and optimize our App
+    security:
+    - to understand user behavior and trends better, detect potential outages and
+      technical issues, operate, protect, improve, and optimize our App
+    services:
+    - to understand user behavior and trends better, detect potential outages and
+      technical issues, operate, protect, improve, and optimize our App
+- source: we
+  target: information third party service make
+  key: COLLECT
+  text:
+  - By authorizing us to connect with a third-party service, you authorize us to access
+    and store your name, email address(es), profile picture URL, and other information
+    that the third-party service makes available to us, and to use and disclose it
+    under this Privacy Policy.
+  purposes: {}
+- source: we
+  target: information you search for
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: information you submit to we
+  key: COLLECT
+  text:
+  - We use the information you submitted to us, information collected automatically,
+    and information we obtained from third parties for data analysis, audits, conducting
+    research, analysis, studies or surveys, and identifying usage trends solely for
+    internal business purposes.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  purposes:
+    services:
+    - to provide you with all requested Services
+- source: we
+  target: locale preference
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: measurement datum
+  key: COLLECT
+  text:
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  purposes:
+    services:
+    - to provide you with all requested Services
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We may share aggregated or anonymized information that does not directly identify
+    you with other third parties, not mentioned above, such as our partners and research
+    entities, for statistical, analytic, and scientific purposes.
+  purposes:
+    analytics:
+    - for statistical, analytic, and scientific purposes
+- source: we
+  target: only event datum about you
+  key: COLLECT
+  text:
+  - Note that Stripe does not share your payment and banking information with us;
+    we receive only events and identifiers data about you and your purchases via Stripe
+    payment services.
+  purposes: {}
+- source: we
+  target: payment information
+  key: COLLECT
+  text:
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  purposes:
+    services:
+    - to provide you with all requested Services
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - By authorizing us to connect with a third-party service, you authorize us to access
+    and store your name, email address(es), profile picture URL, and other information
+    that the third-party service makes available to us, and to use and disclose it
+    under this Privacy Policy.
+  purposes: {}
+- source: we
+  target: personal data in structured use machine readable format
+  key: COLLECT
+  text:
+  - We will give you your Personal Data in a structured, commonly used, machine-readable
+    format.
+  purposes: {}
+- source: we
+  target: personal datum associate with apple account
+  key: COLLECT
+  text:
+  - 'When you use Sign in with Apple ID to access our Services, Apple only shares
+    with us the following Personal Data associated with your Apple Account:'
+  purposes: {}
+- source: we
+  target: personal datum from different source
+  key: COLLECT
+  text:
+  - We use your Personal Data from different sources to discover your preferences
+    and interests within our Services, propose personalized content, and provide the
+    best possible user experience
+  purposes:
+    analytics:
+    - to discover your preferences and interests within our Services, propose personalized
+      content, and provide the best possible user experience
+    services:
+    - to discover your preferences and interests within our Services, propose personalized
+      content, and provide the best possible user experience
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'As part of this mission, we may use your Personal Data for the following purposes
+    and under the applicable legal basis:'
+  - By agreeing with this Policy, you agree that we may transfer your personal data
+    to any third country, a territory, or one or more specified sectors within that
+    third country or to the international organization.
+  - If you are located in the European Union or other regions with laws governing
+    data processing that may differ from U.S. law, please note that we may transfer
+    information, including personal information, to a country and jurisdiction that
+    does not have the same data protection laws as in your jurisdiction.
+  - If you ask us, we will confirm whether we are processing your Personal Data and,
+    if so, provide you with a copy of the personal data along with certain other details.
+  - 'Privacy Policy
+
+
+    We may disclose your personal information if it is needed for objective reasons,
+    due to the public interest, or in other unforeseen circumstances:'
+  - 'Privacy Policy
+
+
+    We may process your Personal Data according to our legitimate interest when we
+    need to provide security and safety of data, protect our rights and fulfill our
+    obligations before other people and entities.'
+  - Unless you demand us otherwise, if you have a Heartify account and don`t delete
+    it before uninstalling the App from your mobile device, we will retain your Personal
+    Data for a period of 1 year in case you decide to re-activate the Services or
+    re-install the App.
+  - We generally retain your personal information for as long as is necessary for
+    performing the functional service of the App and to comply with our legal obligations.
+  - We may process your Personal Data in relation to our interests in providing the
+    Services to you, our legitimate commercial interests, our interest in protecting
+    the security and integrity of the Services, and wider societal benefits, as allowed
+    under the law.
+  - We may share your Personal Data to comply with our legal obligations when we are
+    lawfully requested to do so
+  - We process Personal Data based on the contract between you and us or our legitimate
+    interest in improving our App and giving our users the best experience.
+  - We share your Personal Data only with our employees and contractors, agents, and
+    auditors who need to know or otherwise access Personal Data according to their
+    scope of professional responsibilities and who are bound in writing by confidentiality
+    and other obligations sufficient to protect Personal Data under this Privacy Policy.
+  - We use information (including Personal Data) processed automatically, and/or obtained
+    from (or by) our marketing service providers or partners, to build our marketing
+    strategy and advertise our Services.
+  - We use your Personal Data (measurements data, technical and device identifiers,
+    payment information, in-app events, other device information, IP address, App
+    settings information etc.) to provide you with all requested Services
+  - We use your Personal Data to fulfill our contractual obligations and provide the
+    Services to you.
+  purposes:
+    advertising:
+    - to build our marketing strategy and advertise our Services
+    legal:
+    - to comply with our legal obligations
+    - to fulfill our contractual obligations and provide the Services to you
+    services:
+    - to fulfill our contractual obligations and provide the Services to you
+    - to provide you with all requested Services
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide data processing technologies for
+    the Services or our third-party advertising partners may transfer the processed
+    information across borders and from your country or jurisdiction to other countries
+    or jurisdictions worldwide.
+  purposes: {}
+- source: we
+  target: profile picture url
+  key: COLLECT
+  text:
+  - By authorizing us to connect with a third-party service, you authorize us to access
+    and store your name, email address(es), profile picture URL, and other information
+    that the third-party service makes available to us, and to use and disclose it
+    under this Privacy Policy.
+  purposes: {}
+- source: we
+  target: push notification
+  key: COLLECT
+  text:
+  - We may use push notifications, which you can disable anytime in your device settings
+    or the App using the consent toggle screens, if any.
+  purposes: {}
+- source: we
+  target: specific area
+  key: COLLECT
+  text:
+  - For example, we will know how many users access specific areas or features within
+    our App and which links they clicked on.
+  - We use this aggregated information to understand and optimize how our App is used,
+    improve our marketing efforts, and provide content and features that interest
+    you.
+  purposes:
+    advertising:
+    - to understand and optimize how our App is used, improve our marketing efforts,
+      and provide content and features that interest you
+    analytics:
+    - to understand and optimize how our App is used, improve our marketing efforts,
+      and provide content and features that interest you
+- source: we
+  target: sufficient information allow
+  key: COLLECT
+  text:
+  - When you make a request, we will ask you to provide sufficient information that
+    allows us to reasonably verify you are the person about whom we collected personal
+    information or an authorized representative, which may include confirming the
+    email address associated with any personal information we have about you.
+  purposes: {}
+- source: we
+  target: system configuration information
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: unique identifier necessary
+  key: COLLECT
+  text:
+  - If you decide not to share with us any of your Personal Data, we will get only
+    a unique identifier necessary for login, which does not identify you personally.
+  purposes: {}
+- source: we
+  target: url
+  key: COLLECT
+  text:
+  - As is true with most websites and services delivered over the Internet, we may
+    gather certain information and store it in log files when you interact with our
+    Websites.
+  - This information includes internet protocol (IP) addresses as well as browser
+    type, internet service provider, URLs of referring/exit pages, operating system,
+    date/time stamp, the information you search for, locale and language preferences,
+    identification numbers associated with your device, your mobile carrier, and system
+    configuration information.
+  purposes: {}
+- source: we
+  target: web log
+  key: COLLECT
+  text:
+  - 'When you access and use our Websites, we may, once we obtain your consent or
+    under another legitimate basis, automatically process the following data: Web
+    Logs.'
+  purposes: {}
+- source: we
+  target: workout
+  key: COLLECT
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Activity
+    and workouts'
+  purposes: {}
+- source: Apple
+  target: personal datum associate with apple account
+  key: COLLECT
+  text:
+  - 'When you use Sign in with Apple ID to access our Services, Apple only shares
+    with us the following Personal Data associated with your Apple Account:'
+  purposes: {}
+- source: AppsFlyer
+  target: personal information
+  key: COLLECT
+  text:
+  - In order to discover you or users who are similar to you on other platforms, including
+    social networking websites, AppsFlyer may provide your Personal Data to some of
+    its integrated partners (such as Pinterest, Google Ads, Apple Search Ads, FB marketing
+    network, and others).
+  purposes:
+    analytics:
+    - In order to discover you or users who are similar to you on other platforms,
+      including social networking websites
+    services:
+    - In order to discover you or users who are similar to you on other platforms,
+      including social networking websites
+- source: Facebook
+  target: device information
+  key: COLLECT
+  text:
+  - For example, when your user ID is linked to your Facebook account, Facebook may
+    use your device information in association with categorized data already recorded
+    in its databases (e.g. your age, gender or other demographic indication).
+  purposes: {}
+- source: Google
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Google Analytics collects first-party cookies, data related to the device/browser,
+    IP address (when collecting data, Google Analytics 4 does not log or store IP
+    addresses), on-site/app activities and advertising cookies.
+  purposes: {}
+- source: Google
+  target: datum relate to device browser
+  key: COLLECT
+  text:
+  - Google Analytics collects first-party cookies, data related to the device/browser,
+    IP address (when collecting data, Google Analytics 4 does not log or store IP
+    addresses), on-site/app activities and advertising cookies.
+  purposes: {}
+- source: Google
+  target: information associate with google account
+  key: COLLECT
+  text:
+  - 'When you use Sign in with Google to access our Services, Google only shares with
+    us the following information associated with your Google Account:'
+  purposes: {}
+- source: Google
+  target: internet activity
+  key: COLLECT
+  text:
+  - Google Analytics collects first-party cookies, data related to the device/browser,
+    IP address (when collecting data, Google Analytics 4 does not log or store IP
+    addresses), on-site/app activities and advertising cookies.
+  purposes: {}
+- source: Google
+  target: ip address
+  key: COLLECT
+  text:
+  - Google Analytics collects first-party cookies, data related to the device/browser,
+    IP address (when collecting data, Google Analytics 4 does not log or store IP
+    addresses), on-site/app activities and advertising cookies.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We will only share your information with third parties in the ways described in
+    this Privacy Policy.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may share aggregated or anonymized information that does not directly identify
+    you with other third parties, not mentioned above, such as our partners and research
+    entities, for statistical, analytic, and scientific purposes.
+  purposes:
+    analytics:
+    - for statistical, analytic, and scientific purposes
+- source: UNSPECIFIED_ACTOR
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We may share aggregated or anonymized information that does not directly identify
+    you with other third parties, not mentioned above, such as our partners and research
+    entities, for statistical, analytic, and scientific purposes.
+  purposes:
+    analytics:
+    - for statistical, analytic, and scientific purposes
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We share your Personal Data only with our employees and contractors, agents, and
+    auditors who need to know or otherwise access Personal Data according to their
+    scope of professional responsibilities and who are bound in writing by confidentiality
+    and other obligations sufficient to protect Personal Data under this Privacy Policy.
+  purposes: {}
+- source: advertiser
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide data processing technologies for
+    the Services or our third-party advertising partners may transfer the processed
+    information across borders and from your country or jurisdiction to other countries
+    or jurisdictions worldwide.
+  purposes: {}
+- source: analytic provider
+  target: custom event
+  key: COLLECT
+  text:
+  - When you use our App, analytics tools automatically record in-app information
+    (tutorial steps, leveling up, payments, in-app purchases, custom events, progression
+    events, etc.).
+  purposes: {}
+- source: analytic provider
+  target: in app information
+  key: COLLECT
+  text:
+  - When you use our App, analytics tools automatically record in-app information
+    (tutorial steps, leveling up, payments, in-app purchases, custom events, progression
+    events, etc.).
+  purposes: {}
+- source: analytic provider
+  target: log file information
+  key: COLLECT
+  text:
+  - When you use our App, analytics tools automatically record certain log file information,
+    including the time and date when you start and stop using the App and how you
+    interact with the App.
+  purposes: {}
+- source: analytic provider
+  target: progression event
+  key: COLLECT
+  text:
+  - When you use our App, analytics tools automatically record in-app information
+    (tutorial steps, leveling up, payments, in-app purchases, custom events, progression
+    events, etc.).
+  purposes: {}
+- source: auditor
+  target: personal information
+  key: COLLECT
+  text:
+  - We share your Personal Data only with our employees and contractors, agents, and
+    auditors who need to know or otherwise access Personal Data according to their
+    scope of professional responsibilities and who are bound in writing by confidentiality
+    and other obligations sufficient to protect Personal Data under this Privacy Policy.
+  purposes: {}
+- source: contractor
+  target: personal information
+  key: COLLECT
+  text:
+  - We share your Personal Data only with our employees and contractors, agents, and
+    auditors who need to know or otherwise access Personal Data according to their
+    scope of professional responsibilities and who are bound in writing by confidentiality
+    and other obligations sufficient to protect Personal Data under this Privacy Policy.
+  purposes: {}
+- source: country
+  target: personal information
+  key: COLLECT
+  text:
+  - If you are located in the European Union or other regions with laws governing
+    data processing that may differ from U.S. law, please note that we may transfer
+    information, including personal information, to a country and jurisdiction that
+    does not have the same data protection laws as in your jurisdiction.
+  purposes: {}
+- source: international organization
+  target: personal information
+  key: COLLECT
+  text:
+  - By agreeing with this Policy, you agree that we may transfer your personal data
+    to any third country, a territory, or one or more specified sectors within that
+    third country or to the international organization.
+  purposes: {}
+- source: international organization datum protection regulation not provide same
+    level of personal datum protection
+  target: personal information
+  key: COLLECT
+  text:
+  - This means that your personal information can be transferred to a third country,
+    a territory, or one or more specified sectors within that third country or to
+    an international organization where data protection and confidentiality regulations
+    may not provide the same level of personal data protection as your country does.
+  purposes: {}
+- source: processor
+  target: specific personal data
+  key: COLLECT
+  text:
+  - Processors assist us in managing the Services, facilitate our communication with
+    you, and carry out other related tasks.
+  - To complete these objectives, they may process specific Personal Data on our behalf,
+    acting under our instructions and subject to demands of applicable data protection
+    laws.
+  purposes: {}
+- source: research entity
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may share aggregated or anonymized information that does not directly identify
+    you with other third parties, not mentioned above, such as our partners and research
+    entities, for statistical, analytic, and scientific purposes.
+  purposes:
+    analytics:
+    - for statistical, analytic, and scientific purposes
+- source: research entity
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We may share aggregated or anonymized information that does not directly identify
+    you with other third parties, not mentioned above, such as our partners and research
+    entities, for statistical, analytic, and scientific purposes.
+  purposes:
+    analytics:
+    - for statistical, analytic, and scientific purposes
+- source: server storage
+  target: health datum
+  key: COLLECT
+  text:
+  - If you have a Heartify account, we transfer your health data to the server storage
+    to provide services, for example, to enable access to your measurements via our
+    Website heartify.world for you.
+  purposes:
+    analytics:
+    - to provide services, for example, to enable access to your measurements via
+      our Website heartify.world for you
+    services:
+    - to provide services, for example, to enable access to your measurements via
+      our Website heartify.world for you
+- source: service provider
+  target: information process
+  key: COLLECT
+  text:
+  - We or our service providers may use information processed automatically for marketing
+    purposes (to show ads that may interest you or others based on your preferences).
+  purposes:
+    advertising:
+    - for marketing purposes (
+    - to show ads that may interest you or others based on your preferences
+- source: service provider we use
+  target: personalized content
+  key: COLLECT
+  text:
+  - Service providers we use may provide personalized content and information to you,
+    including online ads or other forms of marketing.
+  purposes: {}
+- source: social media
+  target: ip address
+  key: COLLECT
+  text:
+  - Our Services may also include social media features, such as Twitter, Facebook,
+    and Instagram buttons.
+  - These features may collect your IP address and which page you visit on our site
+    and may set a cookie to enable the feature to function properly.
+  purposes: {}
+- source: specified sector within third country
+  target: personal information
+  key: COLLECT
+  text:
+  - By agreeing with this Policy, you agree that we may transfer your personal data
+    to any third country, a territory, or one or more specified sectors within that
+    third country or to the international organization.
+  - This means that your personal information can be transferred to a third country,
+    a territory, or one or more specified sectors within that third country or to
+    an international organization where data protection and confidentiality regulations
+    may not provide the same level of personal data protection as your country does.
+  purposes: {}
+- source: third country
+  target: personal information
+  key: COLLECT
+  text:
+  - By agreeing with this Policy, you agree that we may transfer your personal data
+    to any third country, a territory, or one or more specified sectors within that
+    third country or to the international organization.
+  purposes: {}
+- source: advertising id
+  target: app id
+  key: SUBSUM
+  text:
+  - For example, device or advertising identifiers such as IDFA (identifier for advertisers);
+    Google Advertiser ID; and App IDs.
+- source: advertising id
+  target: identifier for advertiser
+  key: SUBSUM
+  text:
+  - For example, device or advertising identifiers such as IDFA (identifier for advertisers);
+    Google Advertiser ID; and App IDs.
+- source: advertising id
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Mobile device advertising identifiers (e.g., IDFA/Google Ad ID, IP address);'
+- source: categorize datum record in database
+  target: age
+  key: SUBSUM
+  text:
+  - For example, when your user ID is linked to your Facebook account, Facebook may
+    use your device information in association with categorized data already recorded
+    in its databases (e.g. your age, gender or other demographic indication).
+- source: categorize datum record in database
+  target: demographic indication
+  key: SUBSUM
+  text:
+  - For example, when your user ID is linked to your Facebook account, Facebook may
+    use your device information in association with categorized data already recorded
+    in its databases (e.g. your age, gender or other demographic indication).
+- source: categorize datum record in database
+  target: gender
+  key: SUBSUM
+  text:
+  - For example, when your user ID is linked to your Facebook account, Facebook may
+    use your device information in association with categorized data already recorded
+    in its databases (e.g. your age, gender or other demographic indication).
+- source: datum about device
+  target: app version
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: datum about device
+  target: device category
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: datum about device
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: datum about device
+  target: os version
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: datum about website traffic
+  target: identifier
+  key: SUBSUM
+  text:
+  - This data include type and settings of your browser, unique identifiers.
+  - Through Google Search Console we access data about our Websites traffic.
+- source: datum about website traffic
+  target: setting
+  key: SUBSUM
+  text:
+  - This data include type and settings of your browser, unique identifiers.
+  - Through Google Search Console we access data about our Websites traffic.
+- source: datum contain in app
+  target: billing information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: date of profile creation
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: in app event
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: individual identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: measurement datum
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: profile picture
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: subscription id
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum contain in app
+  target: subscription status
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    All Personal Data that you submit to us and all data contained in the App, namely,
+    User ID, name, email, profile picture, date of profile creation, in-app events,
+    IP address, subscription status, individual identifiers, billing information,
+    subscription ID, measurements data, measurements data source'
+- source: datum from apple health
+  target: activity
+  key: SUBSUM
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Activity
+    and workouts'
+- source: datum from apple health
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Date
+    of Birth'
+- source: datum from apple health
+  target: gender
+  key: SUBSUM
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Gender'
+- source: datum from apple health
+  target: heart rate
+  key: SUBSUM
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Heart
+    Rate'
+- source: datum from apple health
+  target: heart rate variability
+  key: SUBSUM
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Heart
+    Rate Variability'
+- source: datum from apple health
+  target: height
+  key: SUBSUM
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Height'
+- source: datum from apple health
+  target: sleep change
+  key: SUBSUM
+  text:
+  - 'We may collect, once you allow us, the following data from Apple Health: Sleep
+    changes'
+- source: device datum
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: device datum
+  target: device property
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Device data such as make, model, operating system, device properties and settings,
+    coarse location data;'
+- source: device datum
+  target: make
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Device data such as make, model, operating system, device properties and settings,
+    coarse location data;'
+- source: device datum
+  target: model
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Device data such as make, model, operating system, device properties and settings,
+    coarse location data;'
+- source: device datum
+  target: operating system
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Device data such as make, model, operating system, device properties and settings,
+    coarse location data;'
+- source: device datum
+  target: setting
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Device data such as make, model, operating system, device properties and settings,
+    coarse location data;'
+- source: end user datum
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: end user datum
+  target: device datum
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: end user datum
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: end user datum
+  target: gameplay
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: end user datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: end user datum
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: end user datum
+  target: voice
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    * End Users data including voice (if applicable), advertising identifiers or device
+    IDs (e.g. IDFA GAID), User IDs, IP address, gameplay, in-app purchase, and device
+    data, including device identifiers,'
+- source: identity information
+  target: issue document
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Payment Account Details, bank account details, billing/shipping address, name,
+    date/time/amount of transaction, device ID, email address, IP address/location,
+    order ID, payment card details, tax ID/status, unique customer identifier, identity
+    information including government issued documents (e.g., national IDs, driver''s
+    licenses and passports)'
+- source: information associate with google account
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Your email address'
+  - 'When you use Sign in with Google to access our Services, Google only shares with
+    us the following information associated with your Google Account:'
+- source: information associate with google account
+  target: person name
+  key: SUBSUM
+  text:
+  - 'When you use Sign in with Google to access our Services, Google only shares with
+    us the following information associated with your Google Account:'
+  - Your name
+- source: information associate with google account
+  target: profile picture
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Your profile picture'
+  - 'When you use Sign in with Google to access our Services, Google only shares with
+    us the following information associated with your Google Account:'
+- source: internet activity
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    App usage data (e.g., device identifiers (not Apple ID), operating system, and
+    IP addresses)'
+- source: internet activity
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    App usage data (e.g., device identifiers (not Apple ID), operating system, and
+    IP addresses)'
+- source: internet activity
+  target: operating system
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    App usage data (e.g., device identifiers (not Apple ID), operating system, and
+    IP addresses)'
+- source: issue document
+  target: license
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Payment Account Details, bank account details, billing/shipping address, name,
+    date/time/amount of transaction, device ID, email address, IP address/location,
+    order ID, payment card details, tax ID/status, unique customer identifier, identity
+    information including government issued documents (e.g., national IDs, driver''s
+    licenses and passports)'
+- source: issue document
+  target: national id
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Payment Account Details, bank account details, billing/shipping address, name,
+    date/time/amount of transaction, device ID, email address, IP address/location,
+    order ID, payment card details, tax ID/status, unique customer identifier, identity
+    information including government issued documents (e.g., national IDs, driver''s
+    licenses and passports)'
+- source: issue document
+  target: passport
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Payment Account Details, bank account details, billing/shipping address, name,
+    date/time/amount of transaction, device ID, email address, IP address/location,
+    order ID, payment card details, tax ID/status, unique customer identifier, identity
+    information including government issued documents (e.g., national IDs, driver''s
+    licenses and passports)'
+- source: log file information
+  target: date
+  key: SUBSUM
+  text:
+  - When you use our App, analytics tools automatically record certain log file information,
+    including the time and date when you start and stop using the App and how you
+    interact with the App.
+- source: log file information
+  target: time
+  key: SUBSUM
+  text:
+  - When you use our App, analytics tools automatically record certain log file information,
+    including the time and date when you start and stop using the App and how you
+    interact with the App.
+- source: person name
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Secure Signals; Names, email addresses, phone numbers, addresses, client identifiers,
+    online identifiers, including internet protocol addresses; partner-provided identifiers;
+    cookie identifiers, device identifiers;'
+- source: personal information access
+  target: combination
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Personal information accessed or collected in connection with an event on TikTok
+    inventory and properties, including a user''s non-intentional interaction with
+    our ads, including hovering over, muting, pausing, or closing our ads; and any
+    derivations or combinations of such personal information'
+- source: platform
+  target: social media
+  key: SUBSUM
+  text:
+  - In order to discover you or users who are similar to you on other platforms, including
+    social networking websites, AppsFlyer may provide your Personal Data to some of
+    its integrated partners (such as Pinterest, Google Ads, Apple Search Ads, FB marketing
+    network, and others).
+- source: public authority
+  target: public authority outside country of residence
+  key: SUBSUM
+  text:
+  - and respond to requests from public and government authorities, including public
+    and government authorities outside your country of residence
+- source: raw datum
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: appsflyer id
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+- source: raw datum
+  target: campaign id
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: currency
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: event revenue
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: event source
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: event status
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: idfv
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: region
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: raw datum
+  target: site id
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue and currency,
+    event source, campaign ID, site ID, region, country, city, IP address, AppsFlyer
+    ID (if applicable), Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID.'
+  - 'Privacy Policy
+
+
+    Technical identifiers and raw data, namely, event status, event revenue, and currency,
+    event source, campaign ID, site ID, region, country, state, city, IP address,
+    Customer User ID, Advertising ID, IDFA, IDFV; data about your device, namely,
+    device category, platform, OS version, App version, and ID'
+- source: technical identifier
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'In this regard, the following information may be collected and processed: Device
+    identifiers and technical identifiers (e.g. IDFA) .'
+- source: type of ad
+  target: url from refer website
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    such as: clicks on our ads, ad impressions viewed, audiences or segments to which
+    an ad campaign is attributed, the type of ads and the webpage or application from
+    which such ads were displayed, the webpages on our Website visited by you, the
+    URL from the referring website, downloads and installations of the App.'
+- source: type of device
+  target: manufacturer
+  key: SUBSUM
+  text:
+  - 'In this regard, the following information may be collected and processed: Information
+    about the device itself: type of your device, type of operating system, and its
+    version, model, and manufacturer.'
+- source: type of device
+  target: model
+  key: SUBSUM
+  text:
+  - 'In this regard, the following information may be collected and processed: Information
+    about the device itself: type of your device, type of operating system, and its
+    version, model, and manufacturer.'
+- source: type of device
+  target: version
+  key: SUBSUM
+  text:
+  - 'In this regard, the following information may be collected and processed: Information
+    about the device itself: type of your device, type of operating system, and its
+    version, model, and manufacturer.'
+- source: type of operate system
+  target: type of device
+  key: SUBSUM
+  text:
+  - 'In this regard, the following information may be collected and processed: Information
+    about the device itself: type of your device, type of operating system, and its
+    version, model, and manufacturer.'
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: AppsFlyer
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: auditor
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: country
+- type: ACTOR
+  id: international organization
+- type: ACTOR
+  id: international organization datum protection regulation not provide same level
+    of personal datum protection
+- type: ACTOR
+  id: platform
+- type: ACTOR
+  id: processor
+- type: ACTOR
+  id: public authority
+- type: ACTOR
+  id: public authority outside country of residence
+- type: ACTOR
+  id: research entity
+- type: ACTOR
+  id: server storage
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service provider we use
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: specified sector within third country
+- type: ACTOR
+  id: third country
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: activity
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: analytic information
+- type: DATA
+  id: analytic information from website
+- type: DATA
+  id: anonymized analytic information
+- type: DATA
+  id: app id
+- type: DATA
+  id: app setting information
+- type: DATA
+  id: app version
+- type: DATA
+  id: appsflyer id
+- type: DATA
+  id: billing information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: camera require as light sensor estimate heart rate
+- type: DATA
+  id: campaign id
+- type: DATA
+  id: categorize datum record in database
+- type: DATA
+  id: collect datum
+- type: DATA
+  id: combination
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: copy of personal datum along
+- type: DATA
+  id: currency
+- type: DATA
+  id: custom event
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: date of profile creation
+- type: DATA
+  id: date time stamp
+- type: DATA
+  id: datum about device
+- type: DATA
+  id: datum about website traffic
+- type: DATA
+  id: datum contain in app
+- type: DATA
+  id: datum from apple health
+- type: DATA
+  id: datum relate to device browser
+- type: DATA
+  id: datum you submit to website
+- type: DATA
+  id: demographic indication
+- type: DATA
+  id: device category
+- type: DATA
+  id: device datum
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device information
+- type: DATA
+  id: device property
+- type: DATA
+  id: email address
+- type: DATA
+  id: employment information of personal datum subject
+- type: DATA
+  id: end user datum
+- type: DATA
+  id: event datum about you
+- type: DATA
+  id: event revenue
+- type: DATA
+  id: event source
+- type: DATA
+  id: event status
+- type: DATA
+  id: gameplay
+- type: DATA
+  id: gender
+- type: DATA
+  id: health datum
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: heart rate variability
+- type: DATA
+  id: height
+- type: DATA
+  id: identification number associate with device
+- type: DATA
+  id: identifier
+- type: DATA
+  id: identifier for advertiser
+- type: DATA
+  id: identity information
+- type: DATA
+  id: idfv
+- type: DATA
+  id: in app event
+- type: DATA
+  id: in app information
+- type: DATA
+  id: individual identifier
+- type: DATA
+  id: information associate with google account
+- type: DATA
+  id: information collect
+- type: DATA
+  id: information process
+- type: DATA
+  id: information third party service make
+- type: DATA
+  id: information you search for
+- type: DATA
+  id: information you submit to we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: issue document
+- type: DATA
+  id: license
+- type: DATA
+  id: locale preference
+- type: DATA
+  id: log file information
+- type: DATA
+  id: make
+- type: DATA
+  id: manufacturer
+- type: DATA
+  id: measurement datum
+- type: DATA
+  id: model
+- type: DATA
+  id: national id
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: only event datum about you
+- type: DATA
+  id: operating system
+- type: DATA
+  id: os version
+- type: DATA
+  id: passport
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal data in structured use machine readable format
+- type: DATA
+  id: personal datum associate with apple account
+- type: DATA
+  id: personal datum from different source
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information access
+- type: DATA
+  id: personalized content
+- type: DATA
+  id: postal address
+- type: DATA
+  id: process information
+- type: DATA
+  id: profile picture
+- type: DATA
+  id: profile picture url
+- type: DATA
+  id: progression event
+- type: DATA
+  id: push notification
+- type: DATA
+  id: raw datum
+- type: DATA
+  id: region
+- type: DATA
+  id: setting
+- type: DATA
+  id: site id
+- type: DATA
+  id: sleep change
+- type: DATA
+  id: specific area
+- type: DATA
+  id: specific personal data
+- type: DATA
+  id: subscription id
+- type: DATA
+  id: subscription status
+- type: DATA
+  id: sufficient information allow
+- type: DATA
+  id: system configuration information
+- type: DATA
+  id: technical identifier
+- type: DATA
+  id: time
+- type: DATA
+  id: type of ad
+- type: DATA
+  id: type of device
+- type: DATA
+  id: type of operate system
+- type: DATA
+  id: unique identifier necessary
+- type: DATA
+  id: url
+- type: DATA
+  id: url from refer website
+- type: DATA
+  id: version
+- type: DATA
+  id: voice
+- type: DATA
+  id: web log
+- type: DATA
+  id: workout

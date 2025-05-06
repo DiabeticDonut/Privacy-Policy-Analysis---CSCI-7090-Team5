@@ -1,0 +1,649 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We and some of our third-party service providers use web beacons to collect information
+    to support our reporting software.
+  purposes:
+    analytics:
+    - to support our reporting software
+    services:
+    - to support our reporting software
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - In addition, we may also collect anonymous information through the use of "Web
+    Beacons" and "Cookies".
+  - The anonymous information we collect through your usage of our Platform is used
+    in aggregate form to help us monitor audience size, measure traffic patterns and
+    identify popular services and information within our Platform.
+  - We use this information to improve our services to you and to develop improved
+    services based on user interests, behavior and demographics.
+  purposes:
+    analytics:
+    - to improve our services to you and to develop improved services based on user
+      interests, behavior and demographics
+    services:
+    - to improve our services to you and to develop improved services based on user
+      interests, behavior and demographics
+- source: we
+  target: anonymous datum
+  key: COLLECT
+  text:
+  - We may also disclose anonymous or Personal Data when we have reason to believe
+    that disclosing this information is necessary to identify, contact or bring legal
+    action against a third party who may be violating our terms and conditions governing
+    the use of our Platform, or who may be (intentionally or unintentionally) causing
+    injury to or interference with your or our rights or property or those of a third
+    party.
+  - We may disclose any anonymous or Personal Data to the extent we believe the disclosure
+    to be required by law.
+  - We may share anonymous or Personal Data with our third-party service providers
+    in order for them to perform their services for us.
+  purposes:
+    services:
+    - in order for them to perform their services for us
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and some of our third-party service providers use web beacons to collect information
+    to support our reporting software.
+  - We use cookies to recognize your device whenever you visit our Platform through
+    the unique identification number assigned to the cookie; this information is stored
+    to help facilitate your use of our websites the next time you visit.
+  - 'We use two types of cookies: First-party cookies - AdventHealth uses first-party
+    cookies to verify users when they log into their account within the Platform.'
+  - 'We use two types of cookies: Third-party cookies - Our Platform Uses third-party
+    cookies from service providers such as Google Analytics for the following purposes:'
+  purposes:
+    services:
+    - to help facilitate your use of our websites the next time you visit
+    - to recognize your device whenever you visit our Platform through the unique
+      identification number assigned to the cookie
+- source: we
+  target: fitness data
+  key: COLLECT
+  text:
+  - We collect Fitness and Wellness Data only when (1) you input it within our Platform
+    or (2) you enable us to access third-party services which have access to your
+    Fitness and Wellness Data.
+  - We collect Fitness and Wellness Data when you voluntarily provide it within the
+    Platform (i.e., allowing access to Apple Health or Google Fit on our mobile applications)
+    or when you provide it in response to a request from your health care provider.
+  purposes: {}
+- source: we
+  target: information obtain through use of google analytics
+  key: COLLECT
+  text:
+  - We only share the information obtained through the use of Google Analytics with
+    Google.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - We collect personally identifiable information when you voluntarily provide it,
+    such as when you request a newsletter that we produce, indicate that you would
+    like to receive certain targeted information on topics that interest you, or use
+    our social media pages.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - You may also share your Personal Data with us via third-party services such as
+    Apple Health (iOS devices) or Google Fit (Android devices).
+  purposes: {}
+- source: Google
+  target: information obtain through use of google analytics
+  key: COLLECT
+  text:
+  - We only share the information obtained through the use of Google Analytics with
+    Google.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Please keep in mind that whenever you voluntarily disclose information about yourself
+    in the public domain, for example, through bulletin boards, chat rooms, email,
+    it is likely to be collected and used by third parties.
+  - These third parties may use your information to contact you or for unauthorized
+    purposes.
+  - We and some of our third-party service providers use web beacons to collect information
+    to support our reporting software.
+  purposes:
+    analytics:
+    - to support our reporting software
+    security:
+    - to contact you or for unauthorized purposes
+    services:
+    - to contact you or for unauthorized purposes
+    - to support our reporting software
+- source: UNSPECIFIED_ACTOR
+  target: anonymous datum
+  key: COLLECT
+  text:
+  - We may share anonymous or Personal Data with our third-party service providers
+    in order for them to perform their services for us.
+  purposes:
+    services:
+    - in order for them to perform their services for us
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and some of our third-party service providers use web beacons to collect information
+    to support our reporting software.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: external storage
+  key: COLLECT
+  text:
+  - 'To provide these services, AdventHealth and AMITA Health need to access, and
+    you give them permission to access, the following options on your device: Files,
+    Media, and External Storage - So you can share files with your care team and edit
+    your profile.'
+  purposes:
+    services:
+    - To provide these services
+    - to access,
+- source: UNSPECIFIED_ACTOR
+  target: option on device
+  key: COLLECT
+  text:
+  - 'To provide these services, AdventHealth and AMITA Health need to access, and
+    you give them permission to access, the following options on your device:'
+  purposes:
+    services:
+    - To provide these services
+    - to access,
+- source: adventhealth
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'We use two types of cookies: First-party cookies - AdventHealth uses first-party
+    cookies to verify users when they log into their account within the Platform.'
+  purposes:
+    security:
+    - to verify users when they log into their account within the Platform
+- source: copyright agent
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'To do so, please provide our Copyright Agent with the following information (see
+    17 U.S.C 512(c)(3) for further detail) in writing: (1) A physical or electronic
+    signature of a person authorized to act on behalf of the owner of an exclusive
+    right that is allegedly infringed; (2) Identification of the copyrighted work
+    claimed to have been infringed, or, if multiple copyrighted works at a single
+    online site are covered by a single notification, a representative list of such
+    works at that site; (3) Identification of the material that is claimed to be infringing
+    or to be the subject of infringing activity and that is to be removed or access
+    to which is to be disabled and information reasonably sufficient to permit the
+    service provider to locate the material; (4) Information reasonably sufficient
+    to permit the service provider to contact you, such as an address, telephone number,
+    and, if available, an electronic mail; (5) A statement that you have a good faith
+    belief that use of the material in the manner complained of is not authorized
+    by the copyright owner, its agent, or the law; and (6) A statement that the information
+    in the notification is accurate, and under penalty of perjury, that you are authorized
+    to act on behalf of the owner of an exclusive right that is allegedly infringed.'
+  purposes: {}
+- source: representative list of work at site
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'To do so, please provide our Copyright Agent with the following information (see
+    17 U.S.C 512(c)(3) for further detail) in writing: (1) A physical or electronic
+    signature of a person authorized to act on behalf of the owner of an exclusive
+    right that is allegedly infringed; (2) Identification of the copyrighted work
+    claimed to have been infringed, or, if multiple copyrighted works at a single
+    online site are covered by a single notification, a representative list of such
+    works at that site; (3) Identification of the material that is claimed to be infringing
+    or to be the subject of infringing activity and that is to be removed or access
+    to which is to be disabled and information reasonably sufficient to permit the
+    service provider to locate the material; (4) Information reasonably sufficient
+    to permit the service provider to contact you, such as an address, telephone number,
+    and, if available, an electronic mail; (5) A statement that you have a good faith
+    belief that use of the material in the manner complained of is not authorized
+    by the copyright owner, its agent, or the law; and (6) A statement that the information
+    in the notification is accurate, and under penalty of perjury, that you are authorized
+    to act on behalf of the owner of an exclusive right that is allegedly infringed.'
+  purposes: {}
+- source: web browser
+  target: information about preference
+  key: COLLECT
+  text:
+  - When you surf the Internet, your web browser automatically transmits information
+    about your preferences to our server every time you visit our Platform, including
+    your IP address.
+  purposes: {}
+- source: we
+  target: Google
+  key: SUBSUM
+  text:
+  - 'Privacy Policy and Terms and Conditions of Use
+
+
+    to record how you located our Platform (i.e., Google search, keyword, link from
+    other page etc.).'
+- source: adventhealth service
+  target: fhhs member services
+  key: SUBSUM
+  text:
+  - 'This Policy does not apply to Personal Data received or created by AdventHealth
+    from any of the following AdventHealth services: FHHS Member Services.'
+- source: adventhealth service
+  target: online search
+  key: SUBSUM
+  text:
+  - 'This Policy does not apply to Personal Data received or created by AdventHealth
+    from any of the following AdventHealth services: Online search and application
+    for employment opportunities at AdventHealth, other than physician career opportunities.'
+- source: adventhealth service
+  target: patient care services
+  key: SUBSUM
+  text:
+  - 'This Policy does not apply to Personal Data received or created by AdventHealth
+    from any of the following AdventHealth services: Patient Care Services.'
+- source: aggregate / deidentified / pseudonymized information
+  target: browser type
+  key: SUBSUM
+  text:
+  - Anonymous information refers to information that cannot be tied to a specific
+    individual.
+  - This information includes internet protocol (IP) addresses, browser type, internet
+    service provider (ISP), referring/exit pages, operating system, date/time stamp,
+    and click stream data.
+- source: aggregate / deidentified / pseudonymized information
+  target: click stream data
+  key: SUBSUM
+  text:
+  - Anonymous information refers to information that cannot be tied to a specific
+    individual.
+  - This information includes internet protocol (IP) addresses, browser type, internet
+    service provider (ISP), referring/exit pages, operating system, date/time stamp,
+    and click stream data.
+- source: aggregate / deidentified / pseudonymized information
+  target: date time stamp
+  key: SUBSUM
+  text:
+  - Anonymous information refers to information that cannot be tied to a specific
+    individual.
+  - This information includes internet protocol (IP) addresses, browser type, internet
+    service provider (ISP), referring/exit pages, operating system, date/time stamp,
+    and click stream data.
+- source: aggregate / deidentified / pseudonymized information
+  target: ip address
+  key: SUBSUM
+  text:
+  - Anonymous information refers to information that cannot be tied to a specific
+    individual.
+  - This information includes internet protocol (IP) addresses, browser type, internet
+    service provider (ISP), referring/exit pages, operating system, date/time stamp,
+    and click stream data.
+- source: information about preference
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you surf the Internet, your web browser automatically transmits information
+    about your preferences to our server every time you visit our Platform, including
+    your IP address.
+- source: information reasonably sufficient
+  target: electronic mail
+  key: SUBSUM
+  text:
+  - 'To do so, please provide our Copyright Agent with the following information (see
+    17 U.S.C 512(c)(3) for further detail) in writing: (1) A physical or electronic
+    signature of a person authorized to act on behalf of the owner of an exclusive
+    right that is allegedly infringed; (2) Identification of the copyrighted work
+    claimed to have been infringed, or, if multiple copyrighted works at a single
+    online site are covered by a single notification, a representative list of such
+    works at that site; (3) Identification of the material that is claimed to be infringing
+    or to be the subject of infringing activity and that is to be removed or access
+    to which is to be disabled and information reasonably sufficient to permit the
+    service provider to locate the material; (4) Information reasonably sufficient
+    to permit the service provider to contact you, such as an address, telephone number,
+    and, if available, an electronic mail; (5) A statement that you have a good faith
+    belief that use of the material in the manner complained of is not authorized
+    by the copyright owner, its agent, or the law; and (6) A statement that the information
+    in the notification is accurate, and under penalty of perjury, that you are authorized
+    to act on behalf of the owner of an exclusive right that is allegedly infringed.'
+- source: information reasonably sufficient
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'To do so, please provide our Copyright Agent with the following information (see
+    17 U.S.C 512(c)(3) for further detail) in writing: (1) A physical or electronic
+    signature of a person authorized to act on behalf of the owner of an exclusive
+    right that is allegedly infringed; (2) Identification of the copyrighted work
+    claimed to have been infringed, or, if multiple copyrighted works at a single
+    online site are covered by a single notification, a representative list of such
+    works at that site; (3) Identification of the material that is claimed to be infringing
+    or to be the subject of infringing activity and that is to be removed or access
+    to which is to be disabled and information reasonably sufficient to permit the
+    service provider to locate the material; (4) Information reasonably sufficient
+    to permit the service provider to contact you, such as an address, telephone number,
+    and, if available, an electronic mail; (5) A statement that you have a good faith
+    belief that use of the material in the manner complained of is not authorized
+    by the copyright owner, its agent, or the law; and (6) A statement that the information
+    in the notification is accurate, and under penalty of perjury, that you are authorized
+    to act on behalf of the owner of an exclusive right that is allegedly infringed.'
+- source: information reasonably sufficient
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'To do so, please provide our Copyright Agent with the following information (see
+    17 U.S.C 512(c)(3) for further detail) in writing: (1) A physical or electronic
+    signature of a person authorized to act on behalf of the owner of an exclusive
+    right that is allegedly infringed; (2) Identification of the copyrighted work
+    claimed to have been infringed, or, if multiple copyrighted works at a single
+    online site are covered by a single notification, a representative list of such
+    works at that site; (3) Identification of the material that is claimed to be infringing
+    or to be the subject of infringing activity and that is to be removed or access
+    to which is to be disabled and information reasonably sufficient to permit the
+    service provider to locate the material; (4) Information reasonably sufficient
+    to permit the service provider to contact you, such as an address, telephone number,
+    and, if available, an electronic mail; (5) A statement that you have a good faith
+    belief that use of the material in the manner complained of is not authorized
+    by the copyright owner, its agent, or the law; and (6) A statement that the information
+    in the notification is accurate, and under penalty of perjury, that you are authorized
+    to act on behalf of the owner of an exclusive right that is allegedly infringed.'
+- source: information relate to lifestyle
+  target: activity
+  key: SUBSUM
+  text:
+  - Fitness and Wellness Data refers to information related to your lifestyle including
+    but not limited to height, weight, heart rate, blood pressure, sleep data, blood
+    sugar, diet and/or dietary restrictions, and activity.
+- source: information relate to lifestyle
+  target: blood pressure
+  key: SUBSUM
+  text:
+  - Fitness and Wellness Data refers to information related to your lifestyle including
+    but not limited to height, weight, heart rate, blood pressure, sleep data, blood
+    sugar, diet and/or dietary restrictions, and activity.
+- source: information relate to lifestyle
+  target: blood sugar
+  key: SUBSUM
+  text:
+  - Fitness and Wellness Data refers to information related to your lifestyle including
+    but not limited to height, weight, heart rate, blood pressure, sleep data, blood
+    sugar, diet and/or dietary restrictions, and activity.
+- source: information relate to lifestyle
+  target: heart rate
+  key: SUBSUM
+  text:
+  - Fitness and Wellness Data refers to information related to your lifestyle including
+    but not limited to height, weight, heart rate, blood pressure, sleep data, blood
+    sugar, diet and/or dietary restrictions, and activity.
+- source: information relate to lifestyle
+  target: height
+  key: SUBSUM
+  text:
+  - Fitness and Wellness Data refers to information related to your lifestyle including
+    but not limited to height, weight, heart rate, blood pressure, sleep data, blood
+    sugar, diet and/or dietary restrictions, and activity.
+- source: information relate to lifestyle
+  target: sleep datum
+  key: SUBSUM
+  text:
+  - Fitness and Wellness Data refers to information related to your lifestyle including
+    but not limited to height, weight, heart rate, blood pressure, sleep data, blood
+    sugar, diet and/or dietary restrictions, and activity.
+- source: information relate to lifestyle
+  target: weight
+  key: SUBSUM
+  text:
+  - Fitness and Wellness Data refers to information related to your lifestyle including
+    but not limited to height, weight, heart rate, blood pressure, sleep data, blood
+    sugar, diet and/or dietary restrictions, and activity.
+- source: information you give adventhealth through platform
+  target: information contain in personal account
+  key: SUBSUM
+  text:
+  - You represent and warrant that all information you give AdventHealth or AMITA
+    Health through the Platform, including without limitation any information contained
+    in your personal account, is accurate and complete.
+- source: online service
+  target: adventhealth mobile application
+  key: SUBSUM
+  text:
+  - Our Policy applies to all websites and online services of AdventHealth, including
+    AdventHealth.com (the "Website"), any other website on which this Policy is posted
+    by AdventHealth (any "Other Website"), the AMITA Health Hellowell(tm) patient
+    portal ("AMITA Health"), any AdventHealth mobile application (an "App"), and any
+    electronic communications, including text messages, that are exchanged between
+    you and AdventHealth ("Communications").
+- source: online service
+  target: amita health
+  key: SUBSUM
+  text:
+  - Our Policy applies to all websites and online services of AdventHealth, including
+    AdventHealth.com (the "Website"), any other website on which this Policy is posted
+    by AdventHealth (any "Other Website"), the AMITA Health Hellowell(tm) patient
+    portal ("AMITA Health"), any AdventHealth mobile application (an "App"), and any
+    electronic communications, including text messages, that are exchanged between
+    you and AdventHealth ("Communications").
+- source: online service
+  target: communications
+  key: SUBSUM
+  text:
+  - Our Policy applies to all websites and online services of AdventHealth, including
+    AdventHealth.com (the "Website"), any other website on which this Policy is posted
+    by AdventHealth (any "Other Website"), the AMITA Health Hellowell(tm) patient
+    portal ("AMITA Health"), any AdventHealth mobile application (an "App"), and any
+    electronic communications, including text messages, that are exchanged between
+    you and AdventHealth ("Communications").
+- source: online service
+  target: electronic communication
+  key: SUBSUM
+  text:
+  - Our Policy applies to all websites and online services of AdventHealth, including
+    AdventHealth.com (the "Website"), any other website on which this Policy is posted
+    by AdventHealth (any "Other Website"), the AMITA Health Hellowell(tm) patient
+    portal ("AMITA Health"), any AdventHealth mobile application (an "App"), and any
+    electronic communications, including text messages, that are exchanged between
+    you and AdventHealth ("Communications").
+- source: online service
+  target: patient portal
+  key: SUBSUM
+  text:
+  - Our Policy applies to all websites and online services of AdventHealth, including
+    AdventHealth.com (the "Website"), any other website on which this Policy is posted
+    by AdventHealth (any "Other Website"), the AMITA Health Hellowell(tm) patient
+    portal ("AMITA Health"), any AdventHealth mobile application (an "App"), and any
+    electronic communications, including text messages, that are exchanged between
+    you and AdventHealth ("Communications").
+- source: online service
+  target: website on post
+  key: SUBSUM
+  text:
+  - Our Policy applies to all websites and online services of AdventHealth, including
+    AdventHealth.com (the "Website"), any other website on which this Policy is posted
+    by AdventHealth (any "Other Website"), the AMITA Health Hellowell(tm) patient
+    portal ("AMITA Health"), any AdventHealth mobile application (an "App"), and any
+    electronic communications, including text messages, that are exchanged between
+    you and AdventHealth ("Communications").
+- source: option on device
+  target: file
+  key: SUBSUM
+  text:
+  - 'To provide these services, AdventHealth and AMITA Health need to access, and
+    you give them permission to access, the following options on your device: Files,
+    Media, and External Storage - So you can share files with your care team and edit
+    your profile.'
+- source: option on device
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'To provide these services, AdventHealth and AMITA Health need to access, and
+    you give them permission to access, the following options on your device: Location
+    - so we can find care providers in your area.'
+- source: option on device
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'To provide these services, AdventHealth and AMITA Health need to access, and
+    you give them permission to access, the following options on your device: Phone
+    Number - so we can call you if your Video Visit is interrupted unexpectedly.'
+- source: personal identifier
+  target: age
+  key: SUBSUM
+  text:
+  - Personally identifiable information refers to information that can be used to
+    identify you, such as your name, address, age, phone number, etc.
+- source: personal identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - Personally identifiable information refers to information that can be used to
+    identify you, such as your name, address, age, phone number, etc.
+- source: personal identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - Personally identifiable information refers to information that can be used to
+    identify you, such as your name, address, age, phone number, etc.
+- source: personal identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - Personally identifiable information refers to information that can be used to
+    identify you, such as your name, address, age, phone number, etc.
+- source: service provider
+  target: Google
+  key: SUBSUM
+  text:
+  - 'We use two types of cookies: Third-party cookies - Our Platform Uses third-party
+    cookies from service providers such as Google Analytics for the following purposes:'
+- source: text messaging
+  target: healthcare
+  key: SUBSUM
+  text:
+  - Text messaging may include one-time or recurring texts to coordinate your healthcare
+    or to tell you about our programs, products, services, or tools, or a survey about
+    your experience at AdventHealth or AMITA Health.
+- source: text messaging
+  target: time text
+  key: SUBSUM
+  text:
+  - Text messaging may include one-time or recurring texts to coordinate your healthcare
+    or to tell you about our programs, products, services, or tools, or a survey about
+    your experience at AdventHealth or AMITA Health.
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: adventhealth
+- type: ACTOR
+  id: adventhealth mobile application
+- type: ACTOR
+  id: adventhealth service
+- type: ACTOR
+  id: amita health
+- type: ACTOR
+  id: communications
+- type: ACTOR
+  id: copyright agent
+- type: ACTOR
+  id: electronic communication
+- type: ACTOR
+  id: fhhs member services
+- type: ACTOR
+  id: online search
+- type: ACTOR
+  id: online service
+- type: ACTOR
+  id: patient care services
+- type: ACTOR
+  id: patient portal
+- type: ACTOR
+  id: representative list of work at site
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: web browser
+- type: ACTOR
+  id: website on post
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: activity
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: anonymous datum
+- type: DATA
+  id: blood pressure
+- type: DATA
+  id: blood sugar
+- type: DATA
+  id: browser type
+- type: DATA
+  id: click stream data
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date time stamp
+- type: DATA
+  id: electronic mail
+- type: DATA
+  id: external storage
+- type: DATA
+  id: file
+- type: DATA
+  id: fitness data
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: healthcare
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: height
+- type: DATA
+  id: information about preference
+- type: DATA
+  id: information contain in personal account
+- type: DATA
+  id: information obtain through use of google analytics
+- type: DATA
+  id: information reasonably sufficient
+- type: DATA
+  id: information relate to lifestyle
+- type: DATA
+  id: information you give adventhealth through platform
+- type: DATA
+  id: ip address
+- type: DATA
+  id: option on device
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: sleep datum
+- type: DATA
+  id: text messaging
+- type: DATA
+  id: time text
+- type: DATA
+  id: weight

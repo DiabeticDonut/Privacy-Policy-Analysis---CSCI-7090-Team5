@@ -1,0 +1,3306 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Such signals will be automatically linked to your browser or device identifier,
+    and we will process them as a valid, automatic request to opt-out of the sale
+    and sharing of your personal information in the event personal information is
+    ever shared or sold.
+  - We may share information with vendors and suppliers (collectively, "Service Providers")
+    who perform services and functions on our behalf to support our interactions with
+    you.
+  purposes: {}
+- source: we
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - We may use cookies, web beacons, pixel tags, mobile analytics software, log files,
+    or other technologies to collect certain information about your online activity
+    and interactions with our emails, online and mobile advertisements, and to allow
+    us to keep track of analytics and certain statistical information that enables
+    HealthJoy to improve our services and provide you with more relevant content and
+    advertising offered by HealthJoy or through or linked from our services.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - In the event you do not consent to the use of cookies other than strictly necessary
+    cookies, our website may continue to be accessible to you, but will only utilize
+    strictly necessary cookies  associated with the basic functionality of our website.
+  - We may use cookies, web beacons, pixel tags, mobile analytics software, log files,
+    or other technologies to collect certain information about your online activity
+    and interactions with our emails, online and mobile advertisements, and to allow
+    us to keep track of analytics and certain statistical information that enables
+    HealthJoy to improve our services and provide you with more relevant content and
+    advertising offered by HealthJoy or through or linked from our services.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may transfer and disclose information, including your personal information,
+    usage information and device identifier, (including IP address), to third parties
+    to comply with a legal obligation; when we believe in good faith that the law
+    requires it; at the request of governmental authorities conducting an investigation;
+    to verify or enforce ouragreements, terms of use, or other applicable policies;
+    to respond to an emergency; or otherwise to protect the rights, property, safety,
+    or security of third parties, visitors to our Service, or the public.
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    legal:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    security:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: we
+  target: different level of quality
+  key: COLLECT
+  text:
+  - However, we can and may charge you a different rate, or provide a different level
+    of quality, if the difference is reasonably related to the value provided by your
+    personal information.
+  purposes: {}
+- source: we
+  target: different level quality of good
+  key: COLLECT
+  text:
+  - As a result of your Consumer Request activity, we may not and will not deny goods
+    or services to you; charge different rates for goods or services; provide a different
+    level quality of goods or services; or suggest any of the preceding will occur.
+  purposes: {}
+- source: we
+  target: driver's license number
+  key: COLLECT
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: educational information
+  key: COLLECT
+  text:
+  - If you are a job applicant, employee, owner, director, officer, or contractor
+    of HealthJoy (individually referenced in this Policy as "employee" and collectively
+    referenced as "employees"), we may also collect educational, professional, and
+    employment-related information, which may include certain sensitive personal information.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: we
+  target: employment history
+  key: COLLECT
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - When you use our Service, we collect certain information about you automatically
+    through our use of cookies and similar technologies such as web beacons and pixels.
+  purposes: {}
+- source: we
+  target: information we receive
+  key: COLLECT
+  text:
+  - We will only use the information we receive to respond to your request.
+  purposes:
+    services:
+    - to respond to your request
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We may use cookies, web beacons, pixel tags, mobile analytics software, log files,
+    or other technologies to collect certain information about your online activity
+    and interactions with our emails, online and mobile advertisements, and to allow
+    us to keep track of analytics and certain statistical information that enables
+    HealthJoy to improve our services and provide you with more relevant content and
+    advertising offered by HealthJoy or through or linked from our services.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: we
+  target: log credential
+  key: COLLECT
+  text:
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: we
+  target: log file
+  key: COLLECT
+  text:
+  - We may use cookies, web beacons, pixel tags, mobile analytics software, log files,
+    or other technologies to collect certain information about your online activity
+    and interactions with our emails, online and mobile advertisements, and to allow
+    us to keep track of analytics and certain statistical information that enables
+    HealthJoy to improve our services and provide you with more relevant content and
+    advertising offered by HealthJoy or through or linked from our services.
+  purposes: {}
+- source: we
+  target: marital partner
+  key: COLLECT
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: non - identifying information
+  key: COLLECT
+  text:
+  - We may also share non-identifying information, such as aggregate statistics or
+    usage information, with third parties in order to demonstrate how HealthJoy is
+    used, spot industry trends, or provide marketing materials for HealthJoy.
+  purposes:
+    advertising:
+    - in order to demonstrate how HealthJoy is used, spot industry trends, or provide
+      marketing materials for HealthJoy
+    analytics:
+    - in order to demonstrate how HealthJoy is used, spot industry trends, or provide
+      marketing materials for HealthJoy
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - Even if you do not register with or provide any personal information to HealthJoy,
+    we collect non-personal information about your use of HealthJoy.
+  - We may also acquire non-personal Information about our users from external sources.
+  purposes: {}
+- source: we
+  target: not track preference signal
+  key: COLLECT
+  text:
+  - Such signals will be automatically linked to your browser or device identifier,
+    and we will process them as a valid, automatic request to opt-out of the sale
+    and sharing of your personal information in the event personal information is
+    ever shared or sold.
+  - While we do not currently sell or share personal information, we do recognize
+    do-not-track and opt-out preference signals, such as the Global Privacy Control,
+    on browsers, browser extensions, or devices that support such a signal.
+  purposes: {}
+- source: we
+  target: passport number
+  key: COLLECT
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  purposes: {}
+- source: we
+  target: personal health information
+  key: COLLECT
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - If you choose to submit a Consumer Request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you and enough specificity on the requested data.
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - As explained in more detail below, the personal information we collect directly
+    from you may include PHI (defined herein).
+  - If the ownership of all or substantially all of our business changes, or we otherwise
+    transfer assets relating to our business or the Site, HealthJoy App, or Service
+    to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise,
+    we may transfer personal information to the new owner.
+  - If you sign up for one of our newsletters on a third-party website, you acknowledge
+    and agree that the website may provide us with your personal information, such
+    as your email address, and we may use that information as described in this Policy
+    as though you had provided it directly to us.
+  - We may also disclose personal information about you to the appropriate medical,
+    law enforcement, or other emergency response professionals in response to a physical
+    threat to you or others.
+  - We may receive personal data about you from your employer, or our third-party
+    affiliates or partners, and from marketing companies that provide us with such
+    information as a part of their relationship with us.
+  - 'We may share or disclose, and have within the preceding twelve months shared
+    or disclosed, your personal information for the following limited purposes:'
+  - We may transfer and disclose information, including your personal information,
+    usage information and device identifier, (including IP address), to third parties
+    to comply with a legal obligation; when we believe in good faith that the law
+    requires it; at the request of governmental authorities conducting an investigation;
+    to verify or enforce ouragreements, terms of use, or other applicable policies;
+    to respond to an emergency; or otherwise to protect the rights, property, safety,
+    or security of third parties, visitors to our Service, or the public.
+  - We will only keep your personal information for as long as we need it, as permitted
+    by the agreement for the Service, or as permitted or required by applicable law.
+  - 'While we have not shared or disclosed your personal information for the reasons
+    listed below within the last twelve months, we may also share or disclose your
+    personal information for the following purposes:'
+  - You may also request that we transfer your personal information to another entity,
+    to the extent such transfer is technically feasible and any fees associated with
+    such transfer are covered by you or the other entity.
+  - You may also request that we transfer your personal information to you or another
+    entity, to the extent such transfer is technically feasible.
+  purposes:
+    analytics:
+    - Aggregate Information
+    legal:
+    - Legal Disclosure
+    - Transfer in the Event of Sale or Change of Control
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    security:
+    - Your Consent to Have Your Personal Information Shared
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    services:
+    - Third Parties Providing Services on Our Behalf
+    - Your Consent to Have Your Personal Information Shared
+- source: we
+  target: phi
+  key: COLLECT
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+  purposes: {}
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  purposes: {}
+- source: we
+  target: precise geolocation
+  key: COLLECT
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+  purposes:
+    analytics:
+    - to provide such information on the HealthJoy App or Site
+    services:
+    - to provide such information on the HealthJoy App or Site
+- source: we
+  target: professional license
+  key: COLLECT
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - Additionally, where we have your explicit consent (and if legally required, written
+    consent) to do so, we may also collect, store, and process certain sensitive personal
+    information.
+  - We only collect, use, or disclose your sensitive personal information for purposes
+    reasonably necessary to carry out the services which you request from HealthJoy.
+  purposes:
+    services:
+    - for purposes reasonably necessary to carry out the services which you request
+      from HealthJoy
+    - to carry out the services which you request from HealthJoy
+- source: we
+  target: specificity on request datum
+  key: COLLECT
+  text:
+  - If you choose to submit a Consumer Request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you and enough specificity on the requested data.
+  purposes: {}
+- source: we
+  target: ssn
+  key: COLLECT
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: state id card number
+  key: COLLECT
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+  purposes: {}
+- source: we
+  target: usage information
+  key: COLLECT
+  text:
+  - We may transfer and disclose information, including your personal information,
+    usage information and device identifier, (including IP address), to third parties
+    to comply with a legal obligation; when we believe in good faith that the law
+    requires it; at the request of governmental authorities conducting an investigation;
+    to verify or enforce ouragreements, terms of use, or other applicable policies;
+    to respond to an emergency; or otherwise to protect the rights, property, safety,
+    or security of third parties, visitors to our Service, or the public.
+  purposes:
+    legal:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    security:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+- source: UNSPECIFIED_ACTOR
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may transfer and disclose information, including your personal information,
+    usage information and device identifier, (including IP address), to third parties
+    to comply with a legal obligation; when we believe in good faith that the law
+    requires it; at the request of governmental authorities conducting an investigation;
+    to verify or enforce ouragreements, terms of use, or other applicable policies;
+    to respond to an emergency; or otherwise to protect the rights, property, safety,
+    or security of third parties, visitors to our Service, or the public.
+  purposes:
+    legal:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    security:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+- source: UNSPECIFIED_ACTOR
+  target: non - identifying information
+  key: COLLECT
+  text:
+  - We may also share non-identifying information, such as aggregate statistics or
+    usage information, with third parties in order to demonstrate how HealthJoy is
+    used, spot industry trends, or provide marketing materials for HealthJoy.
+  purposes:
+    advertising:
+    - in order to demonstrate how HealthJoy is used, spot industry trends, or provide
+      marketing materials for HealthJoy
+    analytics:
+    - in order to demonstrate how HealthJoy is used, spot industry trends, or provide
+      marketing materials for HealthJoy
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - HealthJoy may share personal information with third parties when we have your
+    consent to do so.
+  - If you agree to have your personal information shared with a third party, your
+    personal information will be disclosed to the third party and will be subject
+    to the privacy policy and business practices of that third party.
+  - We may transfer and disclose information, including your personal information,
+    usage information and device identifier, (including IP address), to third parties
+    to comply with a legal obligation; when we believe in good faith that the law
+    requires it; at the request of governmental authorities conducting an investigation;
+    to verify or enforce ouragreements, terms of use, or other applicable policies;
+    to respond to an emergency; or otherwise to protect the rights, property, safety,
+    or security of third parties, visitors to our Service, or the public.
+  - You may also request that we transfer your personal information to another entity,
+    to the extent such transfer is technically feasible and any fees associated with
+    such transfer are covered by you or the other entity.
+  - You may also request that we transfer your personal information to you or another
+    entity, to the extent such transfer is technically feasible.
+  purposes:
+    legal:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    security:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+- source: UNSPECIFIED_ACTOR
+  target: phi
+  key: COLLECT
+  text:
+  - The third-party providers of third-party product and services your employer or
+    benefits administrator purchased are permitted by your consent to this Privacy
+    Policy to collect PHI over time or across different websites or online services
+    when you use our Service.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: usage information
+  key: COLLECT
+  text:
+  - We may transfer and disclose information, including your personal information,
+    usage information and device identifier, (including IP address), to third parties
+    to comply with a legal obligation; when we believe in good faith that the law
+    requires it; at the request of governmental authorities conducting an investigation;
+    to verify or enforce ouragreements, terms of use, or other applicable policies;
+    to respond to an emergency; or otherwise to protect the rights, property, safety,
+    or security of third parties, visitors to our Service, or the public.
+  purposes:
+    legal:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+    security:
+    - to comply with a legal obligation; when we believe in good faith that the law
+      requires it; at the request of governmental authorities conducting an investigation;
+      to verify or enforce ouragreements, terms of use, or other applicable policies;
+      to respond to an emergency; or otherwise to protect the rights, property, safety,
+      or security of third parties, visitors to our Service, or the public.
+- source: appropriate medical emergency response professional
+  target: personal information
+  key: COLLECT
+  text:
+  - We may also disclose personal information about you to the appropriate medical,
+    law enforcement, or other emergency response professionals in response to a physical
+    threat to you or others.
+  purposes: {}
+- source: healthcare provider
+  target: phi
+  key: COLLECT
+  text:
+  - HealthJoy may disclose your PHI to another physician or healthcare provider for
+    purposes of consultation or in connection with the provision of follow-up treatment.
+  purposes:
+    services:
+    - for purposes of consultation or in connection with the provision of follow-up
+      treatment
+- source: healthjoy
+  target: consumer health datum
+  key: COLLECT
+  text:
+  - HealthJoy only uses consumer health data to provide the Service to you as you
+    would reasonably expect when you request for such Service or otherwise consent
+    to the collection, use, and disclosure of your consumer health data.
+  purposes:
+    services:
+    - to provide the Service to you
+    - to provide the Service to you as you would reasonably expect when you request
+      for such Service or otherwise consent to the collection, use, and disclosure
+      of your consumer health data
+- source: healthjoy
+  target: consumer health datum about you
+  key: COLLECT
+  text:
+  - You may request that we confirm whether HealthJoy is collecting, sharing, or selling
+    consumer health data about you and that we provide you with a list of all the
+    third parties with whom we have shared or to whom we have sold your consumer health
+    data.
+  - You may request that we confirm whether HealthJoy is collecting, sharing, or selling
+    consumer health data about you, and you may request to access such data, including
+    a list of all the third parties with whom we have shared or to whom we have sold
+    your consumer health data and an active email address or other online mechanism
+    that you may use to contact these third parties.
+  purposes: {}
+- source: healthjoy
+  target: contact information
+  key: COLLECT
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  purposes: {}
+- source: healthjoy
+  target: minimum amount of personal information
+  key: COLLECT
+  text:
+  - HealthJoy only collects and processes the minimum amount of personal information
+    from you that is necessary to the purposes of our information processing activities
+    and retains such information only if required to fulfill such purposes.
+  purposes: {}
+- source: healthjoy
+  target: personal health information
+  key: COLLECT
+  text:
+  - HealthJoy collects personal health information directly from you, implements appropriate
+    safeguards to protect the privacy of such information, and obtains (or confirms)
+    the necessary authorization (has been granted) before using and disclosing such
+    information for the purposes of treatment, healthcare operations, and payment.
+  purposes: {}
+- source: healthjoy
+  target: personal information
+  key: COLLECT
+  text:
+  - HealthJoy is a U.S.-based business and may process, transfer, and store personal
+    information on servers located in a number of countries, including the United
+    States.
+  - HealthJoy may share personal information with third parties when we have your
+    consent to do so.
+  - HealthJoy will collect personal data from you directly when you interact with
+    our Service, contact us, use our services (or services of our third-party providers),
+    create an account, participate in an online survey, sign up to receive offers
+    or emails from us, or purchase our products.
+  - To do this, HealthJoy collects personal information from you in the following
+    ways.
+  purposes: {}
+- source: healthjoy
+  target: phi
+  key: COLLECT
+  text:
+  - HealthJoy may disclose your PHI to another physician or healthcare provider for
+    purposes of consultation or in connection with the provision of follow-up treatment.
+  - HealthJoy may use and disclose your PHI in connection with its health care operations,
+    such as providing healthcare consultations, customer service, and conducting quality
+    review assessments.
+  - 'With your consent, HealthJoy uses and discloses PHI, which includes the PHI described
+    in the Categories of Personal Information and Purpose for Collection section of
+    this Policy, in the following ways:'
+  purposes:
+    services:
+    - for purposes of consultation or in connection with the provision of follow-up
+      treatment
+- source: healthjoy
+  target: relevant information on purpose
+  key: COLLECT
+  text:
+  - Where applicable, if HealthJoy intends to further process your personal information
+    for a purpose other than that for which the personal information was initially
+    collected, HealthJoy shall, prior to such processing, provide you with any relevant
+    information on such additional purpose, and, to the extent required by applicable
+    law, obtain your consent for this.
+  purposes: {}
+- source: healthjoy
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - HealthJoy only uses sensitive personal information to provide the Service to you
+    as you would reasonably expect when you request for such Service or otherwise
+    consent to the collection, use, and disclosure of your personal information.
+  purposes:
+    services:
+    - to provide the Service to you
+- source: physician
+  target: phi
+  key: COLLECT
+  text:
+  - HealthJoy may disclose your PHI to another physician or healthcare provider for
+    purposes of consultation or in connection with the provision of follow-up treatment.
+  purposes:
+    services:
+    - for purposes of consultation or in connection with the provision of follow-up
+      treatment
+- source: service provider
+  target: device identifier
+  key: COLLECT
+  text:
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: service provider
+  target: email address
+  key: COLLECT
+  text:
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: service provider
+  target: ip address
+  key: COLLECT
+  text:
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: service provider
+  target: log credential
+  key: COLLECT
+  text:
+  - We or our Service Providers (defined below) may also use certain information,
+    including log-in credentials, IP addresses, hashed email addresses, and unique
+    mobile device identifiers, to locate or try to locate the same unique users across
+    multiple browsers or devices, such as smartphones, tablets, or computers, to better
+    tailor content, features, and advertising, and to provide you with a seamless
+    experience across the devices you use to access the Service.
+  purposes:
+    advertising:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    analytics:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+    services:
+    - to locate or try to locate the same unique users across multiple browsers or
+      devices, such as smartphones, tablets, or computers, to better tailor content,
+      features, and advertising, and to provide you with a seamless experience across
+      the devices you use to access the Service
+- source: service providers
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share information with vendors and suppliers (collectively, "Service Providers")
+    who perform services and functions on our behalf to support our interactions with
+    you.
+  purposes: {}
+- source: aggregate / deidentified / pseudonymized information
+  target: geographic distribution of user
+  key: SUBSUM
+  text:
+  - Any aggregated information shared in this way will not contain any personal information,
+    and HealthJoy is not limited in its use of aggregate information that does not
+    permit direct association with any specific individual, such as the number of
+    users of our services and the geographic distribution of our users.
+- source: aggregate / deidentified / pseudonymized information
+  target: number of user of service
+  key: SUBSUM
+  text:
+  - Any aggregated information shared in this way will not contain any personal information,
+    and HealthJoy is not limited in its use of aggregate information that does not
+    permit direct association with any specific individual, such as the number of
+    users of our services and the geographic distribution of our users.
+- source: authentication information
+  target: account
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: authentication information
+  target: account on service
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Authentication information, including the user name and password that you use
+    to register an account on the Service'
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: authentication information
+  target: password
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Authentication information, including the user name and password that you use
+    to register an account on the Service'
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: authentication information
+  target: user name
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Authentication information, including the user name and password that you use
+    to register an account on the Service'
+- source: authentication information
+  target: username
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: browsing / search history
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+- source: browsing / search history
+  target: interest
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+- source: browsing / search history
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: browsing / search history
+  target: product preference
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: common identifier
+  target: age
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: common identifier
+  target: date of birth
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: common identifier
+  target: gender
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: common identifier
+  target: marital status
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: common identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: common identifier
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: common identifier
+  target: racial origin
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: common identifier
+  target: ssn
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: consumer health datum about you
+  target: email address
+  key: SUBSUM
+  text:
+  - You may request that we confirm whether HealthJoy is collecting, sharing, or selling
+    consumer health data about you, and you may request to access such data, including
+    a list of all the third parties with whom we have shared or to whom we have sold
+    your consumer health data and an active email address or other online mechanism
+    that you may use to contact these third parties.
+- source: consumer health datum about you
+  target: online mechanism
+  key: SUBSUM
+  text:
+  - You may request that we confirm whether HealthJoy is collecting, sharing, or selling
+    consumer health data about you, and you may request to access such data, including
+    a list of all the third parties with whom we have shared or to whom we have sold
+    your consumer health data and an active email address or other online mechanism
+    that you may use to contact these third parties.
+- source: contact information
+  target: authentication information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: contact information
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+- source: contact information
+  target: company affiliation
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+  - Such collected data could include contact details (such as email address) and
+    previous purchase history or interests.
+- source: contact information
+  target: financial information for payment processing purpose
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+- source: contact information
+  target: insurance policy information
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+  - 'Privacy Policy
+
+
+    Contact information, including name, email, address, telephone number, and company
+    affiliation, and authentication information, including the username and password
+    that you use to register an account on the Service'
+- source: contact information
+  target: user content
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+- source: datum we collect about you
+  target: contact information
+  key: SUBSUM
+  text:
+  - Such collected data could include contact details (such as email address) and
+    previous purchase history or interests.
+  - We may combine this with data that we already have collected about you.
+- source: datum we collect about you
+  target: interest
+  key: SUBSUM
+  text:
+  - Such collected data could include contact details (such as email address) and
+    previous purchase history or interests.
+  - We may combine this with data that we already have collected about you.
+- source: datum we collect about you
+  target: previous purchase history
+  key: SUBSUM
+  text:
+  - Such collected data could include contact details (such as email address) and
+    previous purchase history or interests.
+  - We may combine this with data that we already have collected about you.
+- source: device identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - We may transfer and disclose information, including your personal information,
+    usage information and device identifier, (including IP address), to third parties
+    to comply with a legal obligation; when we believe in good faith that the law
+    requires it; at the request of governmental authorities conducting an investigation;
+    to verify or enforce ouragreements, terms of use, or other applicable policies;
+    to respond to an emergency; or otherwise to protect the rights, property, safety,
+    or security of third parties, visitors to our Service, or the public.
+- source: educational information
+  target: sensitive personal information
+  key: SUBSUM
+  text:
+  - If you are a job applicant, employee, owner, director, officer, or contractor
+    of HealthJoy (individually referenced in this Policy as "employee" and collectively
+    referenced as "employees"), we may also collect educational, professional, and
+    employment-related information, which may include certain sensitive personal information.
+- source: financial information
+  target: bank account
+  key: SUBSUM
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+- source: financial information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+- source: forego datum
+  target: proxy datum
+  key: SUBSUM
+  text:
+  - Physical  or mental health status includes, but is not limited to individual health
+    conditions, treatment, diseases, or diagnosis; social, psychological, behavioral,
+    and medical interventions; health-related surgeries or procedures; use or purchase
+    of prescribed medication; bodily functions, vital signs, symptoms, or measurements;
+    diagnoses or diagnostic testing, treatment, or medication; gender-affirming care
+    information; reproductive or sexual health information; biometric data; genetic
+    data; precise location information that could reasonably indicate a consumer's
+    attempt to acquire or receive health services or supplies; data that identifies
+    a consumer seeking health care services; and any information that is processed
+    to associate or identify a consumer with the foregoing data that is derived or
+    extrapolated from non-health information (such as proxy, derivative, inferred,
+    or emergent data by any means, including algorithms or machine learning).
+- source: foregoing information derive
+  target: affirm care
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: foregoing information derive
+  target: biometric information
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: foregoing information derive
+  target: bodily function
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: foregoing information derive
+  target: genetic datum
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: foregoing information derive
+  target: information relate to health condition
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: foregoing information derive
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: health datum
+  target: age
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: health datum
+  target: date of birth
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: health datum
+  target: gender
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: health datum
+  target: marital status
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: health datum
+  target: person name
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: health datum
+  target: racial origin
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: health datum
+  target: ssn
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: history
+  target: badge access
+  key: SUBSUM
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+- source: history
+  target: telematic datum
+  key: SUBSUM
+  text:
+  - Specifically, if provided to us, we may collect information such as your Social
+    Security Number, driver's license number or state ID card number, passport number,
+    and other unique personal identifiers associated with you or other beneficiaries
+    such as your spouse or child; employment and education history, professional licenses,
+    marital or domestic partner  status, date of birth, age, gender, classifications
+    protected under state or federal Equal Employment Opportunity laws (such as race
+    or national origin), medical condition or information, and health insurance information
+    and policy number; precise geolocation  history, including badge access and telematics
+    data;  and financial Information, which may include bank account and billing address.
+- source: information about browser you use
+  target: accelerometer datum
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: information about browser you use
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Information about the browser and hardware you use as you access and use the Site,
+    including IP address, network information, device characteristics, browser type,
+    cookie information, referring and exit pages, sites visited, and timestamps'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: information about browser you use
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Information about the browser and hardware you use as you access and use the Site,
+    including IP address, network information, device characteristics, browser type,
+    cookie information, referring and exit pages, sites visited, and timestamps'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: information about browser you use
+  target: device characteristic
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Information about the browser and hardware you use as you access and use the Site,
+    including IP address, network information, device characteristics, browser type,
+    cookie information, referring and exit pages, sites visited, and timestamps'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: information about browser you use
+  target: gyroscope datum
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: information about browser you use
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Information about the browser and hardware you use as you access and use the Site,
+    including IP address, network information, device characteristics, browser type,
+    cookie information, referring and exit pages, sites visited, and timestamps'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: information about browser you use
+  target: motion datum
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: information about browser you use
+  target: network information
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Information about the browser and hardware you use as you access and use the Site,
+    including IP address, network information, device characteristics, browser type,
+    cookie information, referring and exit pages, sites visited, and timestamps'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: information about browser you use
+  target: timestamp
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Information about the browser and hardware you use as you access and use the Site,
+    including IP address, network information, device characteristics, browser type,
+    cookie information, referring and exit pages, sites visited, and timestamps'
+  - 'Privacy Policy
+
+
+    Online behavior information including online activity, product and online preferences,
+    and time spent viewing features, and information about the browser and hardware
+    you use as you access and use the Site, including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps.'
+- source: information about browser you use
+  target: track movement
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: informational newsletter
+  target: newsletter relate to specific health condition
+  key: SUBSUM
+  text:
+  - Send informational and promotional newsletters (such as a newsletter relating
+    to a specific health condition), personalized emails, and secure electronic messages
+    about your health interests, including news, announcements, reminders, and opportunities,
+    when you opt-in to receive such communications
+- source: insurance policy information
+  target: age
+  key: SUBSUM
+  text:
+  - Personal health data; genetic data; data concerning your sex life or sexual orientation;
+    financial information; insurance policy information; contact data associated with
+    personal health data and insurance policy information, such as name, age, gender,
+    date of birth, Social Security Number, marital status, and racial or ethnic origin;
+    and precise geolocation information
+- source: insurance policy information
+  target: carrier information
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: insurance policy information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - Personal health data; genetic data; data concerning your sex life or sexual orientation;
+    financial information; insurance policy information; contact data associated with
+    personal health data and insurance policy information, such as name, age, gender,
+    date of birth, Social Security Number, marital status, and racial or ethnic origin;
+    and precise geolocation information
+- source: insurance policy information
+  target: gender
+  key: SUBSUM
+  text:
+  - Personal health data; genetic data; data concerning your sex life or sexual orientation;
+    financial information; insurance policy information; contact data associated with
+    personal health data and insurance policy information, such as name, age, gender,
+    date of birth, Social Security Number, marital status, and racial or ethnic origin;
+    and precise geolocation information
+- source: insurance policy information
+  target: marital status
+  key: SUBSUM
+  text:
+  - Personal health data; genetic data; data concerning your sex life or sexual orientation;
+    financial information; insurance policy information; contact data associated with
+    personal health data and insurance policy information, such as name, age, gender,
+    date of birth, Social Security Number, marital status, and racial or ethnic origin;
+    and precise geolocation information
+- source: insurance policy information
+  target: person name
+  key: SUBSUM
+  text:
+  - Personal health data; genetic data; data concerning your sex life or sexual orientation;
+    financial information; insurance policy information; contact data associated with
+    personal health data and insurance policy information, such as name, age, gender,
+    date of birth, Social Security Number, marital status, and racial or ethnic origin;
+    and precise geolocation information
+- source: insurance policy information
+  target: plan detail
+  key: SUBSUM
+  text:
+  - Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; financial information for payment processing
+    purposes; and Insurance policy information, including carrier information, plan
+    details, coverage, and copays and deductibles
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: insurance policy information
+  target: racial origin
+  key: SUBSUM
+  text:
+  - Personal health data; genetic data; data concerning your sex life or sexual orientation;
+    financial information; insurance policy information; contact data associated with
+    personal health data and insurance policy information, such as name, age, gender,
+    date of birth, Social Security Number, marital status, and racial or ethnic origin;
+    and precise geolocation information
+- source: insurance policy information
+  target: ssn
+  key: SUBSUM
+  text:
+  - Personal health data; genetic data; data concerning your sex life or sexual orientation;
+    financial information; insurance policy information; contact data associated with
+    personal health data and insurance policy information, such as name, age, gender,
+    date of birth, Social Security Number, marital status, and racial or ethnic origin;
+    and precise geolocation information
+- source: motion datum
+  target: proximity sensor on ios for video call adjust audio output
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: non - health information
+  target: proxy datum
+  key: SUBSUM
+  text:
+  - Physical  or mental health status includes, but is not limited to individual health
+    conditions, treatment, diseases, or diagnosis; social, psychological, behavioral,
+    and medical interventions; health-related surgeries or procedures; use or purchase
+    of prescribed medication; bodily functions, vital signs, symptoms, or measurements;
+    diagnoses or diagnostic testing, treatment, or medication; gender-affirming care
+    information; reproductive or sexual health information; biometric data; genetic
+    data; precise location information that could reasonably indicate a consumer's
+    attempt to acquire or receive health services or supplies; data that identifies
+    a consumer seeking health care services; and any information that is processed
+    to associate or identify a consumer with the foregoing data that is derived or
+    extrapolated from non-health information (such as proxy, derivative, inferred,
+    or emergent data by any means, including algorithms or machine learning).
+- source: non - identifying information
+  target: aggregate statistic
+  key: SUBSUM
+  text:
+  - We may also share non-identifying information, such as aggregate statistics or
+    usage information, with third parties in order to demonstrate how HealthJoy is
+    used, spot industry trends, or provide marketing materials for HealthJoy.
+- source: non - identifying information
+  target: usage information
+  key: SUBSUM
+  text:
+  - We may also share non-identifying information, such as aggregate statistics or
+    usage information, with third parties in order to demonstrate how HealthJoy is
+    used, spot industry trends, or provide marketing materials for HealthJoy.
+- source: non-personal information
+  target: aggregate statistic
+  key: SUBSUM
+  text:
+  - '"Non-personal information" means information that we cannot use to identify or
+    contact you, such as aggregate statistics.'
+- source: not track preference signal
+  target: global privacy control
+  key: SUBSUM
+  text:
+  - While we do not currently sell or share personal information, we do recognize
+    do-not-track and opt-out preference signals, such as the Global Privacy Control,
+    on browsers, browser extensions, or devices that support such a signal.
+- source: personal characteristic
+  target: age
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal characteristic
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal characteristic
+  target: gender
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal characteristic
+  target: marital status
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal health information
+  target: common identifier
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: personal health information
+  target: genetic datum
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: personal health information
+  target: information relate to provision of healthcare service to you
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: personal health information
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - Specifically, with such consent, we may collect personal health information (PHI),
+    which includes genetic data, data concerning your sex life or sexual orientation,
+    and information about your physical or mental health or condition or diagnosis,
+    information related to the provision of healthcare services to you, information
+    about payments you make to obtain healthcare services, and common identifiers
+    associated with health data such as name, age, gender, date of birth, Social Security
+    Number, marital status, and racial or ethnic origin, and, if you opt-in to provide
+    such information on the HealthJoy App or Site, precise geolocation information.
+- source: personal identifier
+  target: affirm care
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: personal identifier
+  target: biometric information
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: personal identifier
+  target: bodily function
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: personal identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - If you choose to submit a Consumer Request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+- source: personal identifier
+  target: genetic datum
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: personal identifier
+  target: information relate to health condition
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: personal identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - If you choose to submit a Consumer Request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+- source: personal identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - If you choose to submit a Consumer Request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+  - If you choose to submit a request, you must provide us with enough information
+    to identify you (e.g., your first and last name, email address, and telephone
+    number) and enough specificity on the requested data.
+- source: personal identifier
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - For purposes of this notice, "PHI" or "consumer health data" means personally
+    identifiable information that is linked or reasonably capable of being linked
+    to a consumer and that is used to identify the past, present or future health
+    status of the consumer, including without limitation, (i) information relating
+    to any health condition or status, disease or diagnosis; social, psychological,
+    behavioral or medical interventions; surgeries or other health-related procedures;
+    the use or acquisition of medication; bodily functions, vital signs or symptoms;
+    reproductive or sexual health care; and gender-affirming care; (ii) biometric
+    data or genetic data related to the foregoing information; (iii) information related
+    to the precise geolocation information of a consumer that is used to indicate
+    an attempt by a consumer to receive health care services or products; and (iv)
+    any of the foregoing information that is derived or extrapolated from information
+    that is not consumer health data, including, without limitation, proxy, derivative,
+    inferred or emergent data derived through an algorithm, machine learning or any
+    other means.
+- source: personal information
+  target: authentication information
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal information
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal information
+  target: consumer health datum
+  key: SUBSUM
+  text:
+  - You may correct or update your personal data, including consumer health data,at
+    any time by logging into your account or by contacting us.
+  - You may request that we delete the personal data, including consumer health data,
+    HealthJoy has collected on you.
+  - You may submit a request to confirm or to obtain a copy of or access to the personal
+    data, including consumer health data, that we have collected on you including
+    what the data is, how it's been used, and who it's been disclosed to.
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - If you sign up for one of our newsletters on a third-party website, you acknowledge
+    and agree that the website may provide us with your personal information, such
+    as your email address, and we may use that information as described in this Policy
+    as though you had provided it directly to us.
+- source: personal information
+  target: financial information for payment processing purpose
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal information
+  target: information about browser you use
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal information
+  target: insurance policy information
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal information
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: personal information
+  target: relevant category
+  key: SUBSUM
+  text:
+  - Details about the specific third parties with whom we disclose your information,
+    the processing operations related to such disclosure, and the relevant categories
+    of personal information that we disclose may be found at www.healthjoy.com/subprocessors
+    ("Subprocessor List").
+- source: personal information
+  target: specific piece of personal information it collect about you
+  key: SUBSUM
+  text:
+  - You may request information on the categories of personal information we have
+    collected about you; the categories of sources from which the personal information
+    is collected; our business or commercial purpose for collecting, selling, or sharing
+    personal information; the categories of third parties to whom we have disclosed
+    personal information, if any; and the specific pieces of personal information
+    it has collected about you.
+- source: personal information
+  target: user content
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+- source: phi
+  target: phi describe in section of policy
+  key: SUBSUM
+  text:
+  - 'With your consent, HealthJoy uses and discloses PHI, which includes the PHI described
+    in the Categories of Personal Information and Purpose for Collection section of
+    this Policy, in the following ways:'
+- source: plan administrator
+  target: employer
+  key: SUBSUM
+  text:
+  - This may also include providing detailed PHI (member name, member ID, telehealth
+    service type that a member registered for, telehealth service type that a member
+    utilized, dates of service, etc.) as may be requested from time to time for health
+    care operations by your plan administrator (which may include your employer if
+    a self-insured plan).
+- source: relate service
+  target: virtual urgent care
+  key: SUBSUM
+  text:
+  - Provide healthcare-related services, including certain diagnoses and prescriptions,
+    virtual urgent care, virtual musculoskeletal care, and mental  healthcare, when
+    you choose to participate in virtual consults or otherwise interact with HealthJoy
+    healthcare providers or our interactive tools and services; Manage, organize,
+    and interpret employee insurance plans and assist with medical billing;
+- source: sensitive personal information
+  target: account log in
+  key: SUBSUM
+  text:
+  - 'Unless you are an employee, or as otherwise stated in this Policy or a separate
+    agreement, HealthJoy does not collect the following types of sensitive personal
+    information: your driver''s license, state identification card, or passport number;
+    your account log-in, debit card, or credit card number in combination with any
+    required security or access code, password, or credentials allowing access to
+    an account; your religious or philosophical beliefs or associations, political
+    opinions or membership; the contents of your mail, email and text messages, unless
+    we are the intended recipient of the communication; your criminal background;
+    your citizenship or citizenship status; or any personal information about a known
+    child.'
+- source: sensitive personal information
+  target: debit card
+  key: SUBSUM
+  text:
+  - 'Unless you are an employee, or as otherwise stated in this Policy or a separate
+    agreement, HealthJoy does not collect the following types of sensitive personal
+    information: your driver''s license, state identification card, or passport number;
+    your account log-in, debit card, or credit card number in combination with any
+    required security or access code, password, or credentials allowing access to
+    an account; your religious or philosophical beliefs or associations, political
+    opinions or membership; the contents of your mail, email and text messages, unless
+    we are the intended recipient of the communication; your criminal background;
+    your citizenship or citizenship status; or any personal information about a known
+    child.'
+- source: sensitive personal information
+  target: license
+  key: SUBSUM
+  text:
+  - 'Unless you are an employee, or as otherwise stated in this Policy or a separate
+    agreement, HealthJoy does not collect the following types of sensitive personal
+    information: your driver''s license, state identification card, or passport number;
+    your account log-in, debit card, or credit card number in combination with any
+    required security or access code, password, or credentials allowing access to
+    an account; your religious or philosophical beliefs or associations, political
+    opinions or membership; the contents of your mail, email and text messages, unless
+    we are the intended recipient of the communication; your criminal background;
+    your citizenship or citizenship status; or any personal information about a known
+    child.'
+- source: sensitive personal information
+  target: number
+  key: SUBSUM
+  text:
+  - 'Unless you are an employee, or as otherwise stated in this Policy or a separate
+    agreement, HealthJoy does not collect the following types of sensitive personal
+    information: your driver''s license, state identification card, or passport number;
+    your account log-in, debit card, or credit card number in combination with any
+    required security or access code, password, or credentials allowing access to
+    an account; your religious or philosophical beliefs or associations, political
+    opinions or membership; the contents of your mail, email and text messages, unless
+    we are the intended recipient of the communication; your criminal background;
+    your citizenship or citizenship status; or any personal information about a known
+    child.'
+- source: sensitive personal information
+  target: passport number
+  key: SUBSUM
+  text:
+  - 'Unless you are an employee, or as otherwise stated in this Policy or a separate
+    agreement, HealthJoy does not collect the following types of sensitive personal
+    information: your driver''s license, state identification card, or passport number;
+    your account log-in, debit card, or credit card number in combination with any
+    required security or access code, password, or credentials allowing access to
+    an account; your religious or philosophical beliefs or associations, political
+    opinions or membership; the contents of your mail, email and text messages, unless
+    we are the intended recipient of the communication; your criminal background;
+    your citizenship or citizenship status; or any personal information about a known
+    child.'
+- source: sensitive personal information
+  target: state identification card
+  key: SUBSUM
+  text:
+  - 'Unless you are an employee, or as otherwise stated in this Policy or a separate
+    agreement, HealthJoy does not collect the following types of sensitive personal
+    information: your driver''s license, state identification card, or passport number;
+    your account log-in, debit card, or credit card number in combination with any
+    required security or access code, password, or credentials allowing access to
+    an account; your religious or philosophical beliefs or associations, political
+    opinions or membership; the contents of your mail, email and text messages, unless
+    we are the intended recipient of the communication; your criminal background;
+    your citizenship or citizenship status; or any personal information about a known
+    child.'
+- source: service providers
+  target: interaction with you
+  key: SUBSUM
+  text:
+  - We may share information with vendors and suppliers (collectively, "Service Providers")
+    who perform services and functions on our behalf to support our interactions with
+    you.
+- source: service providers
+  target: supplier
+  key: SUBSUM
+  text:
+  - We may share information with vendors and suppliers (collectively, "Service Providers")
+    who perform services and functions on our behalf to support our interactions with
+    you.
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - Specifically, in connection with your use of the Service, you may be asked to
+    opt-in to receive informational or marketing offers, or to otherwise consent to
+    the sharing of your information with a third party, including social networking
+    sites such as Facebook, Instagram, or Twitter.
+- source: social media
+  target: Twitter
+  key: SUBSUM
+  text:
+  - Specifically, in connection with your use of the Service, you may be asked to
+    opt-in to receive informational or marketing offers, or to otherwise consent to
+    the sharing of your information with a third party, including social networking
+    sites such as Facebook, Instagram, or Twitter.
+- source: user content
+  target: suggestion
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+- source: user content
+  target: survey response
+  key: SUBSUM
+  text:
+  - 'HealthJoy collects the following categories of personal information: (1) contact
+    information including your name, email address, telephone number, company affiliation,
+    and mailing address; (2) authentication information, including the user name and
+    password that you use to register an account on the Service; (3) financial information
+    for payment processing purposes; (4) insurance policy information, including carrier
+    information, plan details, coverage, and copays and deductibles; (5) user content,
+    including survey responses, comments, reviews, and suggestions; (6) personal characteristics
+    including age, date of birth, gender, and marital status; (7) online behavior
+    information including online activity, product and online preferences, interests,
+    demographic and geographic information, and time spent viewing features; and (8)
+    information about the browser and hardware you use as you access and use our website,
+    https://www.healthjoy.com/ (the "Site"), including IP address, network information,
+    device characteristics, browser type, cookie information, referring and exit pages,
+    sites visited, and timestamps; and (9) if you opt-in to provide such information,
+    information collected through our mobile device applications and mobile optimized
+    websites (collectively, the "HealthJoy App"), including motion data (e.g., proximity
+    sensor on both ios and android for video calls to adjust audio output and enable/disable
+    video, and other information), gyroscope data, and accelerometer data (tracking
+    movement).'
+  - 'Privacy Policy
+
+
+    Contact information including your name, email address, telephone number, company
+    affiliation, and mailing address; user content, including survey responses, comments,
+    reviews, and suggestions; online behavior information including online activity,
+    product and online preferences, interests, demographic and geographic information,
+    and time spent viewing features'
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: appropriate medical emergency response professional
+- type: ACTOR
+  id: employer
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: healthjoy
+- type: ACTOR
+  id: informational newsletter
+- type: ACTOR
+  id: interaction with you
+- type: ACTOR
+  id: newsletter relate to specific health condition
+- type: ACTOR
+  id: physician
+- type: ACTOR
+  id: plan administrator
+- type: ACTOR
+  id: relate service
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service providers
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: supplier
+- type: ACTOR
+  id: virtual urgent care
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: accelerometer datum
+- type: DATA
+  id: account
+- type: DATA
+  id: account log in
+- type: DATA
+  id: account on service
+- type: DATA
+  id: affirm care
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: aggregate statistic
+- type: DATA
+  id: authentication information
+- type: DATA
+  id: badge access
+- type: DATA
+  id: bank account
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: bodily function
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: carrier information
+- type: DATA
+  id: common identifier
+- type: DATA
+  id: company affiliation
+- type: DATA
+  id: consumer health datum
+- type: DATA
+  id: consumer health datum about you
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum we collect about you
+- type: DATA
+  id: debit card
+- type: DATA
+  id: device characteristic
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: different level of quality
+- type: DATA
+  id: different level quality of good
+- type: DATA
+  id: driver's license number
+- type: DATA
+  id: educational information
+- type: DATA
+  id: email address
+- type: DATA
+  id: employment history
+- type: DATA
+  id: financial information
+- type: DATA
+  id: financial information for payment processing purpose
+- type: DATA
+  id: forego datum
+- type: DATA
+  id: foregoing information derive
+- type: DATA
+  id: gender
+- type: DATA
+  id: genetic datum
+- type: DATA
+  id: geographic distribution of user
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: global privacy control
+- type: DATA
+  id: gyroscope datum
+- type: DATA
+  id: health datum
+- type: DATA
+  id: history
+- type: DATA
+  id: information about browser you use
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information relate to health condition
+- type: DATA
+  id: information relate to provision of healthcare service to you
+- type: DATA
+  id: information we receive
+- type: DATA
+  id: insurance policy information
+- type: DATA
+  id: interest
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: license
+- type: DATA
+  id: log credential
+- type: DATA
+  id: log file
+- type: DATA
+  id: marital partner
+- type: DATA
+  id: marital status
+- type: DATA
+  id: minimum amount of personal information
+- type: DATA
+  id: motion datum
+- type: DATA
+  id: network information
+- type: DATA
+  id: non - health information
+- type: DATA
+  id: non - identifying information
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: not track preference signal
+- type: DATA
+  id: number
+- type: DATA
+  id: number of user of service
+- type: DATA
+  id: online mechanism
+- type: DATA
+  id: passport number
+- type: DATA
+  id: password
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal health information
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phi
+- type: DATA
+  id: phi describe in section of policy
+- type: DATA
+  id: phone number
+- type: DATA
+  id: plan detail
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: previous purchase history
+- type: DATA
+  id: product preference
+- type: DATA
+  id: professional license
+- type: DATA
+  id: proximity sensor on ios for video call adjust audio output
+- type: DATA
+  id: proxy datum
+- type: DATA
+  id: racial origin
+- type: DATA
+  id: relevant category
+- type: DATA
+  id: relevant information on purpose
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sexual orientation
+- type: DATA
+  id: specific piece of personal information it collect about you
+- type: DATA
+  id: specificity on request datum
+- type: DATA
+  id: ssn
+- type: DATA
+  id: state id card number
+- type: DATA
+  id: state identification card
+- type: DATA
+  id: suggestion
+- type: DATA
+  id: survey response
+- type: DATA
+  id: telematic datum
+- type: DATA
+  id: timestamp
+- type: DATA
+  id: track movement
+- type: DATA
+  id: usage information
+- type: DATA
+  id: user content
+- type: DATA
+  id: user name
+- type: DATA
+  id: username

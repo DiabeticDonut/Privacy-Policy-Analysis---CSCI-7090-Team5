@@ -1,0 +1,651 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Aetna''s privacy center
+
+
+
+
+    Web and Mobile Privacy Statement
+
+
+
+
+    To give information to our businesses'
+  - And we may use your details for our business purposes, along with data analysis,
+    audits, fraud monitoring and prevention, and new product and service development.
+  - We may also use or share your information to enforce our terms and conditions,
+    to protect our operations or those of any of our affiliates, or to protect our
+    rights, privacy, safety or property and/or that of our affiliates, you or others.
+  - We may use or share your information including without court process, in matters
+    involving claims of personal, public safety or in a litigation, where the information
+    is pertinent.
+  - 'We use this information for various purposes:'
+  purposes:
+    advertising:
+    - Deliver online content on services/products that may interest you
+    - Measure the success of our marketing campaigns
+    analytics:
+    - Measure the success of our marketing campaigns
+    - 'We use this information for various purposes: Personalize your experience'
+    - for our business purposes, along with data analysis, audits, fraud monitoring
+      and prevention, and new product and service development
+    legal:
+    - to enforce our terms and conditions, to protect our operations or those of any
+      of our affiliates, or to protect our rights, privacy, safety or property and/or
+      that of our affiliates, you or others
+    security:
+    - for our business purposes, along with data analysis, audits, fraud monitoring
+      and prevention, and new product and service development
+    - to enforce our terms and conditions, to protect our operations or those of any
+      of our affiliates, or to protect our rights, privacy, safety or property and/or
+      that of our affiliates, you or others
+    services:
+    - Deliver online content on services/products that may interest you
+    - Diagnose problems
+    - Enhance web and mobile navigation
+    - 'We use this information for various purposes: Personalize your experience'
+    - for our business purposes, along with data analysis, audits, fraud monitoring
+      and prevention, and new product and service development
+- source: we
+  target: activity
+  key: COLLECT
+  text:
+  - Our Services use tracking technologies to collect and record your activities and
+    movements across our websites throughout your browsing session, including page
+    hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and
+    API calls ("session data").
+  - We use this information to provide us with analytics and to improve our products,
+    services, and your experience.
+  purposes:
+    analytics:
+    - to provide us with analytics and to improve our products, services, and your
+      experience
+    services:
+    - to provide us with analytics and to improve our products, services, and your
+      experience
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies, Web server logs and similar technologies to do this.
+  purposes: {}
+- source: we
+  target: device information
+  key: COLLECT
+  text:
+  - We may also automatically collect certain device information.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We use IP addresses to administer our Services, measure service levels and help
+    diagnose server problems.
+  purposes:
+    analytics:
+    - to administer our Services, measure service levels and help diagnose server
+      problems
+    services:
+    - to administer our Services, measure service levels and help diagnose server
+      problems
+- source: we
+  target: movement
+  key: COLLECT
+  text:
+  - Our Services use tracking technologies to collect and record your activities and
+    movements across our websites throughout your browsing session, including page
+    hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and
+    API calls ("session data").
+  - We use this information to provide us with analytics and to improve our products,
+    services, and your experience.
+  purposes:
+    analytics:
+    - to provide us with analytics and to improve our products, services, and your
+      experience
+    services:
+    - to provide us with analytics and to improve our products, services, and your
+      experience
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Aetna''s privacy center
+
+
+
+
+    Web and Mobile Privacy Statement
+
+
+
+
+    We collect your personal information when you:'
+  - 'Aetna''s privacy center
+
+
+
+
+    Web and Mobile Privacy Statement
+
+
+
+
+    We want you to know what personal information we may collect about you.'
+  - As allowed by law, we may give your personal information to our affiliated businesses
+    or to our business partners.
+  - For example, we may use your personal information to manage subscription services,
+    such as your order management, billing, reorder experience, and account communication.
+  - To the extent we are required to treat such information as personal information
+    under applicable law, then we may use it for all the purposes we use and disclose
+    personal information.
+  - We may disclose personal information to our service providers, who provide services
+    such as website hosting, data analysis, payment processing, order fulfilment,
+    information technology and related infrastructure provision, customer service,
+    email delivery, auditing, and other services.
+  - We may share or transfer your personal information to other parties if some or
+    all of our business, assets or stock are sold, transferred or used as security.
+  - We may share your personal information if required to do so by law enforcement
+    officials or judicial authorities.
+  - We may use and disclose personal information to investigate security breaches
+    or otherwise work with authorities in a legal matter.
+  - We may use your personal information to personalize your experience when interacting
+    with us.
+  - We use your personal information to deliver services and to respond to your requests.
+  purposes:
+    legal:
+    - to investigate security breaches or otherwise work with authorities in a legal
+      matter
+    security:
+    - to investigate security breaches or otherwise work with authorities in a legal
+      matter
+    services:
+    - to deliver services and to respond to your requests
+    - to manage subscription services, such as your order management, billing, reorder
+      experience, and account communication
+    - to personalize your experience when interacting with us
+- source: we
+  target: session datum
+  key: COLLECT
+  text:
+  - We may share session data with our vendors (which may change over time) for these
+    purposes, who will use the session data solely on our behalf.
+  purposes: {}
+- source: we
+  target: traffic pattern
+  key: COLLECT
+  text:
+  - Like many other websites and online services, we collect traffic and usage patterns.
+  purposes: {}
+- source: we
+  target: web server log
+  key: COLLECT
+  text:
+  - We use cookies, Web server logs and similar technologies to do this.
+  purposes: {}
+- source: Aetna
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Aetna and these other parties use these details to understand your online activity.
+  purposes:
+    analytics:
+    - to understand your online activity
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Aetna and these other parties use these details to understand your online activity.
+  purposes:
+    analytics:
+    - to understand your online activity
+- source: UNSPECIFIED_ACTOR
+  target: member health information
+  key: COLLECT
+  text:
+  - Aetna has strict procedures in place for determining if a third party can receive
+    member health and financial information i.e., Aetna employees are required to
+    verify whether a requestor is authorized to receive the information before it
+    is released.
+  purposes:
+    security:
+    - to verify whether a requestor is authorized to receive the information before
+      it is released
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share or transfer your personal information to other parties if some or
+    all of our business, assets or stock are sold, transferred or used as security.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: session datum
+  key: COLLECT
+  text:
+  - We may share session data with our vendors (which may change over time) for these
+    purposes, who will use the session data solely on our behalf.
+  purposes: {}
+- source: business partner
+  target: personal information
+  key: COLLECT
+  text:
+  - As allowed by law, we may give your personal information to our affiliated businesses
+    or to our business partners.
+  purposes: {}
+- source: enrollment in email alert
+  target: email address
+  key: COLLECT
+  text:
+  - Enrollment in email alerts requires member to provide an email address.
+  purposes: {}
+- source: requestor
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Aetna has strict procedures in place for determining if a third party can receive
+    member health and financial information i.e., Aetna employees are required to
+    verify whether a requestor is authorized to receive the information before it
+    is released.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose personal information to our service providers, who provide services
+    such as website hosting, data analysis, payment processing, order fulfilment,
+    information technology and related infrastructure provision, customer service,
+    email delivery, auditing, and other services.
+  purposes: {}
+- source: we
+  target: Aetna
+  key: SUBSUM
+  text:
+  - We (Aetna) show you these ads so you can see products and services that might
+    interest you.
+- source: we
+  target: asset
+  key: SUBSUM
+  text:
+  - We may share or transfer your personal information to other parties if some or
+    all of our business, assets or stock are sold, transferred or used as security.
+- source: we
+  target: link to statement
+  key: SUBSUM
+  text:
+  - This statement describes how Aetna ("Aetna", "we" or "us") may collect information
+    about you through your interactions with us on our website and mobile applications
+    ("apps") that contain a link to this statement (collectively, the "Services").
+- source: we
+  target: mobile application
+  key: SUBSUM
+  text:
+  - This statement describes how Aetna ("Aetna", "we" or "us") may collect information
+    about you through your interactions with us on our website and mobile applications
+    ("apps") that contain a link to this statement (collectively, the "Services").
+- source: we
+  target: stock
+  key: SUBSUM
+  text:
+  - We may share or transfer your personal information to other parties if some or
+    all of our business, assets or stock are sold, transferred or used as security.
+- source: alert
+  target: personal information about health
+  key: SUBSUM
+  text:
+  - Such alerts may include personal information about your health based on the type
+    of information you choose to receive via electronic communication, and whoever
+    has access to the mobile phone or carrier account or email address will also be
+    able to see this information.
+  - You acknowledge that alerts will be sent to the mobile phone number or email address
+    you provide to Aetna.
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Contact
+    information including your name, address, email address, telephone number and
+    certain personal device information'
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Contact
+    information including your name, address, email address, telephone number and
+    certain personal device information'
+- source: contact information
+  target: personal device information
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Contact
+    information including your name, address, email address, telephone number and
+    certain personal device information'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Contact
+    information including your name, address, email address, telephone number and
+    certain personal device information'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Contact
+    information including your name, address, email address, telephone number and
+    certain personal device information'
+- source: demographic information
+  target: age
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Demographic
+    information, such as your age and date of birth, sex and/or gender'
+- source: demographic information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Demographic
+    information, such as your age and date of birth, sex and/or gender'
+- source: demographic information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Demographic
+    information, such as your age and date of birth, sex and/or gender'
+- source: email address
+  target: message indicate
+  key: SUBSUM
+  text:
+  - Whenever Aetna transmits member-specific health or financial information via Internet
+    email, the email includes a message indicating that the content has been secured
+    via encryption.
+- source: error message
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'In addition, the error message includes the following contact information:'
+- source: health care company
+  target: chiropractor
+  key: SUBSUM
+  text:
+  - 'Examples of health care companies and health care providers include: Chiropractors'
+- source: health care company
+  target: clinic
+  key: SUBSUM
+  text:
+  - 'Examples of health care companies and health care providers include: Clinics'
+- source: health care company
+  target: dentist
+  key: SUBSUM
+  text:
+  - 'Examples of health care companies and health care providers include: Dentists'
+- source: health care company
+  target: doctor
+  key: SUBSUM
+  text:
+  - 'Examples of health care companies and health care providers include: Doctors'
+- source: health care company
+  target: hospital
+  key: SUBSUM
+  text:
+  - 'Examples of health care companies and health care providers include: Hospitals'
+- source: health care company
+  target: psychologist
+  key: SUBSUM
+  text:
+  - 'Examples of health care companies and health care providers include: Psychologists'
+- source: information collect through device
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Information
+    collected automatically through your device, such as web browser information,
+    server log files, cookies, pixel tags and web beacons and other tracking information'
+- source: information collect through device
+  target: server log file
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Information
+    collected automatically through your device, such as web browser information,
+    server log files, cookies, pixel tags and web beacons and other tracking information'
+- source: information collect through device
+  target: tracking information
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Information
+    collected automatically through your device, such as web browser information,
+    server log files, cookies, pixel tags and web beacons and other tracking information'
+- source: information collect through device
+  target: web browser information
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Information
+    collected automatically through your device, such as web browser information,
+    server log files, cookies, pixel tags and web beacons and other tracking information'
+- source: medical care
+  target: regular identify theft
+  key: SUBSUM
+  text:
+  - It's a lot like regular identify theft.
+  - They use it to get medical care, prescriptions, insurance payouts, even surgery.
+- source: movement
+  target: api call
+  key: SUBSUM
+  text:
+  - Our Services use tracking technologies to collect and record your activities and
+    movements across our websites throughout your browsing session, including page
+    hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and
+    API calls ("session data").
+- source: movement
+  target: mouse movement
+  key: SUBSUM
+  text:
+  - Our Services use tracking technologies to collect and record your activities and
+    movements across our websites throughout your browsing session, including page
+    hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and
+    API calls ("session data").
+- source: movement
+  target: page hit
+  key: SUBSUM
+  text:
+  - Our Services use tracking technologies to collect and record your activities and
+    movements across our websites throughout your browsing session, including page
+    hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and
+    API calls ("session data").
+- source: movement
+  target: session data
+  key: SUBSUM
+  text:
+  - Our Services use tracking technologies to collect and record your activities and
+    movements across our websites throughout your browsing session, including page
+    hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and
+    API calls ("session data").
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Contact
+    information including your name, address, email address, telephone number and
+    certain personal device information'
+- source: personal information
+  target: demographic information
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Demographic
+    information, such as your age and date of birth, sex and/or gender'
+- source: personal information
+  target: driver's license number
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Driver''s
+    license information or Social Security number'
+- source: personal information
+  target: information collect through device
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Information
+    collected automatically through your device, such as web browser information,
+    server log files, cookies, pixel tags and web beacons and other tracking information'
+- source: personal information
+  target: language preference
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Language
+    preferences'
+- source: personal information
+  target: password
+  key: SUBSUM
+  text:
+  - 'Some examples of the personal information we may collect about you include: Your
+    password, if you create an account'
+- source: personal information
+  target: ssn
+  key: SUBSUM
+  text:
+  - Accordingly, Aetna encrypts all Internet email that contain member-specific health
+    and financial information -- examples include, but aren't limited to, personal
+    and demographic information (e.g., name, SSN, address), employment information,
+    information about payment of benefits, provider information, diagnostic or treatment
+    information, claims status information and information related to behavioral health
+    and/or sexually transmitted disease services.
+  - 'Some examples of the personal information we may collect about you include: Driver''s
+    license information or Social Security number'
+- source: protect information
+  target: conversation doctor have
+  key: SUBSUM
+  text:
+  - 'Here are some examples of protected information: Conversations your doctor has
+    about your care or treatment with nurses and others'
+- source: tracking
+  target: record session
+  key: SUBSUM
+  text:
+  - Such tracking may also include recorded sessions, which we may play back for these
+    purposes.
+nodes:
+- type: ACTOR
+  id: Aetna
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: asset
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: chiropractor
+- type: ACTOR
+  id: clinic
+- type: ACTOR
+  id: dentist
+- type: ACTOR
+  id: doctor
+- type: ACTOR
+  id: enrollment in email alert
+- type: ACTOR
+  id: health care company
+- type: ACTOR
+  id: hospital
+- type: ACTOR
+  id: link to statement
+- type: ACTOR
+  id: mobile application
+- type: ACTOR
+  id: psychologist
+- type: ACTOR
+  id: requestor
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: stock
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: activity
+- type: DATA
+  id: age
+- type: DATA
+  id: alert
+- type: DATA
+  id: api call
+- type: DATA
+  id: contact information
+- type: DATA
+  id: conversation doctor have
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: device information
+- type: DATA
+  id: driver's license number
+- type: DATA
+  id: email address
+- type: DATA
+  id: error message
+- type: DATA
+  id: gender
+- type: DATA
+  id: information collect through device
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language preference
+- type: DATA
+  id: medical care
+- type: DATA
+  id: member health information
+- type: DATA
+  id: message indicate
+- type: DATA
+  id: mouse movement
+- type: DATA
+  id: movement
+- type: DATA
+  id: page hit
+- type: DATA
+  id: password
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal device information
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information about health
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: protect information
+- type: DATA
+  id: record session
+- type: DATA
+  id: regular identify theft
+- type: DATA
+  id: server log file
+- type: DATA
+  id: session data
+- type: DATA
+  id: session datum
+- type: DATA
+  id: ssn
+- type: DATA
+  id: tracking
+- type: DATA
+  id: tracking information
+- type: DATA
+  id: traffic pattern
+- type: DATA
+  id: web browser information
+- type: DATA
+  id: web server log

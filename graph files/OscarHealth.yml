@@ -1,0 +1,631 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - By using or accessing the Services in any manner, regardless of whether you register
+    or create an Account through the Services, you acknowledge that you accept the
+    practices and policies outlined in this Privacy Policy, and you hereby consent
+    that we will collect, use, and share your information in the following ways.
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  - Notwithstanding any provision to the contrary, we will retain, access, use and
+    disclose your information as we believe is necessary to comply with our legal
+    obligations, resolve disputes, enforce our Terms of Service and other agreements,
+    or to protect the rights, property or safety of Oscar, our employees, our users
+    or others.
+  - We may also use your information to notify you about payment information and/or
+    to communicate with you about your Account.
+  - We may retain your information as needed for business purposes.
+  purposes:
+    services:
+    - to notify you about payment information and/or to communicate with you about
+      your Account
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use any aggregated data derived from or incorporating your Personal Information
+    after you update or delete your Account, but not in a manner that would identify
+    you personally.
+  purposes: {}
+- source: we
+  target: aggregate usage information
+  key: COLLECT
+  text:
+  - We may also provide aggregate usage information to our partners (or allow partners
+    to collect that information from you), who may use such information to understand
+    how often and in what ways people use our Services, so that they, too, can provide
+    you with an optimal online experience.
+  purposes: {}
+- source: we
+  target: bank account information
+  key: COLLECT
+  text:
+  - If you choose to use a bank account to make payments through the Services, we
+    collect and store your bank account information.
+  - If you use a payment card to make payments through the Services, that information
+    is collected and stored by our third party payment processing companies (the "Payment
+    Processors") which is currently
+  purposes: {}
+- source: we
+  target: claim information
+  key: COLLECT
+  text:
+  - We maintain claims information, information about prior authorizations that you
+    requested and any other information needed to provide you with the healthcare
+    services that you need.
+  purposes: {}
+- source: we
+  target: comment
+  key: COLLECT
+  text:
+  - We will share your comments and questions with our customer service representatives
+    and those employees most capable of addressing your questions and concerns.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - If you have provided your contact information to us, we may store and use that
+    information to contact you for marketing and promotional purposes by various means,
+    including regular mail, email, telephone, including voicemail, or SMS/MMS (text
+    message).
+  - To the extent permitted by law, and if you have provided your contact information
+    to us, we may store and use that information to contact you about your care and
+    benefits by various means, including regular mail, email, telephone including
+    voicemail, or SMS/MMS (text message).
+  purposes:
+    advertising:
+    - to contact you for marketing and promotional purposes by various means, including
+      regular mail, email, telephone, including voicemail, or SMS/MMS (text message)
+    services:
+    - to contact you about your care and benefits by various means, including regular
+      mail, email, telephone including voicemail, or SMS/MMS (text message)
+- source: we
+  target: customer information
+  key: COLLECT
+  text:
+  - We may choose to buy or sell assets, and may share and/or transfer customer information
+    in connection with the evaluation of and entry into such transactions.
+  purposes:
+    legal:
+    - to buy or sell assets
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We may also collect, or receive from third parties, information based on your
+    IP address that provides us your geolocation data in order to identify relevant
+    markets for users down to a ZIP code level of detail and to provide a better mobile
+    experience.
+  purposes: {}
+- source: we
+  target: information about prior authorization you request
+  key: COLLECT
+  text:
+  - We maintain claims information, information about prior authorizations that you
+    requested and any other information needed to provide you with the healthcare
+    services that you need.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - For example, when you enroll in one of our plans, you (or the applicable state
+    or federal exchange, depending on how you enroll) provide us with some information
+    about you, including your name, address, social security number, age, annual household
+    income and if applicable, names and ages of your immediate family members.
+  purposes: {}
+- source: we
+  target: information consistent
+  key: COLLECT
+  text:
+  - In all cases, we will disclose the information consistent with applicable laws
+    and regulations and we will require the recipient to protect the information and
+    use it only for the purpose it was provided and as necessary to assist us.
+  purposes: {}
+- source: we
+  target: information need
+  key: COLLECT
+  text:
+  - We maintain claims information, information about prior authorizations that you
+    requested and any other information needed to provide you with the healthcare
+    services that you need.
+  purposes: {}
+- source: we
+  target: information you provide in request
+  key: COLLECT
+  text:
+  - We will use the information you provide in your request to verify your identity.
+  purposes:
+    security:
+    - to verify your identity
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - We receive and store any information you knowingly provide to us.
+  purposes: {}
+- source: we
+  target: internet
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  - We disclose usage data for our non-member portal site to partners who may provide
+    you with additional information on Oscar products and services.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We may also collect, or receive from third parties, information based on your
+    IP address that provides us your geolocation data in order to identify relevant
+    markets for users down to a ZIP code level of detail and to provide a better mobile
+    experience.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - We may also collect, or receive from third parties, information based on your
+    IP address that provides us your geolocation data in order to identify relevant
+    markets for users down to a ZIP code level of detail and to provide a better mobile
+    experience.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - In certain cases, we may also share some Personal Information with third parties,
+    but only as described below.
+  - We gather various types of Personal Information from our users, as explained in
+    more detail below, and we use this Personal Information in connection with our
+    Services.
+  - We may share your Personal Information with third parties as described in this
+    section.
+  - You can recognize when an affiliated business is associated with such a transaction
+    or service, and we will share your Personal Information with that affiliated business
+    only to the extent that it is related to such transaction or service.
+  purposes: {}
+- source: we
+  target: personal information per
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: we
+  target: personal information we have about individual
+  key: COLLECT
+  text:
+  - After receiving a verifiable consumer request, we will provide the requestor the
+    personal information we have about the individual.
+  purposes: {}
+- source: we
+  target: professional information
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: we
+  target: protected classification
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate usage information
+  key: COLLECT
+  text:
+  - We may also provide aggregate usage information to our partners (or allow partners
+    to collect that information from you), who may use such information to understand
+    how often and in what ways people use our Services, so that they, too, can provide
+    you with an optimal online experience.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - In certain cases, we may also share some Personal Information with third parties,
+    but only as described below.
+  - We may share your Personal Information with third parties as described in this
+    section.
+  - identify your Personal Information in accordance with applicable state and federal
+    law, and provide that information to our partners.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information per
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: professional information
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: protected classification
+  key: COLLECT
+  text:
+  - 'In the past 12 months, we have disclosed the following categories of information
+    to third parties for business purposes: Identifiers; Personal Information per
+    categories listed in the California Customer Records statute (Cal. Civ. Code SS
+    1798.80(e)); Protected classification characteristics under California or federal
+    law; Internet or other similar network activity; and Professional or employment-related
+    information.'
+  purposes: {}
+- source: affiliated business
+  target: personal information
+  key: COLLECT
+  text:
+  - You can recognize when an affiliated business is associated with such a transaction
+    or service, and we will share your Personal Information with that affiliated business
+    only to the extent that it is related to such transaction or service.
+  purposes: {}
+- source: applicable state exchange
+  target: information about you
+  key: COLLECT
+  text:
+  - For example, when you enroll in one of our plans, you (or the applicable state
+    or federal exchange, depending on how you enroll) provide us with some information
+    about you, including your name, address, social security number, age, annual household
+    income and if applicable, names and ages of your immediate family members.
+  purposes: {}
+- source: customer service representative
+  target: comment
+  key: COLLECT
+  text:
+  - We will share your comments and questions with our customer service representatives
+    and those employees most capable of addressing your questions and concerns.
+  purposes: {}
+- source: employee most capable
+  target: comment
+  key: COLLECT
+  text:
+  - We will share your comments and questions with our customer service representatives
+    and those employees most capable of addressing your questions and concerns.
+  purposes: {}
+- source: oscar
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Oscar also maintains data that has been provided to us or uploaded to Oscar by
+    you, our member, as well as our "Business Associates" (those vendors who perform
+    work on our behalf for the purpose of payment, treatment, or healthcare operations
+    - and who have written agreements with us that specifically indicate how they
+    will protect your information).
+  purposes: {}
+- source: partner who provide you with information on oscar product
+  target: internet activity
+  key: COLLECT
+  text:
+  - We disclose usage data for our non-member portal site to partners who may provide
+    you with additional information on Oscar products and services.
+  purposes: {}
+- source: payment processors
+  target: bank account information
+  key: COLLECT
+  text:
+  - If you choose to use a bank account to make payments through the Services, we
+    collect and store your bank account information.
+  - If you use a payment card to make payments through the Services, that information
+    is collected and stored by our third party payment processing companies (the "Payment
+    Processors") which is currently
+  purposes: {}
+- source: requestor
+  target: personal information we have about individual
+  key: COLLECT
+  text:
+  - After receiving a verifiable consumer request, we will provide the requestor the
+    personal information we have about the individual.
+  purposes: {}
+- source: information about you
+  target: age
+  key: SUBSUM
+  text:
+  - For example, when you enroll in one of our plans, you (or the applicable state
+    or federal exchange, depending on how you enroll) provide us with some information
+    about you, including your name, address, social security number, age, annual household
+    income and if applicable, names and ages of your immediate family members.
+- source: information about you
+  target: annual household income
+  key: SUBSUM
+  text:
+  - For example, when you enroll in one of our plans, you (or the applicable state
+    or federal exchange, depending on how you enroll) provide us with some information
+    about you, including your name, address, social security number, age, annual household
+    income and if applicable, names and ages of your immediate family members.
+- source: information about you
+  target: person name
+  key: SUBSUM
+  text:
+  - For example, when you enroll in one of our plans, you (or the applicable state
+    or federal exchange, depending on how you enroll) provide us with some information
+    about you, including your name, address, social security number, age, annual household
+    income and if applicable, names and ages of your immediate family members.
+- source: information about you
+  target: postal address
+  key: SUBSUM
+  text:
+  - For example, when you enroll in one of our plans, you (or the applicable state
+    or federal exchange, depending on how you enroll) provide us with some information
+    about you, including your name, address, social security number, age, annual household
+    income and if applicable, names and ages of your immediate family members.
+- source: information about you
+  target: ssn
+  key: SUBSUM
+  text:
+  - For example, when you enroll in one of our plans, you (or the applicable state
+    or federal exchange, depending on how you enroll) provide us with some information
+    about you, including your name, address, social security number, age, annual household
+    income and if applicable, names and ages of your immediate family members.
+- source: information they provide to we
+  target: contact information
+  key: SUBSUM
+  text:
+  - In some cases, registered users will be able to change their password and update
+    the information that they provide to us, such as address, contact information
+    and health information, by going to the settings page of their Account at hioscar.com;
+    in other cases, registered users may need to contact the appropriate state or
+    federal health insurance exchange to update their information.
+- source: information they provide to we
+  target: health information
+  key: SUBSUM
+  text:
+  - In some cases, registered users will be able to change their password and update
+    the information that they provide to us, such as address, contact information
+    and health information, by going to the settings page of their Account at hioscar.com;
+    in other cases, registered users may need to contact the appropriate state or
+    federal health insurance exchange to update their information.
+- source: information they provide to we
+  target: postal address
+  key: SUBSUM
+  text:
+  - In some cases, registered users will be able to change their password and update
+    the information that they provide to us, such as address, contact information
+    and health information, by going to the settings page of their Account at hioscar.com;
+    in other cases, registered users may need to contact the appropriate state or
+    federal health insurance exchange to update their information.
+- source: internet activity
+  target: number of visitor we receive
+  key: SUBSUM
+  text:
+  - You should also be aware that when you use our Services, we collect certain "usage
+    data," such as the number of visitors we receive or what pages are visited most
+    often.
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'You must provide certain information when requesting to access or to delete personal
+    information, including: your name, date of birth, email, phone number, and address.'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'You must provide certain information when requesting to access or to delete personal
+    information, including: your name, date of birth, email, phone number, and address.'
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - It does not extract any personal information about you, such as your name or address.
+  - Our cookies do not extract other personal information about you, such as your
+    name or address.
+  - 'You must provide certain information when requesting to access or to delete personal
+    information, including: your name, date of birth, email, phone number, and address.'
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'You must provide certain information when requesting to access or to delete personal
+    information, including: your name, date of birth, email, phone number, and address.'
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - It does not extract any personal information about you, such as your name or address.
+  - Our cookies do not extract other personal information about you, such as your
+    name or address.
+  - 'You must provide certain information when requesting to access or to delete personal
+    information, including: your name, date of birth, email, phone number, and address.'
+- source: telephone
+  target: text message
+  key: SUBSUM
+  text:
+  - If you have provided your contact information to us, we may store and use that
+    information to contact you for marketing and promotional purposes by various means,
+    including regular mail, email, telephone, including voicemail, or SMS/MMS (text
+    message).
+- source: telephone
+  target: voicemail
+  key: SUBSUM
+  text:
+  - If you have provided your contact information to us, we may store and use that
+    information to contact you for marketing and promotional purposes by various means,
+    including regular mail, email, telephone, including voicemail, or SMS/MMS (text
+    message).
+  - To the extent permitted by law, and if you have provided your contact information
+    to us, we may store and use that information to contact you about your care and
+    benefits by various means, including regular mail, email, telephone including
+    voicemail, or SMS/MMS (text message).
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: affiliated business
+- type: ACTOR
+  id: applicable state exchange
+- type: ACTOR
+  id: customer service representative
+- type: ACTOR
+  id: employee most capable
+- type: ACTOR
+  id: oscar
+- type: ACTOR
+  id: partner who provide you with information on oscar product
+- type: ACTOR
+  id: payment processors
+- type: ACTOR
+  id: requestor
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: aggregate usage information
+- type: DATA
+  id: annual household income
+- type: DATA
+  id: bank account information
+- type: DATA
+  id: claim information
+- type: DATA
+  id: comment
+- type: DATA
+  id: contact information
+- type: DATA
+  id: customer information
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: email address
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health information
+- type: DATA
+  id: information about prior authorization you request
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information consistent
+- type: DATA
+  id: information need
+- type: DATA
+  id: information they provide to we
+- type: DATA
+  id: information you provide in request
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: internet
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: number of visitor we receive
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information per
+- type: DATA
+  id: personal information we have about individual
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: professional information
+- type: DATA
+  id: protected classification
+- type: DATA
+  id: ssn
+- type: DATA
+  id: telephone
+- type: DATA
+  id: text message
+- type: DATA
+  id: voicemail

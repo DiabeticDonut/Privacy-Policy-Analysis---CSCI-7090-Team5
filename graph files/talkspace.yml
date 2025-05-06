@@ -1,0 +1,684 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - During onboarding we ask you to provide information so that we can assess your
+    condition and incorporate your preferences.
+  - Talkspace (" we ", " our ", " us ", " Talkspace ") takes your privacy seriously,
+    and we want you to know how we collect, use, share and protect your information.
+  - We collect such information for communication and marketing purposes, and to operate
+    the Website and the App.
+  - We collect such information if you are representing a business engaging with Talkspace
+    on behalf of your employer or that business.
+  - We collect such information to communicate with you, including for marketing purposes;
+    to operate the Website and the App.
+  - We collect such information to provide, and improve the Website or the App.
+  - We collect such information to tailor communications to your interests, and for
+    marketing purposes, and to operate the Website and the App.
+  - We collect this information automatically from your computer or device.
+  - We collect this information directly from you, for example in survey responses
+    you provide prior to becoming a subscriber.
+  - We collect this information directly from you.
+  - We share this information with certain advertising networks to evaluate the success
+    of our marketing campaigns, to conduct marketing activities, including tailoring
+    advertising.
+  - We share this information with our service providers who provide business, professional,
+    marketing, analytics, or technical support services to us, help us operate our
+    business, or administer activities on our behalf, as described further in the
+    section entitled Personal Data We Process & How We Use It .
+  - We share this information with our service providers who provide business, professional,
+    marketing, analytics, or technical support services to us, help us operate our
+    business, or administer activities on our behalf, as described in the section
+    entitled Personal Data We Process & How We Use It .
+  - We share this information with our service providers who provide business, professional,
+    marketing, analytics, or technical support services to us, help us operate our
+    business, or administer activities on our behalf, to help us process and use the
+    information subject to written agreements.
+  - We will retain your information in accordance with the appropriate statutory limitation
+    periods as required by local law, in line with our legitimate business purposes
+    for as long as your account is active or for as long as needed to provide you
+    with the Services, as required in order to comply with our legal obligations,
+    a court order or to defend or pursue legal claims, in line with industry codes
+    of practice, to resolve disputes and enforce our agreements.
+  - When Website visitors contact us We collect information when you communicate with
+    us via email or our online support service.
+  purposes:
+    advertising:
+    - for communication and marketing purposes, and to operate the Website and the
+      App
+    - to communicate with you, including for marketing purposes; to operate the Website
+      and the App
+    - to evaluate the success of our marketing campaigns
+    - to evaluate the success of our marketing campaigns, to conduct marketing activities,
+      including tailoring advertising
+    - to tailor communications to your interests, and for marketing purposes, and
+      to operate the Website and the App
+    analytics:
+    - to evaluate the success of our marketing campaigns
+    - to evaluate the success of our marketing campaigns, to conduct marketing activities,
+      including tailoring advertising
+    legal:
+    - to comply with our legal obligations, a court order or to defend or pursue legal
+      claims, in line with industry codes of practice, to resolve disputes and enforce
+      our agreements
+    services:
+    - to communicate with you, including for marketing purposes; to operate the Website
+      and the App
+    - to operate the Website and the App
+    - to provide, and improve the Website or the App
+- source: we
+  target: choice
+  key: COLLECT
+  text:
+  - When you create a Talkspace account or otherwise use the Talkspace Services, we
+    collect (or you may provide us with) your email address, and you have the choice
+    to receive newsletters or promotional material about our services at this address.
+  purposes: {}
+- source: we
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'We may "sell" or "share" the following categories of Personal Information to
+    these data analytics providers, advertising technology vendors, and social media
+    platforms as described in this Policy: Identifiers/biographical information, internet
+    or other electronic network information, commercial information, and inferences
+    derived from the above.'
+  purposes: {}
+- source: we
+  target: identifier biographical information
+  key: COLLECT
+  text:
+  - 'We may "sell" or "share" the following categories of Personal Information to
+    these data analytics providers, advertising technology vendors, and social media
+    platforms as described in this Policy: Identifiers/biographical information, internet
+    or other electronic network information, commercial information, and inferences
+    derived from the above.'
+  purposes: {}
+- source: we
+  target: inference derive from above
+  key: COLLECT
+  text:
+  - 'We may "sell" or "share" the following categories of Personal Information to
+    these data analytics providers, advertising technology vendors, and social media
+    platforms as described in this Policy: Identifiers/biographical information, internet
+    or other electronic network information, commercial information, and inferences
+    derived from the above.'
+  purposes: {}
+- source: we
+  target: internet information
+  key: COLLECT
+  text:
+  - 'We may "sell" or "share" the following categories of Personal Information to
+    these data analytics providers, advertising technology vendors, and social media
+    platforms as described in this Policy: Identifiers/biographical information, internet
+    or other electronic network information, commercial information, and inferences
+    derived from the above.'
+  purposes: {}
+- source: we
+  target: personal data we process
+  key: COLLECT
+  text:
+  - Personal Data We Process & How We Use It
+  - You provide this information to us directly
+  purposes: {}
+- source: we
+  target: personal datum describe
+  key: COLLECT
+  text:
+  - 'We process the personal data described above in accordance with the following
+    legal basis:'
+  purposes:
+    legal:
+    - As necessary to comply with our legal obligations
+    services:
+    - to perform our agreement with you, including when you agree to our Terms of
+      Service
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Depending on your U.S. state of residence, you may have certain rights in relation
+    to your personal data, including: Right to Opt Out of Certain Types of Personal
+    Data Uses and Disclosures :  We use and disclose to third parties personal data
+    for analytics and advertising purposes.'
+  - We collect "Personal Information" as defined in state privacy laws in connection
+    with the Services (defined below).
+  - We will retain your Personal Information in accordance with the appropriate statutory
+    limitation periods as required by local law, in line with our legitimate business
+    purposes for as long as your account is active or for as long as needed to provide
+    you with the Services, as required in order to comply with our legal obligations,
+    a court order or to defend or pursue legal claims, in line with industry codes
+    of practice, to resolve disputes and enforce our agreements.
+  - Where applicable, we may use or disclose your personal data for other reasons
+    as described to you at the time of data collection or otherwise with your consent.
+  purposes:
+    advertising:
+    - for analytics and advertising purposes
+    analytics:
+    - for analytics and advertising purposes
+    legal:
+    - in order to comply with our legal obligations, a court order or to defend or
+      pursue legal claims, in line with industry codes of practice, to resolve disputes
+      and enforce our agreements
+- source: we
+  target: record
+  key: COLLECT
+  text:
+  - When you enroll, inquire about enrolling for or use of Talkspace Services (as
+    defined below), we keep a record of medical information that you provide to us
+    or your therapist as well as any medical information that Talkspace employees
+    or independently contracted therapists provide to you via our platform (such as
+    information on and related to your diagnosis).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties process data as a service to Talkspace only, pursuant to written
+    agreements.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Depending on your U.S. state of residence, you may have certain rights in relation
+    to your personal data, including: Right to Opt Out of Certain Types of Personal
+    Data Uses and Disclosures :  We use and disclose to third parties personal data
+    for analytics and advertising purposes.'
+  purposes:
+    advertising:
+    - for analytics and advertising purposes
+    analytics:
+    - for analytics and advertising purposes
+- source: acquire entity
+  target: personal information
+  key: COLLECT
+  text:
+  - Talkspace may be required to disclose your personal data (a) to government and
+    law enforcement authorities to comply with legal or regulatory obligations or
+    requests, (b) to certain third parties such as an acquiring entity or advisers
+    in the event of a reorganization, merger, sale, joint venture, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with a bankruptcy or similar proceeding), or (c) where we believe
+    disclosure is necessary or appropriate to (i) comply with applicable law, (ii)
+    enforce our terms and conditions; (iii) protect our operations; (iv) protect our
+    rights, privacy, safety, or property, and/or those of you or others; and (v) allow
+    us to pursue available remedies or limit damages that we may sustain.
+  purposes:
+    legal:
+    - to comply with legal or regulatory obligations or requests
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We share this information with certain advertising networks to evaluate the success
+    of our marketing campaigns, to conduct marketing activities, including tailoring
+    advertising.
+  purposes:
+    advertising:
+    - to evaluate the success of our marketing campaigns
+    - to evaluate the success of our marketing campaigns, to conduct marketing activities,
+      including tailoring advertising
+    analytics:
+    - to evaluate the success of our marketing campaigns
+    - to evaluate the success of our marketing campaigns, to conduct marketing activities,
+      including tailoring advertising
+- source: adviser
+  target: personal information
+  key: COLLECT
+  text:
+  - Talkspace may be required to disclose your personal data (a) to government and
+    law enforcement authorities to comply with legal or regulatory obligations or
+    requests, (b) to certain third parties such as an acquiring entity or advisers
+    in the event of a reorganization, merger, sale, joint venture, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with a bankruptcy or similar proceeding), or (c) where we believe
+    disclosure is necessary or appropriate to (i) comply with applicable law, (ii)
+    enforce our terms and conditions; (iii) protect our operations; (iv) protect our
+    rights, privacy, safety, or property, and/or those of you or others; and (v) allow
+    us to pursue available remedies or limit damages that we may sustain.
+  purposes:
+    legal:
+    - to comply with legal or regulatory obligations or requests
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We share this information with our service providers who provide business, professional,
+    marketing, analytics, or technical support services to us, help us operate our
+    business, or administer activities on our behalf, as described further in the
+    section entitled Personal Data We Process & How We Use It .
+  - We share this information with our service providers who provide business, professional,
+    marketing, analytics, or technical support services to us, help us operate our
+    business, or administer activities on our behalf, as described in the section
+    entitled Personal Data We Process & How We Use It .
+  - We share this information with our service providers who provide business, professional,
+    marketing, analytics, or technical support services to us, help us operate our
+    business, or administer activities on our behalf, to help us process and use the
+    information subject to written agreements.
+  purposes: {}
+- source: government authority
+  target: personal information
+  key: COLLECT
+  text:
+  - Talkspace may be required to disclose your personal data (a) to government and
+    law enforcement authorities to comply with legal or regulatory obligations or
+    requests, (b) to certain third parties such as an acquiring entity or advisers
+    in the event of a reorganization, merger, sale, joint venture, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with a bankruptcy or similar proceeding), or (c) where we believe
+    disclosure is necessary or appropriate to (i) comply with applicable law, (ii)
+    enforce our terms and conditions; (iii) protect our operations; (iv) protect our
+    rights, privacy, safety, or property, and/or those of you or others; and (v) allow
+    us to pursue available remedies or limit damages that we may sustain.
+  purposes:
+    legal:
+    - to comply with legal or regulatory obligations or requests
+- source: machine learning tool
+  target: real time engagement insight
+  key: COLLECT
+  text:
+  - Our proprietary matching algorithm and machine-learning tools provide real-time
+    engagement insights, inform treatment, and track clinical progress, and are fundamental
+    to our precision therapy care delivery model.
+  purposes: {}
+- source: proprietary matching algorithm
+  target: real time engagement insight
+  key: COLLECT
+  text:
+  - Our proprietary matching algorithm and machine-learning tools provide real-time
+    engagement insights, inform treatment, and track clinical progress, and are fundamental
+    to our precision therapy care delivery model.
+  purposes: {}
+- source: talkspace
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In the United States, Talkspace may collect information and may provide Services
+    to minors ages 13 - 17 with the written authorization of a parent or guardian.
+  purposes: {}
+- source: talkspace
+  target: personal information
+  key: COLLECT
+  text:
+  - Talkspace may be required to disclose your personal data (a) to government and
+    law enforcement authorities to comply with legal or regulatory obligations or
+    requests, (b) to certain third parties such as an acquiring entity or advisers
+    in the event of a reorganization, merger, sale, joint venture, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with a bankruptcy or similar proceeding), or (c) where we believe
+    disclosure is necessary or appropriate to (i) comply with applicable law, (ii)
+    enforce our terms and conditions; (iii) protect our operations; (iv) protect our
+    rights, privacy, safety, or property, and/or those of you or others; and (v) allow
+    us to pursue available remedies or limit damages that we may sustain.
+  purposes:
+    legal:
+    - to comply with legal or regulatory obligations or requests
+- source: we
+  target: resubscription
+  key: SUBSUM
+  text:
+  - Provide you with the Services (including resubscription) To match you to a therapist
+- source: we
+  target: talkspace
+  key: SUBSUM
+  text:
+  - Talkspace (" we ", " our ", " us ", " Talkspace ") takes your privacy seriously,
+    and we want you to know how we collect, use, share and protect your information.
+- source: base opt preference signal
+  target: global privacy control
+  key: SUBSUM
+  text:
+  - If you enable a browser-based opt-out preference signal, such as Global Privacy
+    Control (GPC), upon receipt or detection, we will treat the signal as a valid
+    request to opt out of the sale or sharing of personal data linked to that browser
+    and any consumer profile we have associated with that browser.
+- source: base opt preference signal
+  target: gpc
+  key: SUBSUM
+  text:
+  - If you enable a browser-based opt-out preference signal, such as Global Privacy
+    Control (GPC), upon receipt or detection, we will treat the signal as a valid
+    request to opt out of the sale or sharing of personal data linked to that browser
+    and any consumer profile we have associated with that browser.
+- source: characteristic
+  target: age
+  key: SUBSUM
+  text:
+  - Characteristics of protected classifications under California or federal law,
+    such as gender identity, sexual orientation, gender expression, and age.
+- source: characteristic
+  target: gender expression
+  key: SUBSUM
+  text:
+  - Characteristics of protected classifications under California or federal law,
+    such as gender identity, sexual orientation, gender expression, and age.
+- source: characteristic
+  target: gender identity
+  key: SUBSUM
+  text:
+  - Characteristics of protected classifications under California or federal law,
+    such as gender identity, sexual orientation, gender expression, and age.
+- source: characteristic
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - Characteristics of protected classifications under California or federal law,
+    such as gender identity, sexual orientation, gender expression, and age.
+- source: direct identifier
+  target: contact information
+  key: SUBSUM
+  text:
+  - To conduct clinical and other academic research, internally and with approved
+    research partners and identify summary trends or insights for use in external
+    communications (where direct identifiers such as name and contact details have
+    been removed, or pursuant to explicit patient authorization).
+- source: direct identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - To conduct clinical and other academic research, internally and with approved
+    research partners and identify summary trends or insights for use in external
+    communications (where direct identifiers such as name and contact details have
+    been removed, or pursuant to explicit patient authorization).
+- source: identifier
+  target: deviceid
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers, including your name, email address, DeviceID, and Internet Protocol
+    (IP) address.'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers, including your name, email address, DeviceID, and Internet Protocol
+    (IP) address.'
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers, including your name, email address, DeviceID, and Internet Protocol
+    (IP) address.'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers, including your name, email address, DeviceID, and Internet Protocol
+    (IP) address.'
+- source: information exclude from scope of u.s. state privacy law
+  target: clinical trial datum
+  key: SUBSUM
+  text:
+  - This Notice does not apply to information that is excluded from the scope of the
+    U.S. state privacy laws, such as clinical trial data, or information that is instead
+    protected and governed by the privacy, security, and breach notification rules
+    issued by the US Department of Health and Human Services established pursuant
+    to the Health Insurance Portability and Accountability Act of 1996 (Public Law
+    104-191) (" HIPAA "), the Health Information Technology for Economic and Clinical
+    Health (" HITECH ") Act (Public Law 111-5), or the California Confidentiality
+    of Medical Information Act.
+- source: information exclude from scope of u.s. state privacy law
+  target: information protect
+  key: SUBSUM
+  text:
+  - This Notice does not apply to information that is excluded from the scope of the
+    U.S. state privacy laws, such as clinical trial data, or information that is instead
+    protected and governed by the privacy, security, and breach notification rules
+    issued by the US Department of Health and Human Services established pursuant
+    to the Health Insurance Portability and Accountability Act of 1996 (Public Law
+    104-191) (" HIPAA "), the Health Information Technology for Economic and Clinical
+    Health (" HITECH ") Act (Public Law 111-5), or the California Confidentiality
+    of Medical Information Act.
+- source: information you provide
+  target: response to survey
+  key: SUBSUM
+  text:
+  - Inferences derived from information you provide, such as your responses to surveys.
+- source: information you provide as part of treatment intake
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'Data you provide when you use our therapy service, including: Information you
+    disclose in chat data and your chat sharing preferences (transcripts) Audio/Video
+    communication Documents you share with your therapist via our chat functionality
+    Information collected via our symptom tracker and information on your clinical
+    progress Information collected via chat, telephone, or email support channels
+    Messages that you "star" Information on friends you refer Information you provide
+    as part of treatment intake including emergency contact details, information on
+    your health and mental health and medical history, images (optional) If you use
+    couples therapy, sharing of contact details and some communications will be conducted
+    jointly.'
+- source: information you provide as part of treatment intake
+  target: medical history
+  key: SUBSUM
+  text:
+  - 'Data you provide when you use our therapy service, including: Information you
+    disclose in chat data and your chat sharing preferences (transcripts) Audio/Video
+    communication Documents you share with your therapist via our chat functionality
+    Information collected via our symptom tracker and information on your clinical
+    progress Information collected via chat, telephone, or email support channels
+    Messages that you "star" Information on friends you refer Information you provide
+    as part of treatment intake including emergency contact details, information on
+    your health and mental health and medical history, images (optional) If you use
+    couples therapy, sharing of contact details and some communications will be conducted
+    jointly.'
+- source: insurance information
+  target: image of information
+  key: SUBSUM
+  text:
+  - Payment information and transaction history Information on the type of subscription
+    you choose Insurance information (including an image of that information) Referral
+    source Information on why you are accessing our Services including what you are
+    hoping to get from therapy Notification preferences
+- source: internet activity
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Internet or other electronic network activity information, such as IP addresses
+    and cookies.'
+- source: internet activity
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Internet or other electronic network activity information, such as IP addresses
+    and cookies.'
+- source: medical information talkspace employee provide to you via platform
+  target: information on
+  key: SUBSUM
+  text:
+  - When you enroll, inquire about enrolling for or use of Talkspace Services (as
+    defined below), we keep a record of medical information that you provide to us
+    or your therapist as well as any medical information that Talkspace employees
+    or independently contracted therapists provide to you via our platform (such as
+    information on and related to your diagnosis).
+- source: person name
+  target: name of parent guardian
+  key: SUBSUM
+  text:
+  - 'Registration Information you provide when you create an account for yourself
+    (or an authorized account for a minor), are matched to a therapist, or register
+    yourself (or on behalf of a minor) as a patient: Name (e.g. your name or the name
+    of your parent/guardian)'
+- source: personal information
+  target: source from collect
+  key: SUBSUM
+  text:
+  - 'Depending on your U.S. state of residence, you may have certain rights in relation
+    to your personal data, including: Right to Know : You may have the right to know
+    what personal data we have collected about you, including the categories of sources
+    from which the personal data is collected, the business or commercial purpose
+    for collecting, selling, or sharing personal data, the categories of third parties
+    to whom we disclose personal data, and the specific pieces of personal data we
+    have collected about you.'
+- source: protected classification
+  target: gender expression
+  key: SUBSUM
+  text:
+  - Characteristics of protected classifications under California or federal law,
+    such as gender identity, sexual orientation, gender expression, and age.
+- source: protected classification
+  target: gender identity
+  key: SUBSUM
+  text:
+  - Characteristics of protected classifications under California or federal law,
+    such as gender identity, sexual orientation, gender expression, and age.
+- source: protected classification
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - Characteristics of protected classifications under California or federal law,
+    such as gender identity, sexual orientation, gender expression, and age.
+- source: technical information from software host service
+  target: metric on system feature use information on system event
+  key: SUBSUM
+  text:
+  - 'Technical Data Technical information from software or systems hosting the Services,
+    and from the systems, applications and devices that are used to access the Services,
+    such as: Information on the device operating system or Talkspace environment Metrics
+    on system or App feature use Information on system events and status'
+- source: track technology
+  target: Google
+  key: SUBSUM
+  text:
+  - 'Data collected via cookies, pixels and other tracking technologies (such as Google
+    Analytics and Google Ads), such as: Internet protocol (IP) addresses Device ID
+    Browser type Internet service provider (ISP) Referrer URL Geolocation information
+    (derived from IP Address, Exit pages, the pages and files viewed on our Website
+    (e.g., HTML pages, graphics, etc.) Operating system Date/time stamp'
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: acquire entity
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: adviser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: government authority
+- type: ACTOR
+  id: machine learning tool
+- type: ACTOR
+  id: proprietary matching algorithm
+- type: ACTOR
+  id: resubscription
+- type: ACTOR
+  id: talkspace
+- type: ACTOR
+  id: track technology
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: age
+- type: DATA
+  id: base opt preference signal
+- type: DATA
+  id: characteristic
+- type: DATA
+  id: choice
+- type: DATA
+  id: clinical trial datum
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: deviceid
+- type: DATA
+  id: direct identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: gender expression
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: global privacy control
+- type: DATA
+  id: gpc
+- type: DATA
+  id: identifier
+- type: DATA
+  id: identifier biographical information
+- type: DATA
+  id: image of information
+- type: DATA
+  id: inference derive from above
+- type: DATA
+  id: information exclude from scope of u.s. state privacy law
+- type: DATA
+  id: information on
+- type: DATA
+  id: information protect
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you provide as part of treatment intake
+- type: DATA
+  id: insurance information
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: internet information
+- type: DATA
+  id: ip address
+- type: DATA
+  id: medical history
+- type: DATA
+  id: medical information talkspace employee provide to you via platform
+- type: DATA
+  id: metric on system feature use information on system event
+- type: DATA
+  id: name of parent guardian
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal data we process
+- type: DATA
+  id: personal datum describe
+- type: DATA
+  id: personal information
+- type: DATA
+  id: protected classification
+- type: DATA
+  id: real time engagement insight
+- type: DATA
+  id: record
+- type: DATA
+  id: response to survey
+- type: DATA
+  id: sexual orientation
+- type: DATA
+  id: source from collect
+- type: DATA
+  id: technical information from software host service

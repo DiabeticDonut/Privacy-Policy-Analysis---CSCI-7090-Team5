@@ -1,0 +1,1931 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As we adopt additional technologies, we may also gather information through other
+    methods.
+  - 'For example, we collect information from you through:'
+  - If you access the Services through a third-party connection or log-in (e.g., through
+    a social network or third-party authentication tool), you may allow us to have
+    access to and store certain information from such third parties depending on your
+    settings on such services.
+  - 'If you are a California resident, the California Consumer Privacy Act ("CCPA")
+    requires us to provide you with the following additional information about: (1)
+    the purpose for which we use each category of "personal information" and "sensitive
+    personal information" (as defined in the CCPA) we collect; and (2) the categories
+    of third parties to which we (a) disclose such information for a business purpose,
+    (b) "share" information for "cross-context behavioral advertising," and/or (c)
+    "sell" such information.'
+  - 'In connection with providing you with the Services, we may use your information
+    for the following business purposes:'
+  - Please note that, regardless of your request, we may still use and disclose certain
+    information as permitted by this Privacy Policy or as required by applicable law.
+  - Similarly, if you choose to connect your App to third-party platforms or tools,
+    or with other apps on your device (e.g., health or fitness monitoring platforms
+    or tools, or your contacts, photos, or calendar), such third parties and tools
+    may allow us to have access to and store additional information as it relates
+    to your use of the Services (e.g., to integrate your fitness data within the Services
+    or access your calendar to help you schedule an appointment).
+  - These third parties may at times gather information from or about you.
+  - This Privacy Policy does not address, and we are not responsible for, the privacy,
+    information, or other practices, including data privacy and security process and
+    standards of any third parties, including physicians and other health care providers
+    using the Services, the manufacturer of your mobile device and other IT hardware
+    and software, and any other third party mobile application, website, or service
+    to which our Services may contain a link.
+  - To provide you with more relevant online advertising regarding Ro's products and
+    services, as described immediately above, we may use information about the treatments
+    you have requested or received and similar information.
+  - We "share" information to provide more relevant and tailored advertising to you
+    regarding our Services.
+  - We also collect your information if you sign up for one of our promotions or submit
+    information to us through social media platforms.
+  - We collect a variety of information that you provide directly to us.
+  - 'We disclose your information to health care providers: (i) to schedule and fulfill
+    appointments and provide health care services as part of the Services, (ii) to
+    whom you send messages through our Services, and (iii) for other treatment, payment
+    or health care operations purposes, including pharmacy services, upon your request.'
+  - We keep your information for no longer than necessary for the purposes for which
+    it is processed.
+  - We may also disclose your information in other ways you direct us to and when
+    we have your consent.
+  - We may disclose information we collect within any Ro member or group (i.e., our
+    subsidiaries and affiliates, including our ultimate holding company and its subsidiaries)
+    to deliver products and services to you, ensure a consistent level of service
+    across our products and services, and enhance our products, services, and your
+    customer experience.
+  - 'We may disclose your information for our business purposes in the following ways:'
+  - We provide access to or disclose your information to select third parties who
+    use the information to perform services on our behalf.
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes:
+    advertising:
+    - Advertising and Marketing
+    - Provide you (in accordance with applicable legal requirements) with more relevant
+      advertisements and personalized content, and measure or understand the effectiveness
+      of advertising and content we serve to you and others, and to deliver and customize
+      relevant advertising and content to you
+    - To provide you with more relevant online advertising regarding Ro's products
+      and services, as described immediately above
+    - to provide more relevant and tailored advertising to you regarding our Services
+    analytics:
+    - Analyze and Improve the Services
+    - Provide you (in accordance with applicable legal requirements) with more relevant
+      advertisements and personalized content, and measure or understand the effectiveness
+      of advertising and content we serve to you and others, and to deliver and customize
+      relevant advertising and content to you
+    legal:
+    - Establish, exercise, or defend our legal rights where it is necessary for our
+      legitimate interests or the legitimate interests of others, such as protecting
+      against malicious, fraudulent, or illegal activity
+    - Legal Purposes
+    security:
+    - Establish, exercise, or defend our legal rights where it is necessary for our
+      legitimate interests or the legitimate interests of others, such as protecting
+      against malicious, fraudulent, or illegal activity
+    - Verify your identity and administer your account, including processing your
+      payments, fulfilling your orders, and verifying the authenticity of your government-issued
+      identification photo
+    services:
+    - Analyze and Improve the Services
+    - Carry out, improve, and manage the Services and, as applicable, facilitate the
+      provision of health care services to you by physicians or other health care
+      providers and ensure that the physicians or health care providers have the services
+      and support necessary for health care operations
+    - Provide and Manage the Services
+    - Provide you with technical support and customer service, and troubleshoot any
+      technical issues or errors
+    - Verify your identity and administer your account, including processing your
+      payments, fulfilling your orders, and verifying the authenticity of your government-issued
+      identification photo
+    - e.g., to integrate your fitness data within the Services or access your calendar
+      to help you schedule an appointment
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use Aggregate/De-Identified Information for any purpose, including for
+    research and marketing purposes, and may also disclose such data to any third
+    parties, including advertisers, promotional partners, and sponsors.
+  purposes: {}
+- source: we
+  target: billing information
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Billing information,
+    such as shipping address, credit or debit card number, verification number, and
+    expiration date, collected by our payment processors on our behalf'
+  purposes: {}
+- source: we
+  target: browser language
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Commercial information,
+    such as information about purchases or other transactions with us, including information
+    about your healthcare provider, if applicable'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - To collect the information discussed in this Section, we and our service providers
+    use web server logs, cookies, tags, SDKs, tracking pixels, and other similar tracking
+    technologies.
+  purposes: {}
+- source: we
+  target: customer information
+  key: COLLECT
+  text:
+  - If you began using the Services after October 14th, 2021, we may also disclose
+    customer information such as your email address with third-party advertising networks
+    that use such information to better target advertising to you regarding Ro products
+    and services, as well as other products and services, as you browse the internet.
+  - We sometimes provide our customer information (such as email addresses) to service
+    providers, who may "match" this information in de-identified form to cookies (or
+    mobile ad identifiers) and other proprietary IDs, in order to provide you with
+    more relevant ads when you visit other websites and mobile applications.
+  purposes: {}
+- source: we
+  target: customer service information
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Customer service information,
+    such as information about your customer service and maintenance interactions with
+    us'
+  purposes: {}
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: demographic information
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Demographic information
+    such as your gender, age, marital status, and similar information in connection
+    with the Services'
+  purposes: {}
+- source: we
+  target: domain name
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - In addition to advertising activities using cookies and pixels, we may also share
+    user email addresses with advertising partners to provide you with more relevant
+    advertising.
+  - When you "like" or "follow" us on Facebook, Instagram, Twitter, or other social
+    media platforms, we may collect some information from you including your name,
+    email address, and any comments or content you post relevant to us.
+  purposes:
+    advertising:
+    - to provide you with more relevant advertising
+- source: we
+  target: error log
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: file you download
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: General geolocation
+    information, such as city, state, or zip code.'
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or postal code
+    associated with an IP address) from your computer or mobile device.
+  purposes: {}
+- source: we
+  target: google signals
+  key: COLLECT
+  text:
+  - We may use third-party web analytics services (such as those of Google Analytics
+    -including Google Signals, Google User-ID, and other Google Analytics features-
+    Metabase, Amplitude, and MixPanel) on our Services to collect and analyze usage
+    information through cookies and similar tools; engage in auditing, research, or
+    reporting; assist with fraud prevention; try to locate the same unique users across
+    multiple browsers or devices to better tailor services and features; and provide
+    certain features to you.
+  purposes: {}
+- source: we
+  target: identifier
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Identifiers, such as
+    name, address, telephone number, date of birth, and email address'
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Information about others,
+    such as if you provide a family or friend''s email address or contact information
+    to allow access to your information or name them as an emergency contact'
+  - We will provide information about how to exercise that right in our response denying
+    the request.
+  purposes: {}
+- source: we
+  target: information about mobile phone use
+  key: COLLECT
+  text:
+  - When you use our Apps, we automatically receive certain information about the
+    mobile phone, tablet, or computer used to access the Apps, including a mobile
+    device identifier, advertising identifiers (in accordance with your device settings),
+    IP address, operating system, version, Internet service provider, browser type,
+    domain name and other similar information, whether and when you update the Apps,
+    date and time of use, and how you use the Apps, including time spent in different
+    portions of the Apps.
+  purposes: {}
+- source: we
+  target: information about treatment you request
+  key: COLLECT
+  text:
+  - To provide you with more relevant online advertising regarding Ro's products and
+    services, as described immediately above, we may use information about the treatments
+    you have requested or received and similar information.
+  purposes:
+    advertising:
+    - To provide you with more relevant online advertising regarding Ro's products
+      and services, as described immediately above
+- source: we
+  target: information about use of service
+  key: COLLECT
+  text:
+  - We collect certain information about your use of the Services and the devices
+    you use to access the Services, as described in this Section ("usage information").
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - Such third parties will sometimes provide us with additional information about
+    you.
+  - We obtain information about you through the means discussed below when you use
+    the Services.
+  purposes: {}
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - 'By using the Services, you acknowledge and agree that we may access, retain and
+    disclose the information we collect and maintain about you if required to do so
+    by law or in a good faith belief that such access, retention or disclosure is
+    reasonably necessary to: (a) comply with legal process (e.g. a subpoena or court
+    order); (b) enforce our Terms of Use, this Privacy Policy, or other contracts
+    with you, including investigation of potential violations thereof; (c) respond
+    to claims that any content violates the rights of third parties; (d) respond to
+    your requests for customer service; and/or (e) protect the rights, property or
+    personal safety of Ro, its agents and affiliates, its users and/or the public.'
+  purposes: {}
+- source: we
+  target: information we collect through service
+  key: COLLECT
+  text:
+  - For the purposes discussed in this Privacy Policy, we may combine the information
+    that we collect through the Services with information that we receive from other
+    sources, both online and offline, and use and disclose such combined information
+    in accordance with this Privacy Policy.
+  purposes: {}
+- source: we
+  target: information you choose
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Any other information
+    you choose to directly provide to us in connection with your use of the Services.'
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: number of click
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - When you "like" or "follow" us on Facebook, Instagram, Twitter, or other social
+    media platforms, we may collect some information from you including your name,
+    email address, and any comments or content you post relevant to us.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - We may use third-party web analytics services (such as those of Google Analytics
+    -including Google Signals, Google User-ID, and other Google Analytics features-
+    Metabase, Amplitude, and MixPanel) on our Services to collect and analyze usage
+    information through cookies and similar tools; engage in auditing, research, or
+    reporting; assist with fraud prevention; try to locate the same unique users across
+    multiple browsers or devices to better tailor services and features; and provide
+    certain features to you.
+  purposes: {}
+- source: we
+  target: photo
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Information you provide
+    in Apps, such as videos (and in some cases the recordings of such videos), photos,
+    and signatures'
+  purposes: {}
+- source: we
+  target: platform type
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: request
+  key: COLLECT
+  text:
+  - Once verified, we will maintain your request in the event our practices change.
+  purposes: {}
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information'
+  purposes: {}
+- source: we
+  target: sexual orientation
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Information about your sex life and sexual orientation'
+  purposes: {}
+- source: we
+  target: signature
+  key: COLLECT
+  text:
+  - 'The types of data we collect directly from you includes: Information you provide
+    in Apps, such as videos (and in some cases the recordings of such videos), photos,
+    and signatures'
+  purposes: {}
+- source: we
+  target: software attribute
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: state
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: tag
+  key: COLLECT
+  text:
+  - To collect the information discussed in this Section, we and our service providers
+    use web server logs, cookies, tags, SDKs, tracking pixels, and other similar tracking
+    technologies.
+  purposes: {}
+- source: we
+  target: tracking pixel
+  key: COLLECT
+  text:
+  - To collect the information discussed in this Section, we and our service providers
+    use web server logs, cookies, tags, SDKs, tracking pixels, and other similar tracking
+    technologies.
+  purposes: {}
+- source: we
+  target: type of information
+  key: COLLECT
+  text:
+  - Please note that we need certain types of information so that we can provide the
+    Services to you.
+  purposes: {}
+- source: we
+  target: url
+  key: COLLECT
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+  purposes: {}
+- source: we
+  target: usage information
+  key: COLLECT
+  text:
+  - We may use third-party web analytics services (such as those of Google Analytics
+    -including Google Signals, Google User-ID, and other Google Analytics features-
+    Metabase, Amplitude, and MixPanel) on our Services to collect and analyze usage
+    information through cookies and similar tools; engage in auditing, research, or
+    reporting; assist with fraud prevention; try to locate the same unique users across
+    multiple browsers or devices to better tailor services and features; and provide
+    certain features to you.
+  purposes: {}
+- source: we
+  target: web server log
+  key: COLLECT
+  text:
+  - To collect the information discussed in this Section, we and our service providers
+    use web server logs, cookies, tags, SDKs, tracking pixels, and other similar tracking
+    technologies.
+  purposes: {}
+- source: Apple
+  target: own instruction on
+  key: COLLECT
+  text:
+  - Each operating system, iOS for Apple phones, Android for Android devices, and
+    Windows for Microsoft devices provides its own instructions on how to prevent
+    the delivery of tailored in-application advertisements.
+  purposes: {}
+- source: Microsoft
+  target: own instruction on
+  key: COLLECT
+  text:
+  - Each operating system, iOS for Apple phones, Android for Android devices, and
+    Windows for Microsoft devices provides its own instructions on how to prevent
+    the delivery of tailored in-application advertisements.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties may at times gather information from or about you.
+  - This Privacy Policy does not address, and we are not responsible for, the privacy,
+    information, or other practices, including data privacy and security process and
+    standards of any third parties, including physicians and other health care providers
+    using the Services, the manufacturer of your mobile device and other IT hardware
+    and software, and any other third party mobile application, website, or service
+    to which our Services may contain a link.
+  - We provide access to or disclose your information to select third parties who
+    use the information to perform services on our behalf.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: activity
+  key: COLLECT
+  text:
+  - As explained in the Online Analytics and Advertising section above, and subject
+    to applicable laws as discussed further below, Ro allows third parties to receive
+    certain information such as cookies, IP address, device identifiers, hashed contact
+    information, browsing behavior, and/or other activity to enable the delivery of
+    targeted advertising to you.  These activities may qualify as the "sale" of personal
+    information or "sharing" or processing of personal information for targeted advertising,
+    as defined in applicable law.
+  purposes:
+    advertising:
+    - to enable the delivery of targeted advertising to you
+- source: UNSPECIFIED_ACTOR
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - As explained in the Online Analytics and Advertising section above, and subject
+    to applicable laws as discussed further below, Ro allows third parties to receive
+    certain information such as cookies, IP address, device identifiers, hashed contact
+    information, browsing behavior, and/or other activity to enable the delivery of
+    targeted advertising to you.  These activities may qualify as the "sale" of personal
+    information or "sharing" or processing of personal information for targeted advertising,
+    as defined in applicable law.
+  purposes:
+    advertising:
+    - to enable the delivery of targeted advertising to you
+- source: UNSPECIFIED_ACTOR
+  target: contact information
+  key: COLLECT
+  text:
+  - As explained in the Online Analytics and Advertising section above, and subject
+    to applicable laws as discussed further below, Ro allows third parties to receive
+    certain information such as cookies, IP address, device identifiers, hashed contact
+    information, browsing behavior, and/or other activity to enable the delivery of
+    targeted advertising to you.  These activities may qualify as the "sale" of personal
+    information or "sharing" or processing of personal information for targeted advertising,
+    as defined in applicable law.
+  purposes:
+    advertising:
+    - to enable the delivery of targeted advertising to you
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - As explained in the Online Analytics and Advertising section above, and subject
+    to applicable laws as discussed further below, Ro allows third parties to receive
+    certain information such as cookies, IP address, device identifiers, hashed contact
+    information, browsing behavior, and/or other activity to enable the delivery of
+    targeted advertising to you.  These activities may qualify as the "sale" of personal
+    information or "sharing" or processing of personal information for targeted advertising,
+    as defined in applicable law.
+  purposes:
+    advertising:
+    - to enable the delivery of targeted advertising to you
+- source: UNSPECIFIED_ACTOR
+  target: device identifier
+  key: COLLECT
+  text:
+  - As explained in the Online Analytics and Advertising section above, and subject
+    to applicable laws as discussed further below, Ro allows third parties to receive
+    certain information such as cookies, IP address, device identifiers, hashed contact
+    information, browsing behavior, and/or other activity to enable the delivery of
+    targeted advertising to you.  These activities may qualify as the "sale" of personal
+    information or "sharing" or processing of personal information for targeted advertising,
+    as defined in applicable law.
+  purposes:
+    advertising:
+    - to enable the delivery of targeted advertising to you
+- source: UNSPECIFIED_ACTOR
+  target: ip address
+  key: COLLECT
+  text:
+  - As explained in the Online Analytics and Advertising section above, and subject
+    to applicable laws as discussed further below, Ro allows third parties to receive
+    certain information such as cookies, IP address, device identifiers, hashed contact
+    information, browsing behavior, and/or other activity to enable the delivery of
+    targeted advertising to you.  These activities may qualify as the "sale" of personal
+    information or "sharing" or processing of personal information for targeted advertising,
+    as defined in applicable law.
+  purposes:
+    advertising:
+    - to enable the delivery of targeted advertising to you
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may disclose your information for our business purposes in the following ways:
+    Advertising Networks.'
+  purposes: {}
+- source: advertiser
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use Aggregate/De-Identified Information for any purpose, including for
+    research and marketing purposes, and may also disclose such data to any third
+    parties, including advertisers, promotional partners, and sponsors.
+  purposes: {}
+- source: advertiser
+  target: email address
+  key: COLLECT
+  text:
+  - In addition to advertising activities using cookies and pixels, we may also share
+    user email addresses with advertising partners to provide you with more relevant
+    advertising.
+  purposes:
+    advertising:
+    - to provide you with more relevant advertising
+- source: android for android device
+  target: own instruction on
+  key: COLLECT
+  text:
+  - Each operating system, iOS for Apple phones, Android for Android devices, and
+    Windows for Microsoft devices provides its own instructions on how to prevent
+    the delivery of tailored in-application advertisements.
+  purposes: {}
+- source: business transfer
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may disclose your information for our business purposes in the following ways:
+    Business Transfers.'
+  purposes: {}
+- source: entity offer
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These are entities that jointly offer or provide services or products with us.
+  - These entities collect and use data in accordance with their own terms and privacy
+    policies.
+  purposes: {}
+- source: health care provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties may at times gather information from or about you.
+  - This Privacy Policy does not address, and we are not responsible for, the privacy,
+    information, or other practices, including data privacy and security process and
+    standards of any third parties, including physicians and other health care providers
+    using the Services, the manufacturer of your mobile device and other IT hardware
+    and software, and any other third party mobile application, website, or service
+    to which our Services may contain a link.
+  - 'We disclose your information to health care providers: (i) to schedule and fulfill
+    appointments and provide health care services as part of the Services, (ii) to
+    whom you send messages through our Services, and (iii) for other treatment, payment
+    or health care operations purposes, including pharmacy services, upon your request.'
+  - 'We may disclose your information for our business purposes in the following ways:
+    Health Care Providers and Services.'
+  purposes: {}
+- source: it hardware
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties may at times gather information from or about you.
+  - This Privacy Policy does not address, and we are not responsible for, the privacy,
+    information, or other practices, including data privacy and security process and
+    standards of any third parties, including physicians and other health care providers
+    using the Services, the manufacturer of your mobile device and other IT hardware
+    and software, and any other third party mobile application, website, or service
+    to which our Services may contain a link.
+  purposes: {}
+- source: joint product marketing partners
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may disclose your information for our business purposes in the following ways:
+    Joint Product/Marketing Partners.'
+  purposes: {}
+- source: link
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties may at times gather information from or about you.
+  - This Privacy Policy does not address, and we are not responsible for, the privacy,
+    information, or other practices, including data privacy and security process and
+    standards of any third parties, including physicians and other health care providers
+    using the Services, the manufacturer of your mobile device and other IT hardware
+    and software, and any other third party mobile application, website, or service
+    to which our Services may contain a link.
+  purposes: {}
+- source: manufacturer
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties may at times gather information from or about you.
+  - This Privacy Policy does not address, and we are not responsible for, the privacy,
+    information, or other practices, including data privacy and security process and
+    standards of any third parties, including physicians and other health care providers
+    using the Services, the manufacturer of your mobile device and other IT hardware
+    and software, and any other third party mobile application, website, or service
+    to which our Services may contain a link.
+  purposes: {}
+- source: medical professional
+  target: information about you
+  key: COLLECT
+  text:
+  - Such third parties will sometimes provide us with additional information about
+    you.
+  - We work closely with third parties (including, for example, third party intermediaries,
+    such as physicians, medical professionals, and pharmacies to provide you with
+    the Services, as well as with advertising networks, analytics providers, marketing
+    partners, and search information providers).
+  purposes: {}
+- source: operate system
+  target: own instruction on
+  key: COLLECT
+  text:
+  - Each operating system, iOS for Apple phones, Android for Android devices, and
+    Windows for Microsoft devices provides its own instructions on how to prevent
+    the delivery of tailored in-application advertisements.
+  purposes: {}
+- source: pharmacy
+  target: information about you
+  key: COLLECT
+  text:
+  - Such third parties will sometimes provide us with additional information about
+    you.
+  - We work closely with third parties (including, for example, third party intermediaries,
+    such as physicians, medical professionals, and pharmacies to provide you with
+    the Services, as well as with advertising networks, analytics providers, marketing
+    partners, and search information providers).
+  purposes: {}
+- source: physician
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third parties may at times gather information from or about you.
+  - This Privacy Policy does not address, and we are not responsible for, the privacy,
+    information, or other practices, including data privacy and security process and
+    standards of any third parties, including physicians and other health care providers
+    using the Services, the manufacturer of your mobile device and other IT hardware
+    and software, and any other third party mobile application, website, or service
+    to which our Services may contain a link.
+  purposes: {}
+- source: physician
+  target: information about you
+  key: COLLECT
+  text:
+  - Such third parties will sometimes provide us with additional information about
+    you.
+  - We work closely with third parties (including, for example, third party intermediaries,
+    such as physicians, medical professionals, and pharmacies to provide you with
+    the Services, as well as with advertising networks, analytics providers, marketing
+    partners, and search information providers).
+  purposes: {}
+- source: promotional partner
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use Aggregate/De-Identified Information for any purpose, including for
+    research and marketing purposes, and may also disclose such data to any third
+    parties, including advertisers, promotional partners, and sponsors.
+  purposes: {}
+- source: ro
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - This Privacy Policy (" Privacy Policy ") describes the data protection practices
+    of Roman Health Ventures Inc. and its affiliates, including Roman Health Medical
+    LLC, Roman Health Pharmacy LLC, Dadi, LLC, Kit LLC, and Modern Health Inc. (collectively,
+    " Ro ," " we ," " our ," or " us "), including when you visit any Ro website that
+    links to this Privacy Policy (including www.ro.co, www.getroman.com, www.hellorory.com,
+    dadikit.com, modernfertility.com, quitwithzero.com, and romanhealthpharmacy.com
+    (collectively, our " Websites "); use any affiliated mobile applications (the
+    " Apps ") that link to or contain this Privacy Policy; or otherwise provide data
+    to Ro.
+  purposes: {}
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may disclose your information for our business purposes in the following ways:
+    Service Providers.'
+  purposes: {}
+- source: service provider
+  target: customer information
+  key: COLLECT
+  text:
+  - We sometimes provide our customer information (such as email addresses) to service
+    providers, who may "match" this information in de-identified form to cookies (or
+    mobile ad identifiers) and other proprietary IDs, in order to provide you with
+    more relevant ads when you visit other websites and mobile applications.
+  purposes: {}
+- source: service provider
+  target: geolocation
+  key: COLLECT
+  text:
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or postal code
+    associated with an IP address) from your computer or mobile device.
+  purposes: {}
+- source: sponsor
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use Aggregate/De-Identified Information for any purpose, including for
+    research and marketing purposes, and may also disclose such data to any third
+    parties, including advertisers, promotional partners, and sponsors.
+  purposes: {}
+- source: we
+  target: ro website link to privacy policy
+  key: SUBSUM
+  text:
+  - This Privacy Policy (" Privacy Policy ") describes the data protection practices
+    of Roman Health Ventures Inc. and its affiliates, including Roman Health Medical
+    LLC, Roman Health Pharmacy LLC, Dadi, LLC, Kit LLC, and Modern Health Inc. (collectively,
+    " Ro ," " we ," " our ," or " us "), including when you visit any Ro website that
+    links to this Privacy Policy (including www.ro.co, www.getroman.com, www.hellorory.com,
+    dadikit.com, modernfertility.com, quitwithzero.com, and romanhealthpharmacy.com
+    (collectively, our " Websites "); use any affiliated mobile applications (the
+    " Apps ") that link to or contain this Privacy Policy; or otherwise provide data
+    to Ro.
+- source: advertiser
+  target: Criteo
+  key: SUBSUM
+  text:
+  - The Services may integrate third-party advertising technologies (e.g., ad networks
+    and ad servers such as Facebook, Google Ad Words, TikTok, Criteo and others) that
+    use cookies, pixels, and other technologies to deliver relevant content and advertising
+    for Ro products and research on the Services, as well as on other websites you
+    visit and other applications you use.
+- source: advertiser
+  target: Facebook
+  key: SUBSUM
+  text:
+  - The Services may integrate third-party advertising technologies (e.g., ad networks
+    and ad servers such as Facebook, Google Ad Words, TikTok, Criteo and others) that
+    use cookies, pixels, and other technologies to deliver relevant content and advertising
+    for Ro products and research on the Services, as well as on other websites you
+    visit and other applications you use.
+- source: advertiser
+  target: Google
+  key: SUBSUM
+  text:
+  - The Services may integrate third-party advertising technologies (e.g., ad networks
+    and ad servers such as Facebook, Google Ad Words, TikTok, Criteo and others) that
+    use cookies, pixels, and other technologies to deliver relevant content and advertising
+    for Ro products and research on the Services, as well as on other websites you
+    visit and other applications you use.
+- source: advertiser
+  target: tiktok
+  key: SUBSUM
+  text:
+  - The Services may integrate third-party advertising technologies (e.g., ad networks
+    and ad servers such as Facebook, Google Ad Words, TikTok, Criteo and others) that
+    use cookies, pixels, and other technologies to deliver relevant content and advertising
+    for Ro products and research on the Services, as well as on other websites you
+    visit and other applications you use.
+- source: analytic provider
+  target: Google
+  key: SUBSUM
+  text:
+  - We may use third-party web analytics services (such as those of Google Analytics
+    -including Google Signals, Google User-ID, and other Google Analytics features-
+    Metabase, Amplitude, and MixPanel) on our Services to collect and analyze usage
+    information through cookies and similar tools; engage in auditing, research, or
+    reporting; assist with fraud prevention; try to locate the same unique users across
+    multiple browsers or devices to better tailor services and features; and provide
+    certain features to you.
+- source: app on device
+  target: calendar
+  key: SUBSUM
+  text:
+  - Similarly, if you choose to connect your App to third-party platforms or tools,
+    or with other apps on your device (e.g., health or fitness monitoring platforms
+    or tools, or your contacts, photos, or calendar), such third parties and tools
+    may allow us to have access to and store additional information as it relates
+    to your use of the Services (e.g., to integrate your fitness data within the Services
+    or access your calendar to help you schedule an appointment).
+- source: app on device
+  target: health monitoring platform
+  key: SUBSUM
+  text:
+  - Similarly, if you choose to connect your App to third-party platforms or tools,
+    or with other apps on your device (e.g., health or fitness monitoring platforms
+    or tools, or your contacts, photos, or calendar), such third parties and tools
+    may allow us to have access to and store additional information as it relates
+    to your use of the Services (e.g., to integrate your fitness data within the Services
+    or access your calendar to help you schedule an appointment).
+- source: app on device
+  target: tool
+  key: SUBSUM
+  text:
+  - Similarly, if you choose to connect your App to third-party platforms or tools,
+    or with other apps on your device (e.g., health or fitness monitoring platforms
+    or tools, or your contacts, photos, or calendar), such third parties and tools
+    may allow us to have access to and store additional information as it relates
+    to your use of the Services (e.g., to integrate your fitness data within the Services
+    or access your calendar to help you schedule an appointment).
+- source: benefit
+  target: discount
+  key: SUBSUM
+  text:
+  - The Services may offer opportunities to receive certain services or benefits such
+    as gift cards, discounts, or free services, which may require the provision of
+    Personal Information.
+- source: benefit
+  target: free service
+  key: SUBSUM
+  text:
+  - The Services may offer opportunities to receive certain services or benefits such
+    as gift cards, discounts, or free services, which may require the provision of
+    Personal Information.
+- source: benefit
+  target: gift card
+  key: SUBSUM
+  text:
+  - The Services may offer opportunities to receive certain services or benefits such
+    as gift cards, discounts, or free services, which may require the provision of
+    Personal Information.
+- source: billing information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Billing information,
+    such as shipping address, credit or debit card number, verification number, and
+    expiration date, collected by our payment processors on our behalf'
+- source: billing information
+  target: expiration date
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Billing information,
+    such as shipping address, credit or debit card number, verification number, and
+    expiration date, collected by our payment processors on our behalf'
+- source: billing information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Billing information,
+    such as shipping address, credit or debit card number, verification number, and
+    expiration date, collected by our payment processors on our behalf'
+- source: billing information
+  target: verification number
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Billing information,
+    such as shipping address, credit or debit card number, verification number, and
+    expiration date, collected by our payment processors on our behalf'
+- source: commercial information
+  target: information about fact you make purchase
+  key: SUBSUM
+  text:
+  - Commercial and transactional information (e.g., information about the fact that
+    you made a purchase)
+- source: commercial information
+  target: information about healthcare provider
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Commercial information,
+    such as information about purchases or other transactions with us, including information
+    about your healthcare provider, if applicable'
+- source: contact information
+  target: account name
+  key: SUBSUM
+  text:
+  - Identifiers and contact information (e.g., name, address, email address, account
+    names)
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - Identifiers and contact information (e.g., name, address, email address, account
+    names)
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - Identifiers and contact information (e.g., name, address, email address, account
+    names)
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Identifiers and contact information (e.g., name, address, email address, account
+    names)
+- source: cookie blocker
+  target: ghostery
+  key: SUBSUM
+  text:
+  - Note, if you use a cookie blocker such as Ghostery, it may block visibility of
+    this tool.
+- source: customer information
+  target: email address
+  key: SUBSUM
+  text:
+  - If a portion or all of our assets are sold or transferred to a third-party, customer
+    information (including your email address) would likely be one of the transferred
+    business assets.
+  - If you began using the Services after October 14th, 2021, we may also disclose
+    customer information such as your email address with third-party advertising networks
+    that use such information to better target advertising to you regarding Ro products
+    and services, as well as other products and services, as you browse the internet.
+  - We sometimes provide our customer information (such as email addresses) to service
+    providers, who may "match" this information in de-identified form to cookies (or
+    mobile ad identifiers) and other proprietary IDs, in order to provide you with
+    more relevant ads when you visit other websites and mobile applications.
+- source: demographic information
+  target: age
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Demographic information
+    such as your gender, age, marital status, and similar information in connection
+    with the Services'
+- source: demographic information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Demographic information
+    such as your gender, age, marital status, and similar information in connection
+    with the Services'
+- source: demographic information
+  target: information in connection with services
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Demographic information
+    such as your gender, age, marital status, and similar information in connection
+    with the Services'
+- source: demographic information
+  target: marital status
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Demographic information
+    such as your gender, age, marital status, and similar information in connection
+    with the Services'
+- source: factor
+  target: information you enter
+  key: SUBSUM
+  text:
+  - The ads may be based on various factors such as the content of the page you are
+    visiting, information you enter such as your searches, demographic data, and other
+    information we collect from you.
+- source: financial information
+  target: credit card info collect
+  key: SUBSUM
+  text:
+  - Financial information (e.g., credit card info collected by our payment processors)
+- source: generate content
+  target: information you choose
+  key: SUBSUM
+  text:
+  - User-generated content (e.g., information you choose to post in our online forums)
+- source: geolocation
+  target: city
+  key: SUBSUM
+  text:
+  - General geolocation information (e.g., city and state or zip code)
+  - 'The types of data we collect directly from you includes: General geolocation
+    information, such as city, state, or zip code.'
+- source: geolocation
+  target: city state
+  key: SUBSUM
+  text:
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or postal code
+    associated with an IP address) from your computer or mobile device.
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or postal code
+    associated with an IP address) from your computer or mobile device.
+- source: health information
+  target: genetic
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: health information
+  target: information about
+  key: SUBSUM
+  text:
+  - Health information (e.g., information about which online visit you started)
+- source: health information
+  target: insurance information
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: health information
+  target: lab result
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: health information
+  target: medical history
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: health information
+  target: medical photo you upload
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: health information
+  target: mental health
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: health information
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: health information
+  target: treatment option
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: identifier
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Identifiers, such as
+    name, address, telephone number, date of birth, and email address'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Identifiers, such as
+    name, address, telephone number, date of birth, and email address'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Identifiers, such as
+    name, address, telephone number, date of birth, and email address'
+- source: identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Identifiers, such as
+    name, address, telephone number, date of birth, and email address'
+- source: identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Identifiers, such as
+    name, address, telephone number, date of birth, and email address'
+- source: identity verification information
+  target: government identifier
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Identity verification information (e.g. driver''s license or other government-issued
+    ID card or number), and your signature (if required for notarization purposes)'
+- source: identity verification information
+  target: number
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Identity verification information (e.g. driver''s license or other government-issued
+    ID card or number), and your signature (if required for notarization purposes)'
+- source: information about mobile phone use
+  target: advertising id
+  key: SUBSUM
+  text:
+  - When you use our Apps, we automatically receive certain information about the
+    mobile phone, tablet, or computer used to access the Apps, including a mobile
+    device identifier, advertising identifiers (in accordance with your device settings),
+    IP address, operating system, version, Internet service provider, browser type,
+    domain name and other similar information, whether and when you update the Apps,
+    date and time of use, and how you use the Apps, including time spent in different
+    portions of the Apps.
+- source: information about mobile phone use
+  target: browser type
+  key: SUBSUM
+  text:
+  - When you use our Apps, we automatically receive certain information about the
+    mobile phone, tablet, or computer used to access the Apps, including a mobile
+    device identifier, advertising identifiers (in accordance with your device settings),
+    IP address, operating system, version, Internet service provider, browser type,
+    domain name and other similar information, whether and when you update the Apps,
+    date and time of use, and how you use the Apps, including time spent in different
+    portions of the Apps.
+- source: information about mobile phone use
+  target: date
+  key: SUBSUM
+  text:
+  - When you use our Apps, we automatically receive certain information about the
+    mobile phone, tablet, or computer used to access the Apps, including a mobile
+    device identifier, advertising identifiers (in accordance with your device settings),
+    IP address, operating system, version, Internet service provider, browser type,
+    domain name and other similar information, whether and when you update the Apps,
+    date and time of use, and how you use the Apps, including time spent in different
+    portions of the Apps.
+- source: information about mobile phone use
+  target: device identifier
+  key: SUBSUM
+  text:
+  - When you use our Apps, we automatically receive certain information about the
+    mobile phone, tablet, or computer used to access the Apps, including a mobile
+    device identifier, advertising identifiers (in accordance with your device settings),
+    IP address, operating system, version, Internet service provider, browser type,
+    domain name and other similar information, whether and when you update the Apps,
+    date and time of use, and how you use the Apps, including time spent in different
+    portions of the Apps.
+- source: information about mobile phone use
+  target: domain name
+  key: SUBSUM
+  text:
+  - When you use our Apps, we automatically receive certain information about the
+    mobile phone, tablet, or computer used to access the Apps, including a mobile
+    device identifier, advertising identifiers (in accordance with your device settings),
+    IP address, operating system, version, Internet service provider, browser type,
+    domain name and other similar information, whether and when you update the Apps,
+    date and time of use, and how you use the Apps, including time spent in different
+    portions of the Apps.
+- source: information about mobile phone use
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you use our Apps, we automatically receive certain information about the
+    mobile phone, tablet, or computer used to access the Apps, including a mobile
+    device identifier, advertising identifiers (in accordance with your device settings),
+    IP address, operating system, version, Internet service provider, browser type,
+    domain name and other similar information, whether and when you update the Apps,
+    date and time of use, and how you use the Apps, including time spent in different
+    portions of the Apps.
+- source: information consider
+  target: health information
+  key: SUBSUM
+  text:
+  - This may include the processing of information that is considered "sensitive data"
+    or "sensitive personal information" under applicable laws, such as health information
+    and information about sex life and sexual orientation (collectively referred to
+    herein as "sensitive data").  You have a right to limit our use of sensitive data
+    for purposes other than to provide the services or goods you request or as otherwise
+    permitted by law, including our and our partner's processing of sensitive data
+    for tailored advertising purposes..
+- source: information consider
+  target: sex life
+  key: SUBSUM
+  text:
+  - This may include the processing of information that is considered "sensitive data"
+    or "sensitive personal information" under applicable laws, such as health information
+    and information about sex life and sexual orientation (collectively referred to
+    herein as "sensitive data").  You have a right to limit our use of sensitive data
+    for purposes other than to provide the services or goods you request or as otherwise
+    permitted by law, including our and our partner's processing of sensitive data
+    for tailored advertising purposes..
+- source: information consider
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - This may include the processing of information that is considered "sensitive data"
+    or "sensitive personal information" under applicable laws, such as health information
+    and information about sex life and sexual orientation (collectively referred to
+    herein as "sensitive data").  You have a right to limit our use of sensitive data
+    for purposes other than to provide the services or goods you request or as otherwise
+    permitted by law, including our and our partner's processing of sensitive data
+    for tailored advertising purposes..
+- source: information you enter
+  target: demographic datum
+  key: SUBSUM
+  text:
+  - The ads may be based on various factors such as the content of the page you are
+    visiting, information you enter such as your searches, demographic data, and other
+    information we collect from you.
+- source: information you enter
+  target: information we collect from you
+  key: SUBSUM
+  text:
+  - The ads may be based on various factors such as the content of the page you are
+    visiting, information you enter such as your searches, demographic data, and other
+    information we collect from you.
+- source: internet activity
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - Internet or other network or device activity (e.g., IP address, browsing history,
+    app usage)
+- source: internet activity
+  target: ip address
+  key: SUBSUM
+  text:
+  - Internet or other network or device activity (e.g., IP address, browsing history,
+    app usage)
+- source: online identifier
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: online identifier
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: online identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: online identifier
+  target: usage information
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: personal characteristic
+  target: photo
+  key: SUBSUM
+  text:
+  - Physical characteristics (e.g., photos and videos of you)
+- source: personal characteristic
+  target: video
+  key: SUBSUM
+  text:
+  - Physical characteristics (e.g., photos and videos of you)
+- source: privacy information for california resident
+  target: customer service datum
+  key: SUBSUM
+  text:
+  - 'Introduction
+
+
+    Privacy Information for California Residents
+
+
+    Customer service data (e.g., information you provide through a chat or call with
+    Ro''s Care Team)'
+- source: privacy information for california resident
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - 'Introduction
+
+
+    Privacy Information for California Residents'
+  - Physical characteristics (e.g., photos and videos of you)
+- source: related business
+  target: parent company
+  key: SUBSUM
+  text:
+  - 'In connection with providing you with the Services, we may use your information
+    for the following business purposes: Advertising and Marketing: Communicate with
+    you (in accordance with applicable legal requirements) by email, postal mail,
+    or phone about surveys, promotions, special events or our products and Services
+    and those of our subsidiaries, affiliates, and parent companies and any of their
+    related businesses and those of our third-party partners.'
+- source: related business
+  target: promotion
+  key: SUBSUM
+  text:
+  - 'In connection with providing you with the Services, we may use your information
+    for the following business purposes: Advertising and Marketing: Communicate with
+    you (in accordance with applicable legal requirements) by email, postal mail,
+    or phone about surveys, promotions, special events or our products and Services
+    and those of our subsidiaries, affiliates, and parent companies and any of their
+    related businesses and those of our third-party partners.'
+- source: related business
+  target: special event
+  key: SUBSUM
+  text:
+  - 'In connection with providing you with the Services, we may use your information
+    for the following business purposes: Advertising and Marketing: Communicate with
+    you (in accordance with applicable legal requirements) by email, postal mail,
+    or phone about surveys, promotions, special events or our products and Services
+    and those of our subsidiaries, affiliates, and parent companies and any of their
+    related businesses and those of our third-party partners.'
+- source: require base opt signal
+  target: global privacy control
+  key: SUBSUM
+  text:
+  - As described more in the "Your Rights and Controls" section of our Privacy Policy,
+    you have the right to opt out of Ro's  sale/sharing of your personal information
+    for purposes of online advertising and related purposes through the use of cookies,
+    pixels, and similar online tools by clicking here .  Please note that we will
+    also honor legally-required browser-based opt out signals (such as the Global
+    Privacy Control) in accordance with our legal obligations.
+- source: ro
+  target: dadi llc
+  key: SUBSUM
+  text:
+  - This Privacy Policy (" Privacy Policy ") describes the data protection practices
+    of Roman Health Ventures Inc. and its affiliates, including Roman Health Medical
+    LLC, Roman Health Pharmacy LLC, Dadi, LLC, Kit LLC, and Modern Health Inc. (collectively,
+    " Ro ," " we ," " our ," or " us "), including when you visit any Ro website that
+    links to this Privacy Policy (including www.ro.co, www.getroman.com, www.hellorory.com,
+    dadikit.com, modernfertility.com, quitwithzero.com, and romanhealthpharmacy.com
+    (collectively, our " Websites "); use any affiliated mobile applications (the
+    " Apps ") that link to or contain this Privacy Policy; or otherwise provide data
+    to Ro.
+- source: ro
+  target: kit llc
+  key: SUBSUM
+  text:
+  - This Privacy Policy (" Privacy Policy ") describes the data protection practices
+    of Roman Health Ventures Inc. and its affiliates, including Roman Health Medical
+    LLC, Roman Health Pharmacy LLC, Dadi, LLC, Kit LLC, and Modern Health Inc. (collectively,
+    " Ro ," " we ," " our ," or " us "), including when you visit any Ro website that
+    links to this Privacy Policy (including www.ro.co, www.getroman.com, www.hellorory.com,
+    dadikit.com, modernfertility.com, quitwithzero.com, and romanhealthpharmacy.com
+    (collectively, our " Websites "); use any affiliated mobile applications (the
+    " Apps ") that link to or contain this Privacy Policy; or otherwise provide data
+    to Ro.
+- source: ro
+  target: modern health inc.
+  key: SUBSUM
+  text:
+  - This Privacy Policy (" Privacy Policy ") describes the data protection practices
+    of Roman Health Ventures Inc. and its affiliates, including Roman Health Medical
+    LLC, Roman Health Pharmacy LLC, Dadi, LLC, Kit LLC, and Modern Health Inc. (collectively,
+    " Ro ," " we ," " our ," or " us "), including when you visit any Ro website that
+    links to this Privacy Policy (including www.ro.co, www.getroman.com, www.hellorory.com,
+    dadikit.com, modernfertility.com, quitwithzero.com, and romanhealthpharmacy.com
+    (collectively, our " Websites "); use any affiliated mobile applications (the
+    " Apps ") that link to or contain this Privacy Policy; or otherwise provide data
+    to Ro.
+- source: ro
+  target: roman health medical llc
+  key: SUBSUM
+  text:
+  - This Privacy Policy (" Privacy Policy ") describes the data protection practices
+    of Roman Health Ventures Inc. and its affiliates, including Roman Health Medical
+    LLC, Roman Health Pharmacy LLC, Dadi, LLC, Kit LLC, and Modern Health Inc. (collectively,
+    " Ro ," " we ," " our ," or " us "), including when you visit any Ro website that
+    links to this Privacy Policy (including www.ro.co, www.getroman.com, www.hellorory.com,
+    dadikit.com, modernfertility.com, quitwithzero.com, and romanhealthpharmacy.com
+    (collectively, our " Websites "); use any affiliated mobile applications (the
+    " Apps ") that link to or contain this Privacy Policy; or otherwise provide data
+    to Ro.
+- source: ro
+  target: roman health pharmacy llc
+  key: SUBSUM
+  text:
+  - This Privacy Policy (" Privacy Policy ") describes the data protection practices
+    of Roman Health Ventures Inc. and its affiliates, including Roman Health Medical
+    LLC, Roman Health Pharmacy LLC, Dadi, LLC, Kit LLC, and Modern Health Inc. (collectively,
+    " Ro ," " we ," " our ," or " us "), including when you visit any Ro website that
+    links to this Privacy Policy (including www.ro.co, www.getroman.com, www.hellorory.com,
+    dadikit.com, modernfertility.com, quitwithzero.com, and romanhealthpharmacy.com
+    (collectively, our " Websites "); use any affiliated mobile applications (the
+    " Apps ") that link to or contain this Privacy Policy; or otherwise provide data
+    to Ro.
+- source: sensitive demographic datum
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Sensitive demographic data, such as race and ethnicity'
+- source: sensitive personal information
+  target: content of communication make via service
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Contents of communications made via the Services'
+- source: sensitive personal information
+  target: health information
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Health information, such as information about your symptoms, medical history,
+    lifestyle, prescriptions, mental health, drug or alcohol use, genetics, treatment
+    options, and relevant physical characteristics (e.g., your height and weight)
+    as well as medical photos you upload, lab results, and your insurance information.'
+- source: sensitive personal information
+  target: identity verification information
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Identity verification information (e.g. driver''s license or other government-issued
+    ID card or number), and your signature (if required for notarization purposes)'
+- source: sensitive personal information
+  target: log credential
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Log-in credentials, if you create an account'
+- source: sensitive personal information
+  target: sensitive demographic datum
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Sensitive demographic data, such as race and ethnicity'
+- source: sensitive personal information
+  target: signature
+  key: SUBSUM
+  text:
+  - 'The types of data we collect directly from you includes: Sensitive Personal Information
+    : Identity verification information (e.g. driver''s license or other government-issued
+    ID card or number), and your signature (if required for notarization purposes)'
+- source: software attribute
+  target: device identifier
+  key: SUBSUM
+  text:
+  - When you use our Websites, we collect and analyze information such as your IP
+    address, browser types, browser language, operating system, the state or country
+    from which you accessed the Services, software and hardware attributes (including
+    device IDs) referring and exit pages and URLs, platform type, the number of clicks,
+    files you download, domain names, landing pages, pages viewed and the order of
+    those pages, the amount of time spent on particular pages, the terms you use in
+    searches on our sites, the date and time you used the Services, error logs, and
+    other similar information.
+- source: technology
+  target: sdk
+  key: SUBSUM
+  text:
+  - As discussed further below, we and our service providers (which are third party
+    companies that work on our behalf), may use a variety of technologies, including
+    cookies, SDKs, and similar tools, to assist in collecting this information.
+- source: technology
+  target: tool
+  key: SUBSUM
+  text:
+  - As discussed further below, we and our service providers (which are third party
+    companies that work on our behalf), may use a variety of technologies, including
+    cookies, SDKs, and similar tools, to assist in collecting this information.
+- source: usage information
+  target: email open rate
+  key: SUBSUM
+  text:
+  - 'Tracking pixels (sometimes referred to as web beacons or clear GIFs) are tiny
+    electronic tags with a unique identifier embedded in websites, online ads and/or
+    email that are designed to: (1) collect usage information like ad impressions
+    or clicks and email open rates; (2) measure popularity of the Services and associated
+    advertising; and (3) access user cookies.'
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: Criteo
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: Microsoft
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: android for android device
+- type: ACTOR
+  id: app on device
+- type: ACTOR
+  id: benefit
+- type: ACTOR
+  id: business transfer
+- type: ACTOR
+  id: calendar
+- type: ACTOR
+  id: cookie blocker
+- type: ACTOR
+  id: dadi llc
+- type: ACTOR
+  id: discount
+- type: ACTOR
+  id: entity offer
+- type: ACTOR
+  id: free service
+- type: ACTOR
+  id: ghostery
+- type: ACTOR
+  id: gift card
+- type: ACTOR
+  id: health care provider
+- type: ACTOR
+  id: health monitoring platform
+- type: ACTOR
+  id: it hardware
+- type: ACTOR
+  id: joint product marketing partners
+- type: ACTOR
+  id: kit llc
+- type: ACTOR
+  id: link
+- type: ACTOR
+  id: manufacturer
+- type: ACTOR
+  id: medical professional
+- type: ACTOR
+  id: modern health inc.
+- type: ACTOR
+  id: operate system
+- type: ACTOR
+  id: parent company
+- type: ACTOR
+  id: pharmacy
+- type: ACTOR
+  id: physician
+- type: ACTOR
+  id: promotion
+- type: ACTOR
+  id: promotional partner
+- type: ACTOR
+  id: related business
+- type: ACTOR
+  id: ro
+- type: ACTOR
+  id: ro website link to privacy policy
+- type: ACTOR
+  id: roman health medical llc
+- type: ACTOR
+  id: roman health pharmacy llc
+- type: ACTOR
+  id: sdk
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: special event
+- type: ACTOR
+  id: sponsor
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: tiktok
+- type: ACTOR
+  id: tool
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account name
+- type: DATA
+  id: activity
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: billing information
+- type: DATA
+  id: browser language
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: city
+- type: DATA
+  id: city state
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content of communication make via service
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: credit card info collect
+- type: DATA
+  id: customer information
+- type: DATA
+  id: customer service datum
+- type: DATA
+  id: customer service information
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: demographic datum
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: domain name
+- type: DATA
+  id: email address
+- type: DATA
+  id: email open rate
+- type: DATA
+  id: error log
+- type: DATA
+  id: expiration date
+- type: DATA
+  id: factor
+- type: DATA
+  id: file you download
+- type: DATA
+  id: financial information
+- type: DATA
+  id: gender
+- type: DATA
+  id: generate content
+- type: DATA
+  id: genetic
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: global privacy control
+- type: DATA
+  id: google signals
+- type: DATA
+  id: government identifier
+- type: DATA
+  id: health information
+- type: DATA
+  id: identifier
+- type: DATA
+  id: identity verification information
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about fact you make purchase
+- type: DATA
+  id: information about healthcare provider
+- type: DATA
+  id: information about mobile phone use
+- type: DATA
+  id: information about treatment you request
+- type: DATA
+  id: information about use of service
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information consider
+- type: DATA
+  id: information in connection with services
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information we collect from you
+- type: DATA
+  id: information we collect through service
+- type: DATA
+  id: information you choose
+- type: DATA
+  id: information you enter
+- type: DATA
+  id: insurance information
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: lab result
+- type: DATA
+  id: log credential
+- type: DATA
+  id: marital status
+- type: DATA
+  id: medical history
+- type: DATA
+  id: medical photo you upload
+- type: DATA
+  id: mental health
+- type: DATA
+  id: number
+- type: DATA
+  id: number of click
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: own instruction on
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photo
+- type: DATA
+  id: platform type
+- type: DATA
+  id: postal address
+- type: DATA
+  id: privacy information for california resident
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: request
+- type: DATA
+  id: require base opt signal
+- type: DATA
+  id: sensitive demographic datum
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sex life
+- type: DATA
+  id: sexual orientation
+- type: DATA
+  id: signature
+- type: DATA
+  id: software attribute
+- type: DATA
+  id: state
+- type: DATA
+  id: tag
+- type: DATA
+  id: tracking pixel
+- type: DATA
+  id: treatment option
+- type: DATA
+  id: type of information
+- type: DATA
+  id: url
+- type: DATA
+  id: usage information
+- type: DATA
+  id: verification number
+- type: DATA
+  id: video
+- type: DATA
+  id: web server log

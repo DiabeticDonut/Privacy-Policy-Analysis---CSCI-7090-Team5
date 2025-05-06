@@ -1,0 +1,2878 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you direct us to connect the Products to applications such as Apple Health
+    or Google Fit, we will access and import certain data from such applications (in
+    accordance with your privacy settings in such applications) such as meditation
+    minutes and heart rate, and we will transfer certain data to such applications,
+    including Muse Data, session reminders, and your meditation goals.
+  - These analytics services may also provide us with other data they collect outside
+    of our applications in an aggregated, de-identified form.
+  - We maintain and use it as de-identified data, and may combine such de-identified
+    data with other information to generate aggregated data.
+  - We may require you to submit additional information in order to make a determination
+    regarding your referral perks.
+  - We use such de-identified and/or aggregated information to help us improve our
+    product and service offerings, and may also provide de-identified and/or aggregated
+    data to researchers in connection with research programs.
+  - We use this information to help us with Product performance monitoring and enhancement,
+    and technical troubleshooting.
+  - When you use our Products, we collect certain information by automated means,
+    such as through server log files, cookies (text files sent to and stored on your
+    Personal Device when you access our websites), web beacons (also known as clear
+    GIFs and pixel tags, which may be used to transmit information back to our Products),
+    Personal Device ID (if you use one of our mobile applications) and embedded scripts
+    (programming code that is designed to collect information about your interactions
+    with the Products, such as the links or features you click on or select, and which
+    is active only when you are using the Products) (collectively, the foregoing are
+    referred to as " Tracking Technologies ").
+  purposes:
+    advertising:
+    - in order to make a determination regarding your referral perks
+    analytics:
+    - to help us with Product performance monitoring and enhancement, and technical
+      troubleshooting
+    services:
+    - in order to make a determination regarding your referral perks
+    - to help us improve our product and service offerings
+    - to help us with Product performance monitoring and enhancement, and technical
+      troubleshooting
+- source: we
+  target: account for muse direct account
+  key: COLLECT
+  text:
+  - We use this information to understand how you propose to use this information
+    and to improve and customize your user experience and our products.
+  - When creating an account for Muse Direct account When you create an account for
+    Muse Direct, we require that you provide your profession and how you heard about
+    us.
+  purposes:
+    analytics:
+    - to understand how you propose to use this information and to improve and customize
+      your user experience and our products
+    services:
+    - to understand how you propose to use this information and to improve and customize
+      your user experience and our products
+- source: we
+  target: account information
+  key: COLLECT
+  text:
+  - 'Notwithstanding anything to the contrary, you acknowledge and agree that we may
+    access, use, preserve and/or disclose your account information if legally required
+    to do so or if we have a good faith belief that such access, use, disclosure,
+    or preservation is reasonably necessary to: (a) comply with legal process or request;
+    (b) enforce the Terms including investigation of any potential violation thereof;
+    (c) detect, prevent or otherwise address security, fraud or technical issues;
+    or (d) protect our rights, property or safety of the rights, property or safety
+    of our users or the public as considered necessary by us or permitted by law.'
+  - When doing so, you authorize us to access certain account information (consistent
+    with your privacy settings on the third-party service), such as your name, email
+    address and age.
+  purposes: {}
+- source: we
+  target: age
+  key: COLLECT
+  text:
+  - Factors like age, gender and handedness can impact your brain and help us with
+    our research and development of the application.
+  - We use this information to improve and customize your user experience.
+  purposes:
+    services:
+    - to improve and customize your user experience
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We use such de-identified and/or aggregated information to help us improve our
+    product and service offerings, and may also provide de-identified and/or aggregated
+    data to researchers in connection with research programs.
+  purposes:
+    services:
+    - to help us improve our product and service offerings
+- source: we
+  target: brain
+  key: COLLECT
+  text:
+  - Factors like age, gender and handedness can impact your brain and help us with
+    our research and development of the application.
+  - We use this information to improve and customize your user experience.
+  purposes:
+    services:
+    - to improve and customize your user experience
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - The information we collect in this manner may include details about the Personal
+    Device used to access the Products (such as browser type, device type, operating
+    system and version, and IP address), referring URLs and information on actions
+    taken or interactions with our Products.
+  purposes: {}
+- source: we
+  target: business type
+  key: COLLECT
+  text:
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: we
+  target: copy of user content
+  key: COLLECT
+  text:
+  - We may maintain copies of any User Content for purposes of backup, security, or
+    maintenance, or as required or permitted by law.
+  purposes:
+    legal:
+    - for purposes of backup, security, or maintenance, or as required or permitted
+      by law
+    security:
+    - for purposes of backup, security, or maintenance, or as required or permitted
+      by law
+- source: we
+  target: customer support information
+  key: COLLECT
+  text:
+  - Notwithstanding the forgoing, we may retain your purchase information, warranty,
+    and customer support information to the extent necessary for our legitimate business
+    interests and in accordance with our obligations under applicable law in order
+    to serve you better; to delete this type of personal information, please contact
+    us by our contact information below.
+  purposes:
+    security:
+    - to delete this type of personal information
+    services:
+    - in order to serve you better
+- source: we
+  target: datum reference in precede sentence
+  key: COLLECT
+  text:
+  - We use the data referenced in the preceding sentence to provide customer support,
+    technical troubleshooting, performance management and product enhancement Doing
+    so is intended to improve and customize your user experience.
+  - We use the data referenced in the preceding sentence to provide customer support,
+    technical troubleshooting, performance management and product enhancement.
+  - We use the data referenced in the preceding sentence to provide you with real-time
+    feedback during a Muse session, reports after Muse session, customer support,
+    brain/body scientific research, technical troubleshooting, performance management
+    and product enhancement.
+  - We use the data referenced in the preceding sentence to provide you with real-time
+    feedback during a Muse session, reports after Muse sessions, customer support,
+    brain/body scientific research, technical troubleshooting, performance management
+    and product enhancement.
+  purposes:
+    analytics:
+    - to provide you with real-time feedback during a Muse session, reports after
+      Muse session, customer support, brain/body scientific research, technical troubleshooting,
+      performance management and product enhancement
+    - to provide you with real-time feedback during a Muse session, reports after
+      Muse sessions, customer support, brain/body scientific research, technical troubleshooting,
+      performance management and product enhancement
+    services:
+    - to improve and customize your user experience
+    - to provide customer support, technical troubleshooting, performance management
+      and product enhancement
+    - to provide you with real-time feedback during a Muse session, reports after
+      Muse session, customer support, brain/body scientific research, technical troubleshooting,
+      performance management and product enhancement
+    - to provide you with real-time feedback during a Muse session, reports after
+      Muse sessions, customer support, brain/body scientific research, technical troubleshooting,
+      performance management and product enhancement
+- source: we
+  target: device type
+  key: COLLECT
+  text:
+  - The information we collect in this manner may include details about the Personal
+    Device used to access the Products (such as browser type, device type, operating
+    system and version, and IP address), referring URLs and information on actions
+    taken or interactions with our Products.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - As part of the process to create, register and maintain your account you must
+    provide Company with certain current, complete, and accurate registration information,
+    including your email address and other data or information that has been requested
+    by Company during the client account registration or renewal process ("Registration
+    Data").
+  - We may collect your name, address, email address, and other information that you
+    provide to us.
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: we
+  target: entity name
+  key: COLLECT
+  text:
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: we
+  target: forego information
+  key: COLLECT
+  text:
+  - We use the foregoing information for the purpose of creating and accessing your
+    account.
+  purposes:
+    services:
+    - for the purpose of creating and accessing your account
+- source: we
+  target: gender
+  key: COLLECT
+  text:
+  - Factors like age, gender and handedness can impact your brain and help us with
+    our research and development of the application.
+  - We use this information to improve and customize your user experience.
+  purposes:
+    services:
+    - to improve and customize your user experience
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - When you use an Android Personal Device to access the Muse Guided Meditation Subscription,
+    we also need to access your Location Data during that use in order to enable Bluetooth
+    connectivity; however, we do not store this Location Data.
+  - When you use an Android Personal Device to access the Muse application, we also
+    need to access your Location Data during that use in order to enable Bluetooth
+    connectivity; however, we do not store this Location Data.
+  - When you use an Android Personal Device to access the Muse application, we also
+    need to access your Location Data in order to enable Bluetooth connectivity; however,
+    we do not store this Location Data.
+  purposes:
+    services:
+    - in order to enable Bluetooth connectivity
+- source: we
+  target: heart rate
+  key: COLLECT
+  text:
+  - If you direct us to connect the Products to applications such as Apple Health
+    or Google Fit, we will access and import certain data from such applications (in
+    accordance with your privacy settings in such applications) such as meditation
+    minutes and heart rate, and we will transfer certain data to such applications,
+    including Muse Data, session reminders, and your meditation goals.
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - We may use these technologies to collect information about how you use the website,
+    for example which pages you visit most often and if you receive error messages
+    from certain pages.
+  - When using our Websites We collect information about how you use our websites,
+    such as the types of content you view or engage with; the features you use; the
+    actions you take; the people or accounts you interact with; and the time, frequency
+    and duration of your activities.
+  purposes: {}
+- source: we
+  target: information about purchase
+  key: COLLECT
+  text:
+  - While payments made through or for our Products are processed through a third-party
+    payment processor, we collect and use information about the purchase or transaction.
+  purposes: {}
+- source: we
+  target: information associate with social medium account
+  key: COLLECT
+  text:
+  - When you engage with our content on or through third-party social networking services,
+    you may allow us to have access to certain information associated with your social
+    media account (e.g., name, username, email address, profile picture, gender) to
+    deliver the content or as part of the operation of the service.
+  purposes:
+    services:
+    - to deliver the content or as part of the operation of the service
+- source: we
+  target: information collect about use of website on one
+  key: COLLECT
+  text:
+  - For example, we use the information collected about your use of our websites on
+    one of your Personal Devices, such as your smartphone, to better personalize the
+    content or features you see when you use our websites on another Personal Device,
+    such as your laptop or tablet, or to measure whether you took an action in response
+    to an advertisement we showed you on your smartphone on a different device.
+  purposes:
+    advertising:
+    - to better personalize the content or features you see when you use our websites
+      on another Personal Device, such as your laptop or tablet, or to measure whether
+      you took an action in response to an advertisement we showed you on your smartphone
+      on a different device
+    analytics:
+    - to better personalize the content or features you see when you use our websites
+      on another Personal Device, such as your laptop or tablet, or to measure whether
+      you took an action in response to an advertisement we showed you on your smartphone
+      on a different device
+    services:
+    - to better personalize the content or features you see when you use our websites
+      on another Personal Device, such as your laptop or tablet, or to measure whether
+      you took an action in response to an advertisement we showed you on your smartphone
+      on a different device
+- source: we
+  target: information collect through technology
+  key: COLLECT
+  text:
+  - We may also use information collected through these technologies to understand,
+    improve, and research products and services.
+  purposes:
+    analytics:
+    - to understand, improve, and research products and services
+- source: we
+  target: information from
+  key: COLLECT
+  text:
+  - We collect information from and about the Personal Devices you use to access our
+    websites, and we combine this information across your different Personal Devices.
+  purposes: {}
+- source: we
+  target: information on action take
+  key: COLLECT
+  text:
+  - The information we collect in this manner may include details about the Personal
+    Device used to access the Products (such as browser type, device type, operating
+    system and version, and IP address), referring URLs and information on actions
+    taken or interactions with our Products.
+  purposes: {}
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - We may collect your name, address, email address, and other information that you
+    provide to us.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  - When the Observer uses the Muse Connect Web Application, we record, process and
+    store the Observer's Activity Data, Preference Data and Transmission Data.
+  - When using the Meditation Studio applications When you use the Meditation Studio
+    mobile or web applications, we record, process and store your Activity Data, Preference
+    Data and Transmission Data.
+  - When using the Muse Guided Meditation Subscription When you use the Muse Guided
+    Meditations with the Muse device, we record, process and store your Activity Data,
+    Sensor Data, Preference Data, Processed Data and Transmission Data.
+  - When you use the Muse Direct mobile, web or desktop applications, we record, process
+    and store your Activity Data, Sensor Data, Processed Data and Transmission Data.
+  - When you use the Muse Guided Meditations without a Muse device, we record, process
+    and store your Activity Data, Preference Data and Transmission Data.
+  - When you use the Muse application with the Muse device, we record, process and
+    store your Activity Data, Sensor Data, Preference Data, Processed Data and Transmission
+    Data.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - The information we collect in this manner may include details about the Personal
+    Device used to access the Products (such as browser type, device type, operating
+    system and version, and IP address), referring URLs and information on actions
+    taken or interactions with our Products.
+  purposes: {}
+- source: we
+  target: login credential
+  key: COLLECT
+  text:
+  - We use your login credentials to create your account and allow you to access your
+    account.
+  - When you set up an account with us, you will need to provide us with information
+    such as your login credentials (e.g. your email address, name, and/or password)
+    and payment information, when applicable.
+  - You will need to provide us with information such as your login credentials (e.g.
+    your email address, name, and/or password) if you decide to create an account.
+  purposes:
+    services:
+    - to create your account
+- source: we
+  target: meditation minute
+  key: COLLECT
+  text:
+  - If you direct us to connect the Products to applications such as Apple Health
+    or Google Fit, we will access and import certain data from such applications (in
+    accordance with your privacy settings in such applications) such as meditation
+    minutes and heart rate, and we will transfer certain data to such applications,
+    including Muse Data, session reminders, and your meditation goals.
+  purposes: {}
+- source: we
+  target: muse account personal information
+  key: COLLECT
+  text:
+  - Typically, we will retain your Muse account personal information for as long as
+    you have an account on one or more of our Products.
+  purposes: {}
+- source: we
+  target: option of
+  key: COLLECT
+  text:
+  - We may provide you with the option of integrating our Products with applications
+    such Apple Health or Google Fit in order to help you track your progress.
+  purposes:
+    analytics:
+    - in order to help you track your progress
+    services:
+    - in order to help you track your progress
+- source: we
+  target: payment information
+  key: COLLECT
+  text:
+  - This includes payment information, such as your credit or debit card number and
+    other card information; other account and authentication information; and billing,
+    shipping and contact details.
+  - We use this information to the extent necessary to provide you with the Products
+    you request in accordance with our terms, including to administer, manage, and
+    fulfill the purchases or subscriptions you make and for inventory management and
+    our other legitimate business interests.
+  - When you set up an account with us, you will need to provide us with information
+    such as your login credentials (e.g. your email address, name, and/or password)
+    and payment information, when applicable.
+  purposes:
+    services:
+    - to provide you with the Products you request in accordance with our terms, including
+      to administer, manage, and fulfill the purchases or subscriptions you make and
+      for inventory management and our other legitimate business interests
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - We may collect your name, address, email address, and other information that you
+    provide to us.
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - If you sign-up, we collect certain personal information (such as first and last
+    name, mobile number, and email address) which we use to send you such communications.
+  - In all such cases, we will only transfer your personal information if we have
+    put in place appropriate safeguards in respect of the transfer, including by selecting
+    U.S. service providers that are certified to the EU-U.S. and/or Swiss-U.S. Privacy
+    Shield frameworks or by executing data transfer agreements with our service providers
+    based on the European Commission's Standard Contractual Clauses in accordance
+    with Articles 45 and 46 of the EU General Data Protection Regulation (GDPR) respectively.
+  - Registration Data and Personal Information will be used by Company solely in accordance
+    with these Terms of Use and Company's privacy policy (the "Company's Privacy Policy").
+  - We and our Canadian, US, or other service providers may provide personal information
+    in response to a search warrant or other legally valid inquiry or order (which
+    may include lawful access by Canadian, US, or other foreign governmental authorities,
+    courts, or law enforcement agencies), or to other organizations in the case of
+    investigating a breach of an agreement or contravention of law, or detecting,
+    suppressing, or preventing fraud, or as otherwise required or permitted by applicable
+    Canadian, US, or other law.
+  - We may also disclose personal information where necessary for the establishment,
+    exercise, or defense of legal claims and to investigate or prevent an actual or
+    suspected loss or harm to persons or property.
+  - We may transfer personal information as an asset in connection with a proposed
+    or completed merger or sale (including transfers made as part of insolvency or
+    bankruptcy proceeding) involving all or part of our group of companies or as part
+    of a corporate reorganization, financing, or other change in corporate control.
+  - We will transfer (or otherwise make available) personal information to our affiliates
+    for the above purposes and to third parties who provide services on our behalf.
+  - Your personal information may be collected, used, processed, transferred, and
+    retained by us, our affiliates and our service providers in multiple countries
+    (including Canada, the United States, and the European Economic Area ("EEA"))
+    which may be outside the region in which you are situated and may have different
+    privacy or data protection legislation, and may therefore be subject to the laws
+    of these countries.
+  purposes:
+    security:
+    - for the establishment, exercise, or defense of legal claims and to investigate
+      or prevent an actual or suspected loss or harm to persons or property
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - We may share your mobile phone number with service providers with whom we contract
+    to assist us with the above activities, but we will not share your mobile phone
+    number with third parties for their own marketing purposes without your consent.
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - We may collect your name, address, email address, and other information that you
+    provide to us.
+  purposes: {}
+- source: we
+  target: preference data
+  key: COLLECT
+  text:
+  - When you use the Muse Account Web Application, we record, process and store your
+    Preference Data and Transmission Data.
+  purposes: {}
+- source: we
+  target: preference datum
+  key: COLLECT
+  text:
+  - When the Observer uses the Muse Connect Web Application, we record, process and
+    store the Observer's Activity Data, Preference Data and Transmission Data.
+  - When using the Meditation Studio applications When you use the Meditation Studio
+    mobile or web applications, we record, process and store your Activity Data, Preference
+    Data and Transmission Data.
+  - When using the Muse Guided Meditation Subscription When you use the Muse Guided
+    Meditations with the Muse device, we record, process and store your Activity Data,
+    Sensor Data, Preference Data, Processed Data and Transmission Data.
+  - When you use the Muse Guided Meditations without a Muse device, we record, process
+    and store your Activity Data, Preference Data and Transmission Data.
+  - When you use the Muse application with the Muse device, we record, process and
+    store your Activity Data, Sensor Data, Preference Data, Processed Data and Transmission
+    Data.
+  purposes: {}
+- source: we
+  target: process datum
+  key: COLLECT
+  text:
+  - When using the Muse Guided Meditation Subscription When you use the Muse Guided
+    Meditations with the Muse device, we record, process and store your Activity Data,
+    Sensor Data, Preference Data, Processed Data and Transmission Data.
+  - When you use the Muse application with the Muse device, we record, process and
+    store your Activity Data, Sensor Data, Preference Data, Processed Data and Transmission
+    Data.
+  purposes: {}
+- source: we
+  target: processed data
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  - When you use the Muse Direct mobile, web or desktop applications, we record, process
+    and store your Activity Data, Sensor Data, Processed Data and Transmission Data.
+  purposes: {}
+- source: we
+  target: professional designation
+  key: COLLECT
+  text:
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: we
+  target: profile picture
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: we
+  target: purchase information
+  key: COLLECT
+  text:
+  - Notwithstanding the forgoing, we may retain your purchase information, warranty,
+    and customer support information to the extent necessary for our legitimate business
+    interests and in accordance with our obligations under applicable law in order
+    to serve you better; to delete this type of personal information, please contact
+    us by our contact information below.
+  purposes:
+    security:
+    - to delete this type of personal information
+    services:
+    - in order to serve you better
+- source: we
+  target: refer url
+  key: COLLECT
+  text:
+  - The information we collect in this manner may include details about the Personal
+    Device used to access the Products (such as browser type, device type, operating
+    system and version, and IP address), referring URLs and information on actions
+    taken or interactions with our Products.
+  purposes: {}
+- source: we
+  target: registration data
+  key: COLLECT
+  text:
+  - As part of the process to create, register and maintain your account you must
+    provide Company with certain current, complete, and accurate registration information,
+    including your email address and other data or information that has been requested
+    by Company during the client account registration or renewal process ("Registration
+    Data").
+  - Registration Data and Personal Information will be used by Company solely in accordance
+    with these Terms of Use and Company's privacy policy (the "Company's Privacy Policy").
+  purposes: {}
+- source: we
+  target: sensor data
+  key: COLLECT
+  text:
+  - We store your Sensor Data on our cloud for your ease of access only.
+  - When you use the Muse Direct mobile, web or desktop applications, we record, process
+    and store your Activity Data, Sensor Data, Processed Data and Transmission Data.
+  purposes:
+    services:
+    - for your ease of access only
+- source: we
+  target: sensor datum
+  key: COLLECT
+  text:
+  - When using the Muse Guided Meditation Subscription When you use the Muse Guided
+    Meditations with the Muse device, we record, process and store your Activity Data,
+    Sensor Data, Preference Data, Processed Data and Transmission Data.
+  - When you use the Muse application with the Muse device, we record, process and
+    store your Activity Data, Sensor Data, Preference Data, Processed Data and Transmission
+    Data.
+  purposes: {}
+- source: we
+  target: sufficient personal information
+  key: COLLECT
+  text:
+  - If you contact us to do any of the things listed above, we may require you to
+    provide sufficient personal information to allow us to identify you and provide
+    you with the requested information.
+  purposes:
+    analytics:
+    - to allow us to identify you and provide you with the requested information
+    security:
+    - to allow us to identify you and provide you with the requested information
+    services:
+    - to allow us to identify you and provide you with the requested information
+- source: we
+  target: transmission data
+  key: COLLECT
+  text:
+  - When you use the Muse Direct mobile, web or desktop applications, we record, process
+    and store your Activity Data, Sensor Data, Processed Data and Transmission Data.
+  purposes: {}
+- source: we
+  target: transmission datum
+  key: COLLECT
+  text:
+  - When the Observer uses the Muse Connect Web Application, we record, process and
+    store the Observer's Activity Data, Preference Data and Transmission Data.
+  - When using the Meditation Studio applications When you use the Meditation Studio
+    mobile or web applications, we record, process and store your Activity Data, Preference
+    Data and Transmission Data.
+  - When using the Muse Guided Meditation Subscription When you use the Muse Guided
+    Meditations with the Muse device, we record, process and store your Activity Data,
+    Sensor Data, Preference Data, Processed Data and Transmission Data.
+  - When you use the Muse Account Web Application, we record, process and store your
+    Preference Data and Transmission Data.
+  - When you use the Muse Guided Meditations without a Muse device, we record, process
+    and store your Activity Data, Preference Data and Transmission Data.
+  - When you use the Muse application with the Muse device, we record, process and
+    store your Activity Data, Sensor Data, Preference Data, Processed Data and Transmission
+    Data.
+  purposes: {}
+- source: we
+  target: valid proof of original purchase
+  key: COLLECT
+  text:
+  - 'To be eligible to return any Muse headband to us, you must have a Dead on Arrival
+    product or a Muse headband with a manufacturer''s defect and you must: (2) provide
+    us valid proof of your original purchase'
+  purposes: {}
+- source: we
+  target: version
+  key: COLLECT
+  text:
+  - The information we collect in this manner may include details about the Personal
+    Device used to access the Products (such as browser type, device type, operating
+    system and version, and IP address), referring URLs and information on actions
+    taken or interactions with our Products.
+  purposes: {}
+- source: we
+  target: warranty
+  key: COLLECT
+  text:
+  - Notwithstanding the forgoing, we may retain your purchase information, warranty,
+    and customer support information to the extent necessary for our legitimate business
+    interests and in accordance with our obligations under applicable law in order
+    to serve you better; to delete this type of personal information, please contact
+    us by our contact information below.
+  purposes:
+    security:
+    - to delete this type of personal information
+    services:
+    - in order to serve you better
+- source: Apple
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you direct us to connect the Products to applications such as Apple Health
+    or Google Fit, we will access and import certain data from such applications (in
+    accordance with your privacy settings in such applications) such as meditation
+    minutes and heart rate, and we will transfer certain data to such applications,
+    including Muse Data, session reminders, and your meditation goals.
+  purposes: {}
+- source: Google
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you direct us to connect the Products to applications such as Apple Health
+    or Google Fit, we will access and import certain data from such applications (in
+    accordance with your privacy settings in such applications) such as meditation
+    minutes and heart rate, and we will transfer certain data to such applications,
+    including Muse Data, session reminders, and your meditation goals.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Interest-Based
+    Advertising Tracking Technologies: When you visit our websites or apps, we may
+    allow some third parties to (such as advertising networks and data analytics companies)
+    collect information about your online activities over time and across different
+    websites and apps (such as websites and apps you visit and response to ads) in
+    order to measure the effectiveness of our marketing campaigns and to deliver ads
+    that are more relevant to you, both on and off our websites.'
+  purposes:
+    advertising:
+    - order to measure the effectiveness of our marketing campaigns and to deliver
+      ads that are more relevant to you, both on and off our websites
+    analytics:
+    - order to measure the effectiveness of our marketing campaigns and to deliver
+      ads that are more relevant to you, both on and off our websites
+- source: UNSPECIFIED_ACTOR
+  target: information about you
+  key: COLLECT
+  text:
+  - We may permit these third parties to operate directly on or through our Products,
+    using their own Tracking Technologies, and to collect information about you on
+    our behalf.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information gather in manner
+  key: COLLECT
+  text:
+  - You agree that Interaxon and its affiliates, agents and providers may collect
+    and use information gathered in any manner as part of services related to the
+    product.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Interest-Based
+    Advertising Tracking Technologies: When you visit our websites or apps, we may
+    allow some third parties to (such as advertising networks and data analytics companies)
+    collect information about your online activities over time and across different
+    websites and apps (such as websites and apps you visit and response to ads) in
+    order to measure the effectiveness of our marketing campaigns and to deliver ads
+    that are more relevant to you, both on and off our websites.'
+  purposes:
+    advertising:
+    - order to measure the effectiveness of our marketing campaigns and to deliver
+      ads that are more relevant to you, both on and off our websites
+    analytics:
+    - order to measure the effectiveness of our marketing campaigns and to deliver
+      ads that are more relevant to you, both on and off our websites
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - Personal information may be maintained and processed by third party service providers
+    in the US, Canada, or other jurisdictions.
+  - We will transfer (or otherwise make available) personal information to our affiliates
+    for the above purposes and to third parties who provide services on our behalf.
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These analytics services may also provide us with other data they collect outside
+    of our applications in an aggregated, de-identified form.
+  purposes: {}
+- source: canadian service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We and our Canadian, US, or other service providers may provide personal information
+    in response to a search warrant or other legally valid inquiry or order (which
+    may include lawful access by Canadian, US, or other foreign governmental authorities,
+    courts, or law enforcement agencies), or to other organizations in the case of
+    investigating a breach of an agreement or contravention of law, or detecting,
+    suppressing, or preventing fraud, or as otherwise required or permitted by applicable
+    Canadian, US, or other law.
+  purposes: {}
+- source: developer
+  target: accurate record
+  key: COLLECT
+  text:
+  - Within fourteen (14) days of Interaxon's request, Developer shall provide Interaxon
+    in a form reasonably acceptable to Interaxon, with accurate and complete records
+    (including financial statements) that can be used by Interaxon to satisfy itself
+    that Developer met the requirements for a SME ("Status Related Records") at the
+    time of entering into this Agreement and continues to do so at the time of the
+    request.
+  purposes: {}
+- source: developer
+  target: status related records
+  key: COLLECT
+  text:
+  - 'End User License Agreement
+
+
+    SDK Terms and Conditions Agreement
+
+
+    Developer shall maintain the Status Related Records in compliance with standard
+    business practices to ensure that Interaxon has the necessary information to be
+    able to conduct an inspection, reconciliation and/or audit contemplated under
+    this Agreement.'
+  purposes:
+    analytics:
+    - to ensure that Interaxon has the necessary information to be able to conduct
+      an inspection, reconciliation and/or audit contemplated under this Agreement
+    legal:
+    - to ensure that Interaxon has the necessary information to be able to conduct
+      an inspection, reconciliation and/or audit contemplated under this Agreement
+    security:
+    - to ensure that Interaxon has the necessary information to be able to conduct
+      an inspection, reconciliation and/or audit contemplated under this Agreement
+    services:
+    - to ensure that Interaxon has the necessary information to be able to conduct
+      an inspection, reconciliation and/or audit contemplated under this Agreement
+- source: interaxon
+  target: accurate record
+  key: COLLECT
+  text:
+  - Within fourteen (14) days of Interaxon's request, Developer shall provide Interaxon
+    in a form reasonably acceptable to Interaxon, with accurate and complete records
+    (including financial statements) that can be used by Interaxon to satisfy itself
+    that Developer met the requirements for a SME ("Status Related Records") at the
+    time of entering into this Agreement and continues to do so at the time of the
+    request.
+  purposes: {}
+- source: interaxon
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Interaxon may continue to use de-identified data and aggregate information obtained
+    in connection with your use of the Products.
+  purposes: {}
+- source: interaxon
+  target: information gather in manner
+  key: COLLECT
+  text:
+  - You agree that Interaxon and its affiliates, agents and providers may collect
+    and use information gathered in any manner as part of services related to the
+    product.
+  purposes: {}
+- source: interaxon
+  target: muse headband
+  key: COLLECT
+  text:
+  - EXCEPT TO THE EXTENT EXPRESSLY SET OUT IN THE LIMITED WARRANTY, MUSE HEADBANDs
+    AND ANY OTHER PRODUCTS/SERVICES SOLD/LICENSED PURSUANT TO THESE TERMS ARE PROVIDED
+    "AS IS AND WITH ALL FAULTS"
+  - 'INTERAXON DISCLAIMS ALL GUARANTEES, ASSURANCES, CONDITIONS, WARRANTIES AND REPRESENTATIONS,
+    WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO MUSE AND ANY OTHER PRODUCTS AND/OR
+    SERVICES SOLD/LICENSED PURSUANT TO THESE TERMS INCLUDING, BUT NOT LIMITED TO:
+    (A) THE WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR
+    PURPOSE AND NON INFRINGEMENT OF THIRD PARTY RIGHTS; (B) PROVISION, DELAY OF OR
+    FAILURE TO PROVIDE SUPPORT OR SERVICES, INFORMATION, SOFTWARE AND RELATED CONTENT
+    THROUGH THE MUSE HEADBANDS AND/OR ANY OTHER PRODUCTS AND/OR SERVICES SOLD/LICENSED
+    PURSUANT TO THESE TERMS OR OTHERWISE ARISING OUT OF THE USE OF THE MUSE HEADBAND
+    AND/OR ANY OTHER PRODUCTS OR SERVICES SOLD/LICENSED PURSUANT TO THESE TERMS; (C)
+    THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE; AND/OR (D) THE RESULTS THAT
+    MAY BE OBTAINED FROM THE USE OF THE SERVICES.'
+  purposes: {}
+- source: interaxon
+  target: non - public information relate to developer reveal in course of reconciliation
+  key: COLLECT
+  text:
+  - Any and all non-public information related to Developer or its business revealed
+    in the course of such reconciliation shall be kept confidential by Interaxon,
+    and shall not be used for any purpose except to the extent reasonably necessary
+    to determine Developer's compliance with the provisions of this Agreement and/or
+    to enforce Interaxon's rights.
+  purposes: {}
+- source: member
+  target: appropriate link
+  key: COLLECT
+  text:
+  - To qualify for the 3 months of Muse Premium Subscription, the appropriate links
+    must be used and the Member and Receiver must both purchase their products through
+    www.choosemuse.com .
+  purposes: {}
+- source: network
+  target: update
+  key: COLLECT
+  text:
+  - Our referral features may also allow you to post or share an update with your
+    network through social media platforms.
+  purposes: {}
+- source: observer
+  target: business type
+  key: COLLECT
+  text:
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: observer
+  target: email address
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: observer
+  target: entity name
+  key: COLLECT
+  text:
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: observer
+  target: internet activity
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: observer
+  target: person name
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: observer
+  target: phone number
+  key: COLLECT
+  text:
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: observer
+  target: processed data
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: observer
+  target: professional designation
+  key: COLLECT
+  text:
+  - When the Observer creates a Muse Connect account, we require the Observer to provide
+    us with information such as a telephone number, business type, entity name, and
+    professional designation.
+  purposes: {}
+- source: observer
+  target: profile picture
+  key: COLLECT
+  text:
+  - When a Participant provides us with consent to share their data with a particular
+    Observer, we share the Participant's Activity Data, Processed Data, Email, Name
+    and Profile picture with only that Observer.
+  purposes: {}
+- source: receiver
+  target: appropriate link
+  key: COLLECT
+  text:
+  - To qualify for the 3 months of Muse Premium Subscription, the appropriate links
+    must be used and the Member and Receiver must both purchase their products through
+    www.choosemuse.com .
+  purposes: {}
+- source: referral feature on products
+  target: email address
+  key: COLLECT
+  text:
+  - The referral features on the Products may permit you to send an email to other
+    individuals that might be interested in the Products.
+  - This feature requires you to submit your name and email address, as well as the
+    name and email address of the recipient.
+  purposes: {}
+- source: referral feature on products
+  target: person name
+  key: COLLECT
+  text:
+  - The referral features on the Products may permit you to send an email to other
+    individuals that might be interested in the Products.
+  - This feature requires you to submit your name and email address, as well as the
+    name and email address of the recipient.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Your personal information may be collected, used, processed, transferred, and
+    retained by us, our affiliates and our service providers in multiple countries
+    (including Canada, the United States, and the European Economic Area ("EEA"))
+    which may be outside the region in which you are situated and may have different
+    privacy or data protection legislation, and may therefore be subject to the laws
+    of these countries.
+  purposes: {}
+- source: service provider with whom we contract
+  target: phone number
+  key: COLLECT
+  text:
+  - We may share your mobile phone number with service providers with whom we contract
+    to assist us with the above activities, but we will not share your mobile phone
+    number with third parties for their own marketing purposes without your consent.
+  purposes: {}
+- source: track technology
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Please note that even if you opt-out of interest-based advertising by a third
+    party, these tracking technologies may still collect data for other purposes including
+    analytics and you will still see ads from us, but the ads will not be targeted
+    based on behavioural information about you and may, therefore, be less relevant
+    to you and your interests.
+  purposes:
+    analytics:
+    - for other purposes including analytics
+- source: we
+  target: analytic tracking technologies
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Analytics
+    Tracking Technologies: We use third party web and mobile analytics services such
+    as Google Analytics and Firebase Analytics, to help us analyze how visitors use
+    the Products.'
+- source: we
+  target: associated application
+  key: SUBSUM
+  text:
+  - Please read our Privacy Policy below to learn more about the decisions you can
+    make about your personal information and how we collect, use and disclose information
+    when you use our products, services and websites, including Muse devices and associated
+    applications, the Muse Connect web application, the Muse Direct mobile, desktop
+    and web application, the Meditation Studio mobile and web applications, and our
+    websites located at www.choosemuse.com and www.meditationstudioapp.com (collectively,
+    "Products").
+- source: we
+  target: base advertising tracking technologies
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Interest-Based
+    Advertising Tracking Technologies: When you visit our websites or apps, we may
+    allow some third parties to (such as advertising networks and data analytics companies)
+    collect information about your online activities over time and across different
+    websites and apps (such as websites and apps you visit and response to ads) in
+    order to measure the effectiveness of our marketing campaigns and to deliver ads
+    that are more relevant to you, both on and off our websites.'
+- source: we
+  target: content
+  key: SUBSUM
+  text:
+  - (b)    Services, including content, which are for use in conjunction with our
+    software and products; and
+- source: we
+  target: meditation studio mobile application
+  key: SUBSUM
+  text:
+  - Please read our Privacy Policy below to learn more about the decisions you can
+    make about your personal information and how we collect, use and disclose information
+    when you use our products, services and websites, including Muse devices and associated
+    applications, the Muse Connect web application, the Muse Direct mobile, desktop
+    and web application, the Meditation Studio mobile and web applications, and our
+    websites located at www.choosemuse.com and www.meditationstudioapp.com (collectively,
+    "Products").
+- source: we
+  target: muse connect web application
+  key: SUBSUM
+  text:
+  - Please read our Privacy Policy below to learn more about the decisions you can
+    make about your personal information and how we collect, use and disclose information
+    when you use our products, services and websites, including Muse devices and associated
+    applications, the Muse Connect web application, the Muse Direct mobile, desktop
+    and web application, the Meditation Studio mobile and web applications, and our
+    websites located at www.choosemuse.com and www.meditationstudioapp.com (collectively,
+    "Products").
+- source: we
+  target: necessary tracking technologies
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Necessary
+    Tracking Technologies: These are Tracking Technologies that are required for the
+    operation of our Products, to enhance your user experience when you use our Products,
+    and to embed third-party features.'
+- source: we
+  target: ontario canada corporation locate at richmond st. w. suite
+  key: SUBSUM
+  text:
+  - The Terms are a binding legal agreement between Interaxon Inc. and/or its Affiliates
+    (" Interaxon ", " we " or " us "), an Ontario Canada corporation located at 555
+    Richmond St. W. Suite 900, Toronto, ON, M5V 3B1, and you or, if applicable, the
+    company, institution or other legal entity you represent (collectively, " you
+    ", " your ").
+- source: we
+  target: professionals program
+  key: SUBSUM
+  text:
+  - By placing an order or acquiring devices or other hardware (" Product ") from
+    Interaxon's websites , or as part of Interaxon's Professionals Program (collectively
+    and individually, the " Site "), you agree to these terms and conditions set out
+    below, Interaxon's Privacy Policy and any Site terms of use (collectively " Terms
+    ").
+- source: we
+  target: technology
+  key: SUBSUM
+  text:
+  - 'You agree that when using the Website you will not: (a) post or transmit any
+    files which contain viruses, worms, Trojan horses or other code that manifests
+    contaminating or destructive properties; (b) post or transmit data or content
+    which violates or infringes any third party rights, is false, misleading or inaccurate
+    or is injurious to a third party or defames, libels or disparages any third party;
+    (c) except as expressly permitted by these Terms of Use, provide, disclose, sublicense,
+    distribute, transfer, assign or otherwise permit any third party to access, use,
+    read or otherwise gain access to the Website; (d) use the Website to provide the
+    benefit of the use of your account, if any, to or for any other person; (e) to
+    the maximum extent permitted by applicable law, interfere with or circumvent any
+    copyright or other technical protection mechanism or reverse engineer, decompile,
+    disassemble, or otherwise in any manner deconstruct all or any part of the Website
+    or any software or technology or content forming part thereof; (f) post or transmit
+    data which constitutes unsolicited or unauthorized advertising or promotional
+    material or any junk mail, spam, or chain letters; (g) post or transmit data or
+    content which would be considered a criminal offence, give rise to civil liability,
+    or would otherwise violate the law; (h) use the Website or Services to harvest
+    addresses, send spam or otherwise breach these Terms of Use or the Privacy Policy;
+    (i) use any spider, robot or other automated or electronic agent to monitor or
+    copy web pages or any content from the Website or for any other purpose in connection
+    with your access to and use of the Website; (j) take any action or use any program
+    or device that may result in or is intended to interfere with the operation and
+    functioning of the Website or to shut down, overload or overwhelm the Website;
+    or (k) copy, republish or redistribute any part of the Website, including by caching,
+    framing or similar means, without the prior written consent of Company.'
+- source: we
+  target: website at www.choosemuse.com
+  key: SUBSUM
+  text:
+  - These Terms of Use set forth the legally binding terms and conditions for the
+    use of the Company's website at www.choosemuse.com , interaxon.ca, choosemuse.ca,
+    professionals.choosemuse.com (collectively and individually, "Website") that is
+    owned, operated and maintained, directly or indirectly, by Company, and all other
+    sites owned and operated by Company that redirect to the Website, all subdomains
+    provided through such other site or the Website, and all downloadable applications,
+    features, functionality, content or information that is made available or provided
+    on this Website.
+- source: we
+  target: website locate at www.choosemuse.com
+  key: SUBSUM
+  text:
+  - Please read our Privacy Policy below to learn more about the decisions you can
+    make about your personal information and how we collect, use and disclose information
+    when you use our products, services and websites, including Muse devices and associated
+    applications, the Muse Connect web application, the Muse Direct mobile, desktop
+    and web application, the Meditation Studio mobile and web applications, and our
+    websites located at www.choosemuse.com and www.meditationstudioapp.com (collectively,
+    "Products").
+- source: account information
+  target: age
+  key: SUBSUM
+  text:
+  - When doing so, you authorize us to access certain account information (consistent
+    with your privacy settings on the third-party service), such as your name, email
+    address and age.
+- source: account information
+  target: email address
+  key: SUBSUM
+  text:
+  - The Muse Account Web Application is designed to help you manage your account information
+    such as your email address, your password and your subscription.
+  - When doing so, you authorize us to access certain account information (consistent
+    with your privacy settings on the third-party service), such as your name, email
+    address and age.
+- source: account information
+  target: password
+  key: SUBSUM
+  text:
+  - The Muse Account Web Application is designed to help you manage your account information
+    such as your email address, your password and your subscription.
+- source: account information
+  target: person name
+  key: SUBSUM
+  text:
+  - When doing so, you authorize us to access certain account information (consistent
+    with your privacy settings on the third-party service), such as your name, email
+    address and age.
+- source: account information
+  target: subscription
+  key: SUBSUM
+  text:
+  - The Muse Account Web Application is designed to help you manage your account information
+    such as your email address, your password and your subscription.
+- source: accurate record
+  target: financial statement
+  key: SUBSUM
+  text:
+  - Within fourteen (14) days of Interaxon's request, Developer shall provide Interaxon
+    in a form reasonably acceptable to Interaxon, with accurate and complete records
+    (including financial statements) that can be used by Interaxon to satisfy itself
+    that Developer met the requirements for a SME ("Status Related Records") at the
+    time of entering into this Agreement and continues to do so at the time of the
+    request.
+- source: accurate record
+  target: record
+  key: SUBSUM
+  text:
+  - 'To permit Interaxon to confirm compliance with this Agreement and applicable
+    laws, while this Agreement remains in effect and for a period of two (2) years
+    thereafter, you must keep accurate records including records about: (a) the use
+    of Muse Services by you and your Authorized Users; (b) any use of Interaxon''s
+    trademarks and other intellectual property; and (c) compliance with the obligations
+    of this Agreement.'
+- source: algorithm
+  target: enhancement
+  key: SUBSUM
+  text:
+  - '"Application" means a software application and/or algorithm (which may or may
+    not be embodied in a software application) developed by You using the SDK, including
+    updates, upgrades, modifications, enhancements, revisions, new releases and new
+    versions of such software applications.'
+- source: algorithm
+  target: modification
+  key: SUBSUM
+  text:
+  - '"Application" means a software application and/or algorithm (which may or may
+    not be embodied in a software application) developed by You using the SDK, including
+    updates, upgrades, modifications, enhancements, revisions, new releases and new
+    versions of such software applications.'
+- source: algorithm
+  target: new release
+  key: SUBSUM
+  text:
+  - '"Application" means a software application and/or algorithm (which may or may
+    not be embodied in a software application) developed by You using the SDK, including
+    updates, upgrades, modifications, enhancements, revisions, new releases and new
+    versions of such software applications.'
+- source: algorithm
+  target: new version
+  key: SUBSUM
+  text:
+  - '"Application" means a software application and/or algorithm (which may or may
+    not be embodied in a software application) developed by You using the SDK, including
+    updates, upgrades, modifications, enhancements, revisions, new releases and new
+    versions of such software applications.'
+- source: analytic provider
+  target: Google
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Analytics
+    Tracking Technologies: We use third party web and mobile analytics services such
+    as Google Analytics and Firebase Analytics, to help us analyze how visitors use
+    the Products.'
+- source: analytic provider
+  target: firebase analytics
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Analytics
+    Tracking Technologies: We use third party web and mobile analytics services such
+    as Google Analytics and Firebase Analytics, to help us analyze how visitors use
+    the Products.'
+- source: application use
+  target: solution
+  key: SUBSUM
+  text:
+  - 'You agree to indemnify, hold harmless and defend Interaxon and its affiliates
+    and their respective officers, directors, employees, agents, and representatives
+    harmless from any and all judgments, awards, settlements, liabilities, damages,
+    costs, penalties, fines and other expenses (including court costs and reasonable
+    legal fees) incurred by them arising out of or relating to any claim: (a) with
+    respect to the Application and/or the use or distribution of the Application in
+    combination with any other product, service, device, system or solution (collectively,
+    "Application Use"), including without limitation claims based on any Losses incurred
+    in connection with Application Use or any claims based on Application Use infringing
+    any intellectual property rights, (b) based upon Your negligence or willful misconduct
+    or, (c) based on or arising out any breach or alleged breach of Your representations,
+    warranties, and covenants under this Agreement.'
+- source: application use
+  target: system
+  key: SUBSUM
+  text:
+  - 'You agree to indemnify, hold harmless and defend Interaxon and its affiliates
+    and their respective officers, directors, employees, agents, and representatives
+    harmless from any and all judgments, awards, settlements, liabilities, damages,
+    costs, penalties, fines and other expenses (including court costs and reasonable
+    legal fees) incurred by them arising out of or relating to any claim: (a) with
+    respect to the Application and/or the use or distribution of the Application in
+    combination with any other product, service, device, system or solution (collectively,
+    "Application Use"), including without limitation claims based on any Losses incurred
+    in connection with Application Use or any claims based on Application Use infringing
+    any intellectual property rights, (b) based upon Your negligence or willful misconduct
+    or, (c) based on or arising out any breach or alleged breach of Your representations,
+    warranties, and covenants under this Agreement.'
+- source: biosignal
+  target: battery status
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: blood oxygen level
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: body temperature
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: body temperature variability
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: electrical activity in brain
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: eye movement
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: galvanic skin response
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: heart beat pattern
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: heart rate
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: heart rate variability
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: movement
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: muscle activity
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: pressure
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: respiration rate
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: respiration rate variability
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: temperature
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: ultraviolet light
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: biosignal
+  target: visual stimulation
+  key: SUBSUM
+  text:
+  - '"Sensor" means any device that detects biosignals (such as electrical activity
+    in the brain, muscle activity, eye movement, heart rate, heart rate variability,
+    respiration rate, respiration rate variability, galvanic skin response, heart
+    beat patterns, blood oxygen levels, body temperature, and body temperature variability),
+    motion, temperature, visual stimulation, movement, battery status, pressure, sound,
+    ultraviolet light, and/or other signals.'
+- source: choice you make
+  target: language
+  key: SUBSUM
+  text:
+  - We may use technologies to allow us to remember choices you make (such as your
+    user name, language or the region you're in) and tailor the website to provide
+    enhanced features and content for you.
+- source: choice you make
+  target: region be
+  key: SUBSUM
+  text:
+  - We may use technologies to allow us to remember choices you make (such as your
+    user name, language or the region you're in) and tailor the website to provide
+    enhanced features and content for you.
+- source: choice you make
+  target: user name
+  key: SUBSUM
+  text:
+  - We may use technologies to allow us to remember choices you make (such as your
+    user name, language or the region you're in) and tailor the website to provide
+    enhanced features and content for you.
+- source: communication
+  target: provision of service
+  key: SUBSUM
+  text:
+  - You acknowledge and agree that your use of the Website and all of the communications,
+    transmissions and transactions associated with the Website and the provision of
+    the Services shall be deemed to have occurred in the Province of Ontario, Canada.
+- source: computer code
+  target: arrangement
+  key: SUBSUM
+  text:
+  - 'In consideration of the mutual promises and agreements contained in these Terms
+    of Use and other good and valuable consideration (the receipt and sufficiency
+    of which are hereby acknowledged), you and Company agree as follows: Content All
+    text, data, content, audio files, graphics, user interfaces, visual interfaces,
+    photographs, trademarks, logos, sounds, music, artwork and computer code (collectively,
+    "Content"), including but not limited to the design, layout, structure, selection,
+    coordination, expression, "look and feel" and arrangement of such Content, contained
+    on or available through the Website'
+- source: computer code
+  target: layout
+  key: SUBSUM
+  text:
+  - 'In consideration of the mutual promises and agreements contained in these Terms
+    of Use and other good and valuable consideration (the receipt and sufficiency
+    of which are hereby acknowledged), you and Company agree as follows: Content All
+    text, data, content, audio files, graphics, user interfaces, visual interfaces,
+    photographs, trademarks, logos, sounds, music, artwork and computer code (collectively,
+    "Content"), including but not limited to the design, layout, structure, selection,
+    coordination, expression, "look and feel" and arrangement of such Content, contained
+    on or available through the Website'
+- source: confidential information
+  target: interaxon materials
+  key: SUBSUM
+  text:
+  - 'Interaxon''s Confidential Information includes: (a) any test results relating
+    to the Muse Services; (b) Interaxon software''s source code; (c) technical specifications
+    related to the Muse Services; (d) any non-publicly available pricing and Interaxon
+    Materials; and (e) except for User Content, all technology, know-how, algorithms,
+    testing procedures, software, structure, interfaces, specifications, reports,
+    analysis and other technical information learned, accessed or derived by you pursuant
+    to these Terms or pursuant to your use of or access to the Muse Service and/or
+    Sensor Devices.'
+- source: confidential information
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Without limiting the generality of the foregoing, Interaxon''s Confidential Information
+    includes without limitation: (a) any performance or test results relating to Interaxon''s
+    products, software or services, including performance of an Application in connection
+    with Interaxon''s products, software or services; (b) Interaxon software''s source
+    code, Sample Code, Updates and any tools, system files, APIs, firmware, software,
+    documentation, algorithms, and other information and/or services and/or materials
+    (and any updates thereto); (c) technical specifications related to Interaxon''s
+    software or products; and (d) information identifying or about users, customers,
+    suppliers, developers or partners of Interaxon.'
+- source: confidential information
+  target: publicly available pricing
+  key: SUBSUM
+  text:
+  - 'Interaxon''s Confidential Information includes: (a) any test results relating
+    to the Muse Services; (b) Interaxon software''s source code; (c) technical specifications
+    related to the Muse Services; (d) any non-publicly available pricing and Interaxon
+    Materials; and (e) except for User Content, all technology, know-how, algorithms,
+    testing procedures, software, structure, interfaces, specifications, reports,
+    analysis and other technical information learned, accessed or derived by you pursuant
+    to these Terms or pursuant to your use of or access to the Muse Service and/or
+    Sensor Devices.'
+- source: confidential information
+  target: sample code
+  key: SUBSUM
+  text:
+  - 'Without limiting the generality of the foregoing, Interaxon''s Confidential Information
+    includes without limitation: (a) any performance or test results relating to Interaxon''s
+    products, software or services, including performance of an Application in connection
+    with Interaxon''s products, software or services; (b) Interaxon software''s source
+    code, Sample Code, Updates and any tools, system files, APIs, firmware, software,
+    documentation, algorithms, and other information and/or services and/or materials
+    (and any updates thereto); (c) technical specifications related to Interaxon''s
+    software or products; and (d) information identifying or about users, customers,
+    suppliers, developers or partners of Interaxon.'
+- source: confidential information
+  target: source code
+  key: SUBSUM
+  text:
+  - 'Interaxon''s Confidential Information includes: (a) any test results relating
+    to the Muse Services; (b) Interaxon software''s source code; (c) technical specifications
+    related to the Muse Services; (d) any non-publicly available pricing and Interaxon
+    Materials; and (e) except for User Content, all technology, know-how, algorithms,
+    testing procedures, software, structure, interfaces, specifications, reports,
+    analysis and other technical information learned, accessed or derived by you pursuant
+    to these Terms or pursuant to your use of or access to the Muse Service and/or
+    Sensor Devices.'
+  - 'Without limiting the generality of the foregoing, Interaxon''s Confidential Information
+    includes without limitation: (a) any performance or test results relating to Interaxon''s
+    products, software or services, including performance of an Application in connection
+    with Interaxon''s products, software or services; (b) Interaxon software''s source
+    code, Sample Code, Updates and any tools, system files, APIs, firmware, software,
+    documentation, algorithms, and other information and/or services and/or materials
+    (and any updates thereto); (c) technical specifications related to Interaxon''s
+    software or products; and (d) information identifying or about users, customers,
+    suppliers, developers or partners of Interaxon.'
+- source: confidential information
+  target: system file
+  key: SUBSUM
+  text:
+  - 'Without limiting the generality of the foregoing, Interaxon''s Confidential Information
+    includes without limitation: (a) any performance or test results relating to Interaxon''s
+    products, software or services, including performance of an Application in connection
+    with Interaxon''s products, software or services; (b) Interaxon software''s source
+    code, Sample Code, Updates and any tools, system files, APIs, firmware, software,
+    documentation, algorithms, and other information and/or services and/or materials
+    (and any updates thereto); (c) technical specifications related to Interaxon''s
+    software or products; and (d) information identifying or about users, customers,
+    suppliers, developers or partners of Interaxon.'
+- source: confidential information
+  target: technical specification relate to muse services
+  key: SUBSUM
+  text:
+  - 'Interaxon''s Confidential Information includes: (a) any test results relating
+    to the Muse Services; (b) Interaxon software''s source code; (c) technical specifications
+    related to the Muse Services; (d) any non-publicly available pricing and Interaxon
+    Materials; and (e) except for User Content, all technology, know-how, algorithms,
+    testing procedures, software, structure, interfaces, specifications, reports,
+    analysis and other technical information learned, accessed or derived by you pursuant
+    to these Terms or pursuant to your use of or access to the Muse Service and/or
+    Sensor Devices.'
+- source: confidential information
+  target: trade secret of interaxon
+  key: SUBSUM
+  text:
+  - For greater certainty and without limitation, your obligation to treat Confidential
+    Information in strict confidence and take measures to protect the Confidential
+    Information survives this agreement given that Confidential Information can include
+    trade secrets of Interaxon.
+- source: datum you choose
+  target: for note you record in application after muse session
+  key: SUBSUM
+  text:
+  - 'Capitalized terms used but not defined elsewhere in the Policy will have the
+    following definitions: "  Preference Data  " means data you provide regarding
+    your preferences, such as session reminders, and any other data you choose to
+    input; for example, notes you record in the application after a Muse session.'
+- source: datum you provide regard preference
+  target: session reminder
+  key: SUBSUM
+  text:
+  - 'Capitalized terms used but not defined elsewhere in the Policy will have the
+    following definitions: "  Preference Data  " means data you provide regarding
+    your preferences, such as session reminders, and any other data you choose to
+    input; for example, notes you record in the application after a Muse session.'
+- source: feedback
+  target: enhancement
+  key: SUBSUM
+  text:
+  - You may (but are not required to) provide feedback, performance results, comments
+    and suggestions, including in respect of or concerning any improvements, modifications,
+    corrections, enhancements or derivatives (collectively, "Feedback") to Interaxon
+    concerning the SDK, the Muse Device or any other intellectual property, products,
+    software, or services of Interaxon.
+- source: feedback
+  target: intellectual property
+  key: SUBSUM
+  text:
+  - You may (but are not required to) provide feedback, performance results, comments
+    and suggestions, including in respect of or concerning any improvements, modifications,
+    corrections, enhancements or derivatives (collectively, "Feedback") to Interaxon
+    concerning the SDK, the Muse Device or any other intellectual property, products,
+    software, or services of Interaxon.
+- source: feedback
+  target: intellectual property of interaxon
+  key: SUBSUM
+  text:
+  - You may (but are not required to) provide feedback, comments and suggestions,
+    including in respect of or concerning any improvements, errors, modifications,
+    corrections, enhancements or derivatives (collectively, " Feedback ") to Interaxon
+    concerning the Muse Service, Sensor Devices or any other intellectual property
+    of Interaxon.
+- source: feedback
+  target: interaxon
+  key: SUBSUM
+  text:
+  - You may (but are not required to) provide feedback, comments and suggestions,
+    including in respect of or concerning any improvements, errors, modifications,
+    corrections, enhancements or derivatives (collectively, " Feedback ") to Interaxon
+    concerning the Muse Service, Sensor Devices or any other intellectual property
+    of Interaxon.
+  - You may (but are not required to) provide feedback, performance results, comments
+    and suggestions, including in respect of or concerning any improvements, modifications,
+    corrections, enhancements or derivatives (collectively, "Feedback") to Interaxon
+    concerning the SDK, the Muse Device or any other intellectual property, products,
+    software, or services of Interaxon.
+- source: feedback
+  target: muse device
+  key: SUBSUM
+  text:
+  - You may (but are not required to) provide feedback, performance results, comments
+    and suggestions, including in respect of or concerning any improvements, modifications,
+    corrections, enhancements or derivatives (collectively, "Feedback") to Interaxon
+    concerning the SDK, the Muse Device or any other intellectual property, products,
+    software, or services of Interaxon.
+- source: feedback
+  target: muse service
+  key: SUBSUM
+  text:
+  - You may (but are not required to) provide feedback, comments and suggestions,
+    including in respect of or concerning any improvements, errors, modifications,
+    corrections, enhancements or derivatives (collectively, " Feedback ") to Interaxon
+    concerning the Muse Service, Sensor Devices or any other intellectual property
+    of Interaxon.
+- source: feedback
+  target: sdk
+  key: SUBSUM
+  text:
+  - You may (but are not required to) provide feedback, performance results, comments
+    and suggestions, including in respect of or concerning any improvements, modifications,
+    corrections, enhancements or derivatives (collectively, "Feedback") to Interaxon
+    concerning the SDK, the Muse Device or any other intellectual property, products,
+    software, or services of Interaxon.
+- source: force majeure event
+  target: supply
+  key: SUBSUM
+  text:
+  - Force Majeure events shall include (but not be limited to) acts of God, fire,
+    flood, lightning, earthquake or other natural disaster; war, riot or civil unrest,
+    strike, lockout or boycott or other industrial action; interruption or failure
+    of supplies of power, fuel, water, transport, equipment, software or services
+    (including the internet and telecommunication services); or material or something
+    else required for the performance of obligations under this Agreement.
+- source: full refund
+  target: shipping fee
+  key: SUBSUM
+  text:
+  - If, for any reason, you are unsatisfied with the Membership, we offer full refunds,
+    including any shipping fees, within thirty (30) days from payment of the Membership
+    Fees for your Initial Membership Term.
+- source: improvements
+  target: extension
+  key: SUBSUM
+  text:
+  - Interaxon may develop technology, modifications, corrections, enhancements, derivatives
+    or extensions (collectively, "Improvements"), and further may also develop branding
+    elements based on such Feedback, and such Improvements and branding elements,
+    and any intellectual property rights therein, as well as any related intellectual
+    property registrations, shall be owned exclusively by Interaxon.
+- source: improvements
+  target: technology
+  key: SUBSUM
+  text:
+  - Interaxon may develop technology, modifications, corrections, enhancements, derivatives
+    or extensions (collectively, "Improvements"), and further may also develop branding
+    elements based on such Feedback, and such Improvements and branding elements,
+    and any intellectual property rights therein, as well as any related intellectual
+    property registrations, shall be owned exclusively by Interaxon.
+- source: information about
+  target: type of content
+  key: SUBSUM
+  text:
+  - When using our Websites We collect information about how you use our websites,
+    such as the types of content you view or engage with; the features you use; the
+    actions you take; the people or accounts you interact with; and the time, frequency
+    and duration of your activities.
+- source: information about identifiable individual
+  target: date of birth
+  key: SUBSUM
+  text:
+  - In these Terms of Use, "Personal Information" means any information about an identifiable
+    individual, such as your name, email address, mailing addresses, gender, date
+    of birth, any data about you that you elect to provide electronically through
+    the Website and any other information that identifies who you are.
+- source: information about identifiable individual
+  target: datum about you you elect
+  key: SUBSUM
+  text:
+  - In these Terms of Use, "Personal Information" means any information about an identifiable
+    individual, such as your name, email address, mailing addresses, gender, date
+    of birth, any data about you that you elect to provide electronically through
+    the Website and any other information that identifies who you are.
+- source: information about identifiable individual
+  target: email address
+  key: SUBSUM
+  text:
+  - In these Terms of Use, "Personal Information" means any information about an identifiable
+    individual, such as your name, email address, mailing addresses, gender, date
+    of birth, any data about you that you elect to provide electronically through
+    the Website and any other information that identifies who you are.
+- source: information about identifiable individual
+  target: gender
+  key: SUBSUM
+  text:
+  - In these Terms of Use, "Personal Information" means any information about an identifiable
+    individual, such as your name, email address, mailing addresses, gender, date
+    of birth, any data about you that you elect to provide electronically through
+    the Website and any other information that identifies who you are.
+- source: information about identifiable individual
+  target: person name
+  key: SUBSUM
+  text:
+  - In these Terms of Use, "Personal Information" means any information about an identifiable
+    individual, such as your name, email address, mailing addresses, gender, date
+    of birth, any data about you that you elect to provide electronically through
+    the Website and any other information that identifies who you are.
+- source: information about identifiable individual
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - In these Terms of Use, "Personal Information" means any information about an identifiable
+    individual, such as your name, email address, mailing addresses, gender, date
+    of birth, any data about you that you elect to provide electronically through
+    the Website and any other information that identifies who you are.
+- source: information about identifiable individual
+  target: postal address
+  key: SUBSUM
+  text:
+  - In these Terms of Use, "Personal Information" means any information about an identifiable
+    individual, such as your name, email address, mailing addresses, gender, date
+    of birth, any data about you that you elect to provide electronically through
+    the Website and any other information that identifies who you are.
+- source: information associate with social medium account
+  target: email address
+  key: SUBSUM
+  text:
+  - When you engage with our content on or through third-party social networking services,
+    you may allow us to have access to certain information associated with your social
+    media account (e.g., name, username, email address, profile picture, gender) to
+    deliver the content or as part of the operation of the service.
+- source: information associate with social medium account
+  target: gender
+  key: SUBSUM
+  text:
+  - When you engage with our content on or through third-party social networking services,
+    you may allow us to have access to certain information associated with your social
+    media account (e.g., name, username, email address, profile picture, gender) to
+    deliver the content or as part of the operation of the service.
+- source: information associate with social medium account
+  target: person name
+  key: SUBSUM
+  text:
+  - When you engage with our content on or through third-party social networking services,
+    you may allow us to have access to certain information associated with your social
+    media account (e.g., name, username, email address, profile picture, gender) to
+    deliver the content or as part of the operation of the service.
+- source: information associate with social medium account
+  target: profile picture
+  key: SUBSUM
+  text:
+  - When you engage with our content on or through third-party social networking services,
+    you may allow us to have access to certain information associated with your social
+    media account (e.g., name, username, email address, profile picture, gender) to
+    deliver the content or as part of the operation of the service.
+- source: information associate with social medium account
+  target: username
+  key: SUBSUM
+  text:
+  - When you engage with our content on or through third-party social networking services,
+    you may allow us to have access to certain information associated with your social
+    media account (e.g., name, username, email address, profile picture, gender) to
+    deliver the content or as part of the operation of the service.
+- source: information from you regard usage of headband
+  target: photograph of headband
+  key: SUBSUM
+  text:
+  - 'To determine your eligibility for a replacement headband, we reserve the right
+    to request information from you regarding the usage of the headband, which may
+    include: (i) a description of the headband; (ii) photographs of the headband;
+    and (iii) shipment of the headband to us for a physical inspection.'
+- source: information from you regard usage of headband
+  target: shipment of headband to we for physical inspection
+  key: SUBSUM
+  text:
+  - 'To determine your eligibility for a replacement headband, we reserve the right
+    to request information from you regarding the usage of the headband, which may
+    include: (i) a description of the headband; (ii) photographs of the headband;
+    and (iii) shipment of the headband to us for a physical inspection.'
+- source: information you provide to interaxon
+  target: information you provide as part of application for program
+  key: SUBSUM
+  text:
+  - You specifically agree that Interaxon may rely on the accuracy of the information
+    you provide to Interaxon (including , without limitation, any information you
+    have provided as part of your application for the Professional's Program, if applicable),
+    and that Interaxon will have no liability whatsoever, whether to you or to any
+    third party, for any claims or damages resulting from inaccurate information provided
+    to Interaxon.
+- source: interaxon party
+  target: director
+  key: SUBSUM
+  text:
+  - WE, OUR AFFILIATES, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS
+    AND OTHER REPRESENTATIVES (COLLECTIVELY, " INTERAXON PARTIES "), EXPRESSLY DISCLAIM
+    ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+- source: interaxon party
+  target: employee
+  key: SUBSUM
+  text:
+  - WE, OUR AFFILIATES, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS
+    AND OTHER REPRESENTATIVES (COLLECTIVELY, " INTERAXON PARTIES "), EXPRESSLY DISCLAIM
+    ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+- source: interaxon party
+  target: representative
+  key: SUBSUM
+  text:
+  - WE, OUR AFFILIATES, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS
+    AND OTHER REPRESENTATIVES (COLLECTIVELY, " INTERAXON PARTIES "), EXPRESSLY DISCLAIM
+    ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+- source: interaxon party
+  target: respective officer
+  key: SUBSUM
+  text:
+  - WE, OUR AFFILIATES, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS
+    AND OTHER REPRESENTATIVES (COLLECTIVELY, " INTERAXON PARTIES "), EXPRESSLY DISCLAIM
+    ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+- source: interaxon services
+  target: interaxon
+  key: SUBSUM
+  text:
+  - For the purposes of these Terms, "User Generated Content" means any text, feedback,
+    ideas, suggestions, documents, proposals, photographs or other data and information
+    you, Authorized Purchasers (in relation to purchases/licenses under Interaxon's
+    Professionals Program only), or anyone acting on your behalf submits through the
+    online and mobile services made available by Interaxon from time-to-time including,
+    but not limited to, certain websites including the any Site, widgets, computer
+    programs and mobile applications hosted by or on behalf of Interaxon (collectively,
+    the "Interaxon Services").
+- source: interaxon services
+  target: online service make from time
+  key: SUBSUM
+  text:
+  - (b) For the purposes of this EULA, " User Generated Content " means any text,
+    feedback, ideas, suggestions, documents, proposals, photographs or other data
+    and information you or anyone acting on your behalf submits to Interaxon including,
+    without limitation, through online and mobile services made available by or on
+    behalf of Interaxon from time to time including, but not limited to, certain websites,
+    widgets, computer programs, platforms, and mobile applications (collectively,
+    the " Interaxon Services ").
+- source: log datum
+  target: address of personal device
+  key: SUBSUM
+  text:
+  - 'Capitalized terms used but not defined elsewhere in the Policy will have the
+    following definitions: "  Transmission Data  " means your log data such as the
+    date and time of syncing of your Personal Device with our servers, duration of
+    the time spent using our applications on your Personal Device, and the Internet
+    Protocol (  IP  ) address of your Personal Device.'
+- source: login credential
+  target: email address
+  key: SUBSUM
+  text:
+  - When creating an account using the Muse Account Web Application When creating
+    an account using the Muse Account Web Application, you will be asked for your
+    login credentials (e.g. your email address, name, and/or password) to create an
+    account or use a pre-existing account.
+  - When you set up an account with us, you will need to provide us with information
+    such as your login credentials (e.g. your email address, name, and/or password)
+    and payment information, when applicable.
+  - You will need to provide us with information such as your login credentials (e.g.
+    your email address, name, and/or password) if you decide to create an account.
+- source: login credential
+  target: password
+  key: SUBSUM
+  text:
+  - When creating an account using the Muse Account Web Application When creating
+    an account using the Muse Account Web Application, you will be asked for your
+    login credentials (e.g. your email address, name, and/or password) to create an
+    account or use a pre-existing account.
+  - When you set up an account with us, you will need to provide us with information
+    such as your login credentials (e.g. your email address, name, and/or password)
+    and payment information, when applicable.
+  - You will need to provide us with information such as your login credentials (e.g.
+    your email address, name, and/or password) if you decide to create an account.
+- source: login credential
+  target: person name
+  key: SUBSUM
+  text:
+  - When creating an account using the Muse Account Web Application When creating
+    an account using the Muse Account Web Application, you will be asked for your
+    login credentials (e.g. your email address, name, and/or password) to create an
+    account or use a pre-existing account.
+  - When you set up an account with us, you will need to provide us with information
+    such as your login credentials (e.g. your email address, name, and/or password)
+    and payment information, when applicable.
+  - You will need to provide us with information such as your login credentials (e.g.
+    your email address, name, and/or password) if you decide to create an account.
+- source: muse devices
+  target: eye mask
+  key: SUBSUM
+  text:
+  - Muse Devices may include devices such as headbands, eye masks, virtual reality
+    devices or augmented reality devices.
+- source: muse devices
+  target: headband
+  key: SUBSUM
+  text:
+  - Muse Devices may include devices such as headbands, eye masks, virtual reality
+    devices or augmented reality devices.
+- source: online service make from time
+  target: computer program
+  key: SUBSUM
+  text:
+  - (b) For the purposes of this EULA, " User Generated Content " means any text,
+    feedback, ideas, suggestions, documents, proposals, photographs or other data
+    and information you or anyone acting on your behalf submits to Interaxon including,
+    without limitation, through online and mobile services made available by or on
+    behalf of Interaxon from time to time including, but not limited to, certain websites,
+    widgets, computer programs, platforms, and mobile applications (collectively,
+    the " Interaxon Services ").
+- source: online service make from time
+  target: mobile application
+  key: SUBSUM
+  text:
+  - (b) For the purposes of this EULA, " User Generated Content " means any text,
+    feedback, ideas, suggestions, documents, proposals, photographs or other data
+    and information you or anyone acting on your behalf submits to Interaxon including,
+    without limitation, through online and mobile services made available by or on
+    behalf of Interaxon from time to time including, but not limited to, certain websites,
+    widgets, computer programs, platforms, and mobile applications (collectively,
+    the " Interaxon Services ").
+- source: online service make from time
+  target: platform
+  key: SUBSUM
+  text:
+  - (b) For the purposes of this EULA, " User Generated Content " means any text,
+    feedback, ideas, suggestions, documents, proposals, photographs or other data
+    and information you or anyone acting on your behalf submits to Interaxon including,
+    without limitation, through online and mobile services made available by or on
+    behalf of Interaxon from time to time including, but not limited to, certain websites,
+    widgets, computer programs, platforms, and mobile applications (collectively,
+    the " Interaxon Services ").
+- source: online service make from time
+  target: widget
+  key: SUBSUM
+  text:
+  - (b) For the purposes of this EULA, " User Generated Content " means any text,
+    feedback, ideas, suggestions, documents, proposals, photographs or other data
+    and information you or anyone acting on your behalf submits to Interaxon including,
+    without limitation, through online and mobile services made available by or on
+    behalf of Interaxon from time to time including, but not limited to, certain websites,
+    widgets, computer programs, platforms, and mobile applications (collectively,
+    the " Interaxon Services ").
+- source: order
+  target: estimate
+  key: SUBSUM
+  text:
+  - Your order may include an estimate (" Import Fees Estimate ") of some or all of
+    the import fees that will be levied on the items in your order for shipment.
+- source: order
+  target: import fee estimate
+  key: SUBSUM
+  text:
+  - Your order may include an estimate (" Import Fees Estimate ") of some or all of
+    the import fees that will be levied on the items in your order for shipment.
+- source: original unmarked packaging
+  target: accessory
+  key: SUBSUM
+  text:
+  - 'You must: (i) ensure that the Muse device is not damaged, (ii) comply with the
+    requirements of this Policy, (iii) provide proof of purchase, (iv) package the
+    Muse headband in the original, unmarked packaging including, accessories, manuals,
+    and documentation, (v) include the RMA number on and in the packaging, and (iv)
+    prepay all shipping charges.'
+- source: original unmarked packaging
+  target: documentation
+  key: SUBSUM
+  text:
+  - 'You must: (i) ensure that the Muse device is not damaged, (ii) comply with the
+    requirements of this Policy, (iii) provide proof of purchase, (iv) package the
+    Muse headband in the original, unmarked packaging including, accessories, manuals,
+    and documentation, (v) include the RMA number on and in the packaging, and (iv)
+    prepay all shipping charges.'
+- source: original unmarked packaging
+  target: manual
+  key: SUBSUM
+  text:
+  - 'You must: (i) ensure that the Muse device is not damaged, (ii) comply with the
+    requirements of this Policy, (iii) provide proof of purchase, (iv) package the
+    Muse headband in the original, unmarked packaging including, accessories, manuals,
+    and documentation, (v) include the RMA number on and in the packaging, and (iv)
+    prepay all shipping charges.'
+- source: output generator
+  target: led eye mask
+  key: SUBSUM
+  text:
+  - '"Muse Device" means any device or system of devices manufactured by or on behalf
+    of Interaxon, in whole or in part, which include: Sensors; and/or output generators
+    (e.g. LED eye mask) designed to produce signals (such as visual, thermal, electrical,
+    auditory, tactile, and/or olfactory signals).'
+- source: payment information
+  target: card information
+  key: SUBSUM
+  text:
+  - This includes payment information, such as your credit or debit card number and
+    other card information; other account and authentication information; and billing,
+    shipping and contact details.
+- source: payment information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - This includes payment information, such as your credit or debit card number and
+    other card information; other account and authentication information; and billing,
+    shipping and contact details.
+- source: personal information
+  target: address(es
+  key: SUBSUM
+  text:
+  - Generally, personal data is any data related to a natural person who is identified
+    or identifiable - personal data may include the person's name, email or other
+    address(es), phone numbers, photographs, or other data that could identify the
+    person or be used with other data to identify the user.
+- source: personal information
+  target: datum identify person
+  key: SUBSUM
+  text:
+  - Generally, personal data is any data related to a natural person who is identified
+    or identifiable - personal data may include the person's name, email or other
+    address(es), phone numbers, photographs, or other data that could identify the
+    person or be used with other data to identify the user.
+- source: personal information
+  target: datum link
+  key: SUBSUM
+  text:
+  - Personal information is information about you, that may include your name, email
+    or other addresses, phone numbers, or other data that could reasonably be linked
+    back to you.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - From time-to-time you may choose to participate in voluntary product research
+    and testing and share with us certain personal information such as your name and
+    email address.
+  - Generally, personal data is any data related to a natural person who is identified
+    or identifiable - personal data may include the person's name, email or other
+    address(es), phone numbers, photographs, or other data that could identify the
+    person or be used with other data to identify the user.
+  - If you sign-up, we collect certain personal information (such as first and last
+    name, mobile number, and email address) which we use to send you such communications.
+  - Personal information is information about you, that may include your name, email
+    or other addresses, phone numbers, or other data that could reasonably be linked
+    back to you.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - From time-to-time you may choose to participate in voluntary product research
+    and testing and share with us certain personal information such as your name and
+    email address.
+  - Generally, personal data is any data related to a natural person who is identified
+    or identifiable - personal data may include the person's name, email or other
+    address(es), phone numbers, photographs, or other data that could identify the
+    person or be used with other data to identify the user.
+  - If you sign-up, we collect certain personal information (such as first and last
+    name, mobile number, and email address) which we use to send you such communications.
+  - Personal information is information about you, that may include your name, email
+    or other addresses, phone numbers, or other data that could reasonably be linked
+    back to you.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - Generally, personal data is any data related to a natural person who is identified
+    or identifiable - personal data may include the person's name, email or other
+    address(es), phone numbers, photographs, or other data that could identify the
+    person or be used with other data to identify the user.
+  - If you sign-up, we collect certain personal information (such as first and last
+    name, mobile number, and email address) which we use to send you such communications.
+  - Personal information is information about you, that may include your name, email
+    or other addresses, phone numbers, or other data that could reasonably be linked
+    back to you.
+- source: personal information
+  target: photograph
+  key: SUBSUM
+  text:
+  - Generally, personal data is any data related to a natural person who is identified
+    or identifiable - personal data may include the person's name, email or other
+    address(es), phone numbers, photographs, or other data that could identify the
+    person or be used with other data to identify the user.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Personal information is information about you, that may include your name, email
+    or other addresses, phone numbers, or other data that could reasonably be linked
+    back to you.
+- source: professional
+  target: coach
+  key: SUBSUM
+  text:
+  - Content generated or found through your Membership, our products, services or
+    software is for general informational purposes only and is not intended to replace
+    the relationship between you and your physician, healthcare provider, coach or
+    other professional you are working with (collectively, "Professional").
+- source: professional
+  target: healthcare provider
+  key: SUBSUM
+  text:
+  - Content generated or found through your Membership, our products, services or
+    software is for general informational purposes only and is not intended to replace
+    the relationship between you and your physician, healthcare provider, coach or
+    other professional you are working with (collectively, "Professional").
+- source: professional
+  target: physician
+  key: SUBSUM
+  text:
+  - Content generated or found through your Membership, our products, services or
+    software is for general informational purposes only and is not intended to replace
+    the relationship between you and your physician, healthcare provider, coach or
+    other professional you are working with (collectively, "Professional").
+- source: proprietary software
+  target: upgrade
+  key: SUBSUM
+  text:
+  - 'The use of "for example", "includes" and "including" are not limiting and "all"
+    includes "any" and "any" includes "all".  Capitalized terms used but not defined
+    elsewhere in the Terms will have the following definitions: 1.13 "Software" means
+    our proprietary software including any updates and upgrades to such software.'
+- source: registered trade mark
+  target: assist meditation
+  key: SUBSUM
+  text:
+  - 'All product, brand and company names, logos and registered or unregistered trade-marks,
+    displayed on the Website or used in connection with the Services or products including,
+    without limitation: "INTERAXON", "MUSE", "BRAIN SENSING", "THE BRAIN SENSING HEADBAND",
+    "MEDITATION MADE EASY", "MUSE MEDITATION", "TECHNOLOGY ASSISTED MEDITATION", "TAKE
+    A BREATH", "PERSONAL MEDITATION ASSISTANT", "CHOOSEMUSE", "MPOWERED BY MUSE",
+    "MUSE DIRECT" and all related branding elements, are the trade-marks of Company
+    (or its suppliers, partner businesses or third party licensors, as applicable).'
+- source: registered trade mark
+  target: brain sensing
+  key: SUBSUM
+  text:
+  - 'All product, brand and company names, logos and registered or unregistered trade-marks,
+    displayed on the Website or used in connection with the Services or products including,
+    without limitation: "INTERAXON", "MUSE", "BRAIN SENSING", "THE BRAIN SENSING HEADBAND",
+    "MEDITATION MADE EASY", "MUSE MEDITATION", "TECHNOLOGY ASSISTED MEDITATION", "TAKE
+    A BREATH", "PERSONAL MEDITATION ASSISTANT", "CHOOSEMUSE", "MPOWERED BY MUSE",
+    "MUSE DIRECT" and all related branding elements, are the trade-marks of Company
+    (or its suppliers, partner businesses or third party licensors, as applicable).'
+- source: registered trade mark
+  target: muse
+  key: SUBSUM
+  text:
+  - 'All product, brand and company names, logos and registered or unregistered trade-marks,
+    displayed on the Website or used in connection with the Services or products including,
+    without limitation: "INTERAXON", "MUSE", "BRAIN SENSING", "THE BRAIN SENSING HEADBAND",
+    "MEDITATION MADE EASY", "MUSE MEDITATION", "TECHNOLOGY ASSISTED MEDITATION", "TAKE
+    A BREATH", "PERSONAL MEDITATION ASSISTANT", "CHOOSEMUSE", "MPOWERED BY MUSE",
+    "MUSE DIRECT" and all related branding elements, are the trade-marks of Company
+    (or its suppliers, partner businesses or third party licensors, as applicable).'
+- source: registered trade mark
+  target: muse meditation
+  key: SUBSUM
+  text:
+  - 'All product, brand and company names, logos and registered or unregistered trade-marks,
+    displayed on the Website or used in connection with the Services or products including,
+    without limitation: "INTERAXON", "MUSE", "BRAIN SENSING", "THE BRAIN SENSING HEADBAND",
+    "MEDITATION MADE EASY", "MUSE MEDITATION", "TECHNOLOGY ASSISTED MEDITATION", "TAKE
+    A BREATH", "PERSONAL MEDITATION ASSISTANT", "CHOOSEMUSE", "MPOWERED BY MUSE",
+    "MUSE DIRECT" and all related branding elements, are the trade-marks of Company
+    (or its suppliers, partner businesses or third party licensors, as applicable).'
+- source: registered trade mark
+  target: personal meditation assistant
+  key: SUBSUM
+  text:
+  - 'All product, brand and company names, logos and registered or unregistered trade-marks,
+    displayed on the Website or used in connection with the Services or products including,
+    without limitation: "INTERAXON", "MUSE", "BRAIN SENSING", "THE BRAIN SENSING HEADBAND",
+    "MEDITATION MADE EASY", "MUSE MEDITATION", "TECHNOLOGY ASSISTED MEDITATION", "TAKE
+    A BREATH", "PERSONAL MEDITATION ASSISTANT", "CHOOSEMUSE", "MPOWERED BY MUSE",
+    "MUSE DIRECT" and all related branding elements, are the trade-marks of Company
+    (or its suppliers, partner businesses or third party licensors, as applicable).'
+- source: registration datum
+  target: personal information
+  key: SUBSUM
+  text:
+  - Registration Data and Personal Information will be used by Company solely in accordance
+    with these Terms of Use and Company's privacy policy (the "Company's Privacy Policy").
+  - 'You agree that you will: (a) maintain and update such Registration Data as necessary
+    in order to keep such information current, complete, and accurate; (b) maintain
+    the confidentiality of any passwords or other account identifiers which you choose
+    or that are assigned to you as a result of any registration or account creation
+    with the Website: and (c) be responsible for all activities that occur under such
+    password or account.'
+  - You represent and warrant to Company that you are at least 16 years of age and
+    that you have the full, unrestricted right and authority and have been fully authorized
+    to provide to Company any and all Registration Data (including any Personal Information)
+    for the purposes of these Terms of Use and that Company is authorized and permitted
+    to use such data as and to the extent provided in these Terms of Use.
+- source: registration datum
+  target: registration data
+  key: SUBSUM
+  text:
+  - Registration Data and Personal Information will be used by Company solely in accordance
+    with these Terms of Use and Company's privacy policy (the "Company's Privacy Policy").
+  - 'You agree that you will: (a) maintain and update such Registration Data as necessary
+    in order to keep such information current, complete, and accurate; (b) maintain
+    the confidentiality of any passwords or other account identifiers which you choose
+    or that are assigned to you as a result of any registration or account creation
+    with the Website: and (c) be responsible for all activities that occur under such
+    password or account.'
+- source: screenshot
+  target: screenshot of sensor device
+  key: SUBSUM
+  text:
+  - 'The use of "for example", "includes" and "including" are not limiting and "all"
+    includes "any" and "any" includes "all".  Capitalized terms used but not defined
+    elsewhere in the Terms will have the following definitions: 1.4 "Branding Elements"
+    means all trademarks, service marks, trade names, domain names, slogans, logos,
+    screenshots (including screenshots of the Sensor Device), sounds, and other indicia
+    of origin that appear on or in connection with any aspect of the Muse Services
+    including: "INTERAXON", "MUSE", "BRAIN SENSING", "THE BRAIN SENSING HEADBAND",
+    "MEDITATION MADE EASY", "MUSE MEDITATION", "TECHNOLOGY ASSISTED MEDITATION", "TAKE
+    A BREATH", "PERSONAL MEDITATION ASSISTANT", "CHOOSEMUSE", "MPOWERED BY MUSE",
+    "MUSE DIRECT", "MUSE CONNECT", "MEDITATION STUDIO", "UNTANGLED", and all related
+    branding elements, the status indicator of the Sensor Device (or similar status
+    indicator), use of "CALM", "NEUTRAL", and "ACTIVE" in relation to states of mind/brain
+    signal calm points and/or recoveries.'
+- source: sensor devices
+  target: headband
+  key: SUBSUM
+  text:
+  - Sensor Devices may include sensing devices such as headbands.
+- source: supply
+  target: internet service
+  key: SUBSUM
+  text:
+  - Force Majeure events shall include (but not be limited to) acts of God, fire,
+    flood, lightning, earthquake or other natural disaster; war, riot or civil unrest,
+    strike, lockout or boycott or other industrial action; interruption or failure
+    of supplies of power, fuel, water, transport, equipment, software or services
+    (including the internet and telecommunication services); or material or something
+    else required for the performance of obligations under this Agreement.
+- source: tracking technology
+  target: analytic tracking technologies
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Analytics
+    Tracking Technologies: We use third party web and mobile analytics services such
+    as Google Analytics and Firebase Analytics, to help us analyze how visitors use
+    the Products.'
+- source: tracking technology
+  target: base advertising tracking technologies
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Interest-Based
+    Advertising Tracking Technologies: When you visit our websites or apps, we may
+    allow some third parties to (such as advertising networks and data analytics companies)
+    collect information about your online activities over time and across different
+    websites and apps (such as websites and apps you visit and response to ads) in
+    order to measure the effectiveness of our marketing campaigns and to deliver ads
+    that are more relevant to you, both on and off our websites.'
+- source: tracking technology
+  target: necessary tracking technologies
+  key: SUBSUM
+  text:
+  - 'We use the following Tracking Technologies in connection with the Products: Necessary
+    Tracking Technologies: These are Tracking Technologies that are required for the
+    operation of our Products, to enhance your user experience when you use our Products,
+    and to embed third-party features.'
+- source: type of content
+  target: account
+  key: SUBSUM
+  text:
+  - When using our Websites We collect information about how you use our websites,
+    such as the types of content you view or engage with; the features you use; the
+    actions you take; the people or accounts you interact with; and the time, frequency
+    and duration of your activities.
+- source: up registration information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'To place an order, you must: provide up-to-date, complete and accurate registration
+    information as requested by Interaxon on the Site, which may include, without
+    limitation, your first and last name, institution name, mailing address, phone
+    number and email address;'
+- source: up registration information
+  target: institution name
+  key: SUBSUM
+  text:
+  - 'To place an order, you must: provide up-to-date, complete and accurate registration
+    information as requested by Interaxon on the Site, which may include, without
+    limitation, your first and last name, institution name, mailing address, phone
+    number and email address;'
+- source: up registration information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'To place an order, you must: provide up-to-date, complete and accurate registration
+    information as requested by Interaxon on the Site, which may include, without
+    limitation, your first and last name, institution name, mailing address, phone
+    number and email address;'
+- source: up registration information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'To place an order, you must: provide up-to-date, complete and accurate registration
+    information as requested by Interaxon on the Site, which may include, without
+    limitation, your first and last name, institution name, mailing address, phone
+    number and email address;'
+- source: up registration information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'To place an order, you must: provide up-to-date, complete and accurate registration
+    information as requested by Interaxon on the Site, which may include, without
+    limitation, your first and last name, institution name, mailing address, phone
+    number and email address;'
+- source: user content transmit
+  target: user content you export from muse service
+  key: SUBSUM
+  text:
+  - You remain solely responsible for all User Content that is transmitted (including
+    any User Content you export from the Muse Service) in connection with the Muse
+    Service, and you warrant that you possess all rights necessary to provide and
+    share such User Content.
+- source: user content you transmit
+  target: user content you export from muse service
+  key: SUBSUM
+  text:
+  - You acknowledge that all User Content you transmit (including any User Content
+    you export from the Muse Service) or access using the Muse Service is at your
+    own risk and you will be solely responsible and liable for any damage or loss
+    to you or any other party resulting therefrom.
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: accessory
+- type: ACTOR
+  id: algorithm
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: analytic tracking technologies
+- type: ACTOR
+  id: application use
+- type: ACTOR
+  id: associated application
+- type: ACTOR
+  id: base advertising tracking technologies
+- type: ACTOR
+  id: canadian service provider
+- type: ACTOR
+  id: coach
+- type: ACTOR
+  id: communication
+- type: ACTOR
+  id: computer program
+- type: ACTOR
+  id: content
+- type: ACTOR
+  id: developer
+- type: ACTOR
+  id: director
+- type: ACTOR
+  id: documentation
+- type: ACTOR
+  id: employee
+- type: ACTOR
+  id: enhancement
+- type: ACTOR
+  id: extension
+- type: ACTOR
+  id: feedback
+- type: ACTOR
+  id: firebase analytics
+- type: ACTOR
+  id: force majeure event
+- type: ACTOR
+  id: full refund
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: improvements
+- type: ACTOR
+  id: intellectual property
+- type: ACTOR
+  id: intellectual property of interaxon
+- type: ACTOR
+  id: interaxon
+- type: ACTOR
+  id: interaxon party
+- type: ACTOR
+  id: interaxon services
+- type: ACTOR
+  id: internet service
+- type: ACTOR
+  id: manual
+- type: ACTOR
+  id: meditation studio mobile application
+- type: ACTOR
+  id: member
+- type: ACTOR
+  id: mobile application
+- type: ACTOR
+  id: modification
+- type: ACTOR
+  id: muse connect web application
+- type: ACTOR
+  id: muse device
+- type: ACTOR
+  id: muse service
+- type: ACTOR
+  id: necessary tracking technologies
+- type: ACTOR
+  id: network
+- type: ACTOR
+  id: new release
+- type: ACTOR
+  id: new version
+- type: ACTOR
+  id: observer
+- type: ACTOR
+  id: online service make from time
+- type: ACTOR
+  id: ontario canada corporation locate at richmond st. w. suite
+- type: ACTOR
+  id: original unmarked packaging
+- type: ACTOR
+  id: physician
+- type: ACTOR
+  id: platform
+- type: ACTOR
+  id: professional
+- type: ACTOR
+  id: professionals program
+- type: ACTOR
+  id: proprietary software
+- type: ACTOR
+  id: provision of service
+- type: ACTOR
+  id: receiver
+- type: ACTOR
+  id: referral feature on products
+- type: ACTOR
+  id: representative
+- type: ACTOR
+  id: respective officer
+- type: ACTOR
+  id: sdk
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service provider with whom we contract
+- type: ACTOR
+  id: shipping fee
+- type: ACTOR
+  id: solution
+- type: ACTOR
+  id: supply
+- type: ACTOR
+  id: system
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: track technology
+- type: ACTOR
+  id: tracking technology
+- type: ACTOR
+  id: upgrade
+- type: ACTOR
+  id: user content transmit
+- type: ACTOR
+  id: user content you export from muse service
+- type: ACTOR
+  id: user content you transmit
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: website at www.choosemuse.com
+- type: ACTOR
+  id: website locate at www.choosemuse.com
+- type: ACTOR
+  id: widget
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account
+- type: DATA
+  id: account for muse direct account
+- type: DATA
+  id: account information
+- type: DATA
+  id: accurate record
+- type: DATA
+  id: address of personal device
+- type: DATA
+  id: address(es
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: appropriate link
+- type: DATA
+  id: arrangement
+- type: DATA
+  id: assist meditation
+- type: DATA
+  id: battery status
+- type: DATA
+  id: biosignal
+- type: DATA
+  id: blood oxygen level
+- type: DATA
+  id: body temperature
+- type: DATA
+  id: body temperature variability
+- type: DATA
+  id: brain
+- type: DATA
+  id: brain sensing
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: business type
+- type: DATA
+  id: card information
+- type: DATA
+  id: choice you make
+- type: DATA
+  id: computer code
+- type: DATA
+  id: confidential information
+- type: DATA
+  id: copy of user content
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: customer support information
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum about you you elect
+- type: DATA
+  id: datum identify person
+- type: DATA
+  id: datum link
+- type: DATA
+  id: datum reference in precede sentence
+- type: DATA
+  id: datum you choose
+- type: DATA
+  id: datum you provide regard preference
+- type: DATA
+  id: device type
+- type: DATA
+  id: electrical activity in brain
+- type: DATA
+  id: email address
+- type: DATA
+  id: entity name
+- type: DATA
+  id: estimate
+- type: DATA
+  id: eye mask
+- type: DATA
+  id: eye movement
+- type: DATA
+  id: financial statement
+- type: DATA
+  id: for note you record in application after muse session
+- type: DATA
+  id: forego information
+- type: DATA
+  id: galvanic skin response
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: headband
+- type: DATA
+  id: heart beat pattern
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: heart rate variability
+- type: DATA
+  id: import fee estimate
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about identifiable individual
+- type: DATA
+  id: information about purchase
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information associate with social medium account
+- type: DATA
+  id: information collect about use of website on one
+- type: DATA
+  id: information collect through technology
+- type: DATA
+  id: information from
+- type: DATA
+  id: information from you regard usage of headband
+- type: DATA
+  id: information gather in manner
+- type: DATA
+  id: information on action take
+- type: DATA
+  id: information you provide as part of application for program
+- type: DATA
+  id: information you provide to interaxon
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: institution name
+- type: DATA
+  id: interaxon materials
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language
+- type: DATA
+  id: layout
+- type: DATA
+  id: led eye mask
+- type: DATA
+  id: log datum
+- type: DATA
+  id: login credential
+- type: DATA
+  id: meditation minute
+- type: DATA
+  id: movement
+- type: DATA
+  id: muscle activity
+- type: DATA
+  id: muse
+- type: DATA
+  id: muse account personal information
+- type: DATA
+  id: muse devices
+- type: DATA
+  id: muse headband
+- type: DATA
+  id: muse meditation
+- type: DATA
+  id: non - public information relate to developer reveal in course of reconciliation
+- type: DATA
+  id: option of
+- type: DATA
+  id: order
+- type: DATA
+  id: output generator
+- type: DATA
+  id: password
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal meditation assistant
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photograph
+- type: DATA
+  id: photograph of headband
+- type: DATA
+  id: postal address
+- type: DATA
+  id: preference data
+- type: DATA
+  id: preference datum
+- type: DATA
+  id: pressure
+- type: DATA
+  id: process datum
+- type: DATA
+  id: processed data
+- type: DATA
+  id: professional designation
+- type: DATA
+  id: profile picture
+- type: DATA
+  id: publicly available pricing
+- type: DATA
+  id: purchase information
+- type: DATA
+  id: record
+- type: DATA
+  id: refer url
+- type: DATA
+  id: region be
+- type: DATA
+  id: registered trade mark
+- type: DATA
+  id: registration data
+- type: DATA
+  id: registration datum
+- type: DATA
+  id: respiration rate
+- type: DATA
+  id: respiration rate variability
+- type: DATA
+  id: sample code
+- type: DATA
+  id: screenshot
+- type: DATA
+  id: screenshot of sensor device
+- type: DATA
+  id: sensor data
+- type: DATA
+  id: sensor datum
+- type: DATA
+  id: sensor devices
+- type: DATA
+  id: session reminder
+- type: DATA
+  id: shipment of headband to we for physical inspection
+- type: DATA
+  id: source code
+- type: DATA
+  id: status related records
+- type: DATA
+  id: subscription
+- type: DATA
+  id: sufficient personal information
+- type: DATA
+  id: system file
+- type: DATA
+  id: technical specification relate to muse services
+- type: DATA
+  id: temperature
+- type: DATA
+  id: trade secret of interaxon
+- type: DATA
+  id: transmission data
+- type: DATA
+  id: transmission datum
+- type: DATA
+  id: type of content
+- type: DATA
+  id: ultraviolet light
+- type: DATA
+  id: up registration information
+- type: DATA
+  id: update
+- type: DATA
+  id: user name
+- type: DATA
+  id: username
+- type: DATA
+  id: valid proof of original purchase
+- type: DATA
+  id: version
+- type: DATA
+  id: visual stimulation
+- type: DATA
+  id: warranty

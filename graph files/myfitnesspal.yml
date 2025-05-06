@@ -1,0 +1,1646 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - '4. When you communicate with us or sign up for promotional materials
+
+
+    If you consent to receive Messages, we may use your Personal Data and other information
+    to communicate with you about the MyFitnesssPal Services you have purchased or
+    used; provide you with promotional messages and personalized advertising; to notify
+    you of other features; to notify you of contests, challenges, sweepstakes, and
+    other promotions ("Promotions"); to notify you of Services we think may be of
+    interest to you; and, for other marketing purposes.'
+  - 'In this section we provide information on the legal basis for our processing
+    of your Personal Data as required by Art. 13 and 14 of the GDPR:'
+  - Our Services may transmit Device IDs, general location data, and data from sensors
+    to us and our partners, including our advertising partners.
+  - To develop, provide, enhance, and improve our Services and your experience, including
+    to enable you to use the full range of our Services (e.g., processing of non-sensitive
+    Personal Data related to your use or interaction with a wearable or other connected
+    device that integrates with the Services; when you access third party products
+    and services; when we collect, use, or otherwise leverage cookies, device IDs,
+    general location data, data from the environment, and other tracking technologies;
+    when you connect with us through social media; when we collect data from third
+    parties or publicly-available sources; when we aggregate and centralize data;
+    and when we share Personal Data with our service providers and vendors).
+  - We disclose various types of information for purposes of interest-based advertising,
+    including for third party, interest-based advertising.
+  - We may use Device IDs, coarse location and general location data, and data from
+    sensors, including the local network, (together with app usage data and Fitness
+    and Wellness Data) for strictly necessary purposes; improving our apps and analytics;
+    personalization and preferences; and cross-app, cross-device, interest-based advertising.
+  - We transfer data to the United States and to other countries/regions for processing.
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+  - When we aggregate or centralize data, such processing is either necessary for
+    the performance of our Services, Art. 6 (1) (b) GDPR, or we process such data
+    on the basis of our legitimate interest, Art. 6 (1) (f) GDPR, and our legitimate
+    interest is to provide you with better or customized Services and marketing.
+  - When we use coarse location and data from sensors, we process such data for strictly
+    necessary purposes in order to perform our Services, Art. 6 (1) (b) GDPR); and
+    for our legitimate interest in marketing and improving our Services, Art. 6 (1)
+    (f) GDPR).
+  purposes:
+    advertising:
+    - for our legitimate interest in marketing and improving our Services, Art. 6
+      (1) (f) GDPR)
+    - for purposes of interest-based advertising
+    - for purposes of interest-based and cross-app, cross-device advertising
+    - to communicate with you about the MyFitnesssPal Services you have purchased
+      or used; provide you with promotional messages and personalized advertising;
+      to notify you of other features; to notify you of contests, challenges, sweepstakes,
+      and other promotions ("Promotions"); to notify you of Services we think may
+      be of interest to you; and, for other marketing purposes
+    analytics:
+    - For sensitive data (including health data and biometric data) as defined in
+      the GDPR
+    - for processing
+    legal:
+    - in order to perform our Services, Art. 6 (1) (b) GDPR)
+    security:
+    - For sensitive data (including health data and biometric data) as defined in
+      the GDPR
+    services:
+    - in order to perform our Services, Art. 6 (1) (b) GDPR)
+- source: we
+  target: access to third party sites
+  key: COLLECT
+  text:
+  - Our Services may provide a link or otherwise provide access to Third Party Sites.
+  purposes: {}
+- source: we
+  target: advertising id
+  key: COLLECT
+  text:
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+  purposes:
+    advertising:
+    - for purposes of interest-based and cross-app, cross-device advertising
+- source: we
+  target: amount of datum
+  key: COLLECT
+  text:
+  - Note that we may retain a limited amount of data for a period of time - including,
+    in situations that the storage of the information is authorized by law and or
+    required by law.
+  purposes: {}
+- source: we
+  target: coarse geolocation
+  key: COLLECT
+  text:
+  - We may use Device IDs, coarse location and general location data, and data from
+    sensors, including the local network, (together with app usage data and Fitness
+    and Wellness Data) for strictly necessary purposes; improving our apps and analytics;
+    personalization and preferences; and cross-app, cross-device, interest-based advertising.
+  purposes: {}
+- source: we
+  target: contact
+  key: COLLECT
+  text:
+  - With your permission, we access your contacts to enable you to share content or
+    achievements, including videos, with friends or other members, and to invite friends
+    to use the Services.
+  purposes:
+    services:
+    - to enable you to share content or achievements, including videos, with friends
+      or other members, and to invite friends to use the Services
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 10. When we leverage and/or collect cookies, device IDs, Location, data from the
+    environment, and other tracking technologies
+  - We specifically use browser cookies for different purposes, including cookies
+    that are strictly necessary for functionality and cookies that are used for personalization,
+    performance/analytics, and advertising.
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+  purposes:
+    advertising:
+    - for purposes of interest-based and cross-app, cross-device advertising
+- source: we
+  target: data you provide to we over course of journey
+  key: COLLECT
+  text:
+  - At MyFitnessPal, Inc. ("MyFitnessPal"), our mission is to help you along your
+    fitness and wellness journey and we want you to know how we collect and use the
+    data that you provide to us over the course of that journey.
+  purposes: {}
+- source: we
+  target: datum about you
+  key: COLLECT
+  text:
+  - 'When we collect data from third parties or publicly-available sources
+
+
+    We may obtain certain data about you from third party sources to help us provide
+    and improve the Services and for marketing and advertising.'
+  purposes:
+    advertising:
+    - to help us provide and improve the Services and for marketing and advertising
+    services:
+    - to help us provide and improve the Services and for marketing and advertising
+- source: we
+  target: datum from environment
+  key: COLLECT
+  text:
+  - 10. When we leverage and/or collect cookies, device IDs, Location, data from the
+    environment, and other tracking technologies
+  purposes: {}
+- source: we
+  target: datum you provide to we
+  key: COLLECT
+  text:
+  - We use photos, videos, or other data you provide to us to customize our Services.
+  purposes:
+    services:
+    - to customize our Services
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - 10. When we leverage and/or collect cookies, device IDs, Location, data from the
+    environment, and other tracking technologies
+  - Our Services may transmit Device IDs, general location data, and data from sensors
+    to us and our partners, including our advertising partners.
+  - Our apps and Services may also collect Device IDs and network addresses (including
+    IP addresses, MAC addresses, and SSIDs) from other, in-range or networked devices
+    and WiFi Access Points.
+  - We may use Device IDs, coarse location and general location data, and data from
+    sensors, including the local network, (together with app usage data and Fitness
+    and Wellness Data) for strictly necessary purposes; improving our apps and analytics;
+    personalization and preferences; and cross-app, cross-device, interest-based advertising.
+  purposes: {}
+- source: we
+  target: facebook credential
+  key: COLLECT
+  text:
+  - For example, when you log in with your Facebook credentials, with your consent,
+    we may collect Personal Data from your Facebook profile that is permitted under
+    Facebook's Terms of Service - such as your email address, profile picture, and
+    friend list.
+  - We use this data to provide, enhance, and personalize the Services (e.g., to help
+    connect you with or suggest friends within our Services).
+  purposes:
+    services:
+    - to provide, enhance, and personalize the Services (e.g., to help connect you
+      with or suggest friends within our Services)
+- source: we
+  target: fitness data
+  key: COLLECT
+  text:
+  - '"Fitness and Wellness Data" includes data you provide related to your dietary
+    habits, dietary restrictions, fitness activity, fitness goals, lifestyle (e.g.,
+    sleeping habits), life events, fitness goals, height, weight, measurements, fitness
+    level, heart rate, sleep data, BMI, biometric data, and similar types of data
+    relating to physiological condition, and activity.'
+  - We collect this data in order to provide the Services and to tailor features,
+    advertising, and services to your interests and goals, including providing meal
+    suggestions, reporting and analytics, workout plans, and meal planning related
+    services, and product recommendations.
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+  purposes:
+    advertising:
+    - for purposes of interest-based and cross-app, cross-device advertising
+    - in order to provide the Services and to tailor features, advertising, and services
+      to your interests and goals, including providing meal suggestions, reporting
+      and analytics, workout plans, and meal planning related services, and product
+      recommendations
+    analytics:
+    - in order to provide the Services and to tailor features, advertising, and services
+      to your interests and goals, including providing meal suggestions, reporting
+      and analytics, workout plans, and meal planning related services, and product
+      recommendations
+    services:
+    - in order to provide the Services and to tailor features, advertising, and services
+      to your interests and goals, including providing meal suggestions, reporting
+      and analytics, workout plans, and meal planning related services, and product
+      recommendations
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 10. When we leverage and/or collect cookies, device IDs, Location, data from the
+    environment, and other tracking technologies
+  - '14. When we provide you geographically relevant Services, offers, or advertising
+
+
+    We may use general location data to provide you with Services, offers or advertising
+    that are relevant to your general location.'
+  - Our Services may transmit Device IDs, general location data, and data from sensors
+    to us and our partners, including our advertising partners.
+  - Our Services may transmit general location data.
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+  purposes:
+    advertising:
+    - for purposes of interest-based and cross-app, cross-device advertising
+    - to provide you with Services, offers or advertising that are relevant to your
+      general location
+    services:
+    - to provide you with Services, offers or advertising that are relevant to your
+      general location
+- source: we
+  target: information about device
+  key: COLLECT
+  text:
+  - When you use a wearable or connected device or product, we may also collect certain
+    information about the device or product such as serial number, Bluetooth address,
+    UPC, or other device- or purchase-related information.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+  purposes:
+    advertising:
+    - for purposes of interest-based and cross-app, cross-device advertising
+- source: we
+  target: network address
+  key: COLLECT
+  text:
+  - Our apps and Services may also collect Device IDs and network addresses (including
+    IP addresses, MAC addresses, and SSIDs) from other, in-range or networked devices
+    and WiFi Access Points.
+  purposes: {}
+- source: we
+  target: non - sensitive personal data
+  key: COLLECT
+  text:
+  - 'We process your non-sensitive Personal Data to provide you with promotional messages
+    and personalized marketing, including: when you communicate with us or sign up
+    for promotional materials; when you participate in offers or programs; when you
+    engage with our online communities or advertising; to provide you geographically
+    relevant Services, offers, or advertising; when we aggregate and centralize data;
+    and when we share Personal with our service providers and vendors.'
+  purposes:
+    advertising:
+    - 'to provide you with promotional messages and personalized marketing, including:
+      when you communicate with us or sign up for promotional materials; when you
+      participate in offers or programs; when you engage with our online communities
+      or advertising; to provide you geographically relevant Services, offers, or
+      advertising; when we aggregate and centralize data; and when we share Personal
+      with our service providers and vendors'
+- source: we
+  target: non - sensitive personal datum
+  key: COLLECT
+  text:
+  - For non-sensitive Personal Data, we process such data on the basis of our legitimate
+    interest, Art. 6 (1) (f) GDPR, and our legitimate interest is to provide you with
+    our promotional messages or to allow you to participate in our special activities,
+    offers or programs or obtain prior consent, Art. 6 (1) (a) GDPR, if required by
+    applicable law.
+  - 'When we disclose Personal Data to our affiliates and partners, and to our service
+    providers and vendors: Where we do not collect your consent in such case, such
+    processing is necessary for the performance of our Services, Art. 6 (1) (b) GDPR,
+    or we process such data on the basis of our legitimate interest, Art. 6 (1) (f)
+    GDPR, and our legitimate interest is to provide you with better Services and marketing.'
+  - When we process or share Personal Data in the event of an actual or contemplated
+    sale, we process such data for our legitimate interest in offering, maintaining,
+    providing, and improving our Services, Art. 6 (1) (f) GDPR).
+  - 'When we provide you geographically relevant Services, offers, or advertising:
+    Where we do not collect your consent in such case and where we do not need such
+    data in order to perform the Services, we process such data for our legitimate
+    interest in offering you marketing and improving our Services, Art. 6 (1) (f)
+    GDPR).'
+  - When you engage with our online communities or advertising and we actively collect
+    your Personal Data in this context, we process such data on the basis of our legitimate
+    interest, Art. 6 (1) (f) GDPR, and our legitimate interest is to provide you with
+    our promotional messages.
+  - With regard to other non-sensitive Personal Data , we process such data on the
+    basis of our legitimate interest, Art. 6 (1) (f) GDPR, and our legitimate interest
+    is to enhance our Services.
+  - With regard to other non-sensitive Personal Data, we process such data on the
+    basis of our legitimate interest, Art. 6 (1) (f) GDPR, and our legitimate interest
+    is to enhance our Services.
+  purposes:
+    advertising:
+    - for our legitimate interest in offering you marketing and improving our Services,
+      Art. 6 (1) (f) GDPR)
+    legal:
+    - for our legitimate interest in offering, maintaining, providing, and improving
+      our Services, Art. 6 (1) (f) GDPR)
+    services:
+    - for our legitimate interest in offering, maintaining, providing, and improving
+      our Services, Art. 6 (1) (f) GDPR)
+- source: we
+  target: personal data we maintain about you
+  key: COLLECT
+  text:
+  - As a Data Controller, we process the Personal Data we maintain about you in accordance
+    with this Privacy Policy.
+  purposes: {}
+- source: we
+  target: personal data you share with third party site through service
+  key: COLLECT
+  text:
+  - We may allow you to register and pay for third-party products and services or
+    otherwise interact with another website, mobile application, or Internet location
+    (collectively " Third Party Sites ") through our Services, and we may collect
+    Personal Data that you share with Third Party Sites through our Services.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - '16. When we comply with Legal Requirements or Obligations, Law Enforcement, and
+    for Public Safety Purposes ( location-specific disclosures may apply)
+
+
+    We may use Personal Data in order to comply with laws, regulations, court orders,
+    or other legal obligations or to assist in an investigation, to protect and defend
+    our rights and property, or the rights or safety of third parties, to enforce
+    our Terms, this Privacy Policy, or agreements with third parties, or for crime-prevention
+    purposes.'
+  - '4. When you communicate with us or sign up for promotional materials
+
+
+    If you consent to receive Messages, we may use your Personal Data and other information
+    to communicate with you about the MyFitnesssPal Services you have purchased or
+    used; provide you with promotional messages and personalized advertising; to notify
+    you of other features; to notify you of contests, challenges, sweepstakes, and
+    other promotions ("Promotions"); to notify you of Services we think may be of
+    interest to you; and, for other marketing purposes.'
+  - '4. When you communicate with us or sign up for promotional materials
+
+
+    We collect Personal Data when you communicate with us or sign up to receive promotional
+    materials or information ("Messages") via email and push notifications.'
+  - '4. When you communicate with us or sign up for promotional materials
+
+
+    We may use your Personal Data to respond to and address your requests for technical
+    support, questions or complaints about the Services, or any other communication
+    you initiate.'
+  - After which, we will no longer process your Personal Data unless we can demonstrate
+    compelling legitimate grounds for the processing that override your interests,
+    rights and freedoms or for the establishment, exercise or defense of legal claims.
+  - For example, when you log in with your Facebook credentials, with your consent,
+    we may collect Personal Data from your Facebook profile that is permitted under
+    Facebook's Terms of Service - such as your email address, profile picture, and
+    friend list.
+  - If you reside in the European Economic Area, we will only share your Personal
+    Data as described in our Privacy Policy under the heading "How We Disclose Personal
+    Data" if we are permitted to do so under applicable European and national data
+    protection laws and regulations.
+  - 'In this section we provide information on the legal basis for our processing
+    of your Personal Data as required by Art. 13 and 14 of the GDPR: When you communicate
+    with us or sign up for promotional materials, we process your Personal Data on
+    the basis of our legitimate interest, Art. 6 (1) (f) GDPR, and our legitimate
+    interest is to provide you with our promotional messages.'
+  - 'MyFitnessPal Privacy Policy
+
+
+    How We Collect and Use Personal Data'
+  - 'MyFitnessPal Privacy Policy
+
+
+    Location-Specific Disclosures
+
+
+    Residents of Japan
+
+
+    We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers.'
+  - This may include what Personal Data we collect, use, or disclose about you.
+  - To develop, provide, enhance, and improve our Services and your experience, including
+    to enable you to use the full range of our Services (e.g., processing of non-sensitive
+    Personal Data related to your use or interaction with a wearable or other connected
+    device that integrates with the Services; when you access third party products
+    and services; when we collect, use, or otherwise leverage cookies, device IDs,
+    general location data, data from the environment, and other tracking technologies;
+    when you connect with us through social media; when we collect data from third
+    parties or publicly-available sources; when we aggregate and centralize data;
+    and when we share Personal Data with our service providers and vendors).
+  - We also collect Personal Data, including Fitness and Wellness Data, when you use
+    a device that is connected to the Internet, such as heart rate monitors, activity
+    trackers, and other devices or wearables that integrate with the Services.
+  - We also process your Personal Data for our legitimate interests when you communicate
+    with us, including when you sign up for promotional materials and we have not
+    asked you for your consent in that regard.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+  - We collect and process your Personal Data for a variety of purposes outlined in
+    this Privacy Policy.
+  - 'We collect your Personal Data in a number of ways and for various purposes, including:'
+  - We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers who are providing you with products and services for their marketing
+    purposes.
+  - We may collect certain Personal Data using cookies and other technologies such
+    as web beacons, device IDs, advertising IDs, geolocation, HTML5 local storage,
+    Flash cookies, and IP addresses.
+  - We may collect your Personal Data when you engage with our online communities.
+  - 'We may disclose your Personal Data for the purposes as described in the prior
+    section of this Privacy Policy, in the Location-Specific Disclosures section,
+    and in the following ways:'
+  - We may request or otherwise collect Personal Data, including Fitness and Wellness
+    Data when you participate in Promotions, when you participate in surveys, or when
+    you participate in research activities or initiatives ("Research").
+  - We may use the Personal Data we collect during Promotions, to administer the Promotion,
+    verify identity and age, and to communicate with you about the Promotion.
+  - We use your Personal Data to enable sharing as described in the Services, including
+    to enable you to find and link to friends on the Services.
+  - We will also retain your Personal Data as necessary to comply with our legal obligations,
+    resolve disputes, and enforce our agreements.
+  - We will retain your Personal Data for as long as you maintain an account or as
+    otherwise necessary to provide you the Services.
+  - 'When we collect data from third parties or publicly-available sources: With regard
+    to other Personal Data, we process your Personal Data on the basis of our legitimate
+    interest, Art. 6 (1) (f) GDPR, and our legitimate interest is providing you with
+    better Services and to enable you to use our Services more efficiently.'
+  - When we conduct analytics, we process your Personal Data on the basis of our legitimate
+    interest, Art. 6 (1) (f) GDPR, and our legitimate interest is to enhance your
+    experience and to develop and improve our Services.
+  - 'When we disclose Personal Data to our affiliates and partners, and to our service
+    providers and vendors: Where we collect your consent in such case, we process
+    your Personal Data on the basis of your prior consent, Art. 6 (1) (a) GDPR.'
+  - 'When we disclose Personal Data to our affiliates and partners, and to our service
+    providers and vendors: Where we do not collect your consent in such case, such
+    processing is necessary for the performance of our Services, Art. 6 (1) (b) GDPR,
+    or we process such data on the basis of our legitimate interest, Art. 6 (1) (f)
+    GDPR, and our legitimate interest is to provide you with better Services and marketing.'
+  - When we investigate suspected illegal or wrongful activity, we process your Personal
+    Data on the basis of our legitimate interest, Art. 6 (1) (f) GDPR, and our legitimate
+    interest is to ensure compliance with legal requirements and law enforcement requests
+    and for public safety purposes.
+  - When we leverage and/or collect cookies, device IDs, data from the environment,
+    and other tracking technologies, we process your Personal Data on the basis of
+    your consent, Art. 6 (1) (a) GDPR, and based on our legitimate interest, Art.
+    6 (1) (f) GDPR, to the extent permitted by applicable law.
+  - When we process or share Personal Data in the event of an actual or contemplated
+    sale, we process such data for our legitimate interest in offering, maintaining,
+    providing, and improving our Services, Art. 6 (1) (f) GDPR).
+  - 'When we provide you geographically relevant Services, offers, or advertising:
+    Where we collect your consent in such case, we process your Personal Data on the
+    basis of your prior consent, Art. 6 (1) (a) GDPR.'
+  - 'When you access third party products and services and we obtain Personal Data
+    about you from such third party sources: With regard to other Personal Data, we
+    process such data on the basis of our legitimate interest, Art. 6 (1) (f) GDPR,
+    and our legitimate interest is to enhance your experience and to improve our Services.'
+  - 'When you ask us to customize our Services: Where we collect your consent in such
+    case, we process your Personal Data on the basis of your prior consent, Art. 6
+    (1) (a) GDPR.'
+  - When you connect using your SNS accounts, we may collect Personal Data that you
+    have provided to that SNS.
+  - 'When you connect with us through social media: Where we collect your consent
+    in such case, for instance for marketing purposes, we process your Personal Data
+    on the basis of your prior consent, Art. 6 (1) (a) GDPR.'
+  - 'When you connect with us through social media: Where we do not collect your consent
+    in such case, we process your Personal Data on the basis of our legitimate interest,
+    Art. 6 (1) (f) GDPR, and our legitimate interest is providing you with better
+    Services and to enable you to use the full range of our Services (Art. 6 (1) (f)
+    GDPR).'
+  - When you engage with our online communities or advertising and we actively collect
+    your Personal Data in this context, we process such data on the basis of our legitimate
+    interest, Art. 6 (1) (f) GDPR, and our legitimate interest is to provide you with
+    our promotional messages.
+  - 'When you share content or achievements, or invite friends to use the Services:
+    Where we collect your consent in such case, we process your Personal Data on the
+    basis of your prior consent, Art. 6 (1) (a) GDPR.'
+  - 'When you sign up for our Services that consist of social sharing and communication
+    with others (including linking you to friends across platforms): Where we collect
+    your consent in such case, we process your Personal Data on the basis of your
+    prior consent, Art. 6 (1) (a) GDPR.'
+  purposes:
+    advertising:
+    - ', for instance for marketing purposes'
+    - to communicate with you about the MyFitnesssPal Services you have purchased
+      or used; provide you with promotional messages and personalized advertising;
+      to notify you of other features; to notify you of contests, challenges, sweepstakes,
+      and other promotions ("Promotions"); to notify you of Services we think may
+      be of interest to you; and, for other marketing purposes
+    legal:
+    - for our legitimate interest in offering, maintaining, providing, and improving
+      our Services, Art. 6 (1) (f) GDPR)
+    - in order to comply with laws, regulations, court orders, or other legal obligations
+      or to assist in an investigation, to protect and defend our rights and property,
+      or the rights or safety of third parties, to enforce our Terms, this Privacy
+      Policy, or agreements with third parties, or for crime-prevention purposes
+    - to comply with our legal obligations, resolve disputes, and enforce our agreements
+    security:
+    - in order to comply with laws, regulations, court orders, or other legal obligations
+      or to assist in an investigation, to protect and defend our rights and property,
+      or the rights or safety of third parties, to enforce our Terms, this Privacy
+      Policy, or agreements with third parties, or for crime-prevention purposes
+    services:
+    - for our legitimate interest in offering, maintaining, providing, and improving
+      our Services, Art. 6 (1) (f) GDPR)
+    - to customize our Services
+    - to enable sharing as described in the Services, including to enable you to find
+      and link to friends on the Services
+    - to respond to and address your requests for technical support, questions or
+      complaints about the Services, or any other communication you initiate
+- source: we
+  target: photo
+  key: COLLECT
+  text:
+  - We use photos, videos, or other data you provide to us to customize our Services.
+  purposes:
+    services:
+    - to customize our Services
+- source: we
+  target: pixel
+  key: COLLECT
+  text:
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+  purposes:
+    advertising:
+    - for purposes of interest-based and cross-app, cross-device advertising
+- source: we
+  target: response
+  key: COLLECT
+  text:
+  - For market research, we may ask questions on behalf of business partners and share
+    your response with business partners.
+  purposes: {}
+- source: we
+  target: sensitive datum
+  key: COLLECT
+  text:
+  - For sensitive data (health data) (including health data or biometric data) as
+    defined in the GDPR, we process such data on the basis of your prior consent,
+    Art. 9(2)(a) GDPR.
+  - 'In this section we provide information on the legal basis for our processing
+    of your Personal Data as required by Art. 13 and 14 of the GDPR: When you input
+    Fitness and Wellness Data within our Services: For sensitive data (including health
+    data and biometric data) as defined in the GDPR, we process such data on the basis
+    of your prior consent, Art. 9(2)(a) GDPR.'
+  purposes:
+    analytics:
+    - For sensitive data (health data) (including health data or biometric data) as
+      defined in the GDPR
+    - For sensitive data (including health data and biometric data) as defined in
+      the GDPR
+    security:
+    - For sensitive data (health data) (including health data or biometric data) as
+      defined in the GDPR
+    - For sensitive data (including health data and biometric data) as defined in
+      the GDPR
+- source: we
+  target: signal
+  key: COLLECT
+  text:
+  - Activating the "Limit Ad Tracking," "Opt out of Ads Personalization," or equivalent
+    setting from your mobile device will transmit a signal to us and any third parties
+    that we use.
+  - It will transmit a signal to us and to third-parties that indicates your data
+    should not be used for interest-based advertising.
+  purposes: {}
+- source: we
+  target: tax information
+  key: COLLECT
+  text:
+  - If you win a Promotion, we also may need to collect certain tax information, waivers
+    and releases, depending on the prize.
+  purposes: {}
+- source: we
+  target: type of datum
+  key: COLLECT
+  text:
+  - We process this type of data to provide you with additional information that you
+    can incorporate into your evaluation of your progress toward your fitness and
+    wellness objectives; it should not, however, be considered professional medical
+    advice and is not intended to be used for diagnostic purposes.
+  purposes:
+    analytics:
+    - to provide you with additional information that you can incorporate into your
+      evaluation of your progress toward your fitness and wellness objectives
+    services:
+    - to provide you with additional information that you can incorporate into your
+      evaluation of your progress toward your fitness and wellness objectives
+- source: we
+  target: video
+  key: COLLECT
+  text:
+  - We use photos, videos, or other data you provide to us to customize our Services.
+  purposes:
+    services:
+    - to customize our Services
+- source: UNSPECIFIED_ACTOR
+  target: information about
+  key: COLLECT
+  text:
+  - These websites also provide detailed information about how interest-based advertising
+    works.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - For Apple users, our iOS mobile apps share personal data with third parties as
+    described in this Privacy Policy.
+  - 'MyFitnessPal Privacy Policy
+
+
+    Location-Specific Disclosures
+
+
+    Residents of Japan
+
+
+    We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers.'
+  - The sharing of Personal Data to these organizations may mean your Personal Data
+    is transferred to third parties located outside of Japan.
+  - We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers who are providing you with products and services for their marketing
+    purposes.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: signal
+  key: COLLECT
+  text:
+  - Activating the "Limit Ad Tracking," "Opt out of Ads Personalization," or equivalent
+    setting from your mobile device will transmit a signal to us and any third parties
+    that we use.
+  - It will transmit a signal to us and to third-parties that indicates your data
+    should not be used for interest-based advertising.
+  purposes: {}
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Our Services may transmit Device IDs, general location data, and data from sensors
+    to us and our partners, including our advertising partners.
+  purposes: {}
+- source: advertiser
+  target: device identifier
+  key: COLLECT
+  text:
+  - Our Services may transmit Device IDs, general location data, and data from sensors
+    to us and our partners, including our advertising partners.
+  purposes: {}
+- source: advertiser
+  target: geolocation
+  key: COLLECT
+  text:
+  - Our Services may transmit Device IDs, general location data, and data from sensors
+    to us and our partners, including our advertising partners.
+  purposes: {}
+- source: advertiser
+  target: ip address
+  key: COLLECT
+  text:
+  - Our advertising and analytics partners may use IP addresses to group or correlate
+    devices for purposes of analytics, security and anti-fraud purposes, interest-based
+    advertising, ad targeting, ad attribution, and limiting ad frequency.
+  purposes:
+    advertising:
+    - to group or correlate devices for purposes of analytics, security and anti-fraud
+      purposes, interest-based advertising, ad targeting, ad attribution, and limiting
+      ad frequency
+    analytics:
+    - to group or correlate devices for purposes of analytics, security and anti-fraud
+      purposes, interest-based advertising, ad targeting, ad attribution, and limiting
+      ad frequency
+    security:
+    - to group or correlate devices for purposes of analytics, security and anti-fraud
+      purposes, interest-based advertising, ad targeting, ad attribution, and limiting
+      ad frequency
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - 'MyFitnessPal Privacy Policy
+
+
+    Location-Specific Disclosures
+
+
+    Residents of Japan
+
+
+    We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers.'
+  - We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers who are providing you with products and services for their marketing
+    purposes.
+  purposes: {}
+- source: analytic provider
+  target: ip address
+  key: COLLECT
+  text:
+  - Our advertising and analytics partners may use IP addresses to group or correlate
+    devices for purposes of analytics, security and anti-fraud purposes, interest-based
+    advertising, ad targeting, ad attribution, and limiting ad frequency.
+  purposes:
+    advertising:
+    - to group or correlate devices for purposes of analytics, security and anti-fraud
+      purposes, interest-based advertising, ad targeting, ad attribution, and limiting
+      ad frequency
+    analytics:
+    - to group or correlate devices for purposes of analytics, security and anti-fraud
+      purposes, interest-based advertising, ad targeting, ad attribution, and limiting
+      ad frequency
+    security:
+    - to group or correlate devices for purposes of analytics, security and anti-fraud
+      purposes, interest-based advertising, ad targeting, ad attribution, and limiting
+      ad frequency
+- source: business partner
+  target: personal information
+  key: COLLECT
+  text:
+  - In such instances, Personal Data may be collected directly by and/or shared with
+    MyFitnessPal, the service provider, and/or business partner, including for marketing
+    purposes.
+  - 'MyFitnessPal Privacy Policy
+
+
+    Location-Specific Disclosures
+
+
+    Residents of Japan
+
+
+    We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers.'
+  - We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers who are providing you with products and services for their marketing
+    purposes.
+  purposes: {}
+- source: business partner
+  target: response
+  key: COLLECT
+  text:
+  - For market research, we may ask questions on behalf of business partners and share
+    your response with business partners.
+  purposes: {}
+- source: ios mobile app
+  target: personal information
+  key: COLLECT
+  text:
+  - For Apple users, our iOS mobile apps share personal data with third parties as
+    described in this Privacy Policy.
+  purposes: {}
+- source: myfitnesspal
+  target: information you provide we
+  key: COLLECT
+  text:
+  - 'If you reside in the United Arab Emirates, your use of the Services signifies
+    your consent to the following: MyFitnessPal may disclose any information you provide
+    us, including information you may consider private; and'
+  purposes: {}
+- source: myfitnesspal
+  target: personal information
+  key: COLLECT
+  text:
+  - In such instances, Personal Data may be collected directly by and/or shared with
+    MyFitnessPal, the service provider, and/or business partner, including for marketing
+    purposes.
+  - 'MyFitnessPal Privacy Policy
+
+
+    Location-Specific Disclosures
+
+
+    Residents of Japan
+
+
+    MyFitnessPal may use your Personal Data to communicate with you about the Services
+    you have purchased or used and to notify you of other products, promotions and
+    Services we think may be of interest to you.'
+  - MyFitnessPal collects, uses, discloses and processes Personal Data as outlined
+    in this Privacy Policy, including to operate and improve the Services and our
+    business; for advertising and marketing; and to provide you with innovative fitness
+    and wellness services, as further described in this Privacy Policy.
+  - MyFitnessPal may use your Personal Data to communicate with you about MyFitnessPal
+    Services you have purchased or used and to notify you of other products, Promotions
+    and services we think may be of interest to you.
+  - MyFitnessPal operates the Service, and collects, uses and shares your Personal
+    Data as outlined in this Privacy Policy.
+  - MyFitnessPal retains your Personal Data (i) for as long as you maintain an account
+    or as needed to provide you the Services and/or (ii) as necessary to comply with
+    our legal obligations, resolve disputes, and enforce our agreements.
+  - 'MyFitnessPal will use the Personal Data you provide at registration for the following
+    purposes:'
+  purposes:
+    advertising:
+    - Delivering information (including advertisements) on products, services
+    - Providing you geographically relevant Services, offers, or advertising
+    - to communicate with you about MyFitnessPal Services you have purchased or used
+      and to notify you of other products, Promotions and services we think may be
+      of interest to you
+    - to communicate with you about the Services you have purchased or used and to
+      notify you of other products, promotions and Services we think may be of interest
+      to you
+    analytics:
+    - Creating statistical and analytic information
+    - Leveraging and/or collect cookies, device IDs, Location, data from the environment,
+      and other tracking technologies
+    - Providing you with updates on new uses of your Personal Data
+    legal:
+    - Complying with Legal Requirements or Obligations, Law Enforcement, and for Public
+      Safety Purposes
+    services:
+    - Communicating with you about activities related to the Services
+    - Communicating with you about the use of the Services
+    - Other inevitably necessary communications to you
+    - Providing email support
+    - Providing registration support
+    - Providing you geographically relevant Services, offers, or advertising
+    - Providing you with updates on new uses of your Personal Data
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - In such instances, Personal Data may be collected directly by and/or shared with
+    MyFitnessPal, the service provider, and/or business partner, including for marketing
+    purposes.
+  - To develop, provide, enhance, and improve our Services and your experience, including
+    to enable you to use the full range of our Services (e.g., processing of non-sensitive
+    Personal Data related to your use or interaction with a wearable or other connected
+    device that integrates with the Services; when you access third party products
+    and services; when we collect, use, or otherwise leverage cookies, device IDs,
+    general location data, data from the environment, and other tracking technologies;
+    when you connect with us through social media; when we collect data from third
+    parties or publicly-available sources; when we aggregate and centralize data;
+    and when we share Personal Data with our service providers and vendors).
+  purposes: {}
+- source: social media
+  target: datum regard member
+  key: COLLECT
+  text:
+  - Social network widgets, buttons, and plug-ins on our Website passively transmit
+    data regarding a social network's members to that social network, even when a
+    button is not clicked.
+  purposes: {}
+- source: supplier
+  target: personal information
+  key: COLLECT
+  text:
+  - 'MyFitnessPal Privacy Policy
+
+
+    Location-Specific Disclosures
+
+
+    Residents of Japan
+
+
+    We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers.'
+  - We may also share Personal Data with our Ad Partners, business partners, vendors
+    and suppliers who are providing you with products and services for their marketing
+    purposes.
+  purposes: {}
+- source: we
+  target: publicly available source
+  key: SUBSUM
+  text:
+  - To develop, provide, enhance, and improve our Services and your experience, including
+    to enable you to use the full range of our Services (e.g., processing of non-sensitive
+    Personal Data related to your use or interaction with a wearable or other connected
+    device that integrates with the Services; when you access third party products
+    and services; when we collect, use, or otherwise leverage cookies, device IDs,
+    general location data, data from the environment, and other tracking technologies;
+    when you connect with us through social media; when we collect data from third
+    parties or publicly-available sources; when we aggregate and centralize data;
+    and when we share Personal Data with our service providers and vendors).
+- source: we
+  target: service provider
+  key: SUBSUM
+  text:
+  - To develop, provide, enhance, and improve our Services and your experience, including
+    to enable you to use the full range of our Services (e.g., processing of non-sensitive
+    Personal Data related to your use or interaction with a wearable or other connected
+    device that integrates with the Services; when you access third party products
+    and services; when we collect, use, or otherwise leverage cookies, device IDs,
+    general location data, data from the environment, and other tracking technologies;
+    when you connect with us through social media; when we collect data from third
+    parties or publicly-available sources; when we aggregate and centralize data;
+    and when we share Personal Data with our service providers and vendors).
+- source: we
+  target: social media
+  key: SUBSUM
+  text:
+  - To develop, provide, enhance, and improve our Services and your experience, including
+    to enable you to use the full range of our Services (e.g., processing of non-sensitive
+    Personal Data related to your use or interaction with a wearable or other connected
+    device that integrates with the Services; when you access third party products
+    and services; when we collect, use, or otherwise leverage cookies, device IDs,
+    general location data, data from the environment, and other tracking technologies;
+    when you connect with us through social media; when we collect data from third
+    parties or publicly-available sources; when we aggregate and centralize data;
+    and when we share Personal Data with our service providers and vendors).
+- source: we
+  target: track technology
+  key: SUBSUM
+  text:
+  - To develop, provide, enhance, and improve our Services and your experience, including
+    to enable you to use the full range of our Services (e.g., processing of non-sensitive
+    Personal Data related to your use or interaction with a wearable or other connected
+    device that integrates with the Services; when you access third party products
+    and services; when we collect, use, or otherwise leverage cookies, device IDs,
+    general location data, data from the environment, and other tracking technologies;
+    when you connect with us through social media; when we collect data from third
+    parties or publicly-available sources; when we aggregate and centralize data;
+    and when we share Personal Data with our service providers and vendors).
+- source: community forum
+  target: Facebook
+  key: SUBSUM
+  text:
+  - Additionally, any information you post or disclose in our community forums (e.g.,
+    Facebook, sponsored pages on the MyFitnessPal Blog) is public.
+- source: community forum
+  target: sponsor page on myfitnesspal blog
+  key: SUBSUM
+  text:
+  - Additionally, any information you post or disclose in our community forums (e.g.,
+    Facebook, sponsored pages on the MyFitnessPal Blog) is public.
+- source: data component
+  target: email address
+  key: SUBSUM
+  text:
+  - We may create de-identified or anonymous data from Personal Data by excluding
+    data components (such as your name, email address, or linkable tracking ID) that
+    makes the data personally identifiable to you, through obfuscation, or through
+    other means.
+- source: data component
+  target: linkable tracking id
+  key: SUBSUM
+  text:
+  - We may create de-identified or anonymous data from Personal Data by excluding
+    data components (such as your name, email address, or linkable tracking ID) that
+    makes the data personally identifiable to you, through obfuscation, or through
+    other means.
+- source: data component
+  target: person name
+  key: SUBSUM
+  text:
+  - We may create de-identified or anonymous data from Personal Data by excluding
+    data components (such as your name, email address, or linkable tracking ID) that
+    makes the data personally identifiable to you, through obfuscation, or through
+    other means.
+- source: device identifier
+  target: id associate with mobile device carrier
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: device identifier
+  target: id be
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: device identifier
+  target: platform specific id
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: fitness data
+  target: datum you provide
+  key: SUBSUM
+  text:
+  - '"Fitness and Wellness Data" includes data you provide related to your dietary
+    habits, dietary restrictions, fitness activity, fitness goals, lifestyle (e.g.,
+    sleeping habits), life events, fitness goals, height, weight, measurements, fitness
+    level, heart rate, sleep data, BMI, biometric data, and similar types of data
+    relating to physiological condition, and activity.'
+- source: fitness datum
+  target: for specific kind
+  key: SUBSUM
+  text:
+  - If you choose not to provide sensitive Personal Data (for example, specific kinds
+    of Fitness and Wellness Data), certain features or Services may be unavailable
+    or not function properly.
+- source: id be
+  target: mac address
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: id be
+  target: serial number
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: information about device
+  target: bluetooth address
+  key: SUBSUM
+  text:
+  - When you use a wearable or connected device or product, we may also collect certain
+    information about the device or product such as serial number, Bluetooth address,
+    UPC, or other device- or purchase-related information.
+- source: information about device
+  target: relate information
+  key: SUBSUM
+  text:
+  - When you use a wearable or connected device or product, we may also collect certain
+    information about the device or product such as serial number, Bluetooth address,
+    UPC, or other device- or purchase-related information.
+- source: information about device
+  target: serial number
+  key: SUBSUM
+  text:
+  - When you use a wearable or connected device or product, we may also collect certain
+    information about the device or product such as serial number, Bluetooth address,
+    UPC, or other device- or purchase-related information.
+- source: information about device
+  target: upc
+  key: SUBSUM
+  text:
+  - When you use a wearable or connected device or product, we may also collect certain
+    information about the device or product such as serial number, Bluetooth address,
+    UPC, or other device- or purchase-related information.
+- source: information be
+  target: bmi
+  key: SUBSUM
+  text:
+  - Information that is "Private" by default includes, for example, your height, weight
+    and BMI.
+- source: information be
+  target: height
+  key: SUBSUM
+  text:
+  - Information that is "Private" by default includes, for example, your height, weight
+    and BMI.
+- source: information be
+  target: weight
+  key: SUBSUM
+  text:
+  - Information that is "Private" by default includes, for example, your height, weight
+    and BMI.
+- source: information set as friend only by default
+  target: complete food diary
+  key: SUBSUM
+  text:
+  - Information that is set as "Friends Only" by default includes, for example, your
+    friendships, news feed comments, completed food diaries, and workouts completed.
+- source: information set as friend only by default
+  target: news feed comment
+  key: SUBSUM
+  text:
+  - Information that is set as "Friends Only" by default includes, for example, your
+    friendships, news feed comments, completed food diaries, and workouts completed.
+- source: information set as friend only by default
+  target: workout complete
+  key: SUBSUM
+  text:
+  - Information that is set as "Friends Only" by default includes, for example, your
+    friendships, news feed comments, completed food diaries, and workouts completed.
+- source: information we collect
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - If you are located outside of the United States, please be aware that information
+    we collect (including cookies and device data) will be processed and stored in
+    the United States, a jurisdiction in which the data protection and privacy laws
+    and principles, including your data subject rights, may not offer the same level
+    of protection as those in the country/region where you reside or are a citizen.
+- source: information we collect
+  target: device datum
+  key: SUBSUM
+  text:
+  - If you are located outside of the United States, please be aware that information
+    we collect (including cookies and device data) will be processed and stored in
+    the United States, a jurisdiction in which the data protection and privacy laws
+    and principles, including your data subject rights, may not offer the same level
+    of protection as those in the country/region where you reside or are a citizen.
+- source: information you provide we
+  target: information you consider
+  key: SUBSUM
+  text:
+  - 'If you reside in the United Arab Emirates, your use of the Services signifies
+    your consent to the following: MyFitnessPal may disclose any information you provide
+    us, including information you may consider private; and'
+- source: network address
+  target: ip address
+  key: SUBSUM
+  text:
+  - Our apps and Services may also collect Device IDs and network addresses (including
+    IP addresses, MAC addresses, and SSIDs) from other, in-range or networked devices
+    and WiFi Access Points.
+- source: network address
+  target: mac address
+  key: SUBSUM
+  text:
+  - Our apps and Services may also collect Device IDs and network addresses (including
+    IP addresses, MAC addresses, and SSIDs) from other, in-range or networked devices
+    and WiFi Access Points.
+- source: network address
+  target: router ssid
+  key: SUBSUM
+  text:
+  - Our apps and Services may also collect Device IDs and network addresses (including
+    IP addresses, MAC addresses, and SSIDs) from other, in-range or networked devices
+    and WiFi Access Points.
+- source: personal datum we need
+  target: non - sensitive personal datum
+  key: SUBSUM
+  text:
+  - For non-sensitive Personal Data, we process such data on the basis of our legitimate
+    interest, Art. 6 (1) (f) GDPR, and our legitimate interest is to provide you with
+    our promotional messages or to allow you to participate in our special activities,
+    offers or programs or obtain prior consent, Art. 6 (1) (a) GDPR, if required by
+    applicable law.
+  - 'When we provide you geographically relevant Services, offers, or advertising:
+    Where we do not collect your consent in such case, for such Personal Data that
+    we need in order to perform the Services, such processing is necessary for the
+    performance of our Services, Art. 6 (1) (b) GDPR.'
+- source: personal information
+  target: age
+  key: SUBSUM
+  text:
+  - This includes Personal Data, such as name, address, email address, telephone number
+    and age and other information that may be appropriate in order to participate
+    in the Research.
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - For example, when you log in with your Facebook credentials, with your consent,
+    we may collect Personal Data from your Facebook profile that is permitted under
+    Facebook's Terms of Service - such as your email address, profile picture, and
+    friend list.
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - This includes Personal Data, such as name, address, email address, telephone number
+    and age and other information that may be appropriate in order to participate
+    in the Research.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: fitness data
+  key: SUBSUM
+  text:
+  - We also collect Personal Data, including Fitness and Wellness Data, when you use
+    a device that is connected to the Internet, such as heart rate monitors, activity
+    trackers, and other devices or wearables that integrate with the Services.
+  - We may request or otherwise collect Personal Data, including Fitness and Wellness
+    Data when you participate in Promotions, when you participate in surveys, or when
+    you participate in research activities or initiatives ("Research").
+- source: personal information
+  target: friend list
+  key: SUBSUM
+  text:
+  - For example, when you log in with your Facebook credentials, with your consent,
+    we may collect Personal Data from your Facebook profile that is permitted under
+    Facebook's Terms of Service - such as your email address, profile picture, and
+    friend list.
+- source: personal information
+  target: gender
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: information be
+  key: SUBSUM
+  text:
+  - This includes Personal Data, such as name, address, email address, telephone number
+    and age and other information that may be appropriate in order to participate
+    in the Research.
+- source: personal information
+  target: password
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: payment information
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - This includes Personal Data, such as name, address, email address, telephone number
+    and age and other information that may be appropriate in order to participate
+    in the Research.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - This includes Personal Data, such as name, address, email address, telephone number
+    and age and other information that may be appropriate in order to participate
+    in the Research.
+- source: personal information
+  target: photo
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - This includes Personal Data, such as name, address, email address, telephone number
+    and age and other information that may be appropriate in order to participate
+    in the Research.
+- source: personal information
+  target: profile picture
+  key: SUBSUM
+  text:
+  - For example, when you log in with your Facebook credentials, with your consent,
+    we may collect Personal Data from your Facebook profile that is permitted under
+    Facebook's Terms of Service - such as your email address, profile picture, and
+    friend list.
+- source: personal information
+  target: sensitive personal datum pursuant
+  key: SUBSUM
+  text:
+  - By using the Services, you consent to the collection, use and transfer of your
+    Personal Data (including sensitive personal data pursuant to Mexican law) for
+    processing in the United States as described in this policy.
+- source: personal information
+  target: username
+  key: SUBSUM
+  text:
+  - This Personal Data may include name, photo, username and password, email address,
+    date of birth, gender, payment information and general location data.
+  - We collect Personal Data when you use or interact with our Services, including
+    when you register for a MyFitnessPal account, purchase a Premium Subscription
+    (including processing of payment), or otherwise use the Services (e.g., browse
+    the content available on the Services), and when you ask us to customize our Services.
+- source: pixel
+  target: email pixel
+  key: SUBSUM
+  text:
+  - We use cookies, pixels (including email pixels), mobile device and advertising
+    IDs, general location data, Fitness and Wellness Data, app or service usage data
+    and data from third-party wearables, connected devices or sensors that integrate
+    with our Services for purposes of interest-based and cross-app, cross-device advertising.
+- source: platform specific id
+  target: advertising id
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: platform specific id
+  target: android id
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: platform specific id
+  target: google aid
+  key: SUBSUM
+  text:
+  - Device IDs include IDs associated with your mobile device carrier such as IMEI,
+    MEID, IMSI; platform-specific IDs such as Android ID, Google AID, and Apple's
+    IDFA; and IDs that are part of your device hardware, such as WiFi MAC address,
+    and serial number.
+- source: router
+  target: home router
+  key: SUBSUM
+  text:
+  - IP addresses, for purposes of this Privacy Policy, include "public" IP addresses,
+    such as the IP address for a home router that is visible to the Internet, as well
+    as "local" IP addresses, which are IP addresses assigned to computers and mobile
+    devices "behind" a router (such as a home router).
+- source: sensitive datum
+  target: biometric information
+  key: SUBSUM
+  text:
+  - For sensitive data (health data) (including health data or biometric data) as
+    defined in the GDPR, we process such data on the basis of your prior consent,
+    Art. 9(2)(a) GDPR.
+  - 'In this section we provide information on the legal basis for our processing
+    of your Personal Data as required by Art. 13 and 14 of the GDPR: When you input
+    Fitness and Wellness Data within our Services: For sensitive data (including health
+    data and biometric data) as defined in the GDPR, we process such data on the basis
+    of your prior consent, Art. 9(2)(a) GDPR.'
+- source: sensitive datum
+  target: health datum
+  key: SUBSUM
+  text:
+  - For sensitive data (health data) (including health data or biometric data) as
+    defined in the GDPR, we process such data on the basis of your prior consent,
+    Art. 9(2)(a) GDPR.
+  - 'In this section we provide information on the legal basis for our processing
+    of your Personal Data as required by Art. 13 and 14 of the GDPR: When you input
+    Fitness and Wellness Data within our Services: For sensitive data (including health
+    data and biometric data) as defined in the GDPR, we process such data on the basis
+    of your prior consent, Art. 9(2)(a) GDPR.'
+- source: sensitive personal data
+  target: for specific kind
+  key: SUBSUM
+  text:
+  - If you choose not to provide sensitive Personal Data (for example, specific kinds
+    of Fitness and Wellness Data), certain features or Services may be unavailable
+    or not function properly.
+- source: sensor
+  target: local network
+  key: SUBSUM
+  text:
+  - We may use Device IDs, coarse location and general location data, and data from
+    sensors, including the local network, (together with app usage data and Fitness
+    and Wellness Data) for strictly necessary purposes; improving our apps and analytics;
+    personalization and preferences; and cross-app, cross-device, interest-based advertising.
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - These technologies may allow a social network (e.g., Facebook) to personally identify
+    its members and to know the web pages its members have visited.
+  - You may choose to enable, log into, or sign on to the Services through various
+    social media or social networking services, such as Facebook ("Social Networking
+    Service" or "SNS").
+- source: social media
+  target: sns
+  key: SUBSUM
+  text:
+  - You may choose to enable, log into, or sign on to the Services through various
+    social media or social networking services, such as Facebook ("Social Networking
+    Service" or "SNS").
+- source: type of push notification
+  target: type of push notification you receive from myfitnesspal
+  key: SUBSUM
+  text:
+  - You can manage the type of push notifications you receive from MyFitnessPal by
+    modifying the settings within the App.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: community forum
+- type: ACTOR
+  id: home router
+- type: ACTOR
+  id: ios mobile app
+- type: ACTOR
+  id: local network
+- type: ACTOR
+  id: myfitnesspal
+- type: ACTOR
+  id: publicly available source
+- type: ACTOR
+  id: router
+- type: ACTOR
+  id: sensor
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: sns
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: sponsor page on myfitnesspal blog
+- type: ACTOR
+  id: supplier
+- type: ACTOR
+  id: track technology
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: access to third party sites
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: age
+- type: DATA
+  id: amount of datum
+- type: DATA
+  id: android id
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: bluetooth address
+- type: DATA
+  id: bmi
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: complete food diary
+- type: DATA
+  id: contact
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: data component
+- type: DATA
+  id: data you provide to we over course of journey
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum about you
+- type: DATA
+  id: datum from environment
+- type: DATA
+  id: datum regard member
+- type: DATA
+  id: datum you provide
+- type: DATA
+  id: datum you provide to we
+- type: DATA
+  id: device datum
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: email pixel
+- type: DATA
+  id: facebook credential
+- type: DATA
+  id: fitness data
+- type: DATA
+  id: fitness datum
+- type: DATA
+  id: for specific kind
+- type: DATA
+  id: friend list
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: google aid
+- type: DATA
+  id: health datum
+- type: DATA
+  id: height
+- type: DATA
+  id: id associate with mobile device carrier
+- type: DATA
+  id: id be
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about device
+- type: DATA
+  id: information be
+- type: DATA
+  id: information set as friend only by default
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information you consider
+- type: DATA
+  id: information you provide we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: linkable tracking id
+- type: DATA
+  id: mac address
+- type: DATA
+  id: network address
+- type: DATA
+  id: news feed comment
+- type: DATA
+  id: non - sensitive personal data
+- type: DATA
+  id: non - sensitive personal datum
+- type: DATA
+  id: password
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal data we maintain about you
+- type: DATA
+  id: personal data you share with third party site through service
+- type: DATA
+  id: personal datum we need
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photo
+- type: DATA
+  id: pixel
+- type: DATA
+  id: platform specific id
+- type: DATA
+  id: postal address
+- type: DATA
+  id: profile picture
+- type: DATA
+  id: relate information
+- type: DATA
+  id: response
+- type: DATA
+  id: router ssid
+- type: DATA
+  id: sensitive datum
+- type: DATA
+  id: sensitive personal data
+- type: DATA
+  id: sensitive personal datum pursuant
+- type: DATA
+  id: serial number
+- type: DATA
+  id: signal
+- type: DATA
+  id: tax information
+- type: DATA
+  id: type of datum
+- type: DATA
+  id: type of push notification
+- type: DATA
+  id: type of push notification you receive from myfitnesspal
+- type: DATA
+  id: upc
+- type: DATA
+  id: username
+- type: DATA
+  id: video
+- type: DATA
+  id: weight
+- type: DATA
+  id: workout complete

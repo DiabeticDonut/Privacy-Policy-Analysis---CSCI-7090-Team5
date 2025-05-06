@@ -1,0 +1,1136 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: body fat
+  key: COLLECT
+  text:
+  - We may access sensitive health data (body weight & body fat) through integration
+    with Google Health Connect.
+  purposes: {}
+- source: we
+  target: body weight
+  key: COLLECT
+  text:
+  - We may access sensitive health data (body weight & body fat) through integration
+    with Google Health Connect.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - This Application uses identifiers for mobile devices and technologies similar
+    to cookies to run the Firebase Analytics service.
+  purposes:
+    analytics:
+    - to run the Firebase Analytics service
+- source: we
+  target: file record interaction with application
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Application and any third-party services
+    may collect files that record interaction with this Application (System logs)
+    or use other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: we
+  target: information concern particular service upon
+  key: COLLECT
+  text:
+  - In addition to the information contained in this privacy policy, this Application
+    may provide the User with additional and contextual information concerning particular
+    Services or the collection and processing of Personal Data upon request.
+  purposes: {}
+- source: we
+  target: mention category
+  key: COLLECT
+  text:
+  - We collect the above-mentioned categories of Personal Information, either directly
+    or indirectly, from you when you use this Application.
+  purposes: {}
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - FatSecret may from time to time share non-personally identifiable information
+    with our affiliates and advertisers and other third-parties.
+  purposes: {}
+- source: we
+  target: permission
+  key: COLLECT
+  text:
+  - This Application requests certain permissions from Users that allow it to access
+    the User's device Data as described below.
+  purposes: {}
+- source: we
+  target: personal datum relate to user
+  key: COLLECT
+  text:
+  - 'The Owner may process Personal Data relating to Users if one of the following
+    applies:'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - Finally, we may collect your Personal Information from third parties that work
+    with us in connection with the Service or with the functioning of this Application
+    and features thereof.
+  - For operation and maintenance purposes, this Application and any third-party services
+    may collect files that record interaction with this Application (System logs)
+    or use other Personal Data (such as the IP Address) for this purpose.
+  - This Application collects some Personal Data from its Users.
+  - We will provide your Personal Information in a portable and usable format that
+    allows you to transfer data easily to another entity - provided that this is technically
+    feasible;
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: we
+  target: personal information collect from you
+  key: COLLECT
+  text:
+  - We will use any Personal Information collected from you in connection with the
+    verification of your request solely for verification and shall not further disclose
+    the Personal Information, retain it longer than necessary for purposes of verification,
+    or use it for unrelated purposes.
+  purposes: {}
+- source: we
+  target: request
+  key: COLLECT
+  text:
+  - To exercise the rights described above, you need to submit your request to us
+    by contacting us via the contact details provided in this document.
+  purposes:
+    legal:
+    - To exercise the rights described above
+- source: we
+  target: sensitive health datum
+  key: COLLECT
+  text:
+  - We may access sensitive health data (body weight & body fat) through integration
+    with Google Health Connect.
+  purposes: {}
+- source: we
+  target: system log
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Application and any third-party services
+    may collect files that record interaction with this Application (System logs)
+    or use other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: Auth0
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - To simplify the registration and authentication process, Auth0 can make use of
+    third-party identity providers and save the information on its platform.
+  purposes:
+    security:
+    - To simplify the registration and authentication process
+    services:
+    - To simplify the registration and authentication process
+- source: Google
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Analytics
+
+
+    Google Analytics for Firebase (Google LLC)'
+  - Firebase Analytics may share Data with other tools provided by Firebase, such
+    as Crash Reporting, Authentication, Remote Config or Notifications.
+  purposes: {}
+- source: Google
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - By virtue of being distributed via this app store, Google collects usage and diagnostics
+    data and share aggregate information with the Owner.
+  purposes: {}
+- source: Google
+  target: device identifier
+  key: COLLECT
+  text:
+  - 'Analytics
+
+
+    Google Analytics for Firebase (Google LLC)'
+  - This Application uses identifiers for mobile devices and technologies similar
+    to cookies to run the Firebase Analytics service.
+  purposes:
+    analytics:
+    - to run the Firebase Analytics service
+- source: Google
+  target: internet activity
+  key: COLLECT
+  text:
+  - By virtue of being distributed via this app store, Google collects usage and diagnostics
+    data and share aggregate information with the Owner.
+  purposes: {}
+- source: Secret Industries
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - FatSecret may also use your information to personalize FatSecret services and
+    improve the operation and functionality of FatSecret.
+  - However, FatSecret may share information (both personally identifiable information
+    and non-personally identifiable information) if FatSecret is required to do so
+    by applicable law or if FatSecret has a good faith belief that sharing information
+    is necessary to comply with applicable law.
+  purposes:
+    services:
+    - to personalize FatSecret services and improve the operation and functionality
+      of FatSecret
+- source: Secret Industries
+  target: browser type
+  key: COLLECT
+  text:
+  - The information FatSecret may collect when users interact with FatSecret includes,
+    IP address, ISP, browser type, operating system, language, profile information,
+    foods and exercise tracked and general user activity on FatSecret.
+  purposes: {}
+- source: Secret Industries
+  target: exercise
+  key: COLLECT
+  text:
+  - The information FatSecret may collect when users interact with FatSecret includes,
+    IP address, ISP, browser type, operating system, language, profile information,
+    foods and exercise tracked and general user activity on FatSecret.
+  purposes: {}
+- source: Secret Industries
+  target: food
+  key: COLLECT
+  text:
+  - The information FatSecret may collect when users interact with FatSecret includes,
+    IP address, ISP, browser type, operating system, language, profile information,
+    foods and exercise tracked and general user activity on FatSecret.
+  purposes: {}
+- source: Secret Industries
+  target: health datum
+  key: COLLECT
+  text:
+  - Health Data FatSecret may access health data through integration with other services
+    such as Apple's HealthKit API's and Google's Fit APIs (all together "Health Data
+    Services").
+  purposes: {}
+- source: Secret Industries
+  target: information regard interaction
+  key: COLLECT
+  text:
+  - FatSecret tracks the ways that users interact with FatSecret and will collect
+    information regarding such interaction.
+  purposes: {}
+- source: Secret Industries
+  target: internet activity
+  key: COLLECT
+  text:
+  - The information FatSecret may collect when users interact with FatSecret includes,
+    IP address, ISP, browser type, operating system, language, profile information,
+    foods and exercise tracked and general user activity on FatSecret.
+  purposes: {}
+- source: Secret Industries
+  target: ip address
+  key: COLLECT
+  text:
+  - The information FatSecret may collect when users interact with FatSecret includes,
+    IP address, ISP, browser type, operating system, language, profile information,
+    foods and exercise tracked and general user activity on FatSecret.
+  purposes: {}
+- source: Secret Industries
+  target: language
+  key: COLLECT
+  text:
+  - The information FatSecret may collect when users interact with FatSecret includes,
+    IP address, ISP, browser type, operating system, language, profile information,
+    foods and exercise tracked and general user activity on FatSecret.
+  purposes: {}
+- source: Secret Industries
+  target: non-personal information
+  key: COLLECT
+  text:
+  - FatSecret also collects certain information that does not personally identify
+    users.
+  - FatSecret may from time to time share non-personally identifiable information
+    with our affiliates and advertisers and other third-parties.
+  - However, FatSecret may share information (both personally identifiable information
+    and non-personally identifiable information) if FatSecret is required to do so
+    by applicable law or if FatSecret has a good faith belief that sharing information
+    is necessary to comply with applicable law.
+  purposes: {}
+- source: Secret Industries
+  target: personal identifier
+  key: COLLECT
+  text:
+  - During registration FatSecret collects certain personally identifiable information
+    which is information which personally identifies users, such as name and email
+    address.
+  - However, FatSecret may share information (both personally identifiable information
+    and non-personally identifiable information) if FatSecret is required to do so
+    by applicable law or if FatSecret has a good faith belief that sharing information
+    is necessary to comply with applicable law.
+  purposes: {}
+- source: Secret Industries
+  target: profile information
+  key: COLLECT
+  text:
+  - The information FatSecret may collect when users interact with FatSecret includes,
+    IP address, ISP, browser type, operating system, language, profile information,
+    foods and exercise tracked and general user activity on FatSecret.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We will provide your Personal Information in a portable and usable format that
+    allows you to transfer data easily to another entity - provided that this is technically
+    feasible;
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: file record interaction with application
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Application and any third-party services
+    may collect files that record interaction with this Application (System logs)
+    or use other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: UNSPECIFIED_ACTOR
+  target: non-personal information
+  key: COLLECT
+  text:
+  - FatSecret may from time to time share non-personally identifiable information
+    with our affiliates and advertisers and other third-parties.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Application and any third-party services
+    may collect files that record interaction with this Application (System logs)
+    or use other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: UNSPECIFIED_ACTOR
+  target: system log
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Application and any third-party services
+    may collect files that record interaction with this Application (System logs)
+    or use other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: advertiser
+  target: non-personal information
+  key: COLLECT
+  text:
+  - FatSecret may from time to time share non-personally identifiable information
+    with our affiliates and advertisers and other third-parties.
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Firebase Analytics may share Data with other tools provided by Firebase, such
+    as Crash Reporting, Authentication, Remote Config or Notifications.
+  purposes: {}
+- source: analytic provider
+  target: device identifier
+  key: COLLECT
+  text:
+  - This Application uses identifiers for mobile devices and technologies similar
+    to cookies to run the Firebase Analytics service.
+  purposes:
+    analytics:
+    - to run the Firebase Analytics service
+- source: firebase analytics
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Firebase Analytics may share Data with other tools provided by Firebase, such
+    as Crash Reporting, Authentication, Remote Config or Notifications.
+  purposes: {}
+- source: iubenda
+  target: personal datum strictly necessary
+  key: COLLECT
+  text:
+  - iubenda hosts this content and only collects the Personal Data strictly necessary
+    for it to be provided.
+  purposes: {}
+- source: tool provide
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Firebase Analytics may share Data with other tools provided by Firebase, such
+    as Crash Reporting, Authentication, Remote Config or Notifications.
+  purposes: {}
+- source: advertisement
+  target: Secret Industries
+  key: SUBSUM
+  text:
+  - Information Tracking FatSecret and any of our other advertisements or email messages
+    may contain "cookies" and other technologies such as pixel tags.
+- source: applicable device setting
+  target: ad setting in general
+  key: SUBSUM
+  text:
+  - Users may also opt out of certain advertising features through applicable device
+    settings, such as the device advertising settings for mobile phones or ads settings
+    in general.
+- source: applicable device setting
+  target: device advertising setting for mobile phone
+  key: SUBSUM
+  text:
+  - Users may also opt out of certain advertising features through applicable device
+    settings, such as the device advertising settings for mobile phones or ads settings
+    in general.
+  - Users may opt-out of certain Firebase features through applicable device settings,
+    such as the device advertising settings for mobile phones or by following the
+    instructions in other Firebase related sections of this privacy policy, if available.
+- source: country
+  target: un
+  key: SUBSUM
+  text:
+  - Users are also entitled to learn about the legal basis for Data transfers abroad
+    including to any international organization governed by public international law
+    or set up by two or more countries, such as the UN, and about the security measures
+    taken by the Owner to safeguard their Data.
+- source: demographic information we collect about user
+  target: age
+  key: SUBSUM
+  text:
+  - This non-personally identifiable information includes certain demographic information
+    we collect about users such as age, gender, postal code, current and goal weight.
+- source: demographic information we collect about user
+  target: gender
+  key: SUBSUM
+  text:
+  - This non-personally identifiable information includes certain demographic information
+    we collect about users such as age, gender, postal code, current and goal weight.
+- source: demographic information we collect about user
+  target: goal
+  key: SUBSUM
+  text:
+  - This non-personally identifiable information includes certain demographic information
+    we collect about users such as age, gender, postal code, current and goal weight.
+- source: demographic information we collect about user
+  target: postal code
+  key: SUBSUM
+  text:
+  - This non-personally identifiable information includes certain demographic information
+    we collect about users such as age, gender, postal code, current and goal weight.
+- source: fatsecret message
+  target: instruction for
+  key: SUBSUM
+  text:
+  - All notification emails and FatSecret messages include instructions for opting-out
+    of those communications in the future.
+- source: internet activity
+  target: country of origin
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: domain name
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: numerical code indicate status of answer
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: parameter about device operate system
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: size of file receive in response
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: time detail per visit
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: time of request
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: uniform resource identifier
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: internet activity
+  target: uri address
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Usage Data'
+  - 'Information collected automatically through this Application (or third-party
+    services employed in this Application), which can include: the IP addresses or
+    domain names of the computers utilized by the Users who use this Application,
+    the URI addresses (Uniform Resource Identifier), the time of the request, the
+    method utilized to submit the request to the server, the size of the file received
+    in response, the numerical code indicating the status of the server''s answer
+    (successful outcome, error, etc.), the country of origin, the features of the
+    browser and the operating system utilized by the User, the various time details
+    per visit (e.g., the time spent on each page within the Application) and the details
+    about the path followed within the Application with special reference to the sequence
+    of pages visited, and other parameters about the device operating system and/or
+    the User''s IT environment'
+- source: non-personal information
+  target: demographic information we collect about user
+  key: SUBSUM
+  text:
+  - FatSecret also collects certain information that does not personally identify
+    users.
+  - This non-personally identifiable information includes certain demographic information
+    we collect about users such as age, gender, postal code, current and goal weight.
+- source: personal identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - During registration FatSecret collects certain personally identifiable information
+    which is information which personally identifies users, such as name and email
+    address.
+- source: personal identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - During registration FatSecret collects certain personally identifiable information
+    which is information which personally identifies users, such as name and email
+    address.
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    User database management
+
+
+    Intercom (Intercom Inc.)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    internet or other electronic network activity information.'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Hosting and backend infrastructure
+
+
+    Amazon Web Services (AWS) (Amazon Web Services, Inc.)
+
+
+    Category of Personal Information collected according to the CCPA: internet or
+    other electronic network activity information.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    User database management
+
+
+    Intercom (Intercom Inc.)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    internet or other electronic network activity information.'
+- source: personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - For operation and maintenance purposes, this Application and any third-party services
+    may collect files that record interaction with this Application (System logs)
+    or use other Personal Data (such as the IP Address) for this purpose.
+- source: personal information
+  target: mention category
+  key: SUBSUM
+  text:
+  - We collect the above-mentioned categories of Personal Information, either directly
+    or indirectly, from you when you use this Application.
+- source: personal information collect accord to ccpa
+  target: audio information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Registration and authentication
+
+
+    Auth0 (Auth0, Inc)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    internet or other electronic network activity information; audio, electronic,
+    visual, thermal, olfactory, or similar information.'
+- source: personal information collect accord to ccpa
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Analytics
+
+
+    Google Analytics for Firebase (Google LLC)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    commercial information; internet or other electronic network activity information;
+    geolocation data.'
+- source: personal information collect accord to ccpa
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Analytics
+
+
+    Google Analytics for Firebase (Google LLC)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    commercial information; internet or other electronic network activity information;
+    geolocation data.'
+- source: personal information collect accord to ccpa
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Analytics
+
+
+    Google Analytics for Firebase (Google LLC)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    commercial information; internet or other electronic network activity information;
+    geolocation data.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Registration and authentication
+
+
+    Auth0 (Auth0, Inc)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    internet or other electronic network activity information; audio, electronic,
+    visual, thermal, olfactory, or similar information.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Registration and authentication
+
+
+    Sign in with Apple (Apple Inc.)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers.'
+- source: personal information collect accord to ccpa
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Analytics
+
+
+    Google Analytics for Firebase (Google LLC)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    commercial information; internet or other electronic network activity information;
+    geolocation data.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Infrastructure monitoring
+
+
+    Sentry (Functional Software, Inc. )
+
+
+    Category of Personal Information collected according to the CCPA: internet or
+    other electronic network activity information.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Platform services and hosting
+
+
+    Apple App Store (Apple Inc.)
+
+
+    Category of Personal Information collected according to the CCPA: internet or
+    other electronic network activity information.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Platform services and hosting
+
+
+    Google Play Store (Google LLC)
+
+
+    Category of Personal Information collected according to the CCPA: internet or
+    other electronic network activity information.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Registration and authentication
+
+
+    Auth0 (Auth0, Inc)
+
+
+    Category of Personal Information collected according to the CCPA: identifiers;
+    internet or other electronic network activity information; audio, electronic,
+    visual, thermal, olfactory, or similar information.'
+  - 'Privacy Policy of Carbon
+
+
+    Detailed information on the processing of Personal Data
+
+
+    Social features
+
+
+    Firebase Dynamic Links (Google LLC)
+
+
+    Category of Personal Information collected according to the CCPA: internet or
+    other electronic network activity information.'
+- source: publicly available information about user
+  target: profile
+  key: SUBSUM
+  text:
+  - This Personal Data may also be matched with publicly available information about
+    the User (such as social networks' profiles) and used to build private profiles
+    that the Owner can display and use for improving this Application.
+- source: site application
+  target: service provide
+  key: SUBSUM
+  text:
+  - 'Definitions and legal references
+
+
+    Service
+
+
+    The service provided by this Application as described in the relative terms (if
+    available) and on this site/application.'
+- source: tool provide
+  target: authentication
+  key: SUBSUM
+  text:
+  - Firebase Analytics may share Data with other tools provided by Firebase, such
+    as Crash Reporting, Authentication, Remote Config or Notifications.
+- source: tool provide
+  target: crash reporting
+  key: SUBSUM
+  text:
+  - Firebase Analytics may share Data with other tools provided by Firebase, such
+    as Crash Reporting, Authentication, Remote Config or Notifications.
+- source: wide range of tool to owner
+  target: analytic
+  key: SUBSUM
+  text:
+  - Such platforms provide a wide range of tools to the Owner - e.g. analytics, user
+    registration, commenting, database management, e-commerce, payment processing
+    - that imply the collection and handling of Personal Data.
+- source: wide range of tool to owner
+  target: commenting
+  key: SUBSUM
+  text:
+  - Such platforms provide a wide range of tools to the Owner - e.g. analytics, user
+    registration, commenting, database management, e-commerce, payment processing
+    - that imply the collection and handling of Personal Data.
+- source: wide range of tool to owner
+  target: database management
+  key: SUBSUM
+  text:
+  - Such platforms provide a wide range of tools to the Owner - e.g. analytics, user
+    registration, commenting, database management, e-commerce, payment processing
+    - that imply the collection and handling of Personal Data.
+- source: wide range of tool to owner
+  target: e
+  key: SUBSUM
+  text:
+  - Such platforms provide a wide range of tools to the Owner - e.g. analytics, user
+    registration, commenting, database management, e-commerce, payment processing
+    - that imply the collection and handling of Personal Data.
+- source: wide range of tool to owner
+  target: payment processing
+  key: SUBSUM
+  text:
+  - Such platforms provide a wide range of tools to the Owner - e.g. analytics, user
+    registration, commenting, database management, e-commerce, payment processing
+    - that imply the collection and handling of Personal Data.
+nodes:
+- type: ACTOR
+  id: Auth0
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: Secret Industries
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertisement
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: authentication
+- type: ACTOR
+  id: commenting
+- type: ACTOR
+  id: country
+- type: ACTOR
+  id: crash reporting
+- type: ACTOR
+  id: database management
+- type: ACTOR
+  id: e
+- type: ACTOR
+  id: firebase analytics
+- type: ACTOR
+  id: iubenda
+- type: ACTOR
+  id: payment processing
+- type: ACTOR
+  id: service provide
+- type: ACTOR
+  id: site application
+- type: ACTOR
+  id: tool provide
+- type: ACTOR
+  id: un
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: wide range of tool to owner
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: ad setting in general
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: applicable device setting
+- type: DATA
+  id: audio information
+- type: DATA
+  id: body fat
+- type: DATA
+  id: body weight
+- type: DATA
+  id: browser type
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: country of origin
+- type: DATA
+  id: demographic information we collect about user
+- type: DATA
+  id: device advertising setting for mobile phone
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: domain name
+- type: DATA
+  id: email address
+- type: DATA
+  id: exercise
+- type: DATA
+  id: fatsecret message
+- type: DATA
+  id: file record interaction with application
+- type: DATA
+  id: food
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: goal
+- type: DATA
+  id: health datum
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information concern particular service upon
+- type: DATA
+  id: information regard interaction
+- type: DATA
+  id: instruction for
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language
+- type: DATA
+  id: mention category
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: numerical code indicate status of answer
+- type: DATA
+  id: parameter about device operate system
+- type: DATA
+  id: permission
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum relate to user
+- type: DATA
+  id: personal datum strictly necessary
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information collect accord to ccpa
+- type: DATA
+  id: personal information collect from you
+- type: DATA
+  id: postal code
+- type: DATA
+  id: profile
+- type: DATA
+  id: profile information
+- type: DATA
+  id: publicly available information about user
+- type: DATA
+  id: request
+- type: DATA
+  id: sensitive health datum
+- type: DATA
+  id: size of file receive in response
+- type: DATA
+  id: system log
+- type: DATA
+  id: time detail per visit
+- type: DATA
+  id: time of request
+- type: DATA
+  id: uniform resource identifier
+- type: DATA
+  id: uri address

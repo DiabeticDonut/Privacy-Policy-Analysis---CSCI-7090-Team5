@@ -1,0 +1,895 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - By linking any Third Party Services/Devices with Your account through Our Services,
+    You represent and warrant that such Third Party Services/Devices account is Your
+    own; that You are authorized to access and link such Third Party Services/Devices
+    account; and You expressly authorize Us to utilize, implement, and, if applicable,
+    share any information or data received from Your Third Party Services/Devices.
+  - We may transfer Your Information and process it outside Your state or country
+    of residence, wherever Bend and its Third-Party Service Providers operate.
+  - We use the information we get from these Analytics Tools to improve Our Services.
+  - What OTHER Information We collect and use
+  purposes:
+    services:
+    - to access and link such Third Party Services/Devices account
+    - to improve Our Services
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We maintain and use de-identified data without attempting to re-identify it, except
+    if permitted by applicable law, such as to determine whether Our de-identification
+    processes satisfy legal requirements.
+  purposes: {}
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - This information includes the internet protocol (IP) address, browser type, internet
+    service provider (ISP), and clickstream data.
+  - We may gather certain information automatically and store it in log files.
+  purposes: {}
+- source: we
+  target: clickstream datum
+  key: COLLECT
+  text:
+  - This information includes the internet protocol (IP) address, browser type, internet
+    service provider (ISP), and clickstream data.
+  - We may gather certain information automatically and store it in log files.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may use cookies, pixels and similar technologies to customize and improve Your
+    experience with Our Services, or to analyze trends, administer and track Users'
+    movements within Our Services, and gather demographic information about Our User
+    base as a whole.
+  purposes:
+    analytics:
+    - to customize and improve Your experience with Our Services, or to analyze trends,
+      administer and track Users' movements within Our Services, and gather demographic
+      information about Our User base as a whole
+    services:
+    - to customize and improve Your experience with Our Services, or to analyze trends,
+      administer and track Users' movements within Our Services, and gather demographic
+      information about Our User base as a whole
+- source: we
+  target: cost estimate
+  key: COLLECT
+  text:
+  - If We determine that the request warrants a fee, We will tell You why We made
+    that decision and provide You with a cost estimate before completing Your request.
+  purposes: {}
+- source: we
+  target: demographic information about user base as whole
+  key: COLLECT
+  text:
+  - We may use cookies, pixels and similar technologies to customize and improve Your
+    experience with Our Services, or to analyze trends, administer and track Users'
+    movements within Our Services, and gather demographic information about Our User
+    base as a whole.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - 'When You download the Bend App, We may collect from You: Email address'
+  purposes: {}
+- source: we
+  target: information about verification process
+  key: COLLECT
+  text:
+  - Upon receiving a request to know, access, opt-out or delete, We will confirm receipt
+    of the request within 10 business days and provide information about Our verification
+    process and how We will process the request.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - We may also obtain information about You from publicly available sources, marketing
+    and advertising partners, consumer research platforms, and/or business contact
+    databases.
+  purposes: {}
+- source: we
+  target: information concern you
+  key: COLLECT
+  text:
+  - We and Our Third-Party Service Providers (but excluding any Payment Processors,
+    Other Third-Party Sources, email marketing providers, and third party hosting
+    companies), upon Our instruction and authorization, may collect Other Information
+    concerning You in a variety of ways, including through the use of cookies and
+    similar technologies, to accomplish certain tasks, such as confirming that Our
+    Services are functioning properly, storing and managing user preferences, delivering
+    targeted advertising, enabling content, and tracking and gathering analytic and
+    usage data.
+  purposes: {}
+- source: we
+  target: information from account
+  key: COLLECT
+  text:
+  - More specifically, if You create or log into Your account through a social media
+    service, We may have access to certain information from that account, such as
+    Your name and other account information, in accordance with the authorization
+    procedures set by that social media service.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    When You download the Bend App, We may collect from You: Usage data'
+  - We do not use your Usage Data for identification purposes, but may use such data
+    as anonymous or aggregated information (as described below).
+  purposes:
+    analytics:
+    - for identification purposes
+    services:
+    - for identification purposes
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - This information includes the internet protocol (IP) address, browser type, internet
+    service provider (ISP), and clickstream data.
+  - We may gather certain information automatically and store it in log files.
+  purposes: {}
+- source: we
+  target: member preference we collect from you
+  key: COLLECT
+  text:
+  - All Member Preferences that We collect directly from You are only used internally
+    by Us for purposes of providing You with additional features in the Bend App and
+    its Services, and possibly for our internal business purposes but only as anonymous
+    or aggregated data.
+  purposes:
+    analytics:
+    - for purposes of providing You with additional features in the Bend App and its
+      Services, and possibly for our internal business purposes but only as anonymous
+      or aggregated data
+    services:
+    - for purposes of providing You with additional features in the Bend App and its
+      Services, and possibly for our internal business purposes but only as anonymous
+      or aggregated data
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - 'When You download the Bend App, We may collect from You: First name'
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - Our Services collect information that identifies, relates to, describes, references,
+    is capable of being associated with, or could reasonably be linked, directly or
+    indirectly, with a particular User or User's device, whether collected online
+    or offline ("personal information").
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - By visiting Our website (currently located at ) www.getbend.co ("Website"), downloading
+    and/or registering to use Our mobile app ("Bend App"), providing "Personal Information"
+    (defined below) to Us, or accessing or using Our "Content" (as defined in Our
+    "Terms of Use") or "Services" (defined below), You have agreed to be subject to
+    this Privacy Policy, as well as Our Terms of Use.
+  - HOW We use or share Your Personal Information
+  - Our Services collect information that identifies, relates to, describes, references,
+    is capable of being associated with, or could reasonably be linked, directly or
+    indirectly, with a particular User or User's device, whether collected online
+    or offline ("personal information").
+  - 'Privacy Policy
+
+
+    We may disclose your personal data certain third parties as described in Sections
+    4 and 11 of Our Privacy Policy.'
+  - 'We and Our "Third-Party Service Providers" (which means contractors and consultants
+    We directly hire to help Us provide Services, but excludes all Payment Processors,
+    Other Third-Party Sources, email marketing providers, and third-party hosting
+    services companies,), upon Our instruction and authorization, may use Your Personal
+    Information to:'
+  - We may collect Personal Information from "Other Third-Party Sources," such as
+    social media networks, public information sources, and Our third-party partners
+    that offer co-branded services or products through Bend.
+  - We may disclose Your personal information to third parties for a business purpose.
+  - We may retain Your personal information even after You have closed Your account
+    if retention is reasonably necessary to comply with Our legal obligations, meet
+    regulatory requirements, comply with applicable laws, contractual obligations
+    or industry standards, provide customer support, resolve disputes between Users,
+    prevent fraud and abuse, or enforce this Privacy Policy and Our Terms of Use.  When
+    We no longer need Personal Information for all such operational, business and
+    compliance purposes, We will delete or destroy it in accordance with Our security
+    policies and procedures.
+  - We may share such anonymized information in the form of research reports, blog
+    posts or findings may be shared with external publishers or published by Us on
+    fitness or nutrition-related topics of interest.
+  - We may use Your Personal Data to contact You (either through Bend or third-party
+    email marketing providers) with newsletters, marketing or promotional materials,
+    or informational, educational or non-promotional information (as described above),
+    and other information that may be of interest to You.
+  - We may use or disclose the personal information We collect for the purposes described
+    in Sections 2, 3 and 10 of Our Privacy Policy.
+  - We retain the Personal Information You provide while Your account is in existence
+    or as needed to provide You with Our Services or operate Our business.
+  - When including, compiling, or aggregating personal information for such purposes,
+    we make sure that the information is anonymized such that it does not include
+    any personally identifiable information.
+  purposes:
+    advertising:
+    - to contact You (either through Bend or third-party email marketing providers)
+      with newsletters, marketing or promotional materials, or informational, educational
+      or non-promotional information (as described above), and other information that
+      may be of interest to You
+    services:
+    - to use Our mobile app ("Bend App"),
+    - 'to: Provide the Bend App and Our Services for Your use'
+- source: we
+  target: personal information provide in verifiable consumer request
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    The verifiable consumer request must: We will only use personal information provided
+    in a verifiable consumer request to verify the requestor''s identity or authority
+    to make the request.'
+  - We will only use Personal Information provided in a verifiable consumer request
+    to verify the requestor's identity or authority to make the request.
+  purposes:
+    security:
+    - to verify the requestor's identity or authority to make the request
+- source: we
+  target: personal information relate to feature
+  key: COLLECT
+  text:
+  - We may also collect from Members other Personal Information related to the Bend
+    App's features and functionality, such as areas of the applicable Member's body
+    that are "caution areas" or "focus areas" or "health conditions" areas (collectively,
+    "Member Preferences").
+  purposes: {}
+- source: we
+  target: pixel
+  key: COLLECT
+  text:
+  - We may use cookies, pixels and similar technologies to customize and improve Your
+    experience with Our Services, or to analyze trends, administer and track Users'
+    movements within Our Services, and gather demographic information about Our User
+    base as a whole.
+  purposes:
+    analytics:
+    - to customize and improve Your experience with Our Services, or to analyze trends,
+      administer and track Users' movements within Our Services, and gather demographic
+      information about Our User base as a whole
+    services:
+    - to customize and improve Your experience with Our Services, or to analyze trends,
+      administer and track Users' movements within Our Services, and gather demographic
+      information about Our User base as a whole
+- source: we
+  target: request personal information
+  key: COLLECT
+  text:
+  - We will only respond to Your request or provide You with the requested Personal
+    Information if We can (in Our sole discretion) verify Your identity or authority
+    to make such request.
+  purposes: {}
+- source: we
+  target: result of survey
+  key: COLLECT
+  text:
+  - We may, if we decide to set up a survey, use the results of such surveys to understand
+    user engagement, as well as for marketing purposes.
+  purposes:
+    advertising:
+    - to understand user engagement, as well as for marketing purposes
+    analytics:
+    - to understand user engagement, as well as for marketing purposes
+- source: we
+  target: set of datum gather
+  key: COLLECT
+  text:
+  - We do share a limited set of data that is gathered when You visit Our Website,
+    such as cookies and pixels, with third parties in order to allow You to see tailored
+    digital advertisements, as further detailed in Section 7 and 8 of Our Privacy
+    Policy.
+  purposes:
+    advertising:
+    - order to allow You to see tailored digital advertisements, as further detailed
+      in Section 7 and 8 of Our Privacy Policy
+- source: we
+  target: sufficient information allow
+  key: COLLECT
+  text:
+  - 'In such cases, We will require You to: (a) provide sufficient information that
+    allows Us to reasonably verify You are: (i) the person about whom We collected
+    Personal Information or an authorized representative, or (ii) the parent or guardian
+    of the subject child (as described in Section 17); and (b) describe Your request
+    with sufficient detail that allows Us to properly understand, evaluate, and respond
+    to it.'
+  purposes: {}
+- source: we
+  target: usage information
+  key: COLLECT
+  text:
+  - We use third-party analytics tools, including "Google Analytics," "Adjust" and
+    "Amplitude" (such tools collectively referred to as "Analytics Tools") to monitor
+    and analyze the use of Our Services and collect such usage information.
+  purposes:
+    analytics:
+    - to monitor and analyze the use of Our Services
+- source: Apple
+  target: credit datum
+  key: COLLECT
+  text:
+  - Apple and Google collect such data with respect to in-app purchases made through
+    the Apple or Google app stores.
+  - We do not collect or process credit or debit card data for Your purchase of any
+    Bend products or services.
+  purposes: {}
+- source: Google
+  target: credit datum
+  key: COLLECT
+  text:
+  - Apple and Google collect such data with respect to in-app purchases made through
+    the Apple or Google app stores.
+  - We do not collect or process credit or debit card data for Your purchase of any
+    Bend products or services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information concern you
+  key: COLLECT
+  text:
+  - We and Our Third-Party Service Providers (but excluding any Payment Processors,
+    Other Third-Party Sources, email marketing providers, and third party hosting
+    companies), upon Our instruction and authorization, may collect Other Information
+    concerning You in a variety of ways, including through the use of cookies and
+    similar technologies, to accomplish certain tasks, such as confirming that Our
+    Services are functioning properly, storing and managing user preferences, delivering
+    targeted advertising, enabling content, and tracking and gathering analytic and
+    usage data.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We and Our "Third-Party Service Providers" (which means contractors and consultants
+    We directly hire to help Us provide Services, but excludes all Payment Processors,
+    Other Third-Party Sources, email marketing providers, and third-party hosting
+    services companies,), upon Our instruction and authorization, may use Your Personal
+    Information to:'
+  - We may disclose Your personal information to third parties for a business purpose.
+  purposes:
+    services:
+    - 'to: Provide the Bend App and Our Services for Your use'
+- source: UNSPECIFIED_ACTOR
+  target: set of datum gather
+  key: COLLECT
+  text:
+  - We do share a limited set of data that is gathered when You visit Our Website,
+    such as cookies and pixels, with third parties in order to allow You to see tailored
+    digital advertisements, as further detailed in Section 7 and 8 of Our Privacy
+    Policy.
+  purposes:
+    advertising:
+    - order to allow You to see tailored digital advertisements, as further detailed
+      in Section 7 and 8 of Our Privacy Policy
+- source: analytic tools
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - The Analytics Tools collect information about, for example, how often visitors
+    go to Our Website, what pages they visit when they do so, and what other sites
+    they used prior to coming to this Website, how Members use the Bend App, and what
+    Content they access when they do so.
+  purposes: {}
+- source: analytic tools
+  target: ip address
+  key: COLLECT
+  text:
+  - The Analytics Tools collect information about, for example, how often visitors
+    go to Our Website, what pages they visit when they do so, and what other sites
+    they used prior to coming to this Website, how Members use the Bend App, and what
+    Content they access when they do so.
+  - These Analytics Tools may also collect the IP address assigned to You on the date
+    You visit this site, along with other anonymized information (e.g., browser type
+    and type of device used to visit the Website), but not Your name or other personally
+    identifiable information.
+  purposes: {}
+- source: bend
+  target: customer support
+  key: COLLECT
+  text:
+  - Bend collects, uses, and stores Your Personal Information when you sign up for
+    Our email newsletters, register to become a Member, participate in interactive
+    features of the Bend App (like allowing our App to send you a reminder about being
+    careful with you back issues, answering a survey We send out or giving Us feedback),
+    request customer support, communicate with Us through Other Third-Party Resources,
+    purchase or use other Bend products or services, or otherwise communicate with
+    Us.
+  purposes: {}
+- source: bend
+  target: personal information
+  key: COLLECT
+  text:
+  - Bend collects, uses, and stores Your Personal Information when you sign up for
+    Our email newsletters, register to become a Member, participate in interactive
+    features of the Bend App (like allowing our App to send you a reminder about being
+    careful with you back issues, answering a survey We send out or giving Us feedback),
+    request customer support, communicate with Us through Other Third-Party Resources,
+    purchase or use other Bend products or services, or otherwise communicate with
+    Us.
+  purposes: {}
+- source: external publisher
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share such anonymized information in the form of research reports, blog
+    posts or findings may be shared with external publishers or published by Us on
+    fitness or nutrition-related topics of interest.
+  - When including, compiling, or aggregating personal information for such purposes,
+    we make sure that the information is anonymized such that it does not include
+    any personally identifiable information.
+  purposes: {}
+- source: payment processor
+  target: financial information
+  key: COLLECT
+  text:
+  - Payment Processors will utilize Your financial information, such as Your bank
+    account numbers or credit card numbers in order to process Your payments of such
+    purchases.
+  purposes:
+    services:
+    - in order to process Your payments of such purchases
+- source: social media
+  target: browser type
+  key: COLLECT
+  text:
+  - Our Services may include social media features such as the Facebook or Twitter
+    "follow" button, widgets such as the "share" or "like" buttons, or interactive
+    mini programs (collectively, "Social Media Features").
+  - These Social Media Features may collect Your IP address, browser type, and may
+    set a cookie to enable the Social Media Features to function properly.  All such
+    Social Media Features are hosted either by a third party or directly on or within
+    Our Services.
+  purposes: {}
+- source: social media
+  target: ip address
+  key: COLLECT
+  text:
+  - Our Services may include social media features such as the Facebook or Twitter
+    "follow" button, widgets such as the "share" or "like" buttons, or interactive
+    mini programs (collectively, "Social Media Features").
+  - These Social Media Features may collect Your IP address, browser type, and may
+    set a cookie to enable the Social Media Features to function properly.  All such
+    Social Media Features are hosted either by a third party or directly on or within
+    Our Services.
+  purposes: {}
+- source: we
+  target: fitbit
+  key: SUBSUM
+  text:
+  - Use and/or store Your information from Third-Party Services or Devices (as defined
+    below) that You connect to Our Service (e.g., heart rate monitor or a "Fitbit").
+- source: administrative information
+  target: fee
+  key: SUBSUM
+  text:
+  - Manage Your account and send administrative information to You, such as information
+    regarding the Services, fees (if applicable), security alerts, technical notices,
+    confirmations, and other support or administrative messages and possibly changes
+    to Our terms, conditions and policies.
+- source: administrative information
+  target: information regard service
+  key: SUBSUM
+  text:
+  - Manage Your account and send administrative information to You, such as information
+    regarding the Services, fees (if applicable), security alerts, technical notices,
+    confirmations, and other support or administrative messages and possibly changes
+    to Our terms, conditions and policies.
+- source: administrative information
+  target: support message
+  key: SUBSUM
+  text:
+  - Manage Your account and send administrative information to You, such as information
+    regarding the Services, fees (if applicable), security alerts, technical notices,
+    confirmations, and other support or administrative messages and possibly changes
+    to Our terms, conditions and policies.
+- source: aggregate / deidentified / pseudonymized information
+  target: type of device use
+  key: SUBSUM
+  text:
+  - These Analytics Tools may also collect the IP address assigned to You on the date
+    You visit this site, along with other anonymized information (e.g., browser type
+    and type of device used to visit the Website), but not Your name or other personally
+    identifiable information.
+- source: bend app online platform
+  target: Facebook
+  key: SUBSUM
+  text:
+  - The term "Services" collectively refers to Our Content and/or Services as provided
+    through Our Bend App, Website, Technology, Other Applications and any other Bend
+    App online platforms, such as Our Facebook or Instagram pages.
+- source: corporate transaction
+  target: asset
+  key: SUBSUM
+  text:
+  - 'Bend''s legitimate interests more specifically include: Our business interest
+    in processing the personal data We collect, such as to develop, administer and
+    support Our Services; to operate, evaluate and improve Our business; to facilitate
+    and manage Our Services; promote research; support Our recruitment activities;
+    or facilitate a corporate transaction (e.g., sale of assets, merger or acquisition).'
+- source: financial information
+  target: bank account number
+  key: SUBSUM
+  text:
+  - Payment Processors will utilize Your financial information, such as Your bank
+    account numbers or credit card numbers in order to process Your payments of such
+    purchases.
+- source: financial information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - Payment Processors will utilize Your financial information, such as Your bank
+    account numbers or credit card numbers in order to process Your payments of such
+    purchases.
+- source: financial sensitive information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - Do not send Us, and do not disclose, any Personal Information or any other financial,
+    medical or other sensitive information (e.g., Social Security numbers, information
+    related to racial or ethnic origin, political opinions, religion or other beliefs,
+    health, biometrics or genetic characteristics or criminal background) in any email
+    correspondence or through messaging services (e.g., online chats) with Us.
+- source: financial sensitive information
+  target: ssn
+  key: SUBSUM
+  text:
+  - Do not send Us, and do not disclose, any Personal Information or any other financial,
+    medical or other sensitive information (e.g., Social Security numbers, information
+    related to racial or ethnic origin, political opinions, religion or other beliefs,
+    health, biometrics or genetic characteristics or criminal background) in any email
+    correspondence or through messaging services (e.g., online chats) with Us.
+- source: identifiable individual
+  target: browser information
+  key: SUBSUM
+  text:
+  - '"Other Information" is any information (excluding Personal Information) that,
+    in itself, does not reveal an individual''s specific identity and does not directly
+    relate to an identifiable individual, such as: Browser and device information.'
+- source: identifiable individual
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - '"Other Information" is any information (excluding Personal Information) that,
+    in itself, does not reveal an individual''s specific identity and does not directly
+    relate to an identifiable individual, such as: Information collected through cookies,
+    pixel tags and other technologies.'
+- source: identifiable individual
+  target: ip address
+  key: SUBSUM
+  text:
+  - We consider "Personal Information" to be information that identifies an individual
+    (like a name or email address) or that relates to an identifiable individual (like
+    an IP address or preferences pertaining to an individual's physical condition).
+- source: identifiable individual
+  target: personal information de
+  key: SUBSUM
+  text:
+  - '"Other Information" is any information (excluding Personal Information) that,
+    in itself, does not reveal an individual''s specific identity and does not directly
+    relate to an identifiable individual, such as: Personal Information that is de-identified,
+    pseudonymized or aggregated.'
+- source: identifiable individual
+  target: preference pertain to physical condition
+  key: SUBSUM
+  text:
+  - We consider "Personal Information" to be information that identifies an individual
+    (like a name or email address) or that relates to an identifiable individual (like
+    an IP address or preferences pertaining to an individual's physical condition).
+- source: identifiable individual
+  target: statistical information
+  key: SUBSUM
+  text:
+  - '"Other Information" is any information (excluding Personal Information) that,
+    in itself, does not reveal an individual''s specific identity and does not directly
+    relate to an identifiable individual, such as: Demographic and other statistical
+    information.'
+- source: information from account
+  target: account information
+  key: SUBSUM
+  text:
+  - More specifically, if You create or log into Your account through a social media
+    service, We may have access to certain information from that account, such as
+    Your name and other account information, in accordance with the authorization
+    procedures set by that social media service.
+- source: information from account
+  target: person name
+  key: SUBSUM
+  text:
+  - More specifically, if You create or log into Your account through a social media
+    service, We may have access to certain information from that account, such as
+    Your name and other account information, in accordance with the authorization
+    procedures set by that social media service.
+- source: information generate through use of bend app
+  target: detail of exercise activity at particular time
+  key: SUBSUM
+  text:
+  - Usage Data or information generated through Your use of the Bend App may include
+    activities such as exercises You selected, information You selected through the
+    Bend App, or details of Your exercise activity at a particular time, on a particular
+    day or over a period of time.
+- source: information generate through use of bend app
+  target: information you select through bend app
+  key: SUBSUM
+  text:
+  - Usage Data or information generated through Your use of the Bend App may include
+    activities such as exercises You selected, information You selected through the
+    Bend App, or details of Your exercise activity at a particular time, on a particular
+    day or over a period of time.
+- source: member preferences
+  target: caution area
+  key: SUBSUM
+  text:
+  - We may also collect from Members other Personal Information related to the Bend
+    App's features and functionality, such as areas of the applicable Member's body
+    that are "caution areas" or "focus areas" or "health conditions" areas (collectively,
+    "Member Preferences").
+- source: member preferences
+  target: focus area
+  key: SUBSUM
+  text:
+  - We may also collect from Members other Personal Information related to the Bend
+    App's features and functionality, such as areas of the applicable Member's body
+    that are "caution areas" or "focus areas" or "health conditions" areas (collectively,
+    "Member Preferences").
+- source: message service
+  target: online chat
+  key: SUBSUM
+  text:
+  - Do not send Us, and do not disclose, any Personal Information or any other financial,
+    medical or other sensitive information (e.g., Social Security numbers, information
+    related to racial or ethnic origin, political opinions, religion or other beliefs,
+    health, biometrics or genetic characteristics or criminal background) in any email
+    correspondence or through messaging services (e.g., online chats) with Us.
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, We have disclosed the following categories
+    of personal information for a business purpose: Category 1: Identifiers'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'In the preceding twelve (12) months, We have disclosed the following categories
+    of personal information for a business purpose: Category 3: Internet activity'
+- source: personal information
+  target: specific piece of personal information we collect about you during past
+    month
+  key: SUBSUM
+  text:
+  - 'You may submit a verifiable request for information regarding the: (1) categories
+    of personal information (as defined by California Civil Code SS1798.83) collected,
+    sold, or disclosed by Us; (2) purposes for which categories of Personal Information
+    are collected or sold by Us; (3) categories of sources from which We collect Personal
+    Information; and (4) specific pieces of Personal Information We have collected
+    about You (if any) during the past twelve months.'
+- source: personal information
+  target: specific type
+  key: SUBSUM
+  text:
+  - The specific types of personal information We collect are described more fully
+    in Sections 2, 3 and 10 of Our Privacy Policy.
+- source: personal information relate to feature
+  target: area of body
+  key: SUBSUM
+  text:
+  - We may also collect from Members other Personal Information related to the Bend
+    App's features and functionality, such as areas of the applicable Member's body
+    that are "caution areas" or "focus areas" or "health conditions" areas (collectively,
+    "Member Preferences").
+- source: set of datum gather
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - We do share a limited set of data that is gathered when You visit Our Website,
+    such as cookies and pixels, with third parties in order to allow You to see tailored
+    digital advertisements, as further detailed in Section 7 and 8 of Our Privacy
+    Policy.
+- source: set of datum gather
+  target: pixel
+  key: SUBSUM
+  text:
+  - We do share a limited set of data that is gathered when You visit Our Website,
+    such as cookies and pixels, with third parties in order to allow You to see tailored
+    digital advertisements, as further detailed in Section 7 and 8 of Our Privacy
+    Policy.
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - Our Services may include social media features such as the Facebook or Twitter
+    "follow" button, widgets such as the "share" or "like" buttons, or interactive
+    mini programs (collectively, "Social Media Features").
+- source: social media
+  target: Twitter
+  key: SUBSUM
+  text:
+  - Our Services may include social media features such as the Facebook or Twitter
+    "follow" button, widgets such as the "share" or "like" buttons, or interactive
+    mini programs (collectively, "Social Media Features").
+- source: social media
+  target: interactive mini program
+  key: SUBSUM
+  text:
+  - Our Services may include social media features such as the Facebook or Twitter
+    "follow" button, widgets such as the "share" or "like" buttons, or interactive
+    mini programs (collectively, "Social Media Features").
+- source: type of device
+  target: type of device use
+  key: SUBSUM
+  text:
+  - These Analytics Tools may also collect the IP address assigned to You on the date
+    You visit this site, along with other anonymized information (e.g., browser type
+    and type of device used to visit the Website), but not Your name or other personally
+    identifiable information.
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: analytic tools
+- type: ACTOR
+  id: asset
+- type: ACTOR
+  id: bend
+- type: ACTOR
+  id: bend app online platform
+- type: ACTOR
+  id: corporate transaction
+- type: ACTOR
+  id: external publisher
+- type: ACTOR
+  id: fitbit
+- type: ACTOR
+  id: interactive mini program
+- type: ACTOR
+  id: message service
+- type: ACTOR
+  id: online chat
+- type: ACTOR
+  id: payment processor
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account information
+- type: DATA
+  id: administrative information
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: area of body
+- type: DATA
+  id: bank account number
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: browser information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: caution area
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: cost estimate
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: credit datum
+- type: DATA
+  id: customer support
+- type: DATA
+  id: demographic information about user base as whole
+- type: DATA
+  id: detail of exercise activity at particular time
+- type: DATA
+  id: email address
+- type: DATA
+  id: fee
+- type: DATA
+  id: financial information
+- type: DATA
+  id: financial sensitive information
+- type: DATA
+  id: focus area
+- type: DATA
+  id: identifiable individual
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information about verification process
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information concern you
+- type: DATA
+  id: information from account
+- type: DATA
+  id: information generate through use of bend app
+- type: DATA
+  id: information regard service
+- type: DATA
+  id: information you select through bend app
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: member preference we collect from you
+- type: DATA
+  id: member preferences
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information de
+- type: DATA
+  id: personal information provide in verifiable consumer request
+- type: DATA
+  id: personal information relate to feature
+- type: DATA
+  id: pixel
+- type: DATA
+  id: preference pertain to physical condition
+- type: DATA
+  id: request personal information
+- type: DATA
+  id: result of survey
+- type: DATA
+  id: set of datum gather
+- type: DATA
+  id: specific piece of personal information we collect about you during past month
+- type: DATA
+  id: specific type
+- type: DATA
+  id: ssn
+- type: DATA
+  id: statistical information
+- type: DATA
+  id: sufficient information allow
+- type: DATA
+  id: support message
+- type: DATA
+  id: type of device
+- type: DATA
+  id: type of device use
+- type: DATA
+  id: usage information

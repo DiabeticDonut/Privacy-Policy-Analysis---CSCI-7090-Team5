@@ -1,0 +1,1076 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We or our advertising partners also may automatically collect information through
+    the use of cookies and other tracking technologies (see below).
+  purposes: {}
+- source: we
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - As discussed above, on our Websites we may collect and disclose Personal Information
+    about your online activities for use in providing you with advertising about products
+    and services tailored to your individual interests.
+  purposes:
+    advertising:
+    - for use in providing you with advertising about products and services tailored
+      to your individual interests
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - To verify your request, we may require you to provide your name, physical address,
+    email address, contact information, and information about your account or previous
+    transactions with us.
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  purposes:
+    security:
+    - To verify your request
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - The Websites may use cookies for various purposes, including to keep the information
+    you enter on multiple pages together.
+  - We also may use "persistent" cookies, which remain on your computer or device
+    unless deleted by you (or by your browser settings).
+  - We and third parties may use session and persistent cookies for analytics and
+    advertising purposes, as described herein.
+  - We may use persistent cookies for various purposes, such as statistical analysis
+    of performance to ensure the ongoing quality of our services.
+  purposes:
+    advertising:
+    - for analytics and advertising purposes
+    analytics:
+    - for analytics and advertising purposes
+    services:
+    - to ensure the ongoing quality of our services
+- source: we
+  target: date of birth
+  key: COLLECT
+  text:
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  - We may collect your name, email address, date of birth, phone number, and address
+    only if you provided it to us via a form on the website or during an incomplete
+    or failed registration.
+  - We may disclose name, email address, date of birth, phone number, and address
+    if you provided it to us via form on the website or during an incomplete or failed
+    registration to Service providers.
+  - We may disclose your name, email address, date of birth, phone number, and address
+    if you provided it to us via a form on the website or during an incomplete or
+    failed registration to Service Providers.
+  purposes: {}
+- source: we
+  target: deidentifie information
+  key: COLLECT
+  text:
+  - We also may disclose deidentified information.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - If you have only visited our public Websites and did not provide any Personal
+    Information to us via a web form or through the registration process, we will
+    need you to provide us with your IP address or device ID in order for us to determine
+    if we have that information.
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - To verify your request, we may require you to provide your name, physical address,
+    email address, contact information, and information about your account or previous
+    transactions with us.
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  - We may collect your name, email address, date of birth, phone number, and address
+    only if you provided it to us via a form on the website or during an incomplete
+    or failed registration.
+  - We may disclose name, email address, date of birth, phone number, and address
+    if you provided it to us via form on the website or during an incomplete or failed
+    registration to Service providers.
+  - We may disclose your name, email address, date of birth, phone number, and address
+    if you provided it to us via a form on the website or during an incomplete or
+    failed registration to Service Providers.
+  purposes:
+    security:
+    - To verify your request
+- source: we
+  target: health plan
+  key: COLLECT
+  text:
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  purposes: {}
+- source: we
+  target: information about account
+  key: COLLECT
+  text:
+  - To verify your request, we may require you to provide your name, physical address,
+    email address, contact information, and information about your account or previous
+    transactions with us.
+  purposes:
+    security:
+    - To verify your request
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - While using our Websites, you may provide us with certain information about you.
+  purposes: {}
+- source: we
+  target: information identify
+  key: COLLECT
+  text:
+  - We collect information that identifies, relates to, describes, is reasonably capable
+    of being associated with, or could reasonably be linked, directly or indirectly,
+    with a particular consumer or household--this type of information is referred
+    to as "Personal Information," and includes personal information as defined by
+    CCPA/CPRA as well as personal data as defined by the VCDPA.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - As discussed above, on our Websites we may collect and disclose Personal Information
+    about your online activities for use in providing you with advertising about products
+    and services tailored to your individual interests.
+  purposes:
+    advertising:
+    - for use in providing you with advertising about products and services tailored
+      to your individual interests
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - If you have only visited our public Websites and did not provide any Personal
+    Information to us via a web form or through the registration process, we will
+    need you to provide us with your IP address or device ID in order for us to determine
+    if we have that information.
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: we
+  target: login identification information
+  key: COLLECT
+  text:
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  purposes: {}
+- source: we
+  target: online identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - To verify your request, we may require you to provide your name, physical address,
+    email address, contact information, and information about your account or previous
+    transactions with us.
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  - We may collect your name, email address, date of birth, phone number, and address
+    only if you provided it to us via a form on the website or during an incomplete
+    or failed registration.
+  - We may disclose name, email address, date of birth, phone number, and address
+    if you provided it to us via form on the website or during an incomplete or failed
+    registration to Service providers.
+  - We may disclose your name, email address, date of birth, phone number, and address
+    if you provided it to us via a form on the website or during an incomplete or
+    failed registration to Service Providers.
+  purposes:
+    security:
+    - To verify your request
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - Compliance with law . We may share your Personal Information to comply with applicable
+    law or any obligations thereunder, including cooperation with law enforcement,
+    judicial orders, and regulatory inquiries.
+  - For other business reasons . We may share your Personal Information to enforce
+    any applicable Legal Disclaimer, and to ensure the safety and security of the
+    Websites and/or our users.
+  - In the context of a transaction . We may share your Personal Information in connection
+    with an asset sale, merger, bankruptcy, or other business transaction.
+  - Personal Information that we collect through your use of the Websites may include
+    IP Address, Device ID, and online identifier.
+  - We also may share Personal Information with professional advisors, such as auditors,
+    law firms, and accounting firms.
+  - 'We may collect Personal Information using the following methods:'
+  - We may need to request additional Personal Information from you, such as your
+    date of birth or government identifier, in order to protect against fraudulent
+    requests.
+  - 'We may share Personal Information with third parties including service providers
+    in certain circumstances or for certain purposes, including:'
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+  - We may use that Personal Information and link it to Internet or other electronic
+    network activity information, and we may draw inferences about you from the information
+    we collect.
+  - 'We may use your Personal Information for the following purposes:'
+  - With affiliates within our corporate group . We may share your Personal Information
+    with any subsidiaries or affiliates within our corporate group.
+  - With your direction or consent . We may share your Personal Information with third
+    parties if you request or direct us to do so.
+  purposes:
+    advertising:
+    - Promote and market our Websites to you
+    analytics:
+    - Aggregate information for analytics and reporting
+    - Conduct research on users' demographics, interests, and behavior based upon
+      information provided during use of our Websites
+    - Develop, test, improve, and demonstrate the Websites
+    legal:
+    - Respond to law enforcement requests and court orders and legal process and carry
+      out our legal and contractual obligations and enforce our rights
+    - to comply with applicable law or any obligations thereunder, including cooperation
+      with law enforcement, judicial orders, and regulatory inquiries
+    - to enforce any applicable Legal Disclaimer, and to ensure the safety and security
+      of the Websites and/or our users
+    security:
+    - Authenticate use, detect potential fraudulent use, and otherwise maintain the
+      security of the Websites and safety of users
+    - in order to protect against fraudulent requests
+    - to enforce any applicable Legal Disclaimer, and to ensure the safety and security
+      of the Websites and/or our users
+    services:
+    - Develop, test, improve, and demonstrate the Websites
+    - Operate, maintain, supervise, administer, and enhance the Websites
+    - Provide you with a tailored and user-friendly experience as you navigate our
+      Websites
+    - To complete the activity you specifically asked for, e.g., register on a Secure
+      Platform, obtain more information, request a demo, or request an RFP
+- source: we
+  target: personal information regard activity on website
+  key: COLLECT
+  text:
+  - Using cookies and web beacons, we may disclose Personal Information regarding
+    your activity on our Websites to third-party advertising partners to optimize
+    marketing.
+  purposes:
+    advertising:
+    - For advertising .
+    - to optimize marketing
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  - We may collect your name, email address, date of birth, phone number, and address
+    only if you provided it to us via a form on the website or during an incomplete
+    or failed registration.
+  - We may disclose name, email address, date of birth, phone number, and address
+    if you provided it to us via form on the website or during an incomplete or failed
+    registration to Service providers.
+  - We may disclose your name, email address, date of birth, phone number, and address
+    if you provided it to us via a form on the website or during an incomplete or
+    failed registration to Service Providers.
+  purposes: {}
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - To verify your request, we may require you to provide your name, physical address,
+    email address, contact information, and information about your account or previous
+    transactions with us.
+  - We may collect your name, email address, date of birth, phone number, and address
+    only if you provided it to us via a form on the website or during an incomplete
+    or failed registration.
+  - We may disclose name, email address, date of birth, phone number, and address
+    if you provided it to us via form on the website or during an incomplete or failed
+    registration to Service providers.
+  - We may disclose your name, email address, date of birth, phone number, and address
+    if you provided it to us via a form on the website or during an incomplete or
+    failed registration to Service Providers.
+  purposes:
+    security:
+    - To verify your request
+- source: we
+  target: record
+  key: COLLECT
+  text:
+  - We generally retain records only as long as necessary and as required for our
+    business operations, for archival purposes, and/or to satisfy legal requirements.
+  purposes: {}
+- source: we
+  target: title
+  key: COLLECT
+  text:
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  purposes: {}
+- source: we
+  target: zip code
+  key: COLLECT
+  text:
+  - We may also collect your name, title, business contact information, phone number,
+    date of birth, state, country, zip code, your health plan, email address or login
+    identification information only if you provide such information directly to us
+    when you begin registration to use a Secure Platform or complete a web form seeking
+    more information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and third parties may use session and persistent cookies for analytics and
+    advertising purposes, as described herein.
+  purposes:
+    advertising:
+    - for analytics and advertising purposes
+    analytics:
+    - for analytics and advertising purposes
+- source: UNSPECIFIED_ACTOR
+  target: information about you
+  key: COLLECT
+  text:
+  - Both Teladoc and the third party may have access to information about you and
+    your use of both the Websites and the third-party service.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share Personal Information with third parties including service providers
+    in certain circumstances or for certain purposes, including:'
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+  - With affiliates within our corporate group . We may share your Personal Information
+    with any subsidiaries or affiliates within our corporate group.
+  - With your direction or consent . We may share your Personal Information with third
+    parties if you request or direct us to do so.
+  purposes: {}
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - The information our ad networks may collect includes information about your visits
+    to websites that participate in the relevant advertising networks, such as the
+    webpages or advertisements you view and the actions you take on the websites.
+  - We or our advertising partners also may automatically collect information through
+    the use of cookies and other tracking technologies (see below).
+  purposes: {}
+- source: advertiser
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: advertiser
+  target: ip address
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: advertiser
+  target: online identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: advertiser
+  target: personal information regard activity on website
+  key: COLLECT
+  text:
+  - Using cookies and web beacons, we may disclose Personal Information regarding
+    your activity on our Websites to third-party advertising partners to optimize
+    marketing.
+  purposes:
+    advertising:
+    - For advertising .
+    - to optimize marketing
+- source: affiliate within corporate group
+  target: personal information
+  key: COLLECT
+  text:
+  - With affiliates within our corporate group . We may share your Personal Information
+    with any subsidiaries or affiliates within our corporate group.
+  purposes: {}
+- source: analytic provider
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: analytic provider
+  target: ip address
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: analytic provider
+  target: online identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: internet service provider
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: internet service provider
+  target: ip address
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: internet service provider
+  target: online identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: network
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - The networks use this information to show you advertisements that may be tailored
+    to your individual interests.
+  - These networks track your online activities over time by collecting information
+    through automated means, including through the use of cookies, web server logs,
+    and web beacons (also known as pixels).
+  purposes:
+    advertising:
+    - to show you advertisements that may be tailored to your individual interests
+- source: professional advisor
+  target: personal information
+  key: COLLECT
+  text:
+  - We also may share Personal Information with professional advisors, such as auditors,
+    law firms, and accounting firms.
+  purposes: {}
+- source: service provider
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: service provider
+  target: ip address
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: service provider
+  target: online identifier
+  key: COLLECT
+  text:
+  - We may disclose IP address, device ID, or online identifier to service providers,
+    advertising networks, internet service providers, and/or data analytics providers.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+  purposes: {}
+- source: teladoc
+  target: commercial information
+  key: COLLECT
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months):'
+  purposes: {}
+- source: teladoc
+  target: information about you
+  key: COLLECT
+  text:
+  - Both Teladoc and the third party may have access to information about you and
+    your use of both the Websites and the third-party service.
+  purposes: {}
+- source: teladoc
+  target: internet activity
+  key: COLLECT
+  text:
+  - Internet or other electronic network activity information , including, but not
+    limited to, browsing history, search history, and information regarding a consumer's
+    interaction with the Websites, applications, or advertisements.
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months):'
+  purposes: {}
+- source: teladoc
+  target: ip address
+  key: COLLECT
+  text:
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months): Identifiers , Internet
+    Protocol (IP) address, online identifier, device identifier.'
+  purposes: {}
+- source: teladoc
+  target: personal information
+  key: COLLECT
+  text:
+  - '13. NOTICE TO CALIFORNIA AND VIRGINIA RESIDENTS
+
+
+    Teladoc will retain and/or archive Personal Information for a period of time no
+    longer than required by applicable law or no longer than is necessary and proportionate
+    to achieve purposes compatible with the context in which the Personal Information
+    is collected.'
+  - 'Teladoc collects Personal Information from the following categories of sources:'
+  - 'Teladoc discloses Personal Information with the following categories of third
+    parties and has disclosed the following categories of Personal Information for
+    a business purpose, for commercial purpose, to comply with the law, in the context
+    of a transaction, or for other business reasons:'
+  purposes: {}
+- source: teladoc health
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Finally, Teladoc Health maintains a cookie preference center which allows you
+    to customize your cookie preferences when visiting the Websites.
+  purposes: {}
+- source: we
+  target: mobile application
+  key: SUBSUM
+  text:
+  - 'This Privacy Policy applies to visitors of the following publicly available websites:
+    www.teladoc.com , www.bestdoctors.com , www.askbestdoctors.com , www.healthiestyou.com
+    , www.teladochealth.com , www.mystrength.com , www.livongo.com , www.intouchhealth.com
+    and the publicly available associated domains and mobile applications owned and
+    operated by Teladoc (collectively, the "Websites").'
+- source: we
+  target: publicly available associated domain
+  key: SUBSUM
+  text:
+  - 'This Privacy Policy applies to visitors of the following publicly available websites:
+    www.teladoc.com , www.bestdoctors.com , www.askbestdoctors.com , www.healthiestyou.com
+    , www.teladochealth.com , www.mystrength.com , www.livongo.com , www.intouchhealth.com
+    and the publicly available associated domains and mobile applications owned and
+    operated by Teladoc (collectively, the "Websites").'
+- source: advertiser
+  target: action you take on website
+  key: SUBSUM
+  text:
+  - The information our ad networks may collect includes information about your visits
+    to websites that participate in the relevant advertising networks, such as the
+    webpages or advertisements you view and the actions you take on the websites.
+- source: advertiser
+  target: advertisement
+  key: SUBSUM
+  text:
+  - The information our ad networks may collect includes information about your visits
+    to websites that participate in the relevant advertising networks, such as the
+    webpages or advertisements you view and the actions you take on the websites.
+- source: advertiser
+  target: webpage
+  key: SUBSUM
+  text:
+  - The information our ad networks may collect includes information about your visits
+    to websites that participate in the relevant advertising networks, such as the
+    webpages or advertisements you view and the actions you take on the websites.
+- source: commercial information
+  target: company name
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: commercial information
+  target: email address
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: commercial information
+  target: information on action take on website
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: commercial information
+  target: person name
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: commercial information
+  target: phone number
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: commercial information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: commercial information
+  target: telephone
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: information on action take on website
+  target: behavior
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: information on action take on website
+  target: information about website consider
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: information on action take on website
+  target: preference
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - We may need to request additional Personal Information from you, such as your
+    date of birth or government identifier, in order to protect against fraudulent
+    requests.
+- source: personal information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Personal Information that we collect through your use of the Websites may include
+    IP Address, Device ID, and online identifier.
+- source: personal information
+  target: government identifier
+  key: SUBSUM
+  text:
+  - We may need to request additional Personal Information from you, such as your
+    date of birth or government identifier, in order to protect against fraudulent
+    requests.
+- source: personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - Personal Information that we collect through your use of the Websites may include
+    IP Address, Device ID, and online identifier.
+- source: personal information
+  target: online identifier
+  key: SUBSUM
+  text:
+  - Personal Information that we collect through your use of the Websites may include
+    IP Address, Device ID, and online identifier.
+- source: personal information about consumer
+  target: commercial information
+  key: SUBSUM
+  text:
+  - Commercial information , business contact information if you have provided it
+    to us via a form (such to register for services, obtain more information, request
+    a demo, request an RFP) on the website, including name, company name, physical
+    address, email address, telephone, and fax number; information on actions taken
+    on our Websites, which may include information about Websites considered and information
+    about preferences and behavior that we collect on our Websites or purchase from
+    third parties in order to target consumers for digital advertisements or to personalize
+    content we deliver on our Websites.
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months):'
+- source: personal information about consumer
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months): Identifiers , Internet
+    Protocol (IP) address, online identifier, device identifier.'
+- source: personal information about consumer
+  target: internet activity
+  key: SUBSUM
+  text:
+  - Internet or other electronic network activity information , including, but not
+    limited to, browsing history, search history, and information regarding a consumer's
+    interaction with the Websites, applications, or advertisements.
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months):'
+- source: personal information about consumer
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months): Identifiers , Internet
+    Protocol (IP) address, online identifier, device identifier.'
+- source: personal information about consumer
+  target: online identifier
+  key: SUBSUM
+  text:
+  - 'Teladoc collects the following categories of Personal Information about consumers
+    (and to the extent such Personal Information is subject to the CCPA/CPRA, these
+    categories were collected in the preceding 12 months): Identifiers , Internet
+    Protocol (IP) address, online identifier, device identifier.'
+- source: platform
+  target: social features
+  key: SUBSUM
+  text:
+  - Certain features of the Websites permit you to initiate interactions between the
+    Websites and third-party services or platforms, such as social networks ("Social
+    Features").
+- source: platform
+  target: social media
+  key: SUBSUM
+  text:
+  - Certain features of the Websites permit you to initiate interactions between the
+    Websites and third-party services or platforms, such as social networks ("Social
+    Features").
+- source: professional advisor
+  target: accounting firm
+  key: SUBSUM
+  text:
+  - We also may share Personal Information with professional advisors, such as auditors,
+    law firms, and accounting firms.
+- source: professional advisor
+  target: auditor
+  key: SUBSUM
+  text:
+  - We also may share Personal Information with professional advisors, such as auditors,
+    law firms, and accounting firms.
+- source: professional advisor
+  target: law firm
+  key: SUBSUM
+  text:
+  - We also may share Personal Information with professional advisors, such as auditors,
+    law firms, and accounting firms.
+- source: protect portion of site
+  target: login page
+  key: SUBSUM
+  text:
+  - This Privacy Policy does not apply to information collected from visitors who
+    register and log-in ("Members") to the password-protected and secure portions
+    of our sites, including login pages and registration pages ("Secure Platforms").
+- source: protect portion of site
+  target: registration page
+  key: SUBSUM
+  text:
+  - This Privacy Policy does not apply to information collected from visitors who
+    register and log-in ("Members") to the password-protected and secure portions
+    of our sites, including login pages and registration pages ("Secure Platforms").
+- source: protect portion of site
+  target: secure platforms
+  key: SUBSUM
+  text:
+  - This Privacy Policy does not apply to information collected from visitors who
+    register and log-in ("Members") to the password-protected and secure portions
+    of our sites, including login pages and registration pages ("Secure Platforms").
+- source: service provider
+  target: advertiser
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+- source: service provider
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+- source: service provider
+  target: data hosting partner
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+- source: service provider
+  target: support
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+- source: service provider
+  target: technology service
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with vendors and service providers, including
+    our data hosting and data storage partners, analytics and advertising providers,
+    technology services and support, and data security.
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - Information you provide on public or semi-public venues, including information
+    you share on third-party social networking platforms (such as Facebook, LinkedIn
+    or Twitter) may also be viewable by other users of the Websites and/or users of
+    those third-party online platforms without limitation as to its use by us or by
+    a third party.
+- source: social media
+  target: Microsoft
+  key: SUBSUM
+  text:
+  - Information you provide on public or semi-public venues, including information
+    you share on third-party social networking platforms (such as Facebook, LinkedIn
+    or Twitter) may also be viewable by other users of the Websites and/or users of
+    those third-party online platforms without limitation as to its use by us or by
+    a third party.
+- source: social media
+  target: Twitter
+  key: SUBSUM
+  text:
+  - Information you provide on public or semi-public venues, including information
+    you share on third-party social networking platforms (such as Facebook, LinkedIn
+    or Twitter) may also be viewable by other users of the Websites and/or users of
+    those third-party online platforms without limitation as to its use by us or by
+    a third party.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Microsoft
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: accounting firm
+- type: ACTOR
+  id: action you take on website
+- type: ACTOR
+  id: advertisement
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: affiliate within corporate group
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: auditor
+- type: ACTOR
+  id: data hosting partner
+- type: ACTOR
+  id: internet service provider
+- type: ACTOR
+  id: law firm
+- type: ACTOR
+  id: login page
+- type: ACTOR
+  id: mobile application
+- type: ACTOR
+  id: network
+- type: ACTOR
+  id: platform
+- type: ACTOR
+  id: professional advisor
+- type: ACTOR
+  id: protect portion of site
+- type: ACTOR
+  id: publicly available associated domain
+- type: ACTOR
+  id: registration page
+- type: ACTOR
+  id: secure platforms
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social features
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: support
+- type: ACTOR
+  id: technology service
+- type: ACTOR
+  id: teladoc
+- type: ACTOR
+  id: teladoc health
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: webpage
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: behavior
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: company name
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: deidentifie information
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: government identifier
+- type: DATA
+  id: health plan
+- type: DATA
+  id: information about account
+- type: DATA
+  id: information about website consider
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information identify
+- type: DATA
+  id: information on action take on website
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: login identification information
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information about consumer
+- type: DATA
+  id: personal information regard activity on website
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: preference
+- type: DATA
+  id: record
+- type: DATA
+  id: telephone
+- type: DATA
+  id: title
+- type: DATA
+  id: zip code

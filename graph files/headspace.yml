@@ -1,0 +1,1159 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'This may include the following: If you receive access to Headspace through your
+    employer, health plan, or another party that sponsors your access (your " Benefit
+    Sponsor "), we collect your name and email address and other information that
+    your Benefit Sponsor submits to us to facilitate your enrollment in our Products
+    and Services.'
+  - We use cookies and the information they collect for a variety of purposes including
+    functionality, analyzing performance, security, personalizing Website content,
+    and advertising.
+  - When you visit our Websites, we may collect certain information from you automatically
+    through cookies and other tracking technologies.
+  - When you visit our Websites, we may collect information from you automatically
+    through cookies including cookies provided by third parties.
+  purposes:
+    advertising:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+    analytics:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+    security:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+    services:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+    - to facilitate your enrollment in our Products and Services
+- source: we
+  target: account information
+  key: COLLECT
+  text:
+  - For example, we keep your account information, like your name, email address,
+    and password, for as long as your account exists so that you may access it.
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may create or collect aggregated, anonymous, or de-identified data from personal
+    information by removing, masking, or otherwise altering data components that make
+    the data personally identifiable, or potentially personally identifiable to you
+    (" De-Identified Data ").
+  - We will maintain De-Identified Data in its deidentified form and not attempt to
+    reidentify it except when testing our de-identification practices.
+  purposes: {}
+- source: we
+  target: browser datum
+  key: COLLECT
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+  - When you use our Platform, we may ask you to provide certain contact information,
+    including your first and last name and email address.
+  purposes: {}
+- source: we
+  target: content engagement
+  key: COLLECT
+  text:
+  - 'This may include the following: We may collect the name, email address, content
+    engagement, and preferences of individuals that our users identify through our
+    sharing and referral features.'
+  - We use this data for the sole purpose of sharing content and referring individuals
+    to join the Products.
+  purposes:
+    services:
+    - for the sole purpose of sharing content and referring individuals to join the
+      Products
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies and the information they collect for a variety of purposes including
+    functionality, analyzing performance, security, personalizing Website content,
+    and advertising.
+  purposes:
+    advertising:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+    analytics:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+    security:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+    services:
+    - for a variety of purposes including functionality, analyzing performance, security,
+      personalizing Website content, and advertising
+- source: we
+  target: cost estimate
+  key: COLLECT
+  text:
+  - If we determine that your request requires a fee, we will tell you why and provide
+    you with a cost estimate before completing your request.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - 'This may include the following: If you receive access to Headspace through your
+    employer, health plan, or another party that sponsors your access (your " Benefit
+    Sponsor "), we collect your name and email address and other information that
+    your Benefit Sponsor submits to us to facilitate your enrollment in our Products
+    and Services.'
+  - 'This may include the following: We may collect the name, email address, content
+    engagement, and preferences of individuals that our users identify through our
+    sharing and referral features.'
+  - We use this data for the sole purpose of sharing content and referring individuals
+    to join the Products.
+  - When you send or respond to emails, messages, chats, or other communications from
+    Headspace, we may collect your email address, name, and any other personal information
+    you choose to include in the body content of your communications.
+  purposes:
+    services:
+    - for the sole purpose of sharing content and referring individuals to join the
+      Products
+    - to facilitate your enrollment in our Products and Services
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - If you engage with other Platform users using our community features, we will
+    share some information about you such as your name associated with your comment
+    on a forum or other information you choose to share with other users.
+  purposes: {}
+- source: we
+  target: information you provide
+  key: COLLECT
+  text:
+  - When you submit a support request or otherwise engage with our support team, we
+    collect the information you provide as part of that interaction.
+  purposes: {}
+- source: we
+  target: information you provide about health
+  key: COLLECT
+  text:
+  - We will collect the information you provide about your health and wellness as
+    you use our Products or engage with the Services.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Usage data , such as time spent on the Products and
+    Websites including pages visited, links clicked, approximate location, language
+    preferences, performance of features, patterns of use, and the pages that led
+    or referred you to our Products and Websites.'
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - 'This may include the following: If you receive access to Headspace through your
+    employer, health plan, or another party that sponsors your access (your " Benefit
+    Sponsor "), we collect your name and email address and other information that
+    your Benefit Sponsor submits to us to facilitate your enrollment in our Products
+    and Services.'
+  - 'This may include the following: We may collect the name, email address, content
+    engagement, and preferences of individuals that our users identify through our
+    sharing and referral features.'
+  - We use this data for the sole purpose of sharing content and referring individuals
+    to join the Products.
+  - When you send or respond to emails, messages, chats, or other communications from
+    Headspace, we may collect your email address, name, and any other personal information
+    you choose to include in the body content of your communications.
+  purposes:
+    services:
+    - for the sole purpose of sharing content and referring individuals to join the
+      Products
+    - to facilitate your enrollment in our Products and Services
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - For individuals who participate in special subscriptions and features, including
+    group plans, we may collect additional personal information, for example, home
+    address and names and emails of household members.
+  - For that purpose, we may disclose limited personal information to third parties
+    for our cross-context behavioral and targeted advertising purposes and this activity
+    may fall under broader concepts of "selling" and/or "sharing" under the CCPA.
+  - In certain circumstances, we may collect personal information about you from others.
+  - In limited cases, we may provide certain personal information to third party businesses
+    with which we have a joint promotional relationship, bundled subscription offer,
+    or other trusted partnership.
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, including your name, email address, your registration date, and the date
+    on which you last used our Platform.
+  - In some circumstances we may need to disclose your personal information to a third
+    party so that they can provide a service on our behalf, such as to help deliver
+    Products or Services that you have requested.
+  - The personal information we may collect depending on how you use our Platform
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+  - 'This may include the following: We may collect personal information from parents
+    or guardians for operating accounts for their dependants aged 13-17 where supported.'
+  - To determine these legitimate interests, we balance our legitimate interests against
+    the legitimate interests and rights of you and others, and only process personal
+    information in accordance with those interests where they are not overridden by
+    your data-protection interests or fundamental rights and freedoms.
+  - We also may use your personal information for other purposes like communicating
+    to you about your interest in our Platform, processing payments, complying with
+    legal obligations, or to develop new features or improvements.
+  - We may also disclose personal information where we believe that doing so would
+    be in accordance with or required by any applicable law, regulation or legal process.
+  - We may also share personal information as directed by you, to provide you with
+    opportunities we think may interest you, or as legally required, such as to comply
+    with a court order.
+  - We may also use personal information to understand our user base and the effectiveness
+    of our marketing.
+  - We may collect or process the following personal information about you from what
+    you provide us directly, what we receive from others, and personal information
+    we may automatically collect when you interact with our Platform.
+  - We may collect your personal information through our Platform, or when you otherwise
+    share your information with us.
+  - We may collect, process, and maintain personal information to pursue the legitimate
+    business interests outlined below.
+  - We may disclose your personal information to the categories of service providers
+    and third parties identified in Section 3 of this Privacy Policy, and in ways
+    that are described in that section.
+  - 'We may disclose your personal information with the following categories of third
+    parties:'
+  - We may share your personal information with any member of our business group,
+    which includes our subsidiaries and our affiliates including Ginger Medical and
+    its medical professional corporation affiliates for any of the purposes described
+    in this Privacy Policy.
+  - We may share your personal information with certain third-party service providers
+    to help make our Platform function.
+  - 'We may use your personal information in the following ways:'
+  - We primarily use your personal information for our Products and Websites to function
+    and to deliver you the Services.
+  - We retain your personal information for as long as necessary, and we maintain
+    appropriate safeguards to protect it.
+  - We will keep your personal information for as long as needed to perform our obligations
+    to you, or for as long as legally permitted.
+  - You may connect your account through supported integrations with third parties
+    and we will share your personal information with those third parties.
+  purposes:
+    advertising:
+    - for our cross-context behavioral and targeted advertising purposes
+    - to provide you with opportunities we think may interest you, or as legally required,
+      such as to comply with a court order
+    - to understand our user base and the effectiveness of our marketing
+    analytics:
+    - to understand our user base and the effectiveness of our marketing
+    legal:
+    - To comply with our legal obligations including meeting regulatory compliance
+      obligations, responding to subpoenas, court orders or other legal processes;
+      and
+    - for other purposes like communicating to you about your interest in our Platform,
+      processing payments, complying with legal obligations, or to develop new features
+      or improvements
+    - to provide you with opportunities we think may interest you, or as legally required,
+      such as to comply with a court order
+    services:
+    - For individuals who participate in special subscriptions and features, including
+      group plans,
+    - To provide our Platform, including the delivery of content and interactive features
+    - for other purposes like communicating to you about your interest in our Platform,
+      processing payments, complying with legal obligations, or to develop new features
+      or improvements
+    - to function and to deliver you the Services
+    - to help make our Platform function
+    - to provide you with opportunities we think may interest you, or as legally required,
+      such as to comply with a court order
+- source: we
+  target: personal information you choose
+  key: COLLECT
+  text:
+  - When you send or respond to emails, messages, chats, or other communications from
+    Headspace, we may collect your email address, name, and any other personal information
+    you choose to include in the body content of your communications.
+  purposes: {}
+- source: we
+  target: preference
+  key: COLLECT
+  text:
+  - 'This may include the following: We may collect the name, email address, content
+    engagement, and preferences of individuals that our users identify through our
+    sharing and referral features.'
+  - We use this data for the sole purpose of sharing content and referring individuals
+    to join the Products.
+  purposes:
+    services:
+    - for the sole purpose of sharing content and referring individuals to join the
+      Products
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - We use sensitive personal information for the same purposes except for personalizing
+    ads.
+  - We use sensitive personal information for the same purposes listed above except
+    for personalizing ads.
+  purposes:
+    advertising:
+    - for the same purposes except for personalizing ads
+    - for the same purposes listed above except for personalizing ads
+- source: we
+  target: social medium identification number
+  key: COLLECT
+  text:
+  - We may also collect your social media identification number if you choose to access
+    the Products via a social media account.
+  purposes: {}
+- source: we
+  target: supplemental information
+  key: COLLECT
+  text:
+  - We provide the supplemental information in this section in our efforts to comply
+    with those additional privacy laws and inform you about your rights.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - For that purpose, we may disclose limited personal information to third parties
+    for our cross-context behavioral and targeted advertising purposes and this activity
+    may fall under broader concepts of "selling" and/or "sharing" under the CCPA.
+  - In limited cases, we may provide certain personal information to third party businesses
+    with which we have a joint promotional relationship, bundled subscription offer,
+    or other trusted partnership.
+  - In some circumstances we may need to disclose your personal information to a third
+    party so that they can provide a service on our behalf, such as to help deliver
+    Products or Services that you have requested.
+  - We may share your personal information with certain third-party service providers
+    to help make our Platform function.
+  - You may connect your account through supported integrations with third parties
+    and we will share your personal information with those third parties.
+  purposes:
+    advertising:
+    - for our cross-context behavioral and targeted advertising purposes
+    services:
+    - to help make our Platform function
+- source: UNSPECIFIED_ACTOR
+  target: specific personal information you provide
+  key: COLLECT
+  text:
+  - 'This may include the following: If you choose to have your account verified to
+    confirm your eligibility for a select subscription offering, we may allow a third
+    party platform to access the specific personal information you provide in order
+    to perform the verification.'
+  purposes:
+    security:
+    - in order to perform the verification
+    services:
+    - in order to perform the verification
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose your personal information with the following categories of third
+    parties: Third party advertising platforms.'
+  purposes: {}
+- source: applicant
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Applicants can learn about how we use their personal information by reading our
+    Applicant Privacy Notice here , and employees will be provided further details
+    as part of onboarding.
+  purposes: {}
+- source: benefit sponsor
+  target: personal information
+  key: COLLECT
+  text:
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, including your name, email address, your registration date, and the date
+    on which you last used our Platform.
+  - 'We may disclose your personal information with the following categories of third
+    parties: Your Benefit Sponsor.'
+  purposes: {}
+- source: business transfer
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose your personal information with the following categories of third
+    parties: Affiliates and business transfer.'
+  purposes: {}
+- source: community activity
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose your personal information with the following categories of third
+    parties: Community Activity.'
+  purposes: {}
+- source: headspace
+  target: anonymized version
+  key: COLLECT
+  text:
+  - Personal information collected for these purposes includes card number, type,
+    expiration date, and billing address, and certain anonymized, limited and/or truncated
+    versions of this information may be provided to Headspace.
+  purposes: {}
+- source: headspace
+  target: personal information
+  key: COLLECT
+  text:
+  - As mentioned above, if you are a resident of California, Headspace "sells" and
+    "shares" personal information under the CCPA's broader definition of "sale" or
+    "share."
+  - Please note that Headspace is a US based company and your personal information
+    will be stored within the US.
+  purposes: {}
+- source: headspace
+  target: personal information about us state resident
+  key: COLLECT
+  text:
+  - Headspace may collect, use, or disclose personal information about US state residents
+    for purposes listed in Section 2 of our Privacy Policy.
+  purposes: {}
+- source: headspace
+  target: personal information describe in section
+  key: COLLECT
+  text:
+  - Headspace may collect the personal information described in Section 1 and as categorized
+    in the table within Section 10(b) above.
+  purposes: {}
+- source: headspace
+  target: text enter into form
+  key: COLLECT
+  text:
+  - Text entered into this form prior to submission may be collected, retained, and
+    used by Headspace for our business purposes, including by our customer service
+    and other personnel and service providers.
+  purposes: {}
+- source: integration
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose your personal information with the following categories of third
+    parties: Your integrations.'
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Our service providers have access to your personal information only to perform
+    these tasks on our behalf, based on our instructions and are contractually obligated
+    to maintain the confidentiality and security of your personal information, and
+    to not disclose or use your personal information for any other purpose inconsistent
+    with this Privacy Policy and applicable law.
+  - 'We may disclose your personal information with the following categories of third
+    parties: Our service providers.'
+  purposes:
+    services:
+    - only to perform these tasks on our behalf
+- source: survive entity
+  target: personal information
+  key: COLLECT
+  text:
+  - If Headspace, including any of our subsidiaries, brands, or affiliates, is involved
+    in a merger, acquisition, asset sale, or other corporate combination, your personal
+    information may be transferred to the acquiring or surviving entity.
+  purposes: {}
+- source: we
+  target: coaching service
+  key: SUBSUM
+  text:
+  - Headspace may deliver coaching services, psychotherapy services (i.e. therapy),
+    and psychiatry services (collectively the " Services ") using the Products or
+    via other delivery methods, as applicable.
+- source: we
+  target: ginger medical
+  key: SUBSUM
+  text:
+  - We may share your personal information with any member of our business group,
+    which includes our subsidiaries and our affiliates including Ginger Medical and
+    its medical professional corporation affiliates for any of the purposes described
+    in this Privacy Policy.
+- source: we
+  target: headspace mobile app
+  key: SUBSUM
+  text:
+  - As part of our company values, especially putting members first, we at Headspace
+    are committed to protecting and respecting your privacy in connection with your
+    use of our content and products via our websites, including www.headspace.com
+    (" Websites "), our applications, including the Headspace mobile app (" Apps "),
+    or other delivery methods (Websites, Apps, and other delivery methods are collectively
+    referred to as our " Products ").
+- source: we
+  target: professional corporation affiliate
+  key: SUBSUM
+  text:
+  - We may share your personal information with any member of our business group,
+    which includes our subsidiaries and our affiliates including Ginger Medical and
+    its medical professional corporation affiliates for any of the purposes described
+    in this Privacy Policy.
+- source: we
+  target: psychiatry service
+  key: SUBSUM
+  text:
+  - Headspace may deliver coaching services, psychotherapy services (i.e. therapy),
+    and psychiatry services (collectively the " Services ") using the Products or
+    via other delivery methods, as applicable.
+- source: we
+  target: psychotherapy service
+  key: SUBSUM
+  text:
+  - Headspace may deliver coaching services, psychotherapy services (i.e. therapy),
+    and psychiatry services (collectively the " Services ") using the Products or
+    via other delivery methods, as applicable.
+- source: we
+  target: therapy
+  key: SUBSUM
+  text:
+  - Generally, we restrict this sharing to not include specific details of your in-app
+    activity or any details about your use of Services, like therapy.
+- source: account information
+  target: email address
+  key: SUBSUM
+  text:
+  - For example, we keep your account information, like your name, email address,
+    and password, for as long as your account exists so that you may access it.
+- source: account information
+  target: password
+  key: SUBSUM
+  text:
+  - For example, we keep your account information, like your name, email address,
+    and password, for as long as your account exists so that you may access it.
+- source: account information
+  target: person name
+  key: SUBSUM
+  text:
+  - For example, we keep your account information, like your name, email address,
+    and password, for as long as your account exists so that you may access it.
+- source: browser datum
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: device manufacturer
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: device type
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: internet browser type
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: language
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: model
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: operating system
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: operating system name
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: plug in
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: screen resolution
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: browser datum
+  target: version
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Browser and device data , such as IP address, device
+    identifier, device type, operating system and Internet browser type, screen resolution,
+    operating system name and version, device manufacturer and model, language, plug-ins,
+    add-ons, and the language version of the Websites and Products you are visiting.'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+  - When you use our Platform, we may ask you to provide certain contact information,
+    including your first and last name and email address.
+- source: contact information
+  target: employer name
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+- source: contact information
+  target: job title
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+- source: contact information
+  target: password
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+  - When you use our Platform, we may ask you to provide certain contact information,
+    including your first and last name and email address.
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+- source: contact information
+  target: relate information
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+- source: contact information
+  target: student identification number
+  key: SUBSUM
+  text:
+  - If you decide to set up an account with us, we may ask you to provide certain
+    additional contact information including, for example, your first and last name,
+    email address (personal and/or work), telephone number, mailing address, employer
+    or company name, job title, student identification number, emergency contact information,
+    as well as password and other authentication-related information.
+- source: cookie / pixel tag
+  target: choice regard they
+  key: SUBSUM
+  text:
+  - For more information on the types of cookies we use and your choices regarding
+    them, please review our Cookie Policy .
+- source: gender
+  target: gender expression
+  key: SUBSUM
+  text:
+  - Age (40 years or older), race, color, ancestry, national origin, citizenship,
+    religion or creed, marital status, medical condition, physical or mental disability,
+    sex (including gender, gender identity, gender expression, pregnancy or childbirth
+    and related medical conditions), sexual orientation, veteran or military status
+- source: gender
+  target: gender identity
+  key: SUBSUM
+  text:
+  - Age (40 years or older), race, color, ancestry, national origin, citizenship,
+    religion or creed, marital status, medical condition, physical or mental disability,
+    sex (including gender, gender identity, gender expression, pregnancy or childbirth
+    and related medical conditions), sexual orientation, veteran or military status
+- source: information about you
+  target: information you choose
+  key: SUBSUM
+  text:
+  - If you engage with other Platform users using our community features, we will
+    share some information about you such as your name associated with your comment
+    on a forum or other information you choose to share with other users.
+- source: information about you
+  target: person name
+  key: SUBSUM
+  text:
+  - If you engage with other Platform users using our community features, we will
+    share some information about you such as your name associated with your comment
+    on a forum or other information you choose to share with other users.
+- source: information about yourself
+  target: age
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: gender identity
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: health
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: marital status
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: medical history
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: prefer pronoun
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: sex at birth
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: information about yourself
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - Through your account in our Product, you may have the opportunity to provide additional
+    information about yourself, such as your age, race and ethnicity, sexual orientation,
+    preferred pronouns, gender or gender identity, sex at birth, marital status, and
+    details about your health and medical history.
+- source: internet activity
+  target: coarse geolocation
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Usage data , such as time spent on the Products and
+    Websites including pages visited, links clicked, approximate location, language
+    preferences, performance of features, patterns of use, and the pages that led
+    or referred you to our Products and Websites.'
+- source: internet activity
+  target: language preference
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Usage data , such as time spent on the Products and
+    Websites including pages visited, links clicked, approximate location, language
+    preferences, performance of features, patterns of use, and the pages that led
+    or referred you to our Products and Websites.'
+- source: internet activity
+  target: pattern of use
+  key: SUBSUM
+  text:
+  - 'Our Products and Websites may collect information from you automatically during
+    your use which may include: Usage data , such as time spent on the Products and
+    Websites including pages visited, links clicked, approximate location, language
+    preferences, performance of features, patterns of use, and the pages that led
+    or referred you to our Products and Websites.'
+- source: new product
+  target: related feature
+  key: SUBSUM
+  text:
+  - 'Our legitimate interests generally include: Maintaining and improving the quality
+    of the Products and Services that we offer, including to customize our features
+    to better fit your needs as a user, develop new sites and products, to perform
+    internal analytics for new and existing products (such as our user accounts and
+    related features) and to conduct research and development.'
+- source: opt preference signal
+  target: global privacy control
+  key: SUBSUM
+  text:
+  - You may use an opt-out preference signal, such as the Global Privacy Control (GPC),
+    to opt-out of the sale/sharing of your personal information.
+- source: personal information
+  target: date on you use platform
+  key: SUBSUM
+  text:
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, including your name, email address, your registration date, and the date
+    on which you last used our Platform.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - For individuals who participate in special subscriptions and features, including
+    group plans, we may collect additional personal information, for example, home
+    address and names and emails of household members.
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, including your name, email address, your registration date, and the date
+    on which you last used our Platform.
+- source: personal information
+  target: gender identity
+  key: SUBSUM
+  text:
+  - The personal information we may collect depending on how you use our Platform
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information
+  target: mental health information
+  key: SUBSUM
+  text:
+  - The personal information we may collect depending on how you use our Platform
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - For individuals who participate in special subscriptions and features, including
+    group plans, we may collect additional personal information, for example, home
+    address and names and emails of household members.
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, including your name, email address, your registration date, and the date
+    on which you last used our Platform.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - For individuals who participate in special subscriptions and features, including
+    group plans, we may collect additional personal information, for example, home
+    address and names and emails of household members.
+- source: personal information
+  target: racial origin
+  key: SUBSUM
+  text:
+  - The personal information we may collect depending on how you use our Platform
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information
+  target: registration date
+  key: SUBSUM
+  text:
+  - In limited cases, we may provide certain personal information to your Benefit
+    Sponsor, including your name, email address, your registration date, and the date
+    on which you last used our Platform.
+- source: personal information
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - The personal information we may collect depending on how you use our Platform
+    includes mental or physical health information, racial or ethnic origin, and information
+    about sexual orientation or gender identity.
+- source: personal information collect for purpose
+  target: card number
+  key: SUBSUM
+  text:
+  - Personal information collected for these purposes includes card number, type,
+    expiration date, and billing address, and certain anonymized, limited and/or truncated
+    versions of this information may be provided to Headspace.
+- source: personal information collect for purpose
+  target: expiration date
+  key: SUBSUM
+  text:
+  - Personal information collected for these purposes includes card number, type,
+    expiration date, and billing address, and certain anonymized, limited and/or truncated
+    versions of this information may be provided to Headspace.
+- source: personal information collect for purpose
+  target: postal address
+  key: SUBSUM
+  text:
+  - Personal information collected for these purposes includes card number, type,
+    expiration date, and billing address, and certain anonymized, limited and/or truncated
+    versions of this information may be provided to Headspace.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: applicant
+- type: ACTOR
+  id: benefit sponsor
+- type: ACTOR
+  id: business transfer
+- type: ACTOR
+  id: coaching service
+- type: ACTOR
+  id: community activity
+- type: ACTOR
+  id: ginger medical
+- type: ACTOR
+  id: headspace
+- type: ACTOR
+  id: headspace mobile app
+- type: ACTOR
+  id: integration
+- type: ACTOR
+  id: new product
+- type: ACTOR
+  id: professional corporation affiliate
+- type: ACTOR
+  id: psychiatry service
+- type: ACTOR
+  id: psychotherapy service
+- type: ACTOR
+  id: related feature
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: survive entity
+- type: ACTOR
+  id: therapy
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account information
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: anonymized version
+- type: DATA
+  id: browser datum
+- type: DATA
+  id: card number
+- type: DATA
+  id: choice regard they
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content engagement
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: cost estimate
+- type: DATA
+  id: date on you use platform
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device manufacturer
+- type: DATA
+  id: device type
+- type: DATA
+  id: email address
+- type: DATA
+  id: employer name
+- type: DATA
+  id: expiration date
+- type: DATA
+  id: gender
+- type: DATA
+  id: gender expression
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: global privacy control
+- type: DATA
+  id: health
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information about yourself
+- type: DATA
+  id: information you choose
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you provide about health
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: internet browser type
+- type: DATA
+  id: ip address
+- type: DATA
+  id: job title
+- type: DATA
+  id: language
+- type: DATA
+  id: language preference
+- type: DATA
+  id: marital status
+- type: DATA
+  id: medical history
+- type: DATA
+  id: mental health information
+- type: DATA
+  id: model
+- type: DATA
+  id: operating system
+- type: DATA
+  id: operating system name
+- type: DATA
+  id: opt preference signal
+- type: DATA
+  id: password
+- type: DATA
+  id: pattern of use
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information about us state resident
+- type: DATA
+  id: personal information collect for purpose
+- type: DATA
+  id: personal information describe in section
+- type: DATA
+  id: personal information you choose
+- type: DATA
+  id: phone number
+- type: DATA
+  id: plug in
+- type: DATA
+  id: postal address
+- type: DATA
+  id: prefer pronoun
+- type: DATA
+  id: preference
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: racial origin
+- type: DATA
+  id: registration date
+- type: DATA
+  id: relate information
+- type: DATA
+  id: screen resolution
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sex at birth
+- type: DATA
+  id: sexual orientation
+- type: DATA
+  id: social medium identification number
+- type: DATA
+  id: specific personal information you provide
+- type: DATA
+  id: student identification number
+- type: DATA
+  id: supplemental information
+- type: DATA
+  id: text enter into form
+- type: DATA
+  id: version

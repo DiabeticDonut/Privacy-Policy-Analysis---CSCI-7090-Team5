@@ -1,0 +1,216 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you are a Consumer user, we store your data (all categories) for the period
+    that your account is active and then for 7 years after that.
+  - If you are an Ovia+ user, we store your data (all categories) during the period
+    that you are receiving Ovia+ benefits.
+  purposes: {}
+- source: we
+  target: deidentifie datum
+  key: COLLECT
+  text:
+  - We may provide deidentified data to our research partners, such as universities
+    and medical research institutions for research, and to other businesses who have
+    engaged us to provide research services on deidentified or aggregated data.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We may use personal data to create aggregated analytic data and statistics, which
+    we may use for Ovia's internal purposes or share with third parties.
+  - 'We use your personal data to:'
+  purposes:
+    advertising:
+    - 'to: Provide security for the Services and obtain analytics about app and ad
+      performance'
+    - 'to: Send you advertising and marketing communications, subject to your opt-in
+      consent when required by law'
+    - 'to: Send you email communications about the Services'
+    - 'to: Show you relevant ads and sponsored content, only in the free Consumer
+      version of the Services, using an advertising profile we create based on a limited
+      selection of your personal data, subject to your opt-in consent when required
+      by law'
+    - 'to: Solicit your participation in surveys and run surveys'
+    - 'to: Understand how you use the Services, including what content and ads you
+      view'
+    analytics:
+    - to create aggregated analytic data and statistics, which we may use for Ovia's
+      internal purposes or share with third parties
+    - 'to: Conduct clinical and scientific research, subject to your informed consent
+      where required by law'
+    - 'to: Create deidentified data and aggregated data and statistics, as described
+      further here'
+    - 'to: Provide security for the Services and obtain analytics about app and ad
+      performance'
+    - 'to: Solicit your participation in surveys and run surveys'
+    - 'to: Understand how you use the Services, including what content and ads you
+      view'
+    legal:
+    - 'to: Comply with law, for security management and investigation, in connection
+      with litigation, or to protect the rights or property of Ovia or third parties'
+    security:
+    - 'to: Comply with law, for security management and investigation, in connection
+      with litigation, or to protect the rights or property of Ovia or third parties'
+    - 'to: Provide security for the Services and obtain analytics about app and ad
+      performance'
+    services:
+    - 'to: Market, develop and improve our products and services'
+    - 'to: Personalize the Services by showing you content relevant to your health,
+      interests and fertility, pregnancy and parenting journey'
+    - 'to: Provide support and troubleshooting'
+    - 'to: Provide the Services to you'
+    - 'to: Provide you with health coaching if you are an Ovia+ member'
+    - 'to: Send you email communications about the Services'
+- source: base vendor who provide service to ovia
+  target: personal information
+  key: COLLECT
+  text:
+  - The data we collect is transferred to servers located in the US of our cloud computing
+    provider, Amazon Web Services (AWS); some personal data may be transferred to
+    other US-based vendors who provide services to Ovia, including the principal vendors
+    listed here .
+  purposes: {}
+- source: business who engage we
+  target: deidentifie datum
+  key: COLLECT
+  text:
+  - We may provide deidentified data to our research partners, such as universities
+    and medical research institutions for research, and to other businesses who have
+    engaged us to provide research services on deidentified or aggregated data.
+  purposes: {}
+- source: network advertising initiative
+  target: useful information
+  key: COLLECT
+  text:
+  - The Network Advertising Initiative provides useful information here .
+  purposes: {}
+- source: ovia
+  target: deidentifie datum derive from patient information
+  key: COLLECT
+  text:
+  - Ovia may disclose or sell deidentified data derived from patient information (as
+    defined by the California Consumer Privacy Act); if so, such patient information
+    is deidentified in accordance with HIPAA safe harbor or expert determination deidentification
+    requirements.
+  purposes: {}
+- source: ovia
+  target: personal information
+  key: COLLECT
+  text:
+  - Even if you exercise your rights described above, Ovia may retain personal data
+    to maintain proper business records, to comply with and as permitted by law, for
+    security management and investigation, in connection with litigation, or to protect
+    the rights or property of Ovia or third parties.
+  - Ovia may use personal data to create deidentified data for research and development
+    purposes.
+  purposes:
+    analytics:
+    - to create deidentified data for research and development purposes
+    legal:
+    - to maintain proper business records, to comply with and as permitted by law,
+      for security management and investigation, in connection with litigation, or
+      to protect the rights or property of Ovia or third parties
+    security:
+    - to maintain proper business records, to comply with and as permitted by law,
+      for security management and investigation, in connection with litigation, or
+      to protect the rights or property of Ovia or third parties
+- source: research partner
+  target: deidentifie datum
+  key: COLLECT
+  text:
+  - We may provide deidentified data to our research partners, such as universities
+    and medical research institutions for research, and to other businesses who have
+    engaged us to provide research services on deidentified or aggregated data.
+  purposes: {}
+- source: server locate in us of cloud computing provider
+  target: data we collect
+  key: COLLECT
+  text:
+  - The data we collect is transferred to servers located in the US of our cloud computing
+    provider, Amazon Web Services (AWS); some personal data may be transferred to
+    other US-based vendors who provide services to Ovia, including the principal vendors
+    listed here .
+  purposes: {}
+- source: base vendor who provide service to ovia
+  target: principal vendor list
+  key: SUBSUM
+  text:
+  - The data we collect is transferred to servers located in the US of our cloud computing
+    provider, Amazon Web Services (AWS); some personal data may be transferred to
+    other US-based vendors who provide services to Ovia, including the principal vendors
+    listed here .
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - An exception to this is if we ask you to submit personal data (for example, your
+    Instagram handle, email address or name) to us through social media messaging,
+    which may occur as part of a giveaway or competition, in which case this Privacy
+    Policy will apply.
+- source: personal information
+  target: for instagram handle
+  key: SUBSUM
+  text:
+  - An exception to this is if we ask you to submit personal data (for example, your
+    Instagram handle, email address or name) to us through social media messaging,
+    which may occur as part of a giveaway or competition, in which case this Privacy
+    Policy will apply.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - An exception to this is if we ask you to submit personal data (for example, your
+    Instagram handle, email address or name) to us through social media messaging,
+    which may occur as part of a giveaway or competition, in which case this Privacy
+    Policy will apply.
+- source: research partner
+  target: university
+  key: SUBSUM
+  text:
+  - We may provide deidentified data to our research partners, such as universities
+    and medical research institutions for research, and to other businesses who have
+    engaged us to provide research services on deidentified or aggregated data.
+nodes:
+- type: ACTOR
+  id: base vendor who provide service to ovia
+- type: ACTOR
+  id: business who engage we
+- type: ACTOR
+  id: network advertising initiative
+- type: ACTOR
+  id: ovia
+- type: ACTOR
+  id: principal vendor list
+- type: ACTOR
+  id: research partner
+- type: ACTOR
+  id: server locate in us of cloud computing provider
+- type: ACTOR
+  id: university
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: data we collect
+- type: DATA
+  id: deidentifie datum
+- type: DATA
+  id: deidentifie datum derive from patient information
+- type: DATA
+  id: email address
+- type: DATA
+  id: for instagram handle
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: useful information

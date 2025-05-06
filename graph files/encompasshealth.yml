@@ -1,0 +1,264 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Encompass Health Corporation and its subsidiaries and affiliates ("Encompass Health"
+    or "we") understand that you care about how we collect, use, and share information
+    when you interact with our websites, email, social media sites/handles, and other
+    online services (our "Services"), and we value the trust you place in us.
+  - If you use our Services outside of the United States, you understand that we may
+    collect, process, and store your information in the United States and other countries.
+  - 'Notice of privacy practices
+
+
+    How we share your information
+
+
+    Corporate Affiliates
+
+
+    We share data with other members of our group of companies.'
+  - 'Notice of privacy practices
+
+
+    Information we collect
+
+
+    How we use and protect your information'
+  - 'This Privacy Policy explains: how we use and protect that information'
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may share aggregated or de-identified data at our discretion, including with
+    marketing agencies, media agencies and analytics providers.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - 'This includes: If you contact us, we may keep a record of that correspondence
+    and any contact information provided.'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies and other technologies to provide features on our Services.
+  purposes:
+    services:
+    - to provide features on our Services
+- source: we
+  target: information about interaction with advertisement on service
+  key: COLLECT
+  text:
+  - 'We may also receive information about you from other parties: Information about
+    your interaction with advertisements on our Services, or ads that we place on
+    third party websites, from online advertising companies.'
+  purposes: {}
+- source: we
+  target: information about interest from social network
+  key: COLLECT
+  text:
+  - 'We may also receive information about you from other parties: Information about
+    your interests, activities, and employment history from social networks and other
+    places where you choose to share information publicly.'
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'We may also receive information about you from other parties:'
+  purposes: {}
+- source: we
+  target: information about you in connection with merger
+  key: COLLECT
+  text:
+  - We may transfer to another entity or its affiliates or service providers some
+    or all information about you in connection with, or during negotiations of, any
+    merger, acquisition, sale of assets or any line of business, change in ownership
+    control, or financing transaction.
+  purposes: {}
+- source: we
+  target: information we collect from you
+  key: COLLECT
+  text:
+  - 'We may use the information we collect from you for the following purposes:'
+  purposes:
+    advertising:
+    - To create custom audiences on social media sites
+    - To deliver personalized marketing and advertising to you about our products
+      and services, and to enable additional features on our Services and to provide
+      you with a personalized service
+    - To deliver tailored advertising on our Services based on your preferences or
+      interests across services and devices and measuring the effectiveness of ads
+    - To provide you with the best service and improve and grow our business, including
+      by understanding our customer base and understanding the effectiveness of our
+      marketing
+    analytics:
+    - To create custom audiences on social media sites
+    - To provide you with the best service and improve and grow our business, including
+      by understanding our customer base and understanding the effectiveness of our
+      marketing
+    - To understand how our Services are being used, track site performance, and make
+      improvements
+    security:
+    - To protect and secure our Services, assets, network, and business operations,
+      to comply with legal requirements, and to detect, investigate, and prevent activities
+      that may violate our policies or be fraudulent or illegal
+    services:
+    - To create custom audiences on social media sites
+    - To deliver personalized marketing and advertising to you about our products
+      and services, and to enable additional features on our Services and to provide
+      you with a personalized service
+    - To provide you with our products and services, including to process payments
+      and send you information you request
+    - To provide you with the best service and improve and grow our business, including
+      by understanding our customer base and understanding the effectiveness of our
+      marketing
+- source: we
+  target: information you enter on service
+  key: COLLECT
+  text:
+  - We collect and store any information you enter on our Services.
+  purposes: {}
+- source: we
+  target: protect health information
+  key: COLLECT
+  text:
+  - This Notice of Privacy Practices describes how we may use and disclose your protected
+    health information to carry out treatment, payment or healthcare operations and
+    for other purposes that are permitted or required by law.
+  purposes:
+    legal:
+    - to carry out treatment, payment or healthcare operations and for other purposes
+      that are permitted or required by law
+    services:
+    - to carry out treatment, payment or healthcare operations and for other purposes
+      that are permitted or required by law
+- source: UNSPECIFIED_ACTOR
+  target: information about you in connection with merger
+  key: COLLECT
+  text:
+  - We may transfer to another entity or its affiliates or service providers some
+    or all information about you in connection with, or during negotiations of, any
+    merger, acquisition, sale of assets or any line of business, change in ownership
+    control, or financing transaction.
+  purposes: {}
+- source: company who use cookie
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These companies may use tracking technologies on our website to collect or receive
+    information from the Services and elsewhere on the internet and use that information
+    to provide measurement services and target ads.
+  - We also partner with other companies who use cookies to display interest-based
+    advertising to you on our Services.
+  purposes: {}
+- source: encompass health
+  target: credit / debit card number
+  key: COLLECT
+  text:
+  - For example, we use a payment processor when you engage in a transaction on our
+    site; Encompass Health does not itself collect or store payment card information.
+  purposes: {}
+- source: service provider
+  target: information about you in connection with merger
+  key: COLLECT
+  text:
+  - We may transfer to another entity or its affiliates or service providers some
+    or all information about you in connection with, or during negotiations of, any
+    merger, acquisition, sale of assets or any line of business, change in ownership
+    control, or financing transaction.
+  purposes: {}
+- source: social media
+  target: information about you
+  key: COLLECT
+  text:
+  - Where you choose to interact with us on social media platforms, your interaction
+    with these programs typically allows the social media company to collect some
+    information about you through digital cookies and other tracking mechanisms they
+    place on your device.
+  purposes: {}
+- source: information you make on social media platform as
+  target: account id
+  key: SUBSUM
+  text:
+  - 'This includes: Information that you make available to us on a social media platform
+    (such as by clicking on a social media icon linked from our Services), including
+    your account ID or username and other information included in your posts.'
+- source: information you make on social media platform as
+  target: information include in post
+  key: SUBSUM
+  text:
+  - 'This includes: Information that you make available to us on a social media platform
+    (such as by clicking on a social media icon linked from our Services), including
+    your account ID or username and other information included in your posts.'
+- source: information you make on social media platform as
+  target: username
+  key: SUBSUM
+  text:
+  - 'This includes: Information that you make available to us on a social media platform
+    (such as by clicking on a social media icon linked from our Services), including
+    your account ID or username and other information included in your posts.'
+- source: protected health information
+  target: demographic information
+  key: SUBSUM
+  text:
+  - '"Protected health information" is information about you, including demographic
+    information, that may identify you and that relates to your past, present or future
+    physical or mental health or condition and related healthcare services.'
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: company who use cookie
+- type: ACTOR
+  id: encompass health
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account id
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: information about interaction with advertisement on service
+- type: DATA
+  id: information about interest from social network
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information about you in connection with merger
+- type: DATA
+  id: information include in post
+- type: DATA
+  id: information we collect from you
+- type: DATA
+  id: information you enter on service
+- type: DATA
+  id: information you make on social media platform as
+- type: DATA
+  id: protect health information
+- type: DATA
+  id: protected health information
+- type: DATA
+  id: username

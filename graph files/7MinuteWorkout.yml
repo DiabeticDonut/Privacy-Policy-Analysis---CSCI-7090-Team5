@@ -1,0 +1,1198 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Some Third Party Publishers and Advertising Entities also act as Service Providers
+    (defined below) to us, so in those cases we will share your information as described
+    below.
+  - We designed our Privacy Policy to cover how we collect, use, disclose, transfer
+    and store your information.
+  - We only share such information with Preferred Partners pursuant to an agreement
+    by which the Preferred Partner is under obligations not to disclose or use it
+    for any other purpose.
+  purposes: {}
+- source: we
+  target: aggregate non - identifying information
+  key: COLLECT
+  text:
+  - In addition to sharing aggregated Non-Identifying Information with Third Party
+    Publishers, we may also share aggregated Non-Identifying Information with advertisers
+    and ad networks (" Advertising Entities ") with whom we have strategic relationships.
+  purposes: {}
+- source: we
+  target: alias
+  key: COLLECT
+  text:
+  - In these instances, with your permission and on your behalf, we will share your
+    email address and screen name or alias with the applicable SNS.
+  purposes: {}
+- source: we
+  target: archive copy of record
+  key: COLLECT
+  text:
+  - We may retain an archived copy of your records as required by law or for legitimate
+    business purposes.
+  purposes: {}
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: clickstream datum
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - In the course of using our Services, we may ask you to provide us with certain
+    personally identifiable information that can be used to contact or identify you.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - As is standard practice, we use "cookies" to help us study traffic patterns and
+    understand the effectiveness of our marketing communications.
+  - We may also use "pixel tags," "web beacons," "clear GIFs" or similar means (individually
+    or collectively " Pixel Tags ") in connection with our Services and to collect
+    usage, demographic and geographical location data.
+  purposes:
+    advertising:
+    - to help us study traffic patterns and understand the effectiveness of our marketing
+      communications
+    analytics:
+    - to help us study traffic patterns and understand the effectiveness of our marketing
+      communications
+- source: we
+  target: date stamp
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: datum about activity
+  key: COLLECT
+  text:
+  - Provided you give express permission on your device, we may receive (read) or/and
+    write (share) data about your activity with/from Google Fit.
+  purposes: {}
+- source: we
+  target: demographic information about workout inc user base as whole
+  key: COLLECT
+  text:
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - Related to this information collection, our Services may serve ads that contain
+    links to other Third-Party Mobile Applications, and we may utilize your Device
+    ID to track clicks or other ad fulfillment metrics.
+  - We may share your username, email address and Device ID (collectively, " Specific
+    Shared Data ") with certain of our Third Party Publishers and other business partners
+    ("Preferred Partners ") for those parties to assist us with providing you with
+    the aspect of the Services for which you provided such Specific Shared Data to
+    us, and to use such Specific Shared Data to provide you with information and marketing
+    materials about Third Party Mobile Applications and other products and services
+    in order, for example, to further enhance your use of our Services and to augment
+    your gaming and social networking experience generally.
+  - We use your Device ID to make it possible to authenticate and understand your
+    use of our Services, or the Third Party Mobile Application that you may choose
+    to access through our Services.
+  purposes:
+    advertising:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    - to track clicks or other ad fulfillment metrics
+    analytics:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    - to make it possible to authenticate and understand your use of our Services,
+      or the Third Party Mobile Application that you may choose to access through
+      our Services
+    - to track clicks or other ad fulfillment metrics
+    security:
+    - to make it possible to authenticate and understand your use of our Services,
+      or the Third Party Mobile Application that you may choose to access through
+      our Services
+    services:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    - to make it possible to authenticate and understand your use of our Services,
+      or the Third Party Mobile Application that you may choose to access through
+      our Services
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - If your friend received an invitation from Workout Inc per your referral to try
+    the Services, your friend may request that the name and email address used in
+    the invitation be removed from Workout Inc's records.
+  - In these instances, with your permission and on your behalf, we will share your
+    email address and screen name or alias with the applicable SNS.
+  - We may share your username, email address and Device ID (collectively, " Specific
+    Shared Data ") with certain of our Third Party Publishers and other business partners
+    ("Preferred Partners ") for those parties to assist us with providing you with
+    the aspect of the Services for which you provided such Specific Shared Data to
+    us, and to use such Specific Shared Data to provide you with information and marketing
+    materials about Third Party Mobile Applications and other products and services
+    in order, for example, to further enhance your use of our Services and to augment
+    your gaming and social networking experience generally.
+  - We store this information for the sole purposes of measuring the effectiveness
+    of our referral program and sending the email you initiated, but your friend can
+    request to have it removed from our database by emailing us at contact@workoutinc.net.
+  purposes:
+    advertising:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    analytics:
+    - for the sole purposes of measuring the effectiveness of our referral program
+      and sending the email you initiated
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    services:
+    - for the sole purposes of measuring the effectiveness of our referral program
+      and sending the email you initiated
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We may also use "pixel tags," "web beacons," "clear GIFs" or similar means (individually
+    or collectively " Pixel Tags ") in connection with our Services and to collect
+    usage, demographic and geographical location data.
+  - When you opt in to Third Party Mobile Application providers' location services,
+    we will share your geographic location with such Third Party Mobile Application
+    providers in connection with their location services.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - At times, we may disclose information about you to law enforcement officials or
+    private parties as we, in our sole discretion, believe necessary or appropriate
+    to respond to claims and legal process (including but not limited to subpoenas),
+    to protect the property and rights of Workout Inc or a third party, to protect
+    the safety of the public or any person or to prevent or stop activity we may consider
+    to be or to pose a risk of being, any illegal, unethical or legally actionable
+    activity.
+  purposes: {}
+- source: we
+  target: information browser send
+  key: COLLECT
+  text:
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+  purposes: {}
+- source: we
+  target: information search for
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: language
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: log data
+  key: COLLECT
+  text:
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+  purposes: {}
+- source: we
+  target: non - identify information
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    We Collect Personal Information and Non-Identifying Information'
+  purposes: {}
+- source: we
+  target: non - identifying information
+  key: COLLECT
+  text:
+  - Some Preferred Partners also act as Service Providers (defined below) to us, and
+    in those cases we may also share Personal Information and Non-Identifying Information
+    as described below.
+  - We also collect non-personal information, which is data in a form that does not
+    permit direct association with you or any specific individual (" Non-Identifying
+    Information ").
+  - We may collect, use, transfer and disclose Non-Identifying Information for any
+    purpose; details provided in this Privacy Policy about what Non-Identifying Information
+    we collect currently, and how we use, transfer and disclose such Non-Identifying
+    Information concern only how such information is collected and used today.
+  purposes: {}
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We also collect non-personal information, which is data in a form that does not
+    permit direct association with you or any specific individual (" Non-Identifying
+    Information ").
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - If your friend received an invitation from Workout Inc per your referral to try
+    the Services, your friend may request that the name and email address used in
+    the invitation be removed from Workout Inc's records.
+  - We store this information for the sole purposes of measuring the effectiveness
+    of our referral program and sending the email you initiated, but your friend can
+    request to have it removed from our database by emailing us at contact@workoutinc.net.
+  purposes:
+    analytics:
+    - for the sole purposes of measuring the effectiveness of our referral program
+      and sending the email you initiated
+    services:
+    - for the sole purposes of measuring the effectiveness of our referral program
+      and sending the email you initiated
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - In the course of using our Services, we may ask you to provide us with certain
+    personally identifiable information that can be used to contact or identify you.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - In connection with registration of Workout Inc Users on our Services, we collect
+    Personal Information which may include your email address, as well as information
+    on mobile device type, mobile carrier, unique mobile device identifier ("Device
+    ID"), Internet Protocol ("IP") address and geo location, as applicable.
+  - 'Privacy Policy
+
+
+    We Collect Personal Information and Non-Identifying Information'
+  - Some Preferred Partners also act as Service Providers (defined below) to us, and
+    in those cases we may also share Personal Information and Non-Identifying Information
+    as described below.
+  - Through use of such services' application programming interfaces (APIs) we can
+    receive certain information (which may include your Personal Information) in accordance
+    with the privacy settings you have set in your SNS account, if any.
+  - We will collect, use, transfer and disclose Personal Information in accordance
+    with our Privacy Policy.
+  - 'Your Personal Information may be used, for instance: For market research purposes
+    that support our efforts to deliver a more valuable service to our community of
+    Workout Inc Users; For example, we may use your Personal Information to contact
+    you with announcements, and promotional materials related to our Services or to
+    offer you opportunities to participate in surveys, contests or sweepstakes (any
+    of these a "Promotion") via our Services.'
+  purposes:
+    advertising:
+    - For market research purposes that support our efforts to deliver a more valuable
+      service to our community of Workout Inc Users
+    - to contact you with announcements, and promotional materials related to our
+      Services or to offer you opportunities to participate in surveys, contests or
+      sweepstakes (any of these a "Promotion") via our Services
+    analytics:
+    - For market research purposes that support our efforts to deliver a more valuable
+      service to our community of Workout Inc Users
+    services:
+    - For market research purposes that support our efforts to deliver a more valuable
+      service to our community of Workout Inc Users
+- source: we
+  target: pixel tags
+  key: COLLECT
+  text:
+  - We may also use "pixel tags," "web beacons," "clear GIFs" or similar means (individually
+    or collectively " Pixel Tags ") in connection with our Services and to collect
+    usage, demographic and geographical location data.
+  purposes: {}
+- source: we
+  target: precise geolocation
+  key: COLLECT
+  text:
+  - For location-based Services, we may collect, use, and share precise location data,
+    including the real-time geographic location of your computer or mobile device.
+  purposes: {}
+- source: we
+  target: screen name
+  key: COLLECT
+  text:
+  - In these instances, with your permission and on your behalf, we will share your
+    email address and screen name or alias with the applicable SNS.
+  purposes: {}
+- source: we
+  target: specific shared data
+  key: COLLECT
+  text:
+  - We may share your username, email address and Device ID (collectively, " Specific
+    Shared Data ") with certain of our Third Party Publishers and other business partners
+    ("Preferred Partners ") for those parties to assist us with providing you with
+    the aspect of the Services for which you provided such Specific Shared Data to
+    us, and to use such Specific Shared Data to provide you with information and marketing
+    materials about Third Party Mobile Applications and other products and services
+    in order, for example, to further enhance your use of our Services and to augment
+    your gaming and social networking experience generally.
+  purposes:
+    advertising:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    analytics:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    services:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+- source: we
+  target: statistic
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: time
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: time spend
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We use this information to monitor, analyze and understand trends, for technical
+    administration of Services and Third-Party Mobile Applications, and to gather
+    demographic information about our Workout Inc User base as a whole.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    analytics:
+    - to monitor, analyze and understand trends, for technical administration of Services
+      and Third-Party Mobile Applications, and to gather demographic information about
+      our Workout Inc User base as a whole
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: we
+  target: username
+  key: COLLECT
+  text:
+  - We may share your username, email address and Device ID (collectively, " Specific
+    Shared Data ") with certain of our Third Party Publishers and other business partners
+    ("Preferred Partners ") for those parties to assist us with providing you with
+    the aspect of the Services for which you provided such Specific Shared Data to
+    us, and to use such Specific Shared Data to provide you with information and marketing
+    materials about Third Party Mobile Applications and other products and services
+    in order, for example, to further enhance your use of our Services and to augment
+    your gaming and social networking experience generally.
+  purposes:
+    advertising:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    analytics:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+    services:
+    - for those parties to assist us with providing you with the aspect of the Services
+      for which you provided such Specific Shared Data to us, and to use such Specific
+      Shared Data to provide you with information and marketing materials about Third
+      Party Mobile Applications and other products and services in order, for example,
+      to further enhance your use of our Services and to augment your gaming and social
+      networking experience generally
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other websites or services may place their own cookies or other files on
+    your computer or mobile devices, collect data or solicit personal information
+    from you.
+  - We do not exercise control over third party websites or services.
+  - You decide what information is placed into the Health App and you can modify which
+    apps can access your data through your Health App settings.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: browser type
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: clickstream datum
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: date stamp
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: geolocation
+  key: COLLECT
+  text:
+  - When you opt in to Third Party Mobile Application providers' location services,
+    we will share your geographic location with such Third Party Mobile Application
+    providers in connection with their location services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information search for
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: ip address
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: language
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - These other websites or services may place their own cookies or other files on
+    your computer or mobile devices, collect data or solicit personal information
+    from you.
+  - We do not exercise control over third party websites or services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: statistic
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: time
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: UNSPECIFIED_ACTOR
+  target: time spend
+  key: COLLECT
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - We, and Third Party Publishers may use this information for product and services
+    improvements, and in marketing and advertising services.
+  purposes:
+    advertising:
+    - for product and services improvements, and in marketing and advertising services
+    services:
+    - for product and services improvements, and in marketing and advertising services
+- source: advertiser
+  target: aggregate non - identifying information
+  key: COLLECT
+  text:
+  - In addition to sharing aggregated Non-Identifying Information with Third Party
+    Publishers, we may also share aggregated Non-Identifying Information with advertisers
+    and ad networks (" Advertising Entities ") with whom we have strategic relationships.
+  purposes: {}
+- source: applicable sns
+  target: alias
+  key: COLLECT
+  text:
+  - In these instances, with your permission and on your behalf, we will share your
+    email address and screen name or alias with the applicable SNS.
+  purposes: {}
+- source: applicable sns
+  target: email address
+  key: COLLECT
+  text:
+  - In these instances, with your permission and on your behalf, we will share your
+    email address and screen name or alias with the applicable SNS.
+  purposes: {}
+- source: applicable sns
+  target: screen name
+  key: COLLECT
+  text:
+  - In these instances, with your permission and on your behalf, we will share your
+    email address and screen name or alias with the applicable SNS.
+  purposes: {}
+- source: law enforcement official
+  target: information about you
+  key: COLLECT
+  text:
+  - At times, we may disclose information about you to law enforcement officials or
+    private parties as we, in our sole discretion, believe necessary or appropriate
+    to respond to claims and legal process (including but not limited to subpoenas),
+    to protect the property and rights of Workout Inc or a third party, to protect
+    the safety of the public or any person or to prevent or stop activity we may consider
+    to be or to pose a risk of being, any illegal, unethical or legally actionable
+    activity.
+  purposes: {}
+- source: preferred partners
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We only share such information with Preferred Partners pursuant to an agreement
+    by which the Preferred Partner is under obligations not to disclose or use it
+    for any other purpose.
+  purposes: {}
+- source: private party
+  target: information about you
+  key: COLLECT
+  text:
+  - At times, we may disclose information about you to law enforcement officials or
+    private parties as we, in our sole discretion, believe necessary or appropriate
+    to respond to claims and legal process (including but not limited to subpoenas),
+    to protect the property and rights of Workout Inc or a third party, to protect
+    the safety of the public or any person or to prevent or stop activity we may consider
+    to be or to pose a risk of being, any illegal, unethical or legally actionable
+    activity.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Our Service Providers may have access to your Personal Information only to perform
+    these tasks on our behalf and are obligated not to disclose or use it for any
+    other purpose.
+  purposes:
+    services:
+    - only to perform these tasks on our behalf
+- source: workout inc user
+  target: personal information
+  key: COLLECT
+  text:
+  - If an Workout Inc User with an account chooses to participate in offer-linked
+    information requests or "clicks on" an advertisement or another third party link,
+    such Workout Inc User may be directed to that third party's website or service
+    and/or be prompted to provide Personal Information in connection with such activity.
+  purposes: {}
+- source: workout incmay
+  target: email address
+  key: COLLECT
+  text:
+  - Workout Incmay store the email address of the friend that you choose to email
+    via our Services, but would only do so for social purposes such as generating
+    friend recommendations (e.g., in connection with "people you may know" functionality).
+  purposes: {}
+- source: we
+  target: administration
+  key: SUBSUM
+  text:
+  - Disclosure of your Personal Information and Non-Identifying Information may also
+    occur where we engage or employ service providers, vendors or other third party
+    entities to facilitate provision of our Services (each a " Service Provider ")
+    (e.g., without limitation, improvement of our Services' features, user account
+    authentication, promotion and marketing, administration, analytics, virtual currency
+    transactions, crowd-sourcing, cloud storage and other related services), to provide
+    the Services on our behalf, or to assist us in analyzing how our Services are
+    being used.
+- source: we
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - Disclosure of your Personal Information and Non-Identifying Information may also
+    occur where we engage or employ service providers, vendors or other third party
+    entities to facilitate provision of our Services (each a " Service Provider ")
+    (e.g., without limitation, improvement of our Services' features, user account
+    authentication, promotion and marketing, administration, analytics, virtual currency
+    transactions, crowd-sourcing, cloud storage and other related services), to provide
+    the Services on our behalf, or to assist us in analyzing how our Services are
+    being used.
+- source: we
+  target: crowd sourcing
+  key: SUBSUM
+  text:
+  - Disclosure of your Personal Information and Non-Identifying Information may also
+    occur where we engage or employ service providers, vendors or other third party
+    entities to facilitate provision of our Services (each a " Service Provider ")
+    (e.g., without limitation, improvement of our Services' features, user account
+    authentication, promotion and marketing, administration, analytics, virtual currency
+    transactions, crowd-sourcing, cloud storage and other related services), to provide
+    the Services on our behalf, or to assist us in analyzing how our Services are
+    being used.
+- source: we
+  target: feature
+  key: SUBSUM
+  text:
+  - Disclosure of your Personal Information and Non-Identifying Information may also
+    occur where we engage or employ service providers, vendors or other third party
+    entities to facilitate provision of our Services (each a " Service Provider ")
+    (e.g., without limitation, improvement of our Services' features, user account
+    authentication, promotion and marketing, administration, analytics, virtual currency
+    transactions, crowd-sourcing, cloud storage and other related services), to provide
+    the Services on our behalf, or to assist us in analyzing how our Services are
+    being used.
+- source: we
+  target: related service
+  key: SUBSUM
+  text:
+  - Disclosure of your Personal Information and Non-Identifying Information may also
+    occur where we engage or employ service providers, vendors or other third party
+    entities to facilitate provision of our Services (each a " Service Provider ")
+    (e.g., without limitation, improvement of our Services' features, user account
+    authentication, promotion and marketing, administration, analytics, virtual currency
+    transactions, crowd-sourcing, cloud storage and other related services), to provide
+    the Services on our behalf, or to assist us in analyzing how our Services are
+    being used.
+- source: we
+  target: service provider
+  key: SUBSUM
+  text:
+  - Disclosure of your Personal Information and Non-Identifying Information may also
+    occur where we engage or employ service providers, vendors or other third party
+    entities to facilitate provision of our Services (each a " Service Provider ")
+    (e.g., without limitation, improvement of our Services' features, user account
+    authentication, promotion and marketing, administration, analytics, virtual currency
+    transactions, crowd-sourcing, cloud storage and other related services), to provide
+    the Services on our behalf, or to assist us in analyzing how our Services are
+    being used.
+- source: click datum
+  target: click url
+  key: SUBSUM
+  text:
+  - Some of our Services, including email messaging, use "click-through URLs" linked
+    to other content on our Services.
+  - We track this click-through data to help us determine interest in topics, Services
+    usability and other measures of Workout Inc User engagement.
+- source: click datum
+  target: email messaging
+  key: SUBSUM
+  text:
+  - Some of our Services, including email messaging, use "click-through URLs" linked
+    to other content on our Services.
+  - We track this click-through data to help us determine interest in topics, Services
+    usability and other measures of Workout Inc User engagement.
+- source: content
+  target: comment
+  key: SUBSUM
+  text:
+  - By using our Service you understand and agree that we are providing a platform
+    for you to create content, including photos, comments and other materials ("User
+    Content"), to the Service and to share User Content publicly.
+- source: content
+  target: photo
+  key: SUBSUM
+  text:
+  - By using our Service you understand and agree that we are providing a platform
+    for you to create content, including photos, comments and other materials ("User
+    Content"), to the Service and to share User Content publicly.
+- source: log data
+  target: browser type
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: clickstream datum
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: date stamp
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: information search for
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: ip address
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: language
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: statistic
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: time
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: log data
+  target: time spend
+  key: SUBSUM
+  text:
+  - This Log Data may include information such as your computer's or mobile device's
+    IP address, browser type, language, Internet Service Provider (ISP), referring
+    and exit pages, time spent, information searched for, time and date stamp, clickstream
+    data and other statistics.
+  - When you use our Services or Third-Party Mobile Applications, our servers automatically
+    record information that your browser or the applicable Service or Third-Party
+    Mobile Application sends ("Log Data").
+- source: personal information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - In connection with registration of Workout Inc Users on our Services, we collect
+    Personal Information which may include your email address, as well as information
+    on mobile device type, mobile carrier, unique mobile device identifier ("Device
+    ID"), Internet Protocol ("IP") address and geo location, as applicable.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - In connection with registration of Workout Inc Users on our Services, we collect
+    Personal Information which may include your email address, as well as information
+    on mobile device type, mobile carrier, unique mobile device identifier ("Device
+    ID"), Internet Protocol ("IP") address and geo location, as applicable.
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - In connection with registration of Workout Inc Users on our Services, we collect
+    Personal Information which may include your email address, as well as information
+    on mobile device type, mobile carrier, unique mobile device identifier ("Device
+    ID"), Internet Protocol ("IP") address and geo location, as applicable.
+- source: personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - In connection with registration of Workout Inc Users on our Services, we collect
+    Personal Information which may include your email address, as well as information
+    on mobile device type, mobile carrier, unique mobile device identifier ("Device
+    ID"), Internet Protocol ("IP") address and geo location, as applicable.
+- source: precise geolocation
+  target: geolocation
+  key: SUBSUM
+  text:
+  - For location-based Services, we may collect, use, and share precise location data,
+    including the real-time geographic location of your computer or mobile device.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: administration
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: applicable sns
+- type: ACTOR
+  id: crowd sourcing
+- type: ACTOR
+  id: feature
+- type: ACTOR
+  id: law enforcement official
+- type: ACTOR
+  id: preferred partners
+- type: ACTOR
+  id: private party
+- type: ACTOR
+  id: related service
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: workout inc user
+- type: ACTOR
+  id: workout incmay
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate non - identifying information
+- type: DATA
+  id: alias
+- type: DATA
+  id: archive copy of record
+- type: DATA
+  id: browser type
+- type: DATA
+  id: click datum
+- type: DATA
+  id: click url
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: comment
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date stamp
+- type: DATA
+  id: datum about activity
+- type: DATA
+  id: demographic information about workout inc user base as whole
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: email messaging
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information browser send
+- type: DATA
+  id: information search for
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language
+- type: DATA
+  id: log data
+- type: DATA
+  id: non - identify information
+- type: DATA
+  id: non - identifying information
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: photo
+- type: DATA
+  id: pixel tags
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: screen name
+- type: DATA
+  id: specific shared data
+- type: DATA
+  id: statistic
+- type: DATA
+  id: time
+- type: DATA
+  id: time spend
+- type: DATA
+  id: username

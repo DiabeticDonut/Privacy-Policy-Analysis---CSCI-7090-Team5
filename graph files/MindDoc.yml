@@ -1,0 +1,548 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - This data is also processed to fulfill our legal obligations regarding medical
+    device regulations for post market surveillance; if the account is deleted, we
+    use this data in anonymized form to fulfill the legal obligations.
+  - 'To create a personal account from the app or website, with which one can easily
+    access the history even when changing the smartphone, we collect and process the
+    following personal data: Subscription status and type'
+  purposes:
+    legal:
+    - to fulfill the legal obligations
+    services:
+    - To create a personal account from the app or website, with which one can easily
+      access the history even when changing the smartphone
+- source: we
+  target: account datum
+  key: COLLECT
+  text:
+  - We process the account and health data in order to provide the app for the intended
+    use, to be able to fulfill the user contract & for account creation.
+  - With your consent, we process the account data, technical data, device data, marketing
+    data and app usage data listed above in order to provide you with personalized
+    information and offers from MindDoc in the field of mental health.
+  purposes:
+    advertising:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    analytics:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    services:
+    - in order to provide the app for the intended use, to be able to fulfill the
+      user contract & for account creation
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+- source: we
+  target: billing datum list
+  key: COLLECT
+  text:
+  - If you use fee-based services, we also process the billing data listed above for
+    this purpose.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies (including third-party cookies) to improve our website and for
+    measuring advertising campaigns.
+  purposes:
+    advertising:
+    - to improve our website and for measuring advertising campaigns
+    analytics:
+    - to improve our website and for measuring advertising campaigns
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - Using Firebase Crashlytics, we process technical identification numbers for the
+    Firebase installation and the crash event, date and time of the crash, technical
+    information about the device and operating system, and information about the app
+    at the time of the crash.
+  purposes: {}
+- source: we
+  target: datum on
+  key: COLLECT
+  text:
+  - Based on your consent, we also collect data on how you use the information and
+    offers displayed (e.g. whether you open an email or click on a link contained
+    therein) in order to analyze and improve the provided information and our marketing
+    activities.
+  purposes:
+    advertising:
+    - in order to analyze and improve the provided information and our marketing activities
+    analytics:
+    - in order to analyze and improve the provided information and our marketing activities
+- source: we
+  target: device datum
+  key: COLLECT
+  text:
+  - With your consent, we process the account data, technical data, device data, marketing
+    data and app usage data listed above in order to provide you with personalized
+    information and offers from MindDoc in the field of mental health.
+  - With your consent, we process the technical data, device and marketing data as
+    well as app usage data to market our app on several ad platforms to similar user
+    groups, to measure and optimize our marketing campaigns.
+  purposes:
+    advertising:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    - to market our app on several ad platforms to similar user groups, to measure
+      and optimize our marketing campaigns
+    - to measure and optimize our marketing campaigns
+    analytics:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    - to market our app on several ad platforms to similar user groups, to measure
+      and optimize our marketing campaigns
+    - to measure and optimize our marketing campaigns
+    services:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+- source: we
+  target: firebase remote config
+  key: COLLECT
+  text:
+  - Firebase Remote Config is provided to us by Google LLC, 1600 Amphitheatre Parkway,
+    Mountain View, California 94043, USA.
+  purposes: {}
+- source: we
+  target: health datum
+  key: COLLECT
+  text:
+  - 'We collect, process and use the following health data in order to be able to
+    provide these services in accordance with section 2 of our GTC:'
+  purposes: {}
+- source: we
+  target: information about app at time of crash
+  key: COLLECT
+  text:
+  - Using Firebase Crashlytics, we process technical identification numbers for the
+    Firebase installation and the crash event, date and time of the crash, technical
+    information about the device and operating system, and information about the app
+    at the time of the crash.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We process usage & device data as described in our privacy policy for this & analysis
+    purposes.
+  - With your consent, we process the account data, technical data, device data, marketing
+    data and app usage data listed above in order to provide you with personalized
+    information and offers from MindDoc in the field of mental health.
+  - With your consent, we process the technical data, device and marketing data as
+    well as app usage data to market our app on several ad platforms to similar user
+    groups, to measure and optimize our marketing campaigns.
+  purposes:
+    advertising:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    - to market our app on several ad platforms to similar user groups, to measure
+      and optimize our marketing campaigns
+    - to measure and optimize our marketing campaigns
+    analytics:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    - to market our app on several ad platforms to similar user groups, to measure
+      and optimize our marketing campaigns
+    - to measure and optimize our marketing campaigns
+    services:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+- source: we
+  target: marketing datum
+  key: COLLECT
+  text:
+  - With your consent, we process the account data, technical data, device data, marketing
+    data and app usage data listed above in order to provide you with personalized
+    information and offers from MindDoc in the field of mental health.
+  purposes:
+    advertising:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    analytics:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    services:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+- source: we
+  target: payment receipt from apple
+  key: COLLECT
+  text:
+  - 'If you make use of fee-based offers in connection with the MindDoc app (e.g.
+    in-app offers), we also process the following data: Payment receipts from Apple
+    and Google (the receipts do not contain names or addresses)'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'To create a personal account from the app or website, with which one can easily
+    access the history even when changing the smartphone, we collect and process the
+    following personal data:'
+  - We store the personal data of our users processed in the web and mobile app as
+    part of online psychotherapy or unaccompanied use of the app on servers of our
+    IT service providers within the European Union, who process this data on our behalf
+    and on the legal basis of Art. 28 GDPR and are obliged to comply with the legal
+    provisions on data protection and data security.
+  - We store your personal data at most until you revoke your consent.
+  - We store your personal data, which we collect for the purpose of concluding and
+    fulfilling a contract with you for as long as this is necessary for contract negotiation
+    and fulfillment.
+  purposes:
+    services:
+    - To create a personal account from the app or website, with which one can easily
+      access the history even when changing the smartphone
+- source: we
+  target: technical datum
+  key: COLLECT
+  text:
+  - With your consent, we process the account data, technical data, device data, marketing
+    data and app usage data listed above in order to provide you with personalized
+    information and offers from MindDoc in the field of mental health.
+  - With your consent, we process the technical data, device and marketing data as
+    well as app usage data to market our app on several ad platforms to similar user
+    groups, to measure and optimize our marketing campaigns.
+  purposes:
+    advertising:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    - to market our app on several ad platforms to similar user groups, to measure
+      and optimize our marketing campaigns
+    - to measure and optimize our marketing campaigns
+    analytics:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+    - to market our app on several ad platforms to similar user groups, to measure
+      and optimize our marketing campaigns
+    - to measure and optimize our marketing campaigns
+    services:
+    - in order to provide you with personalized information and offers from MindDoc
+      in the field of mental health
+- source: we
+  target: technical identification number for firebase installation
+  key: COLLECT
+  text:
+  - Using Firebase Crashlytics, we process technical identification numbers for the
+    Firebase installation and the crash event, date and time of the crash, technical
+    information about the device and operating system, and information about the app
+    at the time of the crash.
+  purposes: {}
+- source: we
+  target: technical information about device
+  key: COLLECT
+  text:
+  - Using Firebase Crashlytics, we process technical identification numbers for the
+    Firebase installation and the crash event, date and time of the crash, technical
+    information about the device and operating system, and information about the app
+    at the time of the crash.
+  purposes: {}
+- source: AppsFlyer
+  target: advertising id
+  key: COLLECT
+  text:
+  - If you have given us consent to do so, AppsFlyer uses your advertising identifier
+    (Apple IDFA/IDVA on iOS and Android AAID on Android) and your IP and MAC addresses,
+    modified so that it is not possible to identify you or your mobile device individually,
+    to provide us with these insights.
+  purposes:
+    analytics:
+    - to provide us with these insights
+- source: AppsFlyer
+  target: device type
+  key: COLLECT
+  text:
+  - AppsFlyer also collects technical information (device type, operating system,
+    language).
+  purposes: {}
+- source: AppsFlyer
+  target: ip address
+  key: COLLECT
+  text:
+  - If you have given us consent to do so, AppsFlyer uses your advertising identifier
+    (Apple IDFA/IDVA on iOS and Android AAID on Android) and your IP and MAC addresses,
+    modified so that it is not possible to identify you or your mobile device individually,
+    to provide us with these insights.
+  purposes:
+    analytics:
+    - to provide us with these insights
+- source: AppsFlyer
+  target: mac address
+  key: COLLECT
+  text:
+  - If you have given us consent to do so, AppsFlyer uses your advertising identifier
+    (Apple IDFA/IDVA on iOS and Android AAID on Android) and your IP and MAC addresses,
+    modified so that it is not possible to identify you or your mobile device individually,
+    to provide us with these insights.
+  purposes:
+    analytics:
+    - to provide us with these insights
+- source: AppsFlyer
+  target: technical information
+  key: COLLECT
+  text:
+  - AppsFlyer also collects technical information (device type, operating system,
+    language).
+  purposes: {}
+- source: Google
+  target: firebase remote config
+  key: COLLECT
+  text:
+  - Firebase Remote Config is provided to us by Google LLC, 1600 Amphitheatre Parkway,
+    Mountain View, California 94043, USA.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: update configuration value
+  key: COLLECT
+  text:
+  - When using Firebase Remote Config, updated configuration values are transmitted
+    to your app using a Firebase installation ID.
+  purposes: {}
+- source: amphitheatre parkway
+  target: firebase remote config
+  key: COLLECT
+  text:
+  - Firebase Remote Config is provided to us by Google LLC, 1600 Amphitheatre Parkway,
+    Mountain View, California 94043, USA.
+  purposes: {}
+- source: advertiser
+  target: Facebook
+  key: SUBSUM
+  text:
+  - Through AppsFlyer, we share standard app events, such as installing the MindDoc
+    app or signing in to our services, with certain advertising networks such as Facebook
+    and Google Ads.
+- source: advertiser
+  target: Google
+  key: SUBSUM
+  text:
+  - Through AppsFlyer, we share standard app events, such as installing the MindDoc
+    app or signing in to our services, with certain advertising networks such as Facebook
+    and Google Ads.
+- source: batch
+  target: IMEDIAPP
+  key: SUBSUM
+  text:
+  - 'If you have given us your consent to receive personalized information and offers
+    from MindDoc on the subject of mental health, we use the service provider IMEDIAPP
+    SA, 43 rue Beaubourg, 75003 Paris, France (hereinafter: "Batch") to select suitable
+    content for you and to send you the notifications by email, push or in-app message.'
+- source: batch
+  target: rue beaubourg
+  key: SUBSUM
+  text:
+  - 'If you have given us your consent to receive personalized information and offers
+    from MindDoc on the subject of mental health, we use the service provider IMEDIAPP
+    SA, 43 rue Beaubourg, 75003 Paris, France (hereinafter: "Batch") to select suitable
+    content for you and to send you the notifications by email, push or in-app message.'
+- source: batch
+  target: service provider
+  key: SUBSUM
+  text:
+  - 'If you have given us your consent to receive personalized information and offers
+    from MindDoc on the subject of mental health, we use the service provider IMEDIAPP
+    SA, 43 rue Beaubourg, 75003 Paris, France (hereinafter: "Batch") to select suitable
+    content for you and to send you the notifications by email, push or in-app message.'
+- source: data transfer for marketing to google
+  target: store datum
+  key: SUBSUM
+  text:
+  - I agree to data transfer for marketing & analytics to Google and Meta, including
+    device stored data as outlined in our privacy policy.
+- source: health datum
+  target: create base input
+  key: SUBSUM
+  text:
+  - 'We collect, process and use the following health data in order to be able to
+    provide these services in accordance with section 2 of our GTC: User-created text-based
+    input'
+- source: health datum
+  target: datum about factor impact mental health
+  key: SUBSUM
+  text:
+  - 'We collect, process and use the following health data in order to be able to
+    provide these services in accordance with section 2 of our GTC: Data about factors
+    that may impact mental health'
+- source: health datum
+  target: datum about sign of mental disorder
+  key: SUBSUM
+  text:
+  - 'We collect, process and use the following health data in order to be able to
+    provide these services in accordance with section 2 of our GTC: Data about signs
+    and symptoms of mental disorders and their severity'
+- source: health datum
+  target: information on scale of smiley
+  key: SUBSUM
+  text:
+  - 'We collect, process and use the following health data in order to be able to
+    provide these services in accordance with section 2 of our GTC: Information on
+    a scale of smileys, with which moods are regularly documented'
+- source: log datum
+  target: last connection
+  key: SUBSUM
+  text:
+  - 'This data describes technical information about the installed app or account
+    creation via website: Log data (e.g. last connection)'
+- source: personal information
+  target: advertising id
+  key: SUBSUM
+  text:
+  - Here, we use all possibilities to deactivate the collection of personal data such
+    as the advertising or provider ID or to anonymize it in advance (IP address),
+    so that no personal data is processed by Firebase except for a temporary FireBase
+    instance ID (FireBase token), which is stored in encrypted form.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'To create a personal account from the app or website, with which one can easily
+    access the history even when changing the smartphone, we collect and process the
+    following personal data: Email Address'
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'To create a personal account from the app or website, with which one can easily
+    access the history even when changing the smartphone, we collect and process the
+    following personal data: First name'
+  - 'To create a personal account from the app or website, with which one can easily
+    access the history even when changing the smartphone, we collect and process the
+    following personal data: Name'
+- source: personal information
+  target: subscription status
+  key: SUBSUM
+  text:
+  - 'To create a personal account from the app or website, with which one can easily
+    access the history even when changing the smartphone, we collect and process the
+    following personal data: Subscription status and type'
+- source: retarus
+  target: aschauer strasse
+  key: SUBSUM
+  text:
+  - 'The service provider Retarus GmbH, Aschauer Strasse 30, 81549 Munich, Germany
+    (hereinafter: "Retarus") is used by us to provide transactionalE-Mail services.'
+- source: retarus
+  target: retarus gmbh
+  key: SUBSUM
+  text:
+  - 'The service provider Retarus GmbH, Aschauer Strasse 30, 81549 Munich, Germany
+    (hereinafter: "Retarus") is used by us to provide transactionalE-Mail services.'
+- source: retarus
+  target: service provider
+  key: SUBSUM
+  text:
+  - 'The service provider Retarus GmbH, Aschauer Strasse 30, 81549 Munich, Germany
+    (hereinafter: "Retarus") is used by us to provide transactionalE-Mail services.'
+- source: sensitive datum
+  target: health datum
+  key: SUBSUM
+  text:
+  - We therefore ask you not to send sensitive data (e.g. health data) by email if
+    possible.
+nodes:
+- type: ACTOR
+  id: AppsFlyer
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: IMEDIAPP
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: amphitheatre parkway
+- type: ACTOR
+  id: aschauer strasse
+- type: ACTOR
+  id: batch
+- type: ACTOR
+  id: retarus
+- type: ACTOR
+  id: retarus gmbh
+- type: ACTOR
+  id: rue beaubourg
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account datum
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: billing datum list
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: create base input
+- type: DATA
+  id: data transfer for marketing to google
+- type: DATA
+  id: date
+- type: DATA
+  id: datum about factor impact mental health
+- type: DATA
+  id: datum about sign of mental disorder
+- type: DATA
+  id: datum on
+- type: DATA
+  id: device datum
+- type: DATA
+  id: device type
+- type: DATA
+  id: email address
+- type: DATA
+  id: firebase remote config
+- type: DATA
+  id: health datum
+- type: DATA
+  id: information about app at time of crash
+- type: DATA
+  id: information on scale of smiley
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: last connection
+- type: DATA
+  id: log datum
+- type: DATA
+  id: mac address
+- type: DATA
+  id: marketing datum
+- type: DATA
+  id: payment receipt from apple
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: sensitive datum
+- type: DATA
+  id: store datum
+- type: DATA
+  id: subscription status
+- type: DATA
+  id: technical datum
+- type: DATA
+  id: technical identification number for firebase installation
+- type: DATA
+  id: technical information
+- type: DATA
+  id: technical information about device
+- type: DATA
+  id: update configuration value

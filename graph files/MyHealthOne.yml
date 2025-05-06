@@ -1,0 +1,1045 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We collect information from you:'
+  - We may also ask for information about your location and medical needs to assist
+    with finding a physician, and may collect and pass on information to assist you
+    in scheduling appointments, register for classes and pre-register for procedures.
+  - 'We may disclose Personal Information: To Partners . We may share information
+    with marketing, treatment or health care operations support partners required
+    to protect the confidentiality of your information that will enable them to send
+    you targeted messages or serve you targeted advertising, with your authorization
+    or otherwise in compliance with HIPAA (defined below) and other applicable laws.'
+  purposes:
+    analytics:
+    - for information about your location and medical needs
+    services:
+    - for information about your location and medical needs
+    - to assist with finding a physician
+    - to assist you in scheduling appointments, register for classes and pre-register
+      for procedures
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - In addition, we or other third party advertisers, may use web beacons to help
+    manage our online advertising.
+  - Our services use cookies and similar technologies to collect data during the user
+    experience, including demographic data.
+  purposes:
+    advertising:
+    - to help manage our online advertising
+- source: we
+  target: cover information
+  key: COLLECT
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Retention of Categories of Personal Information
+
+
+    Your Nevada Privacy Rights
+
+
+    We may share such covered information with categories of third parties such as
+    marketing.'
+  purposes: {}
+- source: we
+  target: demographic datum
+  key: COLLECT
+  text:
+  - Our services use cookies and similar technologies to collect data during the user
+    experience, including demographic data.
+  purposes: {}
+- source: we
+  target: health information as patient history
+  key: COLLECT
+  text:
+  - We may ask for information about your location and medical needs to assist with
+    finding a physician, and may collect and pass on information (which may include,
+    where relevant, health information such as your patient history) to assist you
+    in scheduling appointments, pre-registering for procedures, and registering for
+    classes.
+  purposes:
+    analytics:
+    - for information about your location and medical needs
+    services:
+    - for information about your location and medical needs
+    - to assist with finding a physician
+    - to assist you in scheduling appointments, pre-registering for procedures, and
+      registering for classes
+- source: we
+  target: information collect through myhealthone
+  key: COLLECT
+  text:
+  - Information Collected through MyHealthONE
+  - We use this information to analyze and improve our Services, monitor traffic and
+    usage patterns for information security purposes and to help make our Services
+    more useful.
+  purposes:
+    analytics:
+    - to analyze and improve our Services, monitor traffic and usage patterns for
+      information security purposes and to help make our Services more useful
+    security:
+    - to analyze and improve our Services, monitor traffic and usage patterns for
+      information security purposes and to help make our Services more useful
+    services:
+    - to analyze and improve our Services, monitor traffic and usage patterns for
+      information security purposes and to help make our Services more useful
+- source: we
+  target: information on region
+  key: COLLECT
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: We collect information on your region or postal code to help us gather
+    information useful for improving the relevance of our content; and'
+  - We do not collect precise information (e.g., GPS data; latitude and longitude)
+    concerning the location from which you access the Services, but we collect information
+    on your region or postal code to help us gather information useful for improving
+    the relevance of our content and securing our Services.
+  purposes:
+    analytics:
+    - to help us gather information useful for improving the relevance of our content
+    - to help us gather information useful for improving the relevance of our content
+      and securing our Services
+    security:
+    - to help us gather information useful for improving the relevance of our content
+      and securing our Services
+    services:
+    - to help us gather information useful for improving the relevance of our content
+      and securing our Services
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We use Google Analytics and Firebase on our Services to help us analyze the traffic
+    and user activity on our Services, which may include the use of mobile device
+    identifiers provided by applicable Apple or Google services (unless a user opts
+    out of interest-based advertising or ads personalization) or similar technologies
+    that are used to collect data.
+  purposes: {}
+- source: we
+  target: mobile app content share
+  key: COLLECT
+  text:
+  - Mobile App Content shared by you will be used by us in support of providing the
+    Service to you.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We and our service providers may collect Personal Information through mobile applications,
+    including iOS and Android apps (collectively, "Mobile Apps"), with your consent.
+  - 'We collect certain information, including Personal Information, from and about
+    MyHealthONE users in three ways:'
+  - We may also use Personal Information to respond to and fulfill your requests.
+  - 'We may disclose Personal Information about you if we have a good faith belief
+    that disclosure of such information is helpful or reasonably necessary to: (i)
+    comply with any applicable law, regulation, legal process or governmental request;
+    (ii) enforce our Terms, including investigations of potential violations thereof;
+    (iii) detect, prevent, or otherwise address fraud or security issues; or (iv)
+    protect against harm to our or third parties'' rights, property or safety.'
+  - 'We may disclose Personal Information:'
+  - We may transfer or assign Personal Information to a third party entity that acquires
+    or is merged with us as part of a merger, acquisition, sale, or other change of
+    control.
+  - We transfer Personal Information to third party service providers to perform tasks
+    on our behalf and to assist us in providing our Services.
+  - We will retain Personal Data for the period necessary to fulfill the purposes
+    for which it has been collected.
+  - We will retain Personal Information for the period necessary to fulfill the purposes
+    for which it has been collected as described in this Privacy Policy unless a longer
+    retention period is required by law, for security, fraud & abuse prevention, to
+    comply with legal or regulatory requirements, to ensure continuity of services
+    or financial record-keeping purposes.
+  - We will retain Personal Information for the period necessary to fulfill the purposes
+    for which it has been collected.
+  purposes:
+    services:
+    - to perform tasks on our behalf and to assist us in providing our Services
+    - to respond to and fulfill your requests
+- source: we
+  target: traffic
+  key: COLLECT
+  text:
+  - We use Google Analytics and Firebase on our Services to help us analyze the traffic
+    and user activity on our Services, which may include the use of mobile device
+    identifiers provided by applicable Apple or Google services (unless a user opts
+    out of interest-based advertising or ads personalization) or similar technologies
+    that are used to collect data.
+  purposes: {}
+- source: we
+  target: traffic on service
+  key: COLLECT
+  text:
+  - We use Google Analytics, an analytics service, to help us analyze the traffic
+    on our Services.
+  purposes: {}
+- source: we
+  target: usage
+  key: COLLECT
+  text:
+  - When you access or use our Services, we may track information to administer our
+    Services and analyze its usage.
+  purposes:
+    analytics:
+    - to administer our Services and analyze its usage
+    services:
+    - to administer our Services and analyze its usage
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - By using our Services, you understand and agree that your information may be transferred
+    to our facilities and those third parties with whom we share it as described in
+    this Privacy Policy.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - Third parties may collect covered information about your online activities over
+    time and across different Internet websites or online services when you use the
+    Website, Portals, or Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: internet activity
+  key: COLLECT
+  text:
+  - Third parties may collect covered information about your online activities over
+    time and across different Internet websites or online services when you use the
+    Website, Portals, or Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - In contacting that site, or in providing information on that site, that third
+    party may obtain Personal Information about you.
+  - We may transfer or assign Personal Information to a third party entity that acquires
+    or is merged with us as part of a merger, acquisition, sale, or other change of
+    control.
+  - We transfer Personal Information to third party service providers to perform tasks
+    on our behalf and to assist us in providing our Services.
+  purposes:
+    services:
+    - to perform tasks on our behalf and to assist us in providing our Services
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - In addition, we or other third party advertisers, may use web beacons to help
+    manage our online advertising.
+  purposes:
+    advertising:
+    - to help manage our online advertising
+- source: advertiser
+  target: non-personal information
+  key: COLLECT
+  text:
+  - These companies use non-personally identifiable information regarding your access
+    and use of our Services and other websites, such as the pages viewed, date and
+    time of your visit, and number of times you have viewed an ad (but not your name,
+    address, or other personal information), to serve ads to you on our Services and
+    other websites that may be of interest to you.
+  - We may allow third party advertising companies to serve ads when you access or
+    use our Services.
+  purposes:
+    advertising:
+    - to serve ads to you on our Services and other websites that may be of interest
+      to you
+- source: authorize representative
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Information: To Authorized Representatives .'
+  purposes: {}
+- source: facility
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - By using our Services, you understand and agree that your information may be transferred
+    to our facilities and those third parties with whom we share it as described in
+    this Privacy Policy.
+  purposes: {}
+- source: feature on service
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Some features on our Services (such as video widgets on the MyHealthONE website
+    used for demonstrations) may use cookies or other methods to gather information
+    regarding your use of MyHealthONE, and may combine the information in these cookies
+    with any Personal Information about you that they may have.
+  purposes:
+    analytics:
+    - to gather information regarding your use of MyHealthONE
+- source: feature on service
+  target: information regard use of myhealthone
+  key: COLLECT
+  text:
+  - Some features on our Services (such as video widgets on the MyHealthONE website
+    used for demonstrations) may use cookies or other methods to gather information
+    regarding your use of MyHealthONE, and may combine the information in these cookies
+    with any Personal Information about you that they may have.
+  purposes: {}
+- source: healthcare provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Your healthcare providers may have access to Personal Information for administrative
+    and healthcare services.
+  purposes: {}
+- source: marketing
+  target: cover information
+  key: COLLECT
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Retention of Categories of Personal Information
+
+
+    Your Nevada Privacy Rights
+
+
+    We may share such covered information with categories of third parties such as
+    marketing.'
+  purposes: {}
+- source: marketing operation support partner
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Information: To Partners . We may share information
+    with marketing, treatment or health care operations support partners required
+    to protect the confidentiality of your information that will enable them to send
+    you targeted messages or serve you targeted advertising, with your authorization
+    or otherwise in compliance with HIPAA (defined below) and other applicable laws.'
+  purposes: {}
+- source: myhealthone service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Information: To MyHealthONE Service Providers.'
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We and our service providers may collect Personal Information through mobile applications,
+    including iOS and Android apps (collectively, "Mobile Apps"), with your consent.
+  purposes: {}
+- source: Google
+  target: uptime banner hosting
+  key: SUBSUM
+  text:
+  - 'We have implemented the following Google Analytics for Firebase features: Uptime
+    banner hosting (i.e., banner to show in the app if our app is experiencing issues)'
+- source: base service
+  target: assistance in
+  key: SUBSUM
+  text:
+  - '"MyHealthONE" is a website and mobile application designed to offer you access
+    to some of your records at affiliated facilities, as well as certain internet-based
+    services which may include assistance in finding a doctor, assistance in scheduling
+    appointments, the ability to register for classes and pre-register for procedures,
+    and health and patient education materials.'
+- source: base service
+  target: class
+  key: SUBSUM
+  text:
+  - '"MyHealthONE" is a website and mobile application designed to offer you access
+    to some of your records at affiliated facilities, as well as certain internet-based
+    services which may include assistance in finding a doctor, assistance in scheduling
+    appointments, the ability to register for classes and pre-register for procedures,
+    and health and patient education materials.'
+  - As a Service to its customers, we may also provide Portals to offer some customers
+    secure, private access to their own records at our facilities, as well as certain
+    internet-based services which may include, among other things, assistance in finding
+    a doctor, assistance in scheduling appointments, the ability to register for classes
+    and pre-register for procedures, the ability to make payment for medical services
+    rendered, and access to health and patient education materials and secure messaging
+    ("Portal").
+- source: base service
+  target: health material
+  key: SUBSUM
+  text:
+  - '"MyHealthONE" is a website and mobile application designed to offer you access
+    to some of your records at affiliated facilities, as well as certain internet-based
+    services which may include assistance in finding a doctor, assistance in scheduling
+    appointments, the ability to register for classes and pre-register for procedures,
+    and health and patient education materials.'
+- source: cover information
+  target: personal information
+  key: SUBSUM
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Retention of Categories of Personal Information
+
+
+    Your Nevada Privacy Rights
+
+
+    We may share such covered information with categories of third parties such as
+    marketing.'
+- source: cover information about you
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of covered information about you through
+    our Website, Portals, and Services when you visit the Website and Portals or use
+    the Services such as: Email Address;'
+- source: cover information about you
+  target: person name
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of covered information about you through
+    our Website, Portals, and Services when you visit the Website and Portals or use
+    the Services such as: First and Last Name;'
+- source: cover information about you
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of covered information about you through
+    our Website, Portals, and Services when you visit the Website and Portals or use
+    the Services such as: Telephone Number; and'
+- source: cover information about you
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of covered information about you through
+    our Website, Portals, and Services when you visit the Website and Portals or use
+    the Services such as: Physical Address;'
+- source: cover information about you
+  target: user name
+  key: SUBSUM
+  text:
+  - 'We may collect the following categories of covered information about you through
+    our Website, Portals, and Services when you visit the Website and Portals or use
+    the Services such as: User Name.'
+- source: educational record
+  target: class list
+  key: SUBSUM
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Your Rights
+
+
+    Minors
+
+
+    Educational records such as transcripts, class lists, student course schedules,
+    health records, student financial information, and student disciplinary records.'
+- source: educational record
+  target: health record
+  key: SUBSUM
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Your Rights
+
+
+    Minors
+
+
+    Educational records such as transcripts, class lists, student course schedules,
+    health records, student financial information, and student disciplinary records.'
+- source: educational record
+  target: student course schedule
+  key: SUBSUM
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Your Rights
+
+
+    Minors
+
+
+    Educational records such as transcripts, class lists, student course schedules,
+    health records, student financial information, and student disciplinary records.'
+- source: educational record
+  target: student disciplinary record
+  key: SUBSUM
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Your Rights
+
+
+    Minors
+
+
+    Educational records such as transcripts, class lists, student course schedules,
+    health records, student financial information, and student disciplinary records.'
+- source: educational record
+  target: student financial information
+  key: SUBSUM
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Your Rights
+
+
+    Minors
+
+
+    Educational records such as transcripts, class lists, student course schedules,
+    health records, student financial information, and student disciplinary records.'
+- source: educational record
+  target: transcript
+  key: SUBSUM
+  text:
+  - 'How We Disclose Personal Information
+
+
+    Your Rights
+
+
+    Minors
+
+
+    Educational records such as transcripts, class lists, student course schedules,
+    health records, student financial information, and student disciplinary records.'
+- source: gender
+  target: gender expression
+  key: SUBSUM
+  text:
+  - 'Minors
+
+
+    Age, race, color, ancestry, national origin, citizenship, religion or creed, marital
+    status, medical condition, physical or mental disability, sex (including gender,
+    gender identity, gender expression, pregnancy or childbirth and related medical
+    conditions), sexual orientation, veteran or military status, genetic information
+    (including familial genetic information)'
+- source: gender
+  target: gender identity
+  key: SUBSUM
+  text:
+  - 'Minors
+
+
+    Age, race, color, ancestry, national origin, citizenship, religion or creed, marital
+    status, medical condition, physical or mental disability, sex (including gender,
+    gender identity, gender expression, pregnancy or childbirth and related medical
+    conditions), sexual orientation, veteran or military status, genetic information
+    (including familial genetic information)'
+- source: genetic information
+  target: familial genetic information
+  key: SUBSUM
+  text:
+  - 'Minors
+
+
+    Age, race, color, ancestry, national origin, citizenship, religion or creed, marital
+    status, medical condition, physical or mental disability, sex (including gender,
+    gender identity, gender expression, pregnancy or childbirth and related medical
+    conditions), sexual orientation, veteran or military status, genetic information
+    (including familial genetic information)'
+- source: identifier
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Identifiers such as name, date of birth, address, email address or phone
+    number;'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Identifiers such as name, date of birth, address, email address or phone
+    number;'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Identifiers such as name, date of birth, address, email address or phone
+    number;'
+- source: identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Identifiers such as name, date of birth, address, email address or phone
+    number;'
+- source: identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Identifiers such as name, date of birth, address, email address or phone
+    number;'
+- source: information we track
+  target: date
+  key: SUBSUM
+  text:
+  - 'Examples of information we may track include, without limitation: Date and time
+    of your visit;'
+- source: information we track
+  target: information you view on service
+  key: SUBSUM
+  text:
+  - 'Examples of information we may track include, without limitation: Pages or information
+    you viewed on our Services.'
+- source: information we track
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Examples of information we may track include, without limitation: Your Internet
+    protocol address;'
+- source: information we track
+  target: name of internet service provider
+  key: SUBSUM
+  text:
+  - 'Examples of information we may track include, without limitation: Name of your
+    Internet service provider;'
+- source: information we track
+  target: number of link you click within service
+  key: SUBSUM
+  text:
+  - 'Examples of information we may track include, without limitation: Number of links
+    you click within our Services;'
+- source: internet activity
+  target: device identifier
+  key: SUBSUM
+  text:
+  - We use Google Analytics and Firebase on our Services to help us analyze the traffic
+    and user activity on our Services, which may include the use of mobile device
+    identifiers provided by applicable Apple or Google services (unless a user opts
+    out of interest-based advertising or ads personalization) or similar technologies
+    that are used to collect data.
+- source: internet activity
+  target: type of browser
+  key: SUBSUM
+  text:
+  - 'The following describes the Personal Data that we share with third parties: Internet
+    or electronic network activity information such as browsing history, Internet
+    protocol address, type of browser, number of links clicked within our Services,
+    state or country from which you accessed our Services, date and time of visit,
+    name of Internet service provider, third party websites you linked to from our
+    Services, pages or information you viewed on our Services or number of times you
+    have viewed an ad.'
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+- source: message
+  target: electronic newsletter
+  key: SUBSUM
+  text:
+  - We may send certain messages, including electronic newsletters, notification of
+    account statuses, and marketing communications on a periodic basis.
+- source: message
+  target: marketing communication
+  key: SUBSUM
+  text:
+  - We may send certain messages, including electronic newsletters, notification of
+    account statuses, and marketing communications on a periodic basis.
+- source: message
+  target: secure message send
+  key: SUBSUM
+  text:
+  - All such material will have information as to how to opt-out of receiving it,
+    although certain messages (such as a secure message sent by a doctor or an account
+    status update via the Portal), may be required by law and will not have opt-out
+    capabilities.
+- source: mobile application
+  target: ios app
+  key: SUBSUM
+  text:
+  - We and our service providers may collect Personal Information through mobile applications,
+    including iOS and Android apps (collectively, "Mobile Apps"), with your consent.
+- source: mobile apps
+  target: mobile application
+  key: SUBSUM
+  text:
+  - We and our service providers may collect Personal Information through mobile applications,
+    including iOS and Android apps (collectively, "Mobile Apps"), with your consent.
+- source: non-personal information
+  target: date
+  key: SUBSUM
+  text:
+  - These companies use non-personally identifiable information regarding your access
+    and use of our Services and other websites, such as the pages viewed, date and
+    time of your visit, and number of times you have viewed an ad (but not your name,
+    address, or other personal information), to serve ads to you on our Services and
+    other websites that may be of interest to you.
+- source: non-personal information
+  target: number of time
+  key: SUBSUM
+  text:
+  - These companies use non-personally identifiable information regarding your access
+    and use of our Services and other websites, such as the pages viewed, date and
+    time of your visit, and number of times you have viewed an ad (but not your name,
+    address, or other personal information), to serve ads to you on our Services and
+    other websites that may be of interest to you.
+- source: personal datum collect
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Identifiers such as name, date of birth, address, email address or phone
+    number;'
+- source: personal datum collect
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+- source: personal information
+  target: amount
+  key: SUBSUM
+  text:
+  - The type and amount of Personal Information we collect about you depends on how
+    you use MyHealthONE.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - Under California's "Shine the Light" law (Civil Code Section SS 1798.83), California
+    residents have the right to request in writing from businesses with whom they
+    have an established business relationship, (a) a list of the categories of personal
+    information, such as name, email and mailing address and the type of services
+    provided to the customer, that a business has disclosed to third parties (including
+    affiliates that are separate legal entities) during the immediately preceding
+    calendar year for the third parties' direct marketing purposes; and (b) the names
+    and addresses of all such third parties.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - Under California's "Shine the Light" law (Civil Code Section SS 1798.83), California
+    residents have the right to request in writing from businesses with whom they
+    have an established business relationship, (a) a list of the categories of personal
+    information, such as name, email and mailing address and the type of services
+    provided to the customer, that a business has disclosed to third parties (including
+    affiliates that are separate legal entities) during the immediately preceding
+    calendar year for the third parties' direct marketing purposes; and (b) the names
+    and addresses of all such third parties.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Under California's "Shine the Light" law (Civil Code Section SS 1798.83), California
+    residents have the right to request in writing from businesses with whom they
+    have an established business relationship, (a) a list of the categories of personal
+    information, such as name, email and mailing address and the type of services
+    provided to the customer, that a business has disclosed to third parties (including
+    affiliates that are separate legal entities) during the immediately preceding
+    calendar year for the third parties' direct marketing purposes; and (b) the names
+    and addresses of all such third parties.
+- source: personal information collect from service
+  target: contact information
+  key: SUBSUM
+  text:
+  - We do not sell, lease, rent or otherwise disclose the Personal Information collected
+    from our Services (including contact, health or billing information) to third
+    parties other than as provided below, unless we obtain your consent.
+- source: precise information
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - We do not collect precise information (e.g., GPS data; latitude and longitude)
+    concerning the location from which you access the Services, but we collect information
+    on your region or postal code to help us gather information useful for improving
+    the relevance of our content and securing our Services.
+- source: technology indicate intent opt
+  target: web link indicate preference
+  key: SUBSUM
+  text:
+  - In addition to the opt-out link above, an Authorized Agent may exercise a Consumer's
+    opt-out right through a technology indicating the Consumer's intent to opt out
+    such as a web link indicating a preference or browser setting, browser extension,
+    or global device setting.
+- source: type of browser
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'The following describes the Personal Data that we share with third parties: Internet
+    or electronic network activity information such as browsing history, Internet
+    protocol address, type of browser, number of links clicked within our Services,
+    state or country from which you accessed our Services, date and time of visit,
+    name of Internet service provider, third party websites you linked to from our
+    Services, pages or information you viewed on our Services or number of times you
+    have viewed an ad.'
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+- source: type of browser
+  target: date
+  key: SUBSUM
+  text:
+  - 'The following describes the Personal Data that we share with third parties: Internet
+    or electronic network activity information such as browsing history, Internet
+    protocol address, type of browser, number of links clicked within our Services,
+    state or country from which you accessed our Services, date and time of visit,
+    name of Internet service provider, third party websites you linked to from our
+    Services, pages or information you viewed on our Services or number of times you
+    have viewed an ad.'
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+- source: type of browser
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'The following describes the Personal Data that we share with third parties: Internet
+    or electronic network activity information such as browsing history, Internet
+    protocol address, type of browser, number of links clicked within our Services,
+    state or country from which you accessed our Services, date and time of visit,
+    name of Internet service provider, third party websites you linked to from our
+    Services, pages or information you viewed on our Services or number of times you
+    have viewed an ad.'
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+- source: type of browser
+  target: name of internet service provider
+  key: SUBSUM
+  text:
+  - 'The following describes the Personal Data that we share with third parties: Internet
+    or electronic network activity information such as browsing history, Internet
+    protocol address, type of browser, number of links clicked within our Services,
+    state or country from which you accessed our Services, date and time of visit,
+    name of Internet service provider, third party websites you linked to from our
+    Services, pages or information you viewed on our Services or number of times you
+    have viewed an ad.'
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+- source: type of browser
+  target: number
+  key: SUBSUM
+  text:
+  - 'The following describes the Personal Data that we share with third parties: Internet
+    or electronic network activity information such as browsing history, Internet
+    protocol address, type of browser, number of links clicked within our Services,
+    state or country from which you accessed our Services, date and time of visit,
+    name of Internet service provider, third party websites you linked to from our
+    Services, pages or information you viewed on our Services or number of times you
+    have viewed an ad.'
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+- source: type of browser
+  target: number of time you view ad
+  key: SUBSUM
+  text:
+  - 'The following describes the Personal Data that we share with third parties: Internet
+    or electronic network activity information such as browsing history, Internet
+    protocol address, type of browser, number of links clicked within our Services,
+    state or country from which you accessed our Services, date and time of visit,
+    name of Internet service provider, third party websites you linked to from our
+    Services, pages or information you viewed on our Services or number of times you
+    have viewed an ad.'
+  - 'The following describes the categories of Personal Data collected or processed
+    by us: Internet or electronic network activity information such as browsing history,
+    Internet protocol address, type of browser, number of links clicked within our
+    Services, state or country from which you accessed our Services, date and time
+    of visit, name of Internet service provider, third party websites you linked to
+    from our Services, pages or information you viewed on our Services or number of
+    times you have viewed an ad.'
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: assistance in
+- type: ACTOR
+  id: authorize representative
+- type: ACTOR
+  id: base service
+- type: ACTOR
+  id: class
+- type: ACTOR
+  id: facility
+- type: ACTOR
+  id: feature on service
+- type: ACTOR
+  id: health material
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: ios app
+- type: ACTOR
+  id: marketing
+- type: ACTOR
+  id: marketing operation support partner
+- type: ACTOR
+  id: mobile application
+- type: ACTOR
+  id: mobile apps
+- type: ACTOR
+  id: myhealthone service provider
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: technology indicate intent opt
+- type: ACTOR
+  id: uptime banner hosting
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: web link indicate preference
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: amount
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: class list
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: cover information
+- type: DATA
+  id: cover information about you
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: demographic datum
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: educational record
+- type: DATA
+  id: electronic newsletter
+- type: DATA
+  id: email address
+- type: DATA
+  id: familial genetic information
+- type: DATA
+  id: gender
+- type: DATA
+  id: gender expression
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: genetic information
+- type: DATA
+  id: health information as patient history
+- type: DATA
+  id: health record
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information collect through myhealthone
+- type: DATA
+  id: information on region
+- type: DATA
+  id: information regard use of myhealthone
+- type: DATA
+  id: information we track
+- type: DATA
+  id: information you view on service
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: marketing communication
+- type: DATA
+  id: message
+- type: DATA
+  id: mobile app content share
+- type: DATA
+  id: name of internet service provider
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: number
+- type: DATA
+  id: number of link you click within service
+- type: DATA
+  id: number of time
+- type: DATA
+  id: number of time you view ad
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum collect
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information collect from service
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: precise information
+- type: DATA
+  id: secure message send
+- type: DATA
+  id: student course schedule
+- type: DATA
+  id: student disciplinary record
+- type: DATA
+  id: student financial information
+- type: DATA
+  id: traffic
+- type: DATA
+  id: traffic on service
+- type: DATA
+  id: transcript
+- type: DATA
+  id: type of browser
+- type: DATA
+  id: usage
+- type: DATA
+  id: user name

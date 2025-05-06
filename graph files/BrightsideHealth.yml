@@ -1,0 +1,585 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - INFORMATION AUTOMATICALLY COLLECTED BY US OR OTHERS.
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  - 'We use your information for a variety of purposes to fulfill our contract with
+    you and provide you with our Services, such as:'
+  - We, as well as third-parties that provide content, advertising, or other functionality
+    on the Site or Services, may use cookies, pixel tags, local storage, and other
+    technologies ("Technologies") to automatically collect information.
+  purposes:
+    analytics:
+    - Measuring interest and engagement
+    - We may use personal information and other information about you to create de-identified
+      and aggregated information, such as deidentified demographic information and
+      de-identified location information
+    legal:
+    - Complying with our legal obligations, protecting your vital interest, or protecting
+      the public good at large
+    - Enforcing our Terms
+    - 'to fulfill our contract with you and provide you with our Services, such as:'
+    security:
+    - Complying with our legal obligations, protecting your vital interest, or protecting
+      the public good at large
+    - Detecting bugs or other software issues
+    - Ensuring internal quality control
+    - Managing your information and accounts
+    - Preventing potentially prohibited or illegal activities
+    - Verifying your identity and preventing fraud
+    services:
+    - Answering your requests for customer or technical support
+    - Communicating with you about your account, activities provided through our Site
+      and Services, and policy changes
+    - Detecting bugs or other software issues
+    - Developing new Site features and Services
+    - Ensuring internal quality control
+    - Managing your information and accounts
+    - Processing your applications and transactions
+    - Processing your financial information and other payment methods for Services
+      purchased
+    - Providing access to certain areas, functionalities, and features of our Site
+      and Services
+    - 'to fulfill our contract with you and provide you with our Services, such as:'
+    - you consent to, are notified of, or are informed about when you provide personal
+      information
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  - We, as well as third-parties that provide content, advertising, or other functionality
+    on the Site or Services, may use cookies, pixel tags, local storage, and other
+    technologies ("Technologies") to automatically collect information.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - When you create a user account, we collect your name, email and password.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: we
+  target: identifier
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: we
+  target: imei
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: we
+  target: information about link you click
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - We may obtain information about you from other sources, including through third-party
+    services and organizations to supplement information provided by you.
+  - 'We use your information for a variety of purposes to fulfill our contract with
+    you and provide you with our Services, such as: We may use personal information
+    and other information about you to create de-identified and aggregated information,
+    such as deidentified demographic information and de-identified location information.'
+  purposes:
+    analytics:
+    - to create de-identified and aggregated information, such as deidentified demographic
+      information and de-identified location information
+    - to supplement information provided by you
+    legal:
+    - 'to fulfill our contract with you and provide you with our Services, such as:'
+    services:
+    - 'to fulfill our contract with you and provide you with our Services, such as:'
+- source: we
+  target: information regard visitor behavior on site
+  key: COLLECT
+  text:
+  - We may use Google Analytics or similar analytics software, generally powered by
+    your web browser, to collect information regarding visitor behavior and demographics
+    on our Site and Services.
+  purposes: {}
+- source: we
+  target: information we store associate with you
+  key: COLLECT
+  text:
+  - We may access, preserve, and disclose any information we store associated with
+    you to external parties if we or our providers, in good faith, believe doing so
+    is required or appropriate to comply with law enforcement or national security
+    requests; aspects of the legal process such as a court order or subpoena; to protect
+    your, our or others' rights, property, or safety; to enforce our policies or contracts;
+    to collect amounts owed to us; or to assist with an investigation or prosecution
+    of suspected or actual illegal activity.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: we
+  target: local storage
+  key: COLLECT
+  text:
+  - We, as well as third-parties that provide content, advertising, or other functionality
+    on the Site or Services, may use cookies, pixel tags, local storage, and other
+    technologies ("Technologies") to automatically collect information.
+  purposes: {}
+- source: we
+  target: mac address
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: we
+  target: member first care
+  key: COLLECT
+  text:
+  - '911
+
+
+    we provide member-first care'
+  purposes: {}
+- source: we
+  target: metric derive from apple healthkit
+  key: COLLECT
+  text:
+  - Apple HealthKit and Android Health Connect can transfer this information to third-party
+    applications, such as the App, if you affirmatively authorize the App to receive
+    and store this data.
+  - Please view these links for a comprehensive list of all metrics that can be derived
+    from Apple Healthkit or Android Health Connect .
+  purposes: {}
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - Even if you withdraw consent, we may still collect and use non-personal information
+    regarding your activities on our Site and Services, and for other legal purposes
+    as described above.
+  purposes: {}
+- source: we
+  target: password
+  key: COLLECT
+  text:
+  - When you create a user account, we collect your name, email and password.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - When you create a user account, we collect your name, email and password.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We may collect personal information from you such as your email address, phone
+    number, or mailing address when you request information about our Services, register
+    for our newsletter, request customer or technical support, or otherwise communicate
+    with us.
+  - We may provide personal information or PHI to business associates with whom we
+    contract to help facilitate healthcare operations or to jointly offer products
+    or services.
+  - We may share your personal information with the following categories of third
+    parties.
+  - 'We use your information for a variety of purposes to fulfill our contract with
+    you and provide you with our Services, such as: We may use personal information
+    and other information about you to create de-identified and aggregated information,
+    such as deidentified demographic information and de-identified location information.'
+  purposes:
+    analytics:
+    - to create de-identified and aggregated information, such as deidentified demographic
+      information and de-identified location information
+    legal:
+    - 'to fulfill our contract with you and provide you with our Services, such as:'
+    services:
+    - 'to fulfill our contract with you and provide you with our Services, such as:'
+    - to help facilitate healthcare operations or to jointly offer products or services
+- source: we
+  target: personal information we receive
+  key: COLLECT
+  text:
+  - We store the personal information we receive as described in this Privacy Policy
+    for as long as you use our Services or as deemed necessary to fulfill the purposes
+    for which it was collected, provide our Services, resolve disputes, establish
+    legal defenses, conduct audits, pursue legitimate business purposes, enforce our
+    agreements, and comply with applicable laws.
+  purposes: {}
+- source: we
+  target: phi
+  key: COLLECT
+  text:
+  - We may provide personal information or PHI to business associates with whom we
+    contract to help facilitate healthcare operations or to jointly offer products
+    or services.
+  purposes:
+    services:
+    - to help facilitate healthcare operations or to jointly offer products or services
+- source: we
+  target: provider review
+  key: COLLECT
+  text:
+  - 'Scope
+
+
+    911
+
+
+    we provide member-first care : Provider Reviews'
+  purposes: {}
+- source: we
+  target: request place on
+  key: COLLECT
+  text:
+  - We process requests to be placed on do-not-contact lists as required by applicable
+    law.
+  purposes: {}
+- source: we
+  target: user setting
+  key: COLLECT
+  text:
+  - This information may include your Internet protocol (IP) address, user settings,
+    IMEI, MAC address, cookie identifiers, mobile carrier, mobile advertising and
+    other unique identifiers, details about your browser, operating system or device,
+    location information, Internet service provider, pages that you visit before,
+    during and after using the Site or Services, information about the links you click,
+    and other information about how you use the Site or Services.
+  - We may collect certain information automatically when you use the Site or Services.
+  purposes: {}
+- source: Apple
+  target: metric derive from apple healthkit
+  key: COLLECT
+  text:
+  - Apple HealthKit and Android Health Connect can transfer this information to third-party
+    applications, such as the App, if you affirmatively authorize the App to receive
+    and store this data.
+  - Please view these links for a comprehensive list of all metrics that can be derived
+    from Apple Healthkit or Android Health Connect .
+  purposes: {}
+- source: International Data Group
+  target: personal information
+  key: COLLECT
+  text:
+  - International Data Transfers .
+  - We may share your personal information with the following categories of third
+    parties.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - DISCLOSING YOUR INFORMATION TO THIRD PARTIES .
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information we store associate with you
+  key: COLLECT
+  text:
+  - We may access, preserve, and disclose any information we store associated with
+    you to external parties if we or our providers, in good faith, believe doing so
+    is required or appropriate to comply with law enforcement or national security
+    requests; aspects of the legal process such as a court order or subpoena; to protect
+    your, our or others' rights, property, or safety; to enforce our policies or contracts;
+    to collect amounts owed to us; or to assist with an investigation or prosecution
+    of suspected or actual illegal activity.
+  purposes: {}
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We, as well as third-parties that provide content, advertising, or other functionality
+    on the Site or Services, may use cookies, pixel tags, local storage, and other
+    technologies ("Technologies") to automatically collect information.
+  purposes: {}
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We, as well as third-parties that provide content, advertising, or other functionality
+    on the Site or Services, may use cookies, pixel tags, local storage, and other
+    technologies ("Technologies") to automatically collect information.
+  purposes: {}
+- source: advertiser
+  target: local storage
+  key: COLLECT
+  text:
+  - We, as well as third-parties that provide content, advertising, or other functionality
+    on the Site or Services, may use cookies, pixel tags, local storage, and other
+    technologies ("Technologies") to automatically collect information.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - Advertising Partners .
+  - We may share your personal information with the following categories of third
+    parties.
+  purposes: {}
+- source: android health connect
+  target: metric derive from apple healthkit
+  key: COLLECT
+  text:
+  - Apple HealthKit and Android Health Connect can transfer this information to third-party
+    applications, such as the App, if you affirmatively authorize the App to receive
+    and store this data.
+  - Please view these links for a comprehensive list of all metrics that can be derived
+    from Apple Healthkit or Android Health Connect .
+  purposes: {}
+- source: brightside
+  target: phi
+  key: COLLECT
+  text:
+  - The Notice of Privacy Practices describes how Brightside can use and share your
+    PHI, and describes your rights with respect to this information.
+  purposes: {}
+- source: business associate
+  target: personal information
+  key: COLLECT
+  text:
+  - Business Associates .
+  - We may share your personal information with the following categories of third
+    parties.
+  purposes: {}
+- source: business associate with whom we contract
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide personal information or PHI to business associates with whom we
+    contract to help facilitate healthcare operations or to jointly offer products
+    or services.
+  purposes:
+    services:
+    - to help facilitate healthcare operations or to jointly offer products or services
+- source: business associate with whom we contract
+  target: phi
+  key: COLLECT
+  text:
+  - We may provide personal information or PHI to business associates with whom we
+    contract to help facilitate healthcare operations or to jointly offer products
+    or services.
+  purposes:
+    services:
+    - to help facilitate healthcare operations or to jointly offer products or services
+- source: we
+  target: online offering
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to personal information processed by us during the
+    course of business, including on our website ("Site") and other online or offline
+    offerings (collectively, the "Services").
+- source: aggregate / deidentified / pseudonymized information
+  target: deidentifie demographic information
+  key: SUBSUM
+  text:
+  - 'We use your information for a variety of purposes to fulfill our contract with
+    you and provide you with our Services, such as: We may use personal information
+    and other information about you to create de-identified and aggregated information,
+    such as deidentified demographic information and de-identified location information.'
+- source: aggregate / deidentified / pseudonymized information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'We use your information for a variety of purposes to fulfill our contract with
+    you and provide you with our Services, such as: We may use personal information
+    and other information about you to create de-identified and aggregated information,
+    such as deidentified demographic information and de-identified location information.'
+- source: devices
+  target: smartwatch
+  key: SUBSUM
+  text:
+  - If you download the Brightside mobile application ("the App"), we may aggregate
+    health information about you through the App, but only if you expressly permit
+    the App to extract this data from your mobile device and/or smartwatch (collectively
+    "Devices") .
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - We may collect personal information from you such as your email address, phone
+    number, or mailing address when you request information about our Services, register
+    for our newsletter, request customer or technical support, or otherwise communicate
+    with us.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - We may collect personal information from you such as your email address, phone
+    number, or mailing address when you request information about our Services, register
+    for our newsletter, request customer or technical support, or otherwise communicate
+    with us.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - We may collect personal information from you such as your email address, phone
+    number, or mailing address when you request information about our Services, register
+    for our newsletter, request customer or technical support, or otherwise communicate
+    with us.
+- source: personal information brightside collect about you
+  target: specific type
+  key: SUBSUM
+  text:
+  - 'These rights may include, but are not limited to: The right to know the specific
+    types of personal information Brightside has collected about you.'
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: International Data Group
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: android health connect
+- type: ACTOR
+  id: brightside
+- type: ACTOR
+  id: business associate
+- type: ACTOR
+  id: business associate with whom we contract
+- type: ACTOR
+  id: devices
+- type: ACTOR
+  id: online offering
+- type: ACTOR
+  id: smartwatch
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: deidentifie demographic information
+- type: DATA
+  id: email address
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: identifier
+- type: DATA
+  id: imei
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about link you click
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information regard visitor behavior on site
+- type: DATA
+  id: information we store associate with you
+- type: DATA
+  id: ip address
+- type: DATA
+  id: local storage
+- type: DATA
+  id: mac address
+- type: DATA
+  id: member first care
+- type: DATA
+  id: metric derive from apple healthkit
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: password
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information brightside collect about you
+- type: DATA
+  id: personal information we receive
+- type: DATA
+  id: phi
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: provider review
+- type: DATA
+  id: request place on
+- type: DATA
+  id: specific type
+- type: DATA
+  id: user setting

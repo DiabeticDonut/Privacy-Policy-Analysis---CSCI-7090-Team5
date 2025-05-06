@@ -1,0 +1,150 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We do not lease or sell your personal data but may share some information with
+    third parties like Google, Facebook, and Apple for advertising and analytics purposes.
+  purposes:
+    advertising:
+    - for advertising and analytics purposes
+    analytics:
+    - for advertising and analytics purposes
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We do not lease or sell your personal data but may share some information with
+    third parties like Google, Facebook, and Apple for advertising and analytics purposes.
+  purposes: {}
+- source: we
+  target: specific personal detail about you
+  key: COLLECT
+  text:
+  - When you interact with our App, we request and gather specific personal details
+    about you.
+  purposes: {}
+- source: Apple
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We do not lease or sell your personal data but may share some information with
+    third parties like Google, Facebook, and Apple for advertising and analytics purposes.
+  purposes:
+    advertising:
+    - for advertising and analytics purposes
+    analytics:
+    - for advertising and analytics purposes
+- source: Facebook
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We do not lease or sell your personal data but may share some information with
+    third parties like Google, Facebook, and Apple for advertising and analytics purposes.
+  purposes:
+    advertising:
+    - for advertising and analytics purposes
+    analytics:
+    - for advertising and analytics purposes
+- source: Google
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We do not lease or sell your personal data but may share some information with
+    third parties like Google, Facebook, and Apple for advertising and analytics purposes.
+  purposes:
+    advertising:
+    - for advertising and analytics purposes
+    analytics:
+    - for advertising and analytics purposes
+- source: process datum
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: Advertising ID, device brand/model,
+    browser type/version.'
+- source: process datum
+  target: browser type version
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: Advertising ID, device brand/model,
+    browser type/version.'
+- source: process datum
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: Cookies and similar technologies.'
+- source: process datum
+  target: device brand model
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: Advertising ID, device brand/model,
+    browser type/version.'
+- source: process datum
+  target: imei
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: IP address, MAC address, IMEI, OS version,
+    and locale data.'
+- source: process datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: IP address, MAC address, IMEI, OS version,
+    and locale data.'
+- source: process datum
+  target: locale datum
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: IP address, MAC address, IMEI, OS version,
+    and locale data.'
+- source: process datum
+  target: mac address
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: IP address, MAC address, IMEI, OS version,
+    and locale data.'
+- source: process datum
+  target: os version
+  key: SUBSUM
+  text:
+  - 'Automatically processed data may include: IP address, MAC address, IMEI, OS version,
+    and locale data.'
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: browser type version
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: device brand model
+- type: DATA
+  id: imei
+- type: DATA
+  id: ip address
+- type: DATA
+  id: locale datum
+- type: DATA
+  id: mac address
+- type: DATA
+  id: os version
+- type: DATA
+  id: personal information
+- type: DATA
+  id: process datum
+- type: DATA
+  id: specific personal detail about you

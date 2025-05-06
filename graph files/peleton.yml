@@ -1,0 +1,3725 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and advertising, we use the following information: Standard
+    Identifying Information, Profile Information, Promotions, Sweepstakes and Competition
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Information from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For quality assurance and training purposes, we use the following information:
+    Feedback and Support Communications and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'Peloton puts members first and we use data to further that value by:'
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  - Promotions, Sweepstakes and Competition Information . Any information that you
+    provide in connection with any promotions, sweepstakes and/or competitions we
+    run, including for example, responses to competition questions.
+  - This Privacy Policy is meant to help you understand how we collect, use and share
+    information to operate, improve, develop and help protect our services, or as
+    otherwise outlined in the Policy.
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To communicate with you, we use the following information: Standard Identifying
+    Information, Purchase Information, Feedback and Support Communications, Information
+    from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - To provide the Services, we collect information from various sources.
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - We may also share certain information with other Peloton members who have accounts
+    with the same Paired Application.
+  - We may collect certain information from third parties in order to protect and
+    verify your information, provide our Services, and ensure your safety and the
+    security of your account.
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  - We use data to investigate disputes or claims related to our Services.
+  - 'We use data to:'
+  - Where you choose to connect another company's device or account to your Peloton
+    account, or engage in Services that feature a partnership with a third party,
+    we may, with your consent, collect information from your use of the connected
+    devices to facilitate interaction with our Services.
+  purposes:
+    advertising:
+    - For personalization and advertising
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    - Monitoring communications and interactions with you to ensure the quality of
+      our support services, appropriate training of our people and to resolve your
+      complaints
+    - to investigate disputes or claims related to our Services
+    - 'to: Communicate, visualize and track your workouts, performance and metrics
+      to help you meet your goals'
+    - 'to: Provide access to classes, workout tracking performance and statistics;'
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    - in order to protect and verify your information, provide our Services, and ensure
+      your safety and the security of your account
+    - to investigate disputes or claims related to our Services
+    - to operate, improve, develop and help protect our services, or as otherwise
+      outlined in the Policy
+    - 'to: Verify your identity, set up and maintain your account'
+    services:
+    - For analytics, research, and product and Service improvement
+    - For quality assurance and training purposes
+    - Monitoring communications and interactions with you to ensure the quality of
+      our support services, appropriate training of our people and to resolve your
+      complaints
+    - To build community
+    - To communicate with you
+    - To provide the Services
+    - To provide you with the Services
+    - to facilitate interaction with our Services
+    - to operate, improve, develop and help protect our services, or as otherwise
+      outlined in the Policy
+    - 'to: Communicate, visualize and track your workouts, performance and metrics
+      to help you meet your goals'
+    - 'to: Create community for Peloton Members; and'
+    - 'to: Maintain our services and operations'
+    - 'to: Process payments, enter into rental agreements and fulfill orders for Services'
+    - 'to: Provide access to classes, workout tracking performance and statistics;'
+    - 'to: Verify your identity, set up and maintain your account'
+- source: we
+  target: activity
+  key: COLLECT
+  text:
+  - Some of these Inferences based on activity and recommendations utilize internal
+    machine learning models We use this data to build, train, analyze and improve
+    the accuracy of our models..
+  purposes:
+    analytics:
+    - to build, train, analyze and improve the accuracy of our models
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may also disclose aggregated, anonymous information to Service Providers and
+    Partners.
+  purposes: {}
+- source: we
+  target: amount of time spend on services
+  key: COLLECT
+  text:
+  - We may also collect information about how your device interacts with our Services,
+    such as the content you access and view, your streaming history, pages and sites
+    visited before and after you reach the Services, the date and time of your use,
+    the amount of time spent on the Services, and other actions taken through use
+    of the Services such as preferences.
+  purposes: {}
+- source: we
+  target: competition information
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - Promotions, Sweepstakes and Competition Information . Any information that you
+    provide in connection with any promotions, sweepstakes and/or competitions we
+    run, including for example, responses to competition questions.
+  purposes: {}
+- source: we
+  target: connect device account
+  key: COLLECT
+  text:
+  - Connected Devices/Accounts .
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  purposes:
+    analytics:
+    - For analytics, research, and product and Service improvement
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - '1. WHAT PERSONAL INFORMATION WE COLLECT
+
+
+    Contact Information .'
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use advertising cookies to track your online activity to help advertisers to
+    deliver more relevant advertising to you or to limit how many times you see an
+    ad.
+  - We use cookies and similar tracking technologies such as pixels, tags/web beacons,
+    scripts, and social media widgets (collectively "Cookies") to collect and use
+    personal information about you from your browser, device and our correspondence,
+    including for analytics purposes and to serve you interest-based advertising.
+  purposes:
+    advertising:
+    - to track your online activity to help advertisers to deliver more relevant advertising
+      to you or to limit how many times you see an ad
+    analytics:
+    - to track your online activity to help advertisers to deliver more relevant advertising
+      to you or to limit how many times you see an ad
+- source: we
+  target: credit / debit card number
+  key: COLLECT
+  text:
+  - Please note, we do not store or capture any credit card information.
+  - This information is collected directly by our payment processing partners, but
+    we would like to inform you about its collection since this information is collected
+    through our site and from you, our customer.
+  purposes: {}
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - We may also collect information about how your device interacts with our Services,
+    such as the content you access and view, your streaming history, pages and sites
+    visited before and after you reach the Services, the date and time of your use,
+    the amount of time spent on the Services, and other actions taken through use
+    of the Services such as preferences.
+  purposes: {}
+- source: we
+  target: datum relate to activity
+  key: COLLECT
+  text:
+  - Inferences based on activity . We may collect data related to your activity and
+    interactions with our Services and make Inferences based on that data,to personalize
+    and enhance your experience, e.g. suggesting workouts or classes you may enjoy
+    and communications which may be of interest.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may also use device identifiers, web storage, third-party-provided analytics
+    services, such as session replay services, and other similar technologies and
+    services, to collect information about your interactions with our content and
+    Services.
+  purposes: {}
+- source: we
+  target: experience
+  key: COLLECT
+  text:
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  purposes: {}
+- source: we
+  target: feedback
+  key: COLLECT
+  text:
+  - 'For quality assurance and training purposes, we use the following information:
+    Feedback and Support Communications and Other information.'
+  purposes:
+    services:
+    - For quality assurance and training purposes
+- source: we
+  target: feedback communication
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To communicate with you, we use the following information: Standard Identifying
+    Information, Purchase Information, Feedback and Support Communications, Information
+    from other Sources and Other information.'
+  purposes:
+    analytics:
+    - For analytics, research, and product and Service improvement
+    services:
+    - For analytics, research, and product and Service improvement
+    - To communicate with you
+- source: we
+  target: fitness data
+  key: COLLECT
+  text:
+  - 'Analyze your performance: As part of our core offering, we use Fitness Data to
+    compare your past and current performance and to provide you with analytics about
+    your progress over time.'
+  purposes:
+    analytics:
+    - to compare your past and current performance and to provide you with analytics
+      about your progress over time
+- source: we
+  target: generate content
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - Depending on how you use the Services and your device settings, type and connectivity,
+    we may collect location-based information including your IP address, GPS location,
+    city, county, zip code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - We may collect location-based information including your IP address, GPS location,
+    city, county, zip/post code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+  purposes:
+    advertising:
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: hardware type of access device
+  key: COLLECT
+  text:
+  - 'If you choose to access our WiFi, we may collect: Hardware type of the access
+    device.'
+  purposes: {}
+- source: we
+  target: inference base on activity
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and advertising, we use the following information: Standard
+    Identifying Information, Profile Information, Promotions, Sweepstakes and Competition
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Information from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - For personalization and advertising
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: information about bullet point
+  key: COLLECT
+  text:
+  - We provide more information about each bullet point below the list.
+  purposes: {}
+- source: we
+  target: information about interaction with content
+  key: COLLECT
+  text:
+  - We may also use device identifiers, web storage, third-party-provided analytics
+    services, such as session replay services, and other similar technologies and
+    services, to collect information about your interactions with our content and
+    Services.
+  purposes: {}
+- source: we
+  target: information about service
+  key: COLLECT
+  text:
+  - The supplemental information allows us to enhance our ability to provide Services,
+    provide information about our Services, and send marketing communications you
+    have chosen to receive.
+  purposes: {}
+- source: we
+  target: information about viewing
+  key: COLLECT
+  text:
+  - We may provide information about your viewing, streaming and chat behavior to
+    Service Providers and Partners.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - However, when you visit Peloton, we and/or our partners may collect certain information
+    about you, your devices, and your behavior through cookies, tags or other identifiers
+    that may be considered a "sale" or a "share" under certain U.S. State laws even
+    if no money is exchanged.
+  - If you access our Services through a third party application, such as the Apple
+    App Store or Google Play App Store (together with any similar applications, "App
+    Stores") or connect to Social Networking Sites ("SNS") such as Instagram, Twitter
+    or Facebook through our Services, we may collect information about you from that
+    Third-Party application that you have made public via your privacy settings of
+    the Third-Party.
+  - We may receive information about you from other sources to supplement information
+    provided by you.
+  purposes:
+    analytics:
+    - to supplement information provided by you
+- source: we
+  target: information from source
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and advertising, we use the following information: Standard
+    Identifying Information, Profile Information, Promotions, Sweepstakes and Competition
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Information from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To communicate with you, we use the following information: Standard Identifying
+    Information, Purchase Information, Feedback and Support Communications, Information
+    from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - For personalization and advertising
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To communicate with you
+    - To provide you with the Services
+- source: we
+  target: information generate through use of service
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and advertising, we use the following information: Standard
+    Identifying Information, Profile Information, Promotions, Sweepstakes and Competition
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Information from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - For personalization and advertising
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: information provide
+  key: COLLECT
+  text:
+  - 'For example we use information provided by Members to:'
+  purposes:
+    legal:
+    - 'to: Ensure our Community Guidelines are respected'
+    security:
+    - 'to: Ensure our Community Guidelines are respected'
+    services:
+    - 'to: Allow members to socialize with other Members; and'
+    - 'to: Ensure our Community Guidelines are respected'
+    - 'to: Help Members create teams of people they want to work out with;'
+    - 'to: Make it easy for Members to connect with people they know and to invite
+      others to the Peloton community'
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT
+
+
+    1.2. Information that we collect automatically'
+  purposes: {}
+- source: we
+  target: information you provide
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT
+
+
+    1.1. Information you provide'
+  purposes: {}
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - Any information you voluntarily provide to us or our Service Providers (or otherwise
+    publish) in connection with testing a new Service, survey you complete or review
+    / testimonial you provide about Peloton goods and/or Services.
+  - We may collect this information to understand your opinions, better market our
+    services, collect relevant information about our business, and develop new Services.
+  purposes:
+    advertising:
+    - to understand your opinions, better market our services, collect relevant information
+      about our business, and develop new Services
+    analytics:
+    - to understand your opinions, better market our services, collect relevant information
+      about our business, and develop new Services
+    services:
+    - to understand your opinions, better market our services, collect relevant information
+      about our business, and develop new Services
+- source: we
+  target: interaction with services
+  key: COLLECT
+  text:
+  - Session replay services consist of an analytics application that allows us to
+    capture and analyze your interaction with our Services to better identify and
+    repair any technical errors and optimize our Services.
+  purposes:
+    security:
+    - to better identify and repair any technical errors and optimize our Services
+    services:
+    - to better identify and repair any technical errors and optimize our Services
+- source: we
+  target: internet
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - Internet or Other Network Activity .Information including browsing or search history,
+    including interactions with our websites, including search, mobile applications,
+    marketing and advertising.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - Internet or Other Network Activity .Information including browsing or search history,
+    including interactions with our websites, including search, mobile applications,
+    marketing and advertising.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - 'If you choose to access our WiFi, we may collect: IP address of the device used
+    to connect to WiFi;'
+  - We may use the IP address associated with your log in to the Services to determine
+    your general location in order to comply with global privacy regulations and serve
+    you necessary notifications and/or consent mechanisms.
+  purposes:
+    analytics:
+    - to determine your general location
+    legal:
+    - in order to comply with global privacy regulations and serve you necessary notifications
+      and/or consent mechanisms
+    security:
+    - in order to comply with global privacy regulations and serve you necessary notifications
+      and/or consent mechanisms
+    services:
+    - in order to comply with global privacy regulations and serve you necessary notifications
+      and/or consent mechanisms
+    - to determine your general location
+- source: we
+  target: mac address
+  key: COLLECT
+  text:
+  - 'If you choose to access our WiFi, we may collect: MAC address of the access device
+    used;'
+  purposes: {}
+- source: we
+  target: message
+  key: COLLECT
+  text:
+  - '1. WHAT PERSONAL INFORMATION WE COLLECT
+
+
+    User Generated Content . Any content or material you publish or post such as posts,
+    messages, images, audio, hashtags/tags, photos or videos on our Services for example,
+    in Teams'' feeds or on the Leaderboard, as described in the sections relating
+    to User Generated Content in our Terms and our Community Guidelines .'
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  purposes: {}
+- source: we
+  target: not mail list
+  key: COLLECT
+  text:
+  - We maintain "do-not-mail" lists as mandated by law.
+  purposes: {}
+- source: we
+  target: personal characteristic
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+    - To provide you with the Services
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 3. WHO WE SHARE YOUR PERSONAL INFORMATION WITH
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - 'Contents
+
+
+    WHAT PERSONAL INFORMATION WE COLLECT'
+  - 'Contents
+
+
+    WHO WE SHARE YOUR PERSONAL INFORMATION WITH'
+  - Depending on how you interact with Peloton and our Services, we may collect your
+    personal information.
+  - However, we will normally collect personal information from you only (i) where
+    we need the personal information to perform a contract with you (such as to provide
+    our Services), (ii) where the processing is in our legitimate interests and not
+    overridden by your rights, or (iii) where we have your consent to do so.
+  - If you apply for certain products or services we offer such as Peloton Rental,
+    we supply your personal information to credit reference agencies (CRAs) in order
+    for them to provide information about you, such as about your financial situation
+    and financial history.
+  - If you choose to connect your Peloton account, we may collect certain personal
+    information from the linked application depending on what information you choose
+    to share with Peloton or have otherwise configured in your device settings and
+    in the linked application.
+  - If you choose to connect your Peloton account, we may share certain personal information
+    with the Paired Application depending on your device settings governing third
+    party sharing.
+  - In some cases, we may also have a legal obligation to collect personal information
+    from you or may otherwise need the personal information to protect your vital
+    interests or those of another person.
+  - 'We may disclose your personal information to the following categories of recipients:'
+  - We may share your personal information with other Peloton related companies and
+    our group for purposes consistent with this Privacy Policy.
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  - We may share your personal information with parties to a corporate transaction,
+    including actual or potential buyers (and their agents and advisors), in connection
+    with any actual or proposed purchase, merger, acquisition, financing, reorganization,
+    bankruptcy, receivership, sale of company assets or transition of service to another
+    provider, provided that we inform the buyer or transferee that it must use your
+    personal information only for the purposes disclosed in this Privacy Policy.
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  - We process your personal data on the basis that we have a legitimate interest
+    in preventing fraud and to verify identity, in order to protect our business and
+    to comply with laws.
+  - 'We retain your personal information where it is necessary for us to:'
+  - We use cookies and similar tracking technologies such as pixels, tags/web beacons,
+    scripts, and social media widgets (collectively "Cookies") to collect and use
+    personal information about you from your browser, device and our correspondence,
+    including for analytics purposes and to serve you interest-based advertising.
+  purposes:
+    analytics:
+    - in order for them to provide information about you, such as about your financial
+      situation and financial history
+    legal:
+    - in order to protect our business and to comply with laws
+    security:
+    - in order to protect our business and to comply with laws
+    - to protect your vital interests or those of another person
+    services:
+    - To provide the Services
+    - in order for them to provide information about you, such as about your financial
+      situation and financial history
+- source: we
+  target: personal information as
+  key: COLLECT
+  text:
+  - This includes how we collect and process your personal information such as when
+    you visit Peloton sites, use any Peloton products or services including Peloton
+    applications (the "Apps") or fitness equipment (such as the Peloton Bike, Bike+,
+    Tread, Tread+, Guide, or Peloton Row), or when you interact with us via our call
+    centers, support service including live chats and email communications, social
+    media channels, studios or retail shops including our showrooms or concession
+    stores, as well as other online and offline services we provide (together, the
+    "Services'').
+  purposes: {}
+- source: we
+  target: physical movement
+  key: COLLECT
+  text:
+  - Some physical characteristics are collected in connection with our Services, for
+    example, some Services record your physical movement to provide feedback on your
+    exercise form.
+  purposes:
+    services:
+    - to provide feedback on your exercise form
+- source: we
+  target: preference
+  key: COLLECT
+  text:
+  - We may also collect information about how your device interacts with our Services,
+    such as the content you access and view, your streaming history, pages and sites
+    visited before and after you reach the Services, the date and time of your use,
+    the amount of time spent on the Services, and other actions taken through use
+    of the Services such as preferences.
+  purposes: {}
+- source: we
+  target: profile information
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and advertising, we use the following information: Standard
+    Identifying Information, Profile Information, Promotions, Sweepstakes and Competition
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Information from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - For personalization and advertising
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: purchase information
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To communicate with you, we use the following information: Standard Identifying
+    Information, Purchase Information, Feedback and Support Communications, Information
+    from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To communicate with you
+    - To provide you with the Services
+- source: we
+  target: recommendation
+  key: COLLECT
+  text:
+  - Some of these Inferences based on activity and recommendations utilize internal
+    machine learning models We use this data to build, train, analyze and improve
+    the accuracy of our models..
+  purposes:
+    analytics:
+    - to build, train, analyze and improve the accuracy of our models
+- source: we
+  target: request
+  key: COLLECT
+  text:
+  - We will process your request as soon as practicable after receipt, in accordance
+    with applicable laws.
+  - We will send you one final message to confirm that you have been unsubscribed,
+    and will process your request within a reasonable time after receipt, in accordance
+    with applicable laws.
+  purposes:
+    services:
+    - to confirm that you have been unsubscribed
+- source: we
+  target: result from research service
+  key: COLLECT
+  text:
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  purposes: {}
+- source: we
+  target: review information
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - Testing, Surveys and Review Information .
+  - We may collect this information to understand your opinions, better market our
+    services, collect relevant information about our business, and develop new Services.
+  purposes:
+    advertising:
+    - to understand your opinions, better market our services, collect relevant information
+      about our business, and develop new Services
+    analytics:
+    - to understand your opinions, better market our services, collect relevant information
+      about our business, and develop new Services
+    services:
+    - to understand your opinions, better market our services, collect relevant information
+      about our business, and develop new Services
+- source: we
+  target: running route
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    analytics:
+    - For analytics, research, and product and Service improvement
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+    - To provide you with the Services
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - We will only process Sensitive Personal Information where it is necessary for
+    the purposes of providing Services, carrying out our legal obligations or exercising
+    specific rights as permitted by law.
+  purposes:
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: standard identify information
+  key: COLLECT
+  text:
+  - 'For personalization and advertising, we use the following information: Standard
+    Identifying Information, Profile Information, Promotions, Sweepstakes and Competition
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Information from other Sources and Other information.'
+  - 'To communicate with you, we use the following information: Standard Identifying
+    Information, Purchase Information, Feedback and Support Communications, Information
+    from other Sources and Other information.'
+  purposes:
+    advertising:
+    - For personalization and advertising
+    services:
+    - To communicate with you
+- source: we
+  target: standard identifying information
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To ensure the security and integrity of our Services, we use the following information:
+    Standard Identifying Information, Purchase Information, Profile Information, User
+    Generated Content, Connected Devices/Accounts, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    security:
+    - To ensure the security and integrity of our Services
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: streaming history
+  key: COLLECT
+  text:
+  - We may also collect information about how your device interacts with our Services,
+    such as the content you access and view, your streaming history, pages and sites
+    visited before and after you reach the Services, the date and time of your use,
+    the amount of time spent on the Services, and other actions taken through use
+    of the Services such as preferences.
+  purposes: {}
+- source: we
+  target: survey information
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and analytics, we use the following information: Standard
+    Identifying Information, Profile Information, Contact Information, Geolocation
+    Data, Physical Characteristics, Connected Devices/Accounts, Feedback and Support
+    Communications, Testing, Surveys and Review Information, Sensitive Personal Information,
+    Information generated through use of the Services, Inferences based on activity,
+    Location Information, Information from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To build community, we use the following information: Standard Identifying Information,
+    Profile Information, Contact Information, User Generated Content, Feedback and
+    Support Communications, Testing, Surveys and Review Information, Sensitive Personal
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Location Information, Information from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    - For personalization and analytics
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+    - To build community
+    - To provide you with the Services
+- source: we
+  target: sweepstake
+  key: COLLECT
+  text:
+  - 'Contents
+
+
+    1. WHAT PERSONAL INFORMATION WE COLLECT'
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For personalization and advertising, we use the following information: Standard
+    Identifying Information, Profile Information, Promotions, Sweepstakes and Competition
+    Information, Information generated through use of the Services, Inferences based
+    on activity, Information from other Sources and Other information.'
+  - Promotions, Sweepstakes and Competition Information . Any information that you
+    provide in connection with any promotions, sweepstakes and/or competitions we
+    run, including for example, responses to competition questions.
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  - 'To provide you with the Services, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, Contact Information,
+    Geolocation Data, Running Route, Physical Characteristics, User Generated Content,
+    Connected Devices/Accounts, Feedback and Support Communications, Testing, Surveys
+    and Review Information, Promotions, Sweepstakes and Competition Information, Sensitive
+    Personal Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  - 'To send you marketing and/or promotions, we use the following information: Standard
+    Identifying Information, Purchase Information, Profile Information, User Generated
+    Content, Testing, Surveys and Review Information, Promotions, Sweepstakes and
+    Competition Information, Information generated through use of the Services, Inferences
+    based on activity, Location Information, Information from other Sources and Other
+    information.'
+  purposes:
+    advertising:
+    - For personalization and advertising
+    - To send you marketing and/or promotions
+    analytics:
+    - For analytics, research, and product and Service improvement
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+    - To provide you with the Services
+- source: we
+  target: sweepstake competition information
+  key: COLLECT
+  text:
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  purposes: {}
+- source: we
+  target: technical characteristic of connection setup termination
+  key: COLLECT
+  text:
+  - 'If you choose to access our WiFi, we may collect: Technical characteristics of
+    connection setup/termination;'
+  purposes: {}
+- source: we
+  target: testing
+  key: COLLECT
+  text:
+  - 'For analytics, research, and product and Service improvement, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'For safeguarding and defending our legitimate interests, exercising any rights,
+    asserting any claims and any other lawful business purposes, we use the following
+    information: Standard Identifying Information, Purchase Information, Profile Information,
+    Contact Information, Geolocation Data, Running Route, Physical Characteristics,
+    User Generated Content, Connected Devices/Accounts, Feedback and Support Communications,
+    Testing, Surveys and Review Information, Promotions, Sweepstakes and Competition
+    Information, Sensitive Personal Information, Information generated through use
+    of the Services, Inferences based on activity, Location Information, Information
+    from other Sources and Other information.'
+  - 'To comply with any applicable law and/or regulations, legal proceedings, we use
+    the following information: Standard Identifying Information, Purchase Information,
+    Profile Information, Contact Information, Geolocation Data, Running Route, Physical
+    Characteristics, User Generated Content, Connected Devices/Accounts, Feedback
+    and Support Communications, Testing, Surveys and Review Information, Promotions,
+    Sweepstakes and Competition Information, Sensitive Personal Information, Information
+    generated through use of the Services, Inferences based on activity, Location
+    Information, Information from other Sources and Other information.'
+  purposes:
+    analytics:
+    - For analytics, research, and product and Service improvement
+    legal:
+    - To comply with any applicable law and/or regulations, legal proceedings
+    services:
+    - For analytics, research, and product and Service improvement
+- source: we
+  target: time
+  key: COLLECT
+  text:
+  - We may also collect information about how your device interacts with our Services,
+    such as the content you access and view, your streaming history, pages and sites
+    visited before and after you reach the Services, the date and time of your use,
+    the amount of time spent on the Services, and other actions taken through use
+    of the Services such as preferences.
+  purposes: {}
+- source: we
+  target: voiceprint
+  key: COLLECT
+  text:
+  - We may use your voiceprint to understand your voice commands and, if you opt in,
+    to improve our abilities to understand voice commands in general when you are
+    using the Peloton Guide.
+  purposes:
+    services:
+    - to understand your voice commands
+- source: we
+  target: web storage
+  key: COLLECT
+  text:
+  - We may also use device identifiers, web storage, third-party-provided analytics
+    services, such as session replay services, and other similar technologies and
+    services, to collect information about your interactions with our content and
+    Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - CRAs will share your information with other organizations.
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: activity
+  key: COLLECT
+  text:
+  - Such technologies and third-party-provided services may observe or record your
+    activities when using our Services, including streaming history and behavior,
+    Peloton email interactions and behavior, certain movements, scrolling, visit duration,
+    clicks, and other interactions.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may also disclose aggregated, anonymous information to Service Providers and
+    Partners.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - These third parties may use cookies and similar technologies to track your activity,
+    the information collected by these third parties in this manner is subject to
+    that third party's own privacy policies; and
+  purposes:
+    analytics:
+    - to track your activity
+- source: UNSPECIFIED_ACTOR
+  target: experience
+  key: COLLECT
+  text:
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about viewing
+  key: COLLECT
+  text:
+  - We may provide information about your viewing, streaming and chat behavior to
+    Service Providers and Partners.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about you
+  key: COLLECT
+  text:
+  - However, when you visit Peloton, we and/or our partners may collect certain information
+    about you, your devices, and your behavior through cookies, tags or other identifiers
+    that may be considered a "sale" or a "share" under certain U.S. State laws even
+    if no money is exchanged.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - The processing of your personal information by Entertainment Partners is governed
+    by how you configure your privacy settings with the Entertainment Partners, as
+    well as the terms of service and privacy policies of those Entertainment Partners.
+  - These third parties may use this information for their own purposes by connecting
+    information about your use of our Services with any of your personal information
+    that they may have.
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: result from research service
+  key: COLLECT
+  text:
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  purposes: {}
+- source: advertiser
+  target: information relate to you
+  key: COLLECT
+  text:
+  - These advertising partners may receive information related to you based on your
+    use of our Services in order to provide us with analytics to help us measure the
+    effectiveness of our content and advertisements on these networks (e.g., impressions
+    and clicks) and to allow us to suppress you from campaigns that are not relevant.
+  purposes:
+    advertising:
+    - in order to provide us with analytics to help us measure the effectiveness of
+      our content and advertisements on these networks (e.g., impressions and clicks)
+      and to allow us to suppress you from campaigns that are not relevant
+    analytics:
+    - in order to provide us with analytics to help us measure the effectiveness of
+      our content and advertisements on these networks (e.g., impressions and clicks)
+      and to allow us to suppress you from campaigns that are not relevant
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: analytic provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: chat feature
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: chat feature
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: cloud storage provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: cloud storage provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: competent law enforcement body
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  purposes: {}
+- source: consultant
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: court
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  purposes: {}
+- source: cra
+  target: personal information
+  key: COLLECT
+  text:
+  - If you apply for certain products or services we offer such as Peloton Rental,
+    we supply your personal information to credit reference agencies (CRAs) in order
+    for them to provide information about you, such as about your financial situation
+    and financial history.
+  purposes:
+    analytics:
+    - in order for them to provide information about you, such as about your financial
+      situation and financial history
+    services:
+    - in order for them to provide information about you, such as about your financial
+      situation and financial history
+- source: cras
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - CRAs will share your information with other organizations.
+  purposes: {}
+- source: credit bureau
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: credit bureau
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: credit reference agency
+  target: personal information
+  key: COLLECT
+  text:
+  - If you apply for certain products or services we offer such as Peloton Rental,
+    we supply your personal information to credit reference agencies (CRAs) in order
+    for them to provide information about you, such as about your financial situation
+    and financial history.
+  purposes:
+    analytics:
+    - in order for them to provide information about you, such as about your financial
+      situation and financial history
+    services:
+    - in order for them to provide information about you, such as about your financial
+      situation and financial history
+- source: delivery
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: delivery
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: email service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: email service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: entertainment partner
+  target: technical datum
+  key: COLLECT
+  text:
+  - If you choose to access your account with the Entertainment Partners via our Services,
+    the Entertainment Partner will receive technical data they require in order for
+    you to stream their content.
+  purposes:
+    services:
+    - in order for you to stream their content
+- source: external legal advisor
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  purposes: {}
+- source: government agency
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  purposes: {}
+- source: group
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with other Peloton related companies and
+    our group for purposes consistent with this Privacy Policy.
+  purposes: {}
+- source: insurer
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  purposes: {}
+- source: live chat service provider
+  target: chat datum
+  key: COLLECT
+  text:
+  - Our live chat Service Provider records information you submit in the chatbot,
+    as well as any dialogue with member support, and may also use chat data to improve
+    chat services for us.
+  purposes:
+    services:
+    - to improve chat services for us
+- source: live chat service provider
+  target: information you submit in chatbot
+  key: COLLECT
+  text:
+  - Our live chat Service Provider records information you submit in the chatbot,
+    as well as any dialogue with member support, and may also use chat data to improve
+    chat services for us.
+  purposes: {}
+- source: member support agent
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: member support agent
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: messaging technology partner
+  target: data relate to opt
+  key: COLLECT
+  text:
+  - Data related to your opt-in and consent to SMS messaging is only shared with our
+    messaging technology partners and your phone carrier, this information is not
+    provided to other third parties.
+  purposes: {}
+- source: paired application
+  target: personal information
+  key: COLLECT
+  text:
+  - If you choose to connect your Peloton account, we may share certain personal information
+    with the Paired Application depending on your device settings governing third
+    party sharing.
+  purposes: {}
+- source: party to corporate transaction
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with parties to a corporate transaction,
+    including actual or potential buyers (and their agents and advisors), in connection
+    with any actual or proposed purchase, merger, acquisition, financing, reorganization,
+    bankruptcy, receivership, sale of company assets or transition of service to another
+    provider, provided that we inform the buyer or transferee that it must use your
+    personal information only for the purposes disclosed in this Privacy Policy.
+  purposes: {}
+- source: payment processing
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: payment processing
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: payment processing partner
+  target: credit / debit card number
+  key: COLLECT
+  text:
+  - Please note, we do not store or capture any credit card information.
+  - This information is collected directly by our payment processing partners, but
+    we would like to inform you about its collection since this information is collected
+    through our site and from you, our customer.
+  purposes: {}
+- source: peloton
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Peloton uses data for personalization and advertising that may include:'
+  - Peloton uses information to operate, improve, maintain and personalize our Services.
+  purposes:
+    advertising:
+    - Contracting with third-party agencies, advertising companies, ad networks, social
+      media companies and other technology services to place ads about our products
+      and services on other websites and services
+    - Providing you with a personalized and tailored Service, to serve you with Peloton
+      advertising on third party properties;
+    - Serving you with relevant advertising and content on our Services;
+    - Understanding and assessing the effectiveness of our ads displayed and email
+      campaigns
+    - Using aggregated information from third parties for creating similar audiences
+      in order to better target advertisements on their networks to potential consumers
+      who appear to have shared characteristics
+    - for personalization and advertising
+    analytics:
+    - Understanding and assessing the effectiveness of our ads displayed and email
+      campaigns
+    - Using aggregated information from third parties for creating similar audiences
+      in order to better target advertisements on their networks to potential consumers
+      who appear to have shared characteristics
+    - Using analytics services, to help us understand how users access and use our
+      services
+    services:
+    - Providing you with a personalized and tailored Service, to serve you with Peloton
+      advertising on third party properties;
+    - to operate, improve, maintain and personalize our Services
+- source: peloton
+  target: email address
+  key: COLLECT
+  text:
+  - If you choose to sync your Contacts from your mobile device Peloton will access,
+    import and store the name, email and phone number of your Contacts in order to
+    show Contacts which are currently on Peloton, suggest others we think you may
+    know to build the Peloton community, and make it easy for you to invite your Contacts
+    to join Peloton.
+  purposes:
+    analytics:
+    - in order to show Contacts which are currently on Peloton, suggest others we
+      think you may know to build the Peloton community, and make it easy for you
+      to invite your Contacts to join Peloton
+    services:
+    - in order to show Contacts which are currently on Peloton, suggest others we
+      think you may know to build the Peloton community, and make it easy for you
+      to invite your Contacts to join Peloton
+- source: peloton
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'Peloton uses data, including Usage Data, to market its Services, which may include:'
+  purposes:
+    advertising:
+    - Contacting you by phone, email, postal mail, push notifications, in-App messages
+      or SMS with information about news, offers, products, promotions, events, contests
+      and/or Services that might be personalized and/or of interest to you, as permitted
+      by applicable law
+    services:
+    - Contacting you by phone, email, postal mail, push notifications, in-App messages
+      or SMS with information about news, offers, products, promotions, events, contests
+      and/or Services that might be personalized and/or of interest to you, as permitted
+      by applicable law
+- source: peloton
+  target: person name
+  key: COLLECT
+  text:
+  - If you choose to sync your Contacts from your mobile device Peloton will access,
+    import and store the name, email and phone number of your Contacts in order to
+    show Contacts which are currently on Peloton, suggest others we think you may
+    know to build the Peloton community, and make it easy for you to invite your Contacts
+    to join Peloton.
+  purposes:
+    analytics:
+    - in order to show Contacts which are currently on Peloton, suggest others we
+      think you may know to build the Peloton community, and make it easy for you
+      to invite your Contacts to join Peloton
+    services:
+    - in order to show Contacts which are currently on Peloton, suggest others we
+      think you may know to build the Peloton community, and make it easy for you
+      to invite your Contacts to join Peloton
+- source: peloton
+  target: personal information we receive
+  key: COLLECT
+  text:
+  - Peloton retains the personal information we receive as described in this Privacy
+    Policy for as long as you use our Services or as necessary to fulfill the purposes
+    for which it was collected, provide our Services, resolve disputes, establish
+    legal defenses, conduct audits, pursue legitimate business purposes, enforce our
+    agreements and comply with applicable laws.
+  purposes:
+    legal:
+    - to fulfill the purposes for which it was collected, provide our Services, resolve
+      disputes, establish legal defenses, conduct audits, pursue legitimate business
+      purposes, enforce our agreements and comply with applicable laws
+- source: peloton
+  target: phone number
+  key: COLLECT
+  text:
+  - If you choose to sync your Contacts from your mobile device Peloton will access,
+    import and store the name, email and phone number of your Contacts in order to
+    show Contacts which are currently on Peloton, suggest others we think you may
+    know to build the Peloton community, and make it easy for you to invite your Contacts
+    to join Peloton.
+  purposes:
+    analytics:
+    - in order to show Contacts which are currently on Peloton, suggest others we
+      think you may know to build the Peloton community, and make it easy for you
+      to invite your Contacts to join Peloton
+    services:
+    - in order to show Contacts which are currently on Peloton, suggest others we
+      think you may know to build the Peloton community, and make it easy for you
+      to invite your Contacts to join Peloton
+- source: phone carrier
+  target: data relate to opt
+  key: COLLECT
+  text:
+  - Data related to your opt-in and consent to SMS messaging is only shared with our
+    messaging technology partners and your phone carrier, this information is not
+    provided to other third parties.
+  purposes: {}
+- source: regulator
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+  purposes: {}
+- source: relate company
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with other Peloton related companies and
+    our group for purposes consistent with this Privacy Policy.
+  purposes: {}
+- source: research partner
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: sale
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: sale
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: search engine
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: search engine
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  purposes: {}
+- source: service provider
+  target: experience
+  key: COLLECT
+  text:
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  purposes: {}
+- source: service provider
+  target: result from research service
+  key: COLLECT
+  text:
+  - 'Peloton works everyday to improve your experience by using data to: Conduct research/surveys
+    to understand how the Services are used to determine how they can be improved;
+    In some cases, results from research/services may be deidentified, compiled and
+    analyzed on an aggregate basis; we may share this data with our affiliates, agents,
+    service providers and other third parties with whom we do business.'
+  purposes: {}
+- source: service providers
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may also disclose aggregated, anonymous information to Service Providers and
+    Partners.
+  purposes: {}
+- source: service providers
+  target: information about viewing
+  key: COLLECT
+  text:
+  - We may provide information about your viewing, streaming and chat behavior to
+    Service Providers and Partners.
+  purposes: {}
+- source: service providers
+  target: voiceprint
+  key: COLLECT
+  text:
+  - This data is not used for identification purposes nor is it stored by Peloton,
+    but may be shared with Service Providers (defined below) to provide the Services.
+  - We may use your voiceprint to understand your voice commands and, if you opt in,
+    to improve our abilities to understand voice commands in general when you are
+    using the Peloton Guide.
+  purposes:
+    analytics:
+    - for identification purposes
+    services:
+    - for identification purposes
+- source: technical support
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: technical support
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: technology
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: technology
+  target: activity
+  key: COLLECT
+  text:
+  - Such technologies and third-party-provided services may observe or record your
+    activities when using our Services, including streaming history and behavior,
+    Peloton email interactions and behavior, certain movements, scrolling, visit duration,
+    clicks, and other interactions.
+  purposes: {}
+- source: technology
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: wifi
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: wifi
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your personal information with our third party service providers
+    (such as those who provide chat features and/or search engines, member support
+    agents and technology, wifi, IT, analytics, payment processing, credit bureaus
+    and sales, cloud storage providers, technical support or delivery, email services
+    and analytics, assistance with the functionality of video and streaming technology,
+    support our efforts to ensure our Community Guidelines are respected), third party
+    partners who otherwise process personal information for purposes that are described
+    in this Privacy Policy (such as advertising and marketing partners, research partners,
+    consultants) or who are otherwise disclosed to you when we collect your personal
+    information (such as financing partners if you select this option during the checkout
+    process).
+  purposes: {}
+- source: we
+  target: logistic
+  key: SUBSUM
+  text:
+  - 'Supporting and communicating with you when you require it, including for: Providing
+    with information about our Services (such as product delivery and logistics, servicing
+    and technical support); and'
+- source: we
+  target: product delivery
+  key: SUBSUM
+  text:
+  - 'Supporting and communicating with you when you require it, including for: Providing
+    with information about our Services (such as product delivery and logistics, servicing
+    and technical support); and'
+- source: we
+  target: servicing
+  key: SUBSUM
+  text:
+  - 'Supporting and communicating with you when you require it, including for: Providing
+    with information about our Services (such as product delivery and logistics, servicing
+    and technical support); and'
+- source: we
+  target: technical support
+  key: SUBSUM
+  text:
+  - 'Supporting and communicating with you when you require it, including for: Providing
+    with information about our Services (such as product delivery and logistics, servicing
+    and technical support); and'
+- source: activity
+  target: behavior
+  key: SUBSUM
+  text:
+  - Such technologies and third-party-provided services may observe or record your
+    activities when using our Services, including streaming history and behavior,
+    Peloton email interactions and behavior, certain movements, scrolling, visit duration,
+    clicks, and other interactions.
+- source: activity
+  target: movement
+  key: SUBSUM
+  text:
+  - Such technologies and third-party-provided services may observe or record your
+    activities when using our Services, including streaming history and behavior,
+    Peloton email interactions and behavior, certain movements, scrolling, visit duration,
+    clicks, and other interactions.
+- source: activity
+  target: peloton email interaction
+  key: SUBSUM
+  text:
+  - Such technologies and third-party-provided services may observe or record your
+    activities when using our Services, including streaming history and behavior,
+    Peloton email interactions and behavior, certain movements, scrolling, visit duration,
+    clicks, and other interactions.
+- source: activity
+  target: streaming history
+  key: SUBSUM
+  text:
+  - Such technologies and third-party-provided services may observe or record your
+    activities when using our Services, including streaming history and behavior,
+    Peloton email interactions and behavior, certain movements, scrolling, visit duration,
+    clicks, and other interactions.
+- source: analytic provider
+  target: session replay service
+  key: SUBSUM
+  text:
+  - We may also use device identifiers, web storage, third-party-provided analytics
+    services, such as session replay services, and other similar technologies and
+    services, to collect information about your interactions with our content and
+    Services.
+- source: cookie / pixel tag
+  target: pixel
+  key: SUBSUM
+  text:
+  - We use cookies and similar tracking technologies such as pixels, tags/web beacons,
+    scripts, and social media widgets (collectively "Cookies") to collect and use
+    personal information about you from your browser, device and our correspondence,
+    including for analytics purposes and to serve you interest-based advertising.
+- source: cookie / pixel tag
+  target: script
+  key: SUBSUM
+  text:
+  - We use cookies and similar tracking technologies such as pixels, tags/web beacons,
+    scripts, and social media widgets (collectively "Cookies") to collect and use
+    personal information about you from your browser, device and our correspondence,
+    including for analytics purposes and to serve you interest-based advertising.
+- source: cookie / pixel tag
+  target: social media widget
+  key: SUBSUM
+  text:
+  - We use cookies and similar tracking technologies such as pixels, tags/web beacons,
+    scripts, and social media widgets (collectively "Cookies") to collect and use
+    personal information about you from your browser, device and our correspondence,
+    including for analytics purposes and to serve you interest-based advertising.
+- source: delivery information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Purchase Information . Details related to Services you order, and delivery information
+    (including billing, shipping and delivery address) that you provide when you purchase
+    any Services.
+- source: geolocation
+  target: county
+  key: SUBSUM
+  text:
+  - We may collect location-based information including your IP address, GPS location,
+    city, county, zip/post code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - Depending on how you use the Services and your device settings, type and connectivity,
+    we may collect location-based information including your IP address, GPS location,
+    city, county, zip code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+  - We may collect location-based information including your IP address, GPS location,
+    city, county, zip/post code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+- source: geolocation
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - Depending on how you use the Services and your device settings, type and connectivity,
+    we may collect location-based information including your IP address, GPS location,
+    city, county, zip code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+  - We may collect location-based information including your IP address, GPS location,
+    city, county, zip/post code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+- source: geolocation
+  target: proximity to beacon
+  key: SUBSUM
+  text:
+  - Depending on how you use the Services and your device settings, type and connectivity,
+    we may collect location-based information including your IP address, GPS location,
+    city, county, zip code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+  - We may collect location-based information including your IP address, GPS location,
+    city, county, zip/post code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+- source: geolocation
+  target: region
+  key: SUBSUM
+  text:
+  - Depending on how you use the Services and your device settings, type and connectivity,
+    we may collect location-based information including your IP address, GPS location,
+    city, county, zip code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+  - We may collect location-based information including your IP address, GPS location,
+    city, county, zip/post code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+- source: geolocation
+  target: zip code
+  key: SUBSUM
+  text:
+  - Depending on how you use the Services and your device settings, type and connectivity,
+    we may collect location-based information including your IP address, GPS location,
+    city, county, zip code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+- source: geolocation
+  target: zip post code
+  key: SUBSUM
+  text:
+  - We may collect location-based information including your IP address, GPS location,
+    city, county, zip/post code and region and your smart device's proximity to "beacons",
+    Bluetooth networks and/or other proximity systems.
+- source: important information
+  target: detail of delivery
+  key: SUBSUM
+  text:
+  - '"Peloton Account" text messages are non-promotional messages from Peloton alerting
+    you to important information, like the details of your delivery, failed subscription
+    payments and other alerts related to your Peloton subscription or purchases.'
+- source: information associate with profile
+  target: activity feed
+  key: SUBSUM
+  text:
+  - 'Public Profile : If your profile is not set to Private, other registered Peloton
+    users will be able to view the information associated with your Profile, including
+    your workout streaming history, activity feed and Outdoor Route Tracking (if you
+    choose to share it.'
+- source: information associate with profile
+  target: outdoor route tracking
+  key: SUBSUM
+  text:
+  - 'Public Profile : If your profile is not set to Private, other registered Peloton
+    users will be able to view the information associated with your Profile, including
+    your workout streaming history, activity feed and Outdoor Route Tracking (if you
+    choose to share it.'
+- source: information associate with profile
+  target: workout streaming history
+  key: SUBSUM
+  text:
+  - 'Public Profile : If your profile is not set to Private, other registered Peloton
+    users will be able to view the information associated with your Profile, including
+    your workout streaming history, activity feed and Outdoor Route Tracking (if you
+    choose to share it.'
+- source: information from
+  target: ip address
+  key: SUBSUM
+  text:
+  - Information from and about the device you use when you use our Services, including
+    IP address, unique digital identifiers (e.g. browser/mobile type), mobile carrier,
+    time zone, state, language, operating system, and precise location if you have
+    chosen to share it (see "Geolocation Data" above).
+- source: information from
+  target: language
+  key: SUBSUM
+  text:
+  - Information from and about the device you use when you use our Services, including
+    IP address, unique digital identifiers (e.g. browser/mobile type), mobile carrier,
+    time zone, state, language, operating system, and precise location if you have
+    chosen to share it (see "Geolocation Data" above).
+- source: information from
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - Information from and about the device you use when you use our Services, including
+    IP address, unique digital identifiers (e.g. browser/mobile type), mobile carrier,
+    time zone, state, language, operating system, and precise location if you have
+    chosen to share it (see "Geolocation Data" above).
+- source: information from
+  target: state
+  key: SUBSUM
+  text:
+  - Information from and about the device you use when you use our Services, including
+    IP address, unique digital identifiers (e.g. browser/mobile type), mobile carrier,
+    time zone, state, language, operating system, and precise location if you have
+    chosen to share it (see "Geolocation Data" above).
+- source: information from
+  target: time zone
+  key: SUBSUM
+  text:
+  - Information from and about the device you use when you use our Services, including
+    IP address, unique digital identifiers (e.g. browser/mobile type), mobile carrier,
+    time zone, state, language, operating system, and precise location if you have
+    chosen to share it (see "Geolocation Data" above).
+- source: information from
+  target: unique digital identifier
+  key: SUBSUM
+  text:
+  - Information from and about the device you use when you use our Services, including
+    IP address, unique digital identifiers (e.g. browser/mobile type), mobile carrier,
+    time zone, state, language, operating system, and precise location if you have
+    chosen to share it (see "Geolocation Data" above).
+- source: information generate through use of link application
+  target: heart rate
+  key: SUBSUM
+  text:
+  - 'This may include: information generated through your use of the linked application
+    (i.e. workout information, heart rate), contact information and profile information.'
+- source: information generate through use of link application
+  target: workout information
+  key: SUBSUM
+  text:
+  - 'This may include: information generated through your use of the linked application
+    (i.e. workout information, heart rate), contact information and profile information.'
+- source: information generate through use of services
+  target: workout information
+  key: SUBSUM
+  text:
+  - This may include information generated through your use of the Services (i.e.
+    workout information) and other contact and profile information.
+- source: information provide in report
+  target: activation date
+  key: SUBSUM
+  text:
+  - Information provided in the report includes information such as model of bike,
+    activation dates, approximate number of rides, hours ridden and certain service
+    history.
+- source: information provide in report
+  target: approximate number of ride
+  key: SUBSUM
+  text:
+  - Information provided in the report includes information such as model of bike,
+    activation dates, approximate number of rides, hours ridden and certain service
+    history.
+- source: information provide in report
+  target: hour ride
+  key: SUBSUM
+  text:
+  - Information provided in the report includes information such as model of bike,
+    activation dates, approximate number of rides, hours ridden and certain service
+    history.
+- source: information provide in report
+  target: model of bike
+  key: SUBSUM
+  text:
+  - Information provided in the report includes information such as model of bike,
+    activation dates, approximate number of rides, hours ridden and certain service
+    history.
+- source: information provide in report
+  target: service history
+  key: SUBSUM
+  text:
+  - Information provided in the report includes information such as model of bike,
+    activation dates, approximate number of rides, hours ridden and certain service
+    history.
+- source: information relate to fitness performance
+  target: calorie burn
+  key: SUBSUM
+  text:
+  - '"Fitness Data" means any information relating to your fitness performance and/or
+    workouts, including things like, Power Zone information, strive score, calories
+    burned, distance covered, length of workout, and heart rate if you consent to
+    connecting a heart monitor.'
+- source: information relate to fitness performance
+  target: heart rate
+  key: SUBSUM
+  text:
+  - '"Fitness Data" means any information relating to your fitness performance and/or
+    workouts, including things like, Power Zone information, strive score, calories
+    burned, distance covered, length of workout, and heart rate if you consent to
+    connecting a heart monitor.'
+- source: information relate to fitness performance
+  target: length of workout
+  key: SUBSUM
+  text:
+  - '"Fitness Data" means any information relating to your fitness performance and/or
+    workouts, including things like, Power Zone information, strive score, calories
+    burned, distance covered, length of workout, and heart rate if you consent to
+    connecting a heart monitor.'
+- source: information relate to fitness performance
+  target: power zone information
+  key: SUBSUM
+  text:
+  - '"Fitness Data" means any information relating to your fitness performance and/or
+    workouts, including things like, Power Zone information, strive score, calories
+    burned, distance covered, length of workout, and heart rate if you consent to
+    connecting a heart monitor.'
+- source: information relate to fitness performance
+  target: strive score
+  key: SUBSUM
+  text:
+  - '"Fitness Data" means any information relating to your fitness performance and/or
+    workouts, including things like, Power Zone information, strive score, calories
+    burned, distance covered, length of workout, and heart rate if you consent to
+    connecting a heart monitor.'
+- source: information you choose
+  target: avatar
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: gender
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: height
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: image
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: photo
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: picture
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: standard identifying information list
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: tag
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you choose
+  target: weight
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: information you provide in connection with peloton profile
+  target: username
+  key: SUBSUM
+  text:
+  - Profile Information . Information that you provide in connection with your Peloton
+    Profile, such as username, and any additional information you choose to provide
+    to enhance your use of the Services, including your weight, height, gender, general
+    location, photo, picture, tags, image, avatar and the Standard Identifying Information
+    listed above.
+- source: internet activity
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - Internet or Other Network Activity .Information including browsing or search history,
+    including interactions with our websites, including search, mobile applications,
+    marketing and advertising.
+- source: location dependent service
+  target: outdoor route tracking functionality
+  key: SUBSUM
+  text:
+  - You will have the ability to opt-in or out of our collection of precise location
+    information using the location and Bluetooth settings on your device, but this
+    may affect your ability to use certain location dependent Services (such as our
+    Outdoor Route Tracking functionality).
+- source: marketing text message
+  target: abandon cart cart reminder
+  key: SUBSUM
+  text:
+  - Marketing text messages are recurring automated promotional and personalized marketing
+    text messages (e.g. welcome messages, abandoned cart/cart reminders) from Peloton
+    at the cell number used when signing up.
+- source: metric associate with workout
+  target: calorie
+  key: SUBSUM
+  text:
+  - 'NOTE: Regardless of profile settings, the following are always Public: Name,
+    username/leaderboard name, profile picture/avatar, location, tags and badges,
+    and metrics associated with your workout, e.g. output and calories will be visible
+    on the Leaderboard during class and classes on demand.'
+- source: party to corporate transaction
+  target: advisor
+  key: SUBSUM
+  text:
+  - We may share your personal information with parties to a corporate transaction,
+    including actual or potential buyers (and their agents and advisors), in connection
+    with any actual or proposed purchase, merger, acquisition, financing, reorganization,
+    bankruptcy, receivership, sale of company assets or transition of service to another
+    provider, provided that we inform the buyer or transferee that it must use your
+    personal information only for the purposes disclosed in this Privacy Policy.
+- source: personal information
+  target: cctv image
+  key: SUBSUM
+  text:
+  - 'We may share your personal information, including CCTV images, with competent
+    law enforcement bodies, regulators, our insurers, external legal advisors, government
+    agencies, courts or other third parties where we believe disclosure is necessary:
+    (i) to comply with applicable law; (ii) to exercise, establish or defend our legal
+    rights (including to collect amounts owed to Peloton); (iii) to protect your rights
+    or vital interests or those or any other person; or (iv) to detect, prevent or
+    otherwise address security, fraud or technical issues.'
+- source: postal address
+  target: zip post code
+  key: SUBSUM
+  text:
+  - Standard Identifying Information . Name, mailing address (including zip/post code),
+    billing address (including zip/post code), email, date of birth and phone number.
+- source: retail shop
+  target: concession store
+  key: SUBSUM
+  text:
+  - This includes how we collect and process your personal information such as when
+    you visit Peloton sites, use any Peloton products or services including Peloton
+    applications (the "Apps") or fitness equipment (such as the Peloton Bike, Bike+,
+    Tread, Tread+, Guide, or Peloton Row), or when you interact with us via our call
+    centers, support service including live chats and email communications, social
+    media channels, studios or retail shops including our showrooms or concession
+    stores, as well as other online and offline services we provide (together, the
+    "Services'').
+- source: retail shop
+  target: showroom
+  key: SUBSUM
+  text:
+  - This includes how we collect and process your personal information such as when
+    you visit Peloton sites, use any Peloton products or services including Peloton
+    applications (the "Apps") or fitness equipment (such as the Peloton Bike, Bike+,
+    Tread, Tread+, Guide, or Peloton Row), or when you interact with us via our call
+    centers, support service including live chats and email communications, social
+    media channels, studios or retail shops including our showrooms or concession
+    stores, as well as other online and offline services we provide (together, the
+    "Services'').
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - If you access our Services through a third party application, such as the Apple
+    App Store or Google Play App Store (together with any similar applications, "App
+    Stores") or connect to Social Networking Sites ("SNS") such as Instagram, Twitter
+    or Facebook through our Services, we may collect information about you from that
+    Third-Party application that you have made public via your privacy settings of
+    the Third-Party.
+- source: social media
+  target: Twitter
+  key: SUBSUM
+  text:
+  - If you access our Services through a third party application, such as the Apple
+    App Store or Google Play App Store (together with any similar applications, "App
+    Stores") or connect to Social Networking Sites ("SNS") such as Instagram, Twitter
+    or Facebook through our Services, we may collect information about you from that
+    Third-Party application that you have made public via your privacy settings of
+    the Third-Party.
+- source: support service
+  target: email communication
+  key: SUBSUM
+  text:
+  - This includes how we collect and process your personal information such as when
+    you visit Peloton sites, use any Peloton products or services including Peloton
+    applications (the "Apps") or fitness equipment (such as the Peloton Bike, Bike+,
+    Tread, Tread+, Guide, or Peloton Row), or when you interact with us via our call
+    centers, support service including live chats and email communications, social
+    media channels, studios or retail shops including our showrooms or concession
+    stores, as well as other online and offline services we provide (together, the
+    "Services'').
+- source: support service
+  target: live chat
+  key: SUBSUM
+  text:
+  - This includes how we collect and process your personal information such as when
+    you visit Peloton sites, use any Peloton products or services including Peloton
+    applications (the "Apps") or fitness equipment (such as the Peloton Bike, Bike+,
+    Tread, Tread+, Guide, or Peloton Row), or when you interact with us via our call
+    centers, support service including live chats and email communications, social
+    media channels, studios or retail shops including our showrooms or concession
+    stores, as well as other online and offline services we provide (together, the
+    "Services'').
+- source: technology
+  target: global privacy control
+  key: SUBSUM
+  text:
+  - Please also note that you may opt out and we honor certain technologies broadcasting
+    an Opt-Out Preference Signal, such as the Global Privacy Control (GPC).
+  - Please note you may opt out, and we honor, certain technologies broadcasting an
+    Opt-Out Preference Signal, such as the Global Privacy Control (GPC).
+- source: technology
+  target: gpc
+  key: SUBSUM
+  text:
+  - Please also note that you may opt out and we honor certain technologies broadcasting
+    an Opt-Out Preference Signal, such as the Global Privacy Control (GPC).
+  - Please note you may opt out, and we honor, certain technologies broadcasting an
+    Opt-Out Preference Signal, such as the Global Privacy Control (GPC).
+- source: unique digital identifier
+  target: browser mobile type
+  key: SUBSUM
+  text:
+  - Information from and about the device you use when you use our Services, including
+    IP address, unique digital identifiers (e.g. browser/mobile type), mobile carrier,
+    time zone, state, language, operating system, and precise location if you have
+    chosen to share it (see "Geolocation Data" above).
+- source: workout characteristic
+  target: heart rate
+  key: SUBSUM
+  text:
+  - Workout Characteristics. Information you provide in order to track your performance
+    while using our Services, e.g. height, weight, heart rate (if a compatible heart
+    rate monitor is connected), workout repetitions, exercises, weights and equipment
+    used.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: advisor
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: chat feature
+- type: ACTOR
+  id: cloud storage provider
+- type: ACTOR
+  id: competent law enforcement body
+- type: ACTOR
+  id: concession store
+- type: ACTOR
+  id: consultant
+- type: ACTOR
+  id: court
+- type: ACTOR
+  id: cra
+- type: ACTOR
+  id: cras
+- type: ACTOR
+  id: credit bureau
+- type: ACTOR
+  id: credit reference agency
+- type: ACTOR
+  id: delivery
+- type: ACTOR
+  id: email communication
+- type: ACTOR
+  id: email service provider
+- type: ACTOR
+  id: entertainment partner
+- type: ACTOR
+  id: external legal advisor
+- type: ACTOR
+  id: global privacy control
+- type: ACTOR
+  id: government agency
+- type: ACTOR
+  id: gpc
+- type: ACTOR
+  id: group
+- type: ACTOR
+  id: insurer
+- type: ACTOR
+  id: live chat
+- type: ACTOR
+  id: live chat service provider
+- type: ACTOR
+  id: location dependent service
+- type: ACTOR
+  id: logistic
+- type: ACTOR
+  id: member support agent
+- type: ACTOR
+  id: messaging technology partner
+- type: ACTOR
+  id: outdoor route tracking functionality
+- type: ACTOR
+  id: paired application
+- type: ACTOR
+  id: party to corporate transaction
+- type: ACTOR
+  id: payment processing
+- type: ACTOR
+  id: payment processing partner
+- type: ACTOR
+  id: peloton
+- type: ACTOR
+  id: phone carrier
+- type: ACTOR
+  id: product delivery
+- type: ACTOR
+  id: regulator
+- type: ACTOR
+  id: relate company
+- type: ACTOR
+  id: research partner
+- type: ACTOR
+  id: retail shop
+- type: ACTOR
+  id: sale
+- type: ACTOR
+  id: search engine
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service providers
+- type: ACTOR
+  id: servicing
+- type: ACTOR
+  id: session replay service
+- type: ACTOR
+  id: showroom
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: support service
+- type: ACTOR
+  id: technical support
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: wifi
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: abandon cart cart reminder
+- type: DATA
+  id: activation date
+- type: DATA
+  id: activity
+- type: DATA
+  id: activity feed
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: amount of time spend on services
+- type: DATA
+  id: approximate number of ride
+- type: DATA
+  id: avatar
+- type: DATA
+  id: behavior
+- type: DATA
+  id: browser mobile type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: calorie
+- type: DATA
+  id: calorie burn
+- type: DATA
+  id: cctv image
+- type: DATA
+  id: chat datum
+- type: DATA
+  id: competition information
+- type: DATA
+  id: connect device account
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: county
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: data relate to opt
+- type: DATA
+  id: date
+- type: DATA
+  id: datum relate to activity
+- type: DATA
+  id: delivery information
+- type: DATA
+  id: detail of delivery
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: experience
+- type: DATA
+  id: feedback
+- type: DATA
+  id: feedback communication
+- type: DATA
+  id: fitness data
+- type: DATA
+  id: gender
+- type: DATA
+  id: generate content
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: hardware type of access device
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: height
+- type: DATA
+  id: hour ride
+- type: DATA
+  id: image
+- type: DATA
+  id: important information
+- type: DATA
+  id: inference base on activity
+- type: DATA
+  id: information about bullet point
+- type: DATA
+  id: information about interaction with content
+- type: DATA
+  id: information about service
+- type: DATA
+  id: information about viewing
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information associate with profile
+- type: DATA
+  id: information from
+- type: DATA
+  id: information from source
+- type: DATA
+  id: information generate through use of link application
+- type: DATA
+  id: information generate through use of service
+- type: DATA
+  id: information generate through use of services
+- type: DATA
+  id: information provide
+- type: DATA
+  id: information provide in report
+- type: DATA
+  id: information relate to fitness performance
+- type: DATA
+  id: information relate to you
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information you choose
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you provide in connection with peloton profile
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: information you submit in chatbot
+- type: DATA
+  id: interaction with services
+- type: DATA
+  id: internet
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language
+- type: DATA
+  id: length of workout
+- type: DATA
+  id: mac address
+- type: DATA
+  id: marketing text message
+- type: DATA
+  id: message
+- type: DATA
+  id: metric associate with workout
+- type: DATA
+  id: model of bike
+- type: DATA
+  id: movement
+- type: DATA
+  id: not mail list
+- type: DATA
+  id: outdoor route tracking
+- type: DATA
+  id: peloton email interaction
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information as
+- type: DATA
+  id: personal information we receive
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photo
+- type: DATA
+  id: physical movement
+- type: DATA
+  id: picture
+- type: DATA
+  id: pixel
+- type: DATA
+  id: postal address
+- type: DATA
+  id: power zone information
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: preference
+- type: DATA
+  id: profile information
+- type: DATA
+  id: proximity to beacon
+- type: DATA
+  id: purchase information
+- type: DATA
+  id: recommendation
+- type: DATA
+  id: region
+- type: DATA
+  id: request
+- type: DATA
+  id: result from research service
+- type: DATA
+  id: review information
+- type: DATA
+  id: running route
+- type: DATA
+  id: script
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: service history
+- type: DATA
+  id: social media widget
+- type: DATA
+  id: standard identify information
+- type: DATA
+  id: standard identifying information
+- type: DATA
+  id: standard identifying information list
+- type: DATA
+  id: state
+- type: DATA
+  id: streaming history
+- type: DATA
+  id: strive score
+- type: DATA
+  id: survey information
+- type: DATA
+  id: sweepstake
+- type: DATA
+  id: sweepstake competition information
+- type: DATA
+  id: tag
+- type: DATA
+  id: technical characteristic of connection setup termination
+- type: DATA
+  id: technical datum
+- type: DATA
+  id: testing
+- type: DATA
+  id: time
+- type: DATA
+  id: time zone
+- type: DATA
+  id: unique digital identifier
+- type: DATA
+  id: username
+- type: DATA
+  id: voiceprint
+- type: DATA
+  id: web storage
+- type: DATA
+  id: weight
+- type: DATA
+  id: workout characteristic
+- type: DATA
+  id: workout information
+- type: DATA
+  id: workout streaming history
+- type: DATA
+  id: zip code
+- type: DATA
+  id: zip post code

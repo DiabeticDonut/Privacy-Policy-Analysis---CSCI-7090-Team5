@@ -1,0 +1,610 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - However, if we have a legitimate reason or legal requirement to do so, we might
+    need to keep certain information.
+  - 'Sharing Your personal information may occur in the following scenarios: In order
+    to present You with certain goods, services, or promotions, we could disclose
+    Your information to our business partners.'
+  - 'Sharing Your personal information may occur in the following scenarios: With
+    Affiliates: We could share your information with our affiliates, who must abide
+    by this privacy policy.'
+  - 'The following are the uses for which the Company may make use of Personal Data:
+    To deliver updates, deals, and general data: Unless you have agreed not to receive
+    such information, we may use Your data to notify You about products, services,
+    and events similar to those You have already purchased or enquired about.'
+  - 'With your express permission, we may gather the following data when you use Our
+    Application in order to provide certain features:'
+  purposes:
+    advertising:
+    - In order to present You with certain goods, services, or promotions
+    - to notify You about products, services, and events similar to those You have
+      already purchased or enquired about
+    analytics:
+    - Photographs and additional information from the camera and picture library on
+      your device
+    - To deliver updates, deals, and general data
+    services:
+    - Photographs and additional information from the camera and picture library on
+      your device
+    - To deliver updates, deals, and general data
+    - to notify You about products, services, and events similar to those You have
+      already purchased or enquired about
+- source: we
+  target: datum categorize
+  key: COLLECT
+  text:
+  - We gather data that can be categorized by the CCPA/CPRA and may have been obtained
+    from California citizens within the previous twelve (12) months.
+  purposes: {}
+- source: we
+  target: information browser transmit
+  key: COLLECT
+  text:
+  - In addition, whether you access our Service on a computer or a mobile device,
+    we could collect information that your browser transmits.
+  purposes: {}
+- source: we
+  target: information collect
+  key: COLLECT
+  text:
+  - 'Privacy Policy
+
+
+    Information Collected while Using the Application'
+  - To improve and customize Our Service, as well as to supply features, We utilize
+    this information.
+  purposes:
+    services:
+    - To improve and customize Our Service, as well as to supply features
+- source: we
+  target: material fall into
+  key: COLLECT
+  text:
+  - Since we recognize that certain material falling into these categories may have
+    been exchanged for important consideration, we are disclosing this information
+    in good faith.
+  purposes: {}
+- source: we
+  target: necessary information
+  key: COLLECT
+  text:
+  - We will provide the necessary information at no cost to you within 45 days of
+    receiving your verified request.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - We may ask you to provide us with some personally identifying information when
+    using Our Service so that We may get in touch with or identify You.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - For "business purposes" or "commercial purposes," as those terms are defined by
+    the CCPA/CPRA, we may use or disclose the personal data we collect.
+  - For the time necessary to achieve the goals specified in this Privacy Policy,
+    the Company will only retain Your Personal Data.
+  - 'In the good faith opinion that it is required, the Company may divulge Your Personal
+    Data in order to:'
+  - 'Privacy Policy
+
+
+    Other legal requirements
+
+
+    The following circumstances allow us to process personal data:'
+  - 'The following circumstances allow us to process personal data: Legitimate Interests
+    : The Company needs to process Personal Data in order to further its justifications.'
+  - To fulfill our legal duties (such as keeping records to abide by relevant laws),
+    resolve conflicts, and uphold our legal agreements and policies, we shall keep
+    and use Your Personal Data as necessary.
+  - To improve and provide better services through the Service, we use your personal
+    data.
+  purposes:
+    analytics:
+    - to process Personal Data in order to further its justifications
+    legal:
+    - In order to fulfill any pre-contractual duties and/or perform under a contract
+      with You
+    - To fulfill our legal duties (such as keeping records to abide by relevant laws),
+      resolve conflicts, and uphold our legal agreements and policies
+    - 'in order to: Fulfill a legal requirement'
+    - 'in order to: Safeguard against legal responsibility'
+    - 'in order to: Safeguard and uphold the rights or assets of the Company'
+    security:
+    - 'in order to: Ensure the safety of Service Users or the general public'
+    - 'in order to: Prevent or probe potential misconduct related to the Service'
+    - 'in order to: Safeguard against legal responsibility'
+    - 'in order to: Safeguard and uphold the rights or assets of the Company'
+    services:
+    - To improve and provide better services through the Service
+    - to process Personal Data in order to further its justifications
+- source: we
+  target: personal information fall into
+  key: COLLECT
+  text:
+  - 'We might have used or revealed, and might still use or disclose, for business
+    or commercial reasons, any personal information that falls into the following
+    categories over the last twelve (12) months:'
+  purposes: {}
+- source: we
+  target: personal information fit into
+  key: COLLECT
+  text:
+  - 'Throughout the last twelve (12) months, we may have shared--and may still share--personal
+    information that fits into the aforementioned categories with the third parties
+    listed below: Our affiliates'
+  - 'Throughout the last twelve (12) months, we may have shared--and may still share--personal
+    information that fits into the aforementioned categories with the third parties
+    listed below: Third-party vendors to whom you or your agents authorize us to disclose
+    your personal information in connection with products or services we provide to
+    you'
+  purposes: {}
+- source: we
+  target: use datum
+  key: COLLECT
+  text:
+  - The company will keep use data around as well for internal study.
+  purposes:
+    analytics:
+    - for internal study
+- source: Google
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Google uses cookies, functioning as a third-party vendor, to show advertisements
+    on our service.
+  purposes:
+    advertising:
+    - to show advertisements on our service
+- source: Google
+  target: datum use
+  key: COLLECT
+  text:
+  - Google Analytics collects data that may be used to personalize adverts within
+    its advertising network and shares that data with other Google services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Sharing Your personal information may occur in the following scenarios: With
+    Affiliates: We could share your information with our affiliates, who must abide
+    by this privacy policy.'
+  - These third-party vendors may get information from us, including hashed email
+    addresses and other online identifiers that we collect on our service.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: email address
+  key: COLLECT
+  text:
+  - These third-party vendors may get information from us, including hashed email
+    addresses and other online identifiers that we collect on our service.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: online identifier
+  key: COLLECT
+  text:
+  - These third-party vendors may get information from us, including hashed email
+    addresses and other online identifiers that we collect on our service.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - No organization or nation will receive Your Personal Data without sufficient safeguards,
+    such as those pertaining to the security of Your data and other personal information.
+  purposes: {}
+- source: business partner
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Sharing Your personal information may occur in the following scenarios: In order
+    to present You with certain goods, services, or promotions, we could disclose
+    Your information to our business partners.'
+  purposes:
+    advertising:
+    - In order to present You with certain goods, services, or promotions
+- source: business partner
+  target: personal information fit into
+  key: COLLECT
+  text:
+  - 'Throughout the last twelve (12) months, we may have shared--and may still share--personal
+    information that fits into the aforementioned categories with the third parties
+    listed below: Our business partners'
+  purposes: {}
+- source: nation
+  target: personal information
+  key: COLLECT
+  text:
+  - No organization or nation will receive Your Personal Data without sufficient safeguards,
+    such as those pertaining to the security of Your data and other personal information.
+  purposes: {}
+- source: outside vendor
+  target: internet activity
+  key: COLLECT
+  text:
+  - In accordance with their own privacy policies, these outside vendors gather, store,
+    process, and transmit information about your activities on our service.
+  purposes: {}
+- source: payment processor
+  target: personal information fit into
+  key: COLLECT
+  text:
+  - 'Throughout the last twelve (12) months, we may have shared--and may still share--personal
+    information that fits into the aforementioned categories with the third parties
+    listed below: Payment processors'
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - As stated in our Privacy Policy, we do, however, allow Service Providers to utilize
+    your personal information for their business needs.
+  purposes:
+    services:
+    - for their business needs
+- source: service provider
+  target: personal information fit into
+  key: COLLECT
+  text:
+  - 'Throughout the last twelve (12) months, we may have shared--and may still share--personal
+    information that fits into the aforementioned categories with the third parties
+    listed below: Service Providers'
+  purposes: {}
+- source: service provider
+  target: technology on platform in accordance with ccpa cpra count as sale of personal
+    information
+  key: COLLECT
+  text:
+  - You should be informed that our service providers--such as our analytics or advertising
+    partners--may utilize technologies on our platform that, in accordance with the
+    CCPA/CPRA, count as the sale of personal information.
+  purposes: {}
+- source: cooperative effort
+  target: know company
+  key: SUBSUM
+  text:
+  - The PCI Security requirements Council, a cooperative effort including well-known
+    companies including Visa, Mastercard, American Express, and Discover, is in charge
+    of overseeing these payment processors' adherence to PCI-DSS (Payment Card Industry
+    Data Security Standard) requirements.
+- source: internet activity
+  target: amount of time spend on page
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: internet activity
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: internet activity
+  target: browser version
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: internet activity
+  target: date
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: internet activity
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: internet activity
+  target: diagnostic information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: internet activity
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: internet activity
+  target: time
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Usage Data'
+  - This data may include IP addresses, browser types, browser versions, sites you
+    view on our service, time and date of visit, amount of time spent on those pages,
+    device identifiers, and other diagnostic information.
+- source: know company
+  target: american express
+  key: SUBSUM
+  text:
+  - The PCI Security requirements Council, a cooperative effort including well-known
+    companies including Visa, Mastercard, American Express, and Discover, is in charge
+    of overseeing these payment processors' adherence to PCI-DSS (Payment Card Industry
+    Data Security Standard) requirements.
+- source: know company
+  target: discover
+  key: SUBSUM
+  text:
+  - The PCI Security requirements Council, a cooperative effort including well-known
+    companies including Visa, Mastercard, American Express, and Discover, is in charge
+    of overseeing these payment processors' adherence to PCI-DSS (Payment Card Industry
+    Data Security Standard) requirements.
+- source: know company
+  target: mastercard
+  key: SUBSUM
+  text:
+  - The PCI Security requirements Council, a cooperative effort including well-known
+    companies including Visa, Mastercard, American Express, and Discover, is in charge
+    of overseeing these payment processors' adherence to PCI-DSS (Payment Card Industry
+    Data Security Standard) requirements.
+- source: know company
+  target: visa
+  key: SUBSUM
+  text:
+  - The PCI Security requirements Council, a cooperative effort including well-known
+    companies including Visa, Mastercard, American Express, and Discover, is in charge
+    of overseeing these payment processors' adherence to PCI-DSS (Payment Card Industry
+    Data Security Standard) requirements.
+- source: personal identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Personally identifiable information can include, but is not limited to: Email
+    address'
+- source: personal identifier
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Personally identifiable information can include, but is not limited to: Usage
+    Data'
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'In the past twelve (12) months, we may have sold or allowed the sale of the following
+    categories of personal information: Category D: Commercial information'
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'In the past twelve (12) months, we may have sold or allowed the sale of the following
+    categories of personal information: Category A: Identifiers'
+- source: personal information
+  target: internet
+  key: SUBSUM
+  text:
+  - 'In the past twelve (12) months, we may have sold or allowed the sale of the following
+    categories of personal information: Category F: Internet or other similar network
+    activity'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'In the past twelve (12) months, we may have sold or allowed the sale of the following
+    categories of personal information: Category F: Internet or other similar network
+    activity'
+- source: personal information
+  target: option amend
+  key: SUBSUM
+  text:
+  - You have the right to ask to see Your Personal Data, including the option to amend,
+    remove, or see the data right from Your account settings.
+- source: public authority
+  target: court
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Law enforcement
+
+
+    The Company may be compelled by law to reveal Your Personal Data in some situations,
+    or in response to legitimate requests made by public authorities, such as a court
+    or government agency.'
+- source: public authority
+  target: government agency
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Law enforcement
+
+
+    The Company may be compelled by law to reveal Your Personal Data in some situations,
+    or in response to legitimate requests made by public authorities, such as a court
+    or government agency.'
+- source: service provider
+  target: advertiser
+  key: SUBSUM
+  text:
+  - You should be informed that our service providers--such as our analytics or advertising
+    partners--may utilize technologies on our platform that, in accordance with the
+    CCPA/CPRA, count as the sale of personal information.
+- source: service provider
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - You should be informed that our service providers--such as our analytics or advertising
+    partners--may utilize technologies on our platform that, in accordance with the
+    CCPA/CPRA, count as the sale of personal information.
+- source: variety of source
+  target: datum from form
+  key: SUBSUM
+  text:
+  - 'The categories of personal information listed below are gathered by us from a
+    variety of sources, including: Directly from You: Examples: data from our service''s
+    forms, user-provided or stated preferences, and purchases made there.'
+- source: variety of source
+  target: information obtain by
+  key: SUBSUM
+  text:
+  - 'The categories of personal information listed below are gathered by us from a
+    variety of sources, including: Indirectly from You: Examples: Information obtained
+    by observing Your activity on our Service.'
+- source: variety of source
+  target: provide preference
+  key: SUBSUM
+  text:
+  - 'The categories of personal information listed below are gathered by us from a
+    variety of sources, including: Directly from You: Examples: data from our service''s
+    forms, user-provided or stated preferences, and purchases made there.'
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: american express
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: cooperative effort
+- type: ACTOR
+  id: court
+- type: ACTOR
+  id: discover
+- type: ACTOR
+  id: government agency
+- type: ACTOR
+  id: know company
+- type: ACTOR
+  id: mastercard
+- type: ACTOR
+  id: nation
+- type: ACTOR
+  id: outside vendor
+- type: ACTOR
+  id: payment processor
+- type: ACTOR
+  id: public authority
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: visa
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: amount of time spend on page
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browser version
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date
+- type: DATA
+  id: datum categorize
+- type: DATA
+  id: datum from form
+- type: DATA
+  id: datum use
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: diagnostic information
+- type: DATA
+  id: email address
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information browser transmit
+- type: DATA
+  id: information collect
+- type: DATA
+  id: information obtain by
+- type: DATA
+  id: internet
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: material fall into
+- type: DATA
+  id: necessary information
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: option amend
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information fall into
+- type: DATA
+  id: personal information fit into
+- type: DATA
+  id: provide preference
+- type: DATA
+  id: technology on platform in accordance with ccpa cpra count as sale of personal
+    information
+- type: DATA
+  id: time
+- type: DATA
+  id: use datum
+- type: DATA
+  id: variety of source

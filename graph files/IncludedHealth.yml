@@ -1,0 +1,1202 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - By filling in any contact form with their Data, the User authorizes this Website
+    to use these details to reply to requests for information, quotes or any other
+    kind of request as indicated by the form's header.
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: We may disclose your information, to the
+    extent permitted by law, in court or in the stages leading to possible legal action
+    arising from improper use of this website, application or services, or due to
+    a dispute you initiate in connection with the related services.'
+  purposes:
+    legal:
+    - to reply to requests for information, quotes or any other kind of request
+    services:
+    - to reply to requests for information, quotes or any other kind of request
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - However, we will not publish your name or any identifying information about you
+    without your permission; we will use only anonymous data for any public purpose.
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: We may disclose the results of anonymized
+    aggregated data about you for marketing or promotional purposes (for instance,
+    that a certain percentage of our Sites'' users are living in a particular state
+    of the United States).'
+  - We may also use anonymous information gathered, including information from your
+    medical records, to generate conclusions about the healthcare process, particular
+    conditions, and other matters.
+  purposes:
+    advertising:
+    - for marketing or promotional purposes
+    analytics:
+    - to generate conclusions about the healthcare process, particular conditions,
+      and other matters
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - Before you can utilize certain services that we offer on the Sites or otherwise,
+    we may ask that you register with the Sites and provide us with your email address,
+    a password, your first and last name and other contact information and personal
+    details.
+  - We request this information for identification purposes, to communicate with you
+    regarding your account, and to facilitate the functioning of certain services.
+  purposes:
+    services:
+    - for identification purposes, to communicate with you regarding your account,
+      and to facilitate the functioning of certain services
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Like most major websites, we use cookies on certain pages of our Sites.
+  - We may also use cookies to deliver content tailored to your interests.
+  purposes:
+    advertising:
+    - to deliver content tailored to your interests
+    services:
+    - to deliver content tailored to your interests
+- source: we
+  target: datum require
+  key: COLLECT
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  purposes: {}
+- source: we
+  target: description of symptom
+  key: COLLECT
+  text:
+  - To support the medical professionals giving second opinions regarding your health,
+    you may be required to provide us with past and current medical records, description
+    of symptoms, a medical history and life-style descriptions.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - Before you can utilize certain services that we offer on the Sites or otherwise,
+    we may ask that you register with the Sites and provide us with your email address,
+    a password, your first and last name and other contact information and personal
+    details.
+  purposes: {}
+- source: we
+  target: file record interaction with website
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Website and any third-party services
+    may collect files that record interaction with this Website (System logs) use
+    other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'For users of Included Health Communities (" Communities "), in addition to other
+    types of information described above (such as contact information), we also collect:
+    information users provide directly to us, including by registering for events
+    through the Sites, when requesting support, by contacting us with inquiries or
+    comments, or accessing the Communities Site pages; usage information, such as
+    website traffic patterns; location information, meaning information used to locate
+    the device the user uses to access Communities services (e.g., the location of
+    the device derived from GPS or WiFi use, the location derived from the IP address
+    of the device or internet services used to access Communities services, and other
+    information made available by a user or others that indicates the current or prior
+    location of the user); and any other information that users may provide to us
+    that can be used to identify them.'
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - To the best of our ability, we will confirm receipt of your verifiable request
+    within 10 days and provide information about how we will process your request.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - By allowing us to collect information about you, you consent to such transfer
+    and processing of your data.
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: If you have requested a Service, we may
+    use information about you to fulfill such requests (including providing that information
+    to third parties).'
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: We may disclose information about you as
+    part of a merger, acquisition or other sale or transfer of its assets or business.'
+  - We may disclose information about you for purposes such as to provide services
+    available on the Sites; to coordinate with insurance, reinsurance and excess or
+    stop loss insurers; to enforce our Members' rights; to protect against actual
+    or potential fraud; to resolve Member inquiries or disputes; to receive payments;
+    to carry out our business; to protect the confidentiality or security of our records;
+    to administer preventive health and case management programs; to perform auditing
+    and ratemaking functions; to enable our service providers to perform marketing
+    services on our behalf and inform Users about our own products or services; to
+    comply with federal or state laws and other applicable legal requirements.
+  - We may share information about you, your care, and your use of Services to your
+    healthcare payor, or as necessary to implement plan designs described to you in
+    your applicable Plan documentation, or on your request.
+  purposes:
+    advertising:
+    - to administer preventive health and case management programs; to perform auditing
+      and ratemaking functions; to enable our service providers to perform marketing
+      services on our behalf and inform Users about our own products or services;
+      to comply with federal or state laws and other applicable legal requirements
+    - to enable our service providers to perform marketing services on our behalf
+      and inform Users about our own products or services;
+    analytics:
+    - to administer preventive health and case management programs; to perform auditing
+      and ratemaking functions; to enable our service providers to perform marketing
+      services on our behalf and inform Users about our own products or services;
+      to comply with federal or state laws and other applicable legal requirements
+    - to fulfill such requests (including providing that information to third parties)
+    legal:
+    - to administer preventive health and case management programs; to perform auditing
+      and ratemaking functions; to enable our service providers to perform marketing
+      services on our behalf and inform Users about our own products or services;
+      to comply with federal or state laws and other applicable legal requirements
+    security:
+    - for purposes such as to provide services available on the Sites; to coordinate
+      with insurance, reinsurance and excess or stop loss insurers; to enforce our
+      Members' rights; to protect against actual or potential fraud; to resolve Member
+      inquiries or disputes; to receive payments;
+    services:
+    - for purposes such as to provide services available on the Sites; to coordinate
+      with insurance, reinsurance and excess or stop loss insurers; to enforce our
+      Members' rights; to protect against actual or potential fraud; to resolve Member
+      inquiries or disputes; to receive payments;
+    - to administer preventive health and case management programs; to perform auditing
+      and ratemaking functions; to enable our service providers to perform marketing
+      services on our behalf and inform Users about our own products or services;
+      to comply with federal or state laws and other applicable legal requirements
+    - to fulfill such requests (including providing that information to third parties)
+- source: we
+  target: information collect from user
+  key: COLLECT
+  text:
+  - In connection with the Communities services, we also use information collected
+    from users to connect users with healthcare service providers or organizations
+    and enhance user experiences, such as by tailoring content and remembering user
+    preferences.
+  purposes:
+    services:
+    - to connect users with healthcare service providers or organizations and enhance
+      user experiences, such as by tailoring content and remembering user preferences
+- source: we
+  target: information concern particular service
+  key: COLLECT
+  text:
+  - In addition to the information contained in this privacy policy, upon your request
+    we may provide you with additional and contextual information concerning particular
+    services or the collection and processing of Personal Data.
+  purposes: {}
+- source: we
+  target: information regard member of age
+  key: COLLECT
+  text:
+  - We do collect from employers information regarding Members of all ages, so that
+    we may know who is eligible to receive Services.
+  purposes: {}
+- source: we
+  target: information require
+  key: COLLECT
+  text:
+  - If your Plan provides incentives for utilization of services, we will share information
+    required to implement such incentives.
+  purposes: {}
+- source: we
+  target: information user provide to we
+  key: COLLECT
+  text:
+  - 'For users of Included Health Communities (" Communities "), in addition to other
+    types of information described above (such as contact information), we also collect:
+    information users provide directly to us, including by registering for events
+    through the Sites, when requesting support, by contacting us with inquiries or
+    comments, or accessing the Communities Site pages; usage information, such as
+    website traffic patterns; location information, meaning information used to locate
+    the device the user uses to access Communities services (e.g., the location of
+    the device derived from GPS or WiFi use, the location derived from the IP address
+    of the device or internet services used to access Communities services, and other
+    information made available by a user or others that indicates the current or prior
+    location of the user); and any other information that users may provide to us
+    that can be used to identify them.'
+  purposes: {}
+- source: we
+  target: information we collect about you
+  key: COLLECT
+  text:
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: We may disclose information that we collect
+    about you to our third-party contractors who perform services for us in order
+    to provide certain services or to complete or confirm a transaction that you conduct
+    with us.'
+  purposes:
+    services:
+    - in order to provide certain services or to complete or confirm a transaction
+      that you conduct with us
+- source: we
+  target: information we know about you
+  key: COLLECT
+  text:
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: We may use information we know about you
+    to contact you to inform you about relevant services, including by telephone,
+    text message, email, or direct mail.'
+  purposes:
+    services:
+    - to contact you
+    - to inform you about relevant services, including by telephone, text message,
+      email, or direct mail
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We use your IP address to help diagnose problems with our server and to administer
+    our Sites.
+  purposes:
+    services:
+    - to help diagnose problems with our server and to administer our Sites
+- source: we
+  target: life style description
+  key: COLLECT
+  text:
+  - To support the medical professionals giving second opinions regarding your health,
+    you may be required to provide us with past and current medical records, description
+    of symptoms, a medical history and life-style descriptions.
+  purposes: {}
+- source: we
+  target: medical history
+  key: COLLECT
+  text:
+  - To support the medical professionals giving second opinions regarding your health,
+    you may be required to provide us with past and current medical records, description
+    of symptoms, a medical history and life-style descriptions.
+  purposes: {}
+- source: we
+  target: medical record
+  key: COLLECT
+  text:
+  - We may request courtesy notices from your treating physicians and/or request additional
+    medical records from them, including records pertaining to care you received after
+    receiving the services.
+  purposes: {}
+- source: we
+  target: original information
+  key: COLLECT
+  text:
+  - If necessary, we may retain original and updated information for reasons such
+    as technical constraints, dispute resolution, troubleshooting and agreement enforcement.
+  purposes:
+    security:
+    - for reasons such as technical constraints, dispute resolution, troubleshooting
+      and agreement enforcement
+    services:
+    - for reasons such as technical constraints, dispute resolution, troubleshooting
+      and agreement enforcement
+- source: we
+  target: password
+  key: COLLECT
+  text:
+  - Before you can utilize certain services that we offer on the Sites or otherwise,
+    we may ask that you register with the Sites and provide us with your email address,
+    a password, your first and last name and other contact information and personal
+    details.
+  purposes: {}
+- source: we
+  target: past medical record
+  key: COLLECT
+  text:
+  - To support the medical professionals giving second opinions regarding your health,
+    you may be required to provide us with past and current medical records, description
+    of symptoms, a medical history and life-style descriptions.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - Before you can utilize certain services that we offer on the Sites or otherwise,
+    we may ask that you register with the Sites and provide us with your email address,
+    a password, your first and last name and other contact information and personal
+    details.
+  purposes: {}
+- source: we
+  target: personal datum relate to user
+  key: COLLECT
+  text:
+  - 'We may process Personal Data relating to Users if one of the following applies:'
+  purposes: {}
+- source: we
+  target: personal detail
+  key: COLLECT
+  text:
+  - Before you can utilize certain services that we offer on the Sites or otherwise,
+    we may ask that you register with the Sites and provide us with your email address,
+    a password, your first and last name and other contact information and personal
+    details.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: For users of Communities, we also disclose
+    personal information to providers with whom the users have a relationship or with
+    whom users request that we facilitate a consultation or appointment as part of
+    Communities'' services.'
+  - 'Note: Under some legislations we may be allowed to process Personal Data until
+    the User objects to such processing ("opt-out"), without having to rely on consent
+    or any other of the following legal bases;'
+  - We may also disclose your personal information to third parties when you explicitly
+    ask or authorize us to do so, in order to provide you with our Service.
+  - We may also use your personal information for other reasons such as for commercial
+    purposes as well as for complying with the law and defending our rights before
+    the competent authorities where our rights and interests are threatened or we
+    suffer an actual damage.
+  - We may disclose the personal information we collect about you to a third party
+    for business purposes.
+  - We may use your personal information to allow us to render services to you and
+    your Employer (if applicable), the operational functioning of the Sites and features
+    thereof (all together, "business purposes").
+  purposes:
+    legal:
+    - for other reasons such as for commercial purposes as well as for complying with
+      the law and defending our rights before the competent authorities where our
+      rights and interests are threatened or we suffer an actual damage
+    security:
+    - for other reasons such as for commercial purposes as well as for complying with
+      the law and defending our rights before the competent authorities where our
+      rights and interests are threatened or we suffer an actual damage
+    services:
+    - For users of Communities
+    - in order to provide you with our Service
+    - to allow us to render services to you and your Employer (if applicable),
+- source: we
+  target: personal information about communities user
+  key: COLLECT
+  text:
+  - We may also collect personal information about Communities users from other sources,
+    including from employers, which we may combine with the information we collect
+    directly from users to help us tailor communications and improve the Communities
+    services.
+  purposes: {}
+- source: we
+  target: record
+  key: COLLECT
+  text:
+  - If you correspond with us, including postal, email, in-app chat or messaging,
+    phone, or video, we may retain those records.
+  purposes: {}
+- source: we
+  target: request
+  key: COLLECT
+  text:
+  - If our response to a privacy request is restricted by an agreement between us
+    and your Employer, we will process your requests in accordance with that agreement
+    and related authorization.
+  purposes: {}
+- source: we
+  target: system log
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Website and any third-party services
+    may collect files that record interaction with this Website (System logs) use
+    other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: we
+  target: usage
+  key: COLLECT
+  text:
+  - The information that we collect with cookies allows us to improve our marketing
+    and promotional efforts, to statistically analyze Sites' usage, to improve our
+    content and product offerings and to customize our Sites' content, layout and
+    services.
+  purposes: {}
+- source: we
+  target: usage information
+  key: COLLECT
+  text:
+  - 'For users of Included Health Communities (" Communities "), in addition to other
+    types of information described above (such as contact information), we also collect:
+    information users provide directly to us, including by registering for events
+    through the Sites, when requesting support, by contacting us with inquiries or
+    comments, or accessing the Communities Site pages; usage information, such as
+    website traffic patterns; location information, meaning information used to locate
+    the device the user uses to access Communities services (e.g., the location of
+    the device derived from GPS or WiFi use, the location derived from the IP address
+    of the device or internet services used to access Communities services, and other
+    information made available by a user or others that indicates the current or prior
+    location of the user); and any other information that users may provide to us
+    that can be used to identify them.'
+  purposes: {}
+- source: we
+  target: web traffic
+  key: COLLECT
+  text:
+  - The services contained in this section enable us to monitor and analyze web traffic
+    and can be used to keep track of User behavior.
+  purposes: {}
+- source: Google
+  target: 3rd party audience datum
+  key: COLLECT
+  text:
+  - Google Analytics on this Application might use Google's Interest-based advertising,
+    3rd-party audience data and information from the DoubleClick Cookie to extend
+    analytics with demographics, interests and ads interaction data.
+  purposes:
+    advertising:
+    - to extend analytics with demographics, interests and ads interaction data
+    analytics:
+    - to extend analytics with demographics, interests and ads interaction data
+- source: Google
+  target: base advertising
+  key: COLLECT
+  text:
+  - Google Analytics on this Application might use Google's Interest-based advertising,
+    3rd-party audience data and information from the DoubleClick Cookie to extend
+    analytics with demographics, interests and ads interaction data.
+  purposes:
+    advertising:
+    - to extend analytics with demographics, interests and ads interaction data
+    analytics:
+    - to extend analytics with demographics, interests and ads interaction data
+- source: Google
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Google Analytics on this Application might use Google's Interest-based advertising,
+    3rd-party audience data and information from the DoubleClick Cookie to extend
+    analytics with demographics, interests and ads interaction data.
+  purposes:
+    advertising:
+    - to extend analytics with demographics, interests and ads interaction data
+    analytics:
+    - to extend analytics with demographics, interests and ads interaction data
+- source: Google
+  target: data collect
+  key: COLLECT
+  text:
+  - Google may use the Data collected to contextualize and personalize the ads of
+    its own advertising network.
+  purposes:
+    advertising:
+    - to contextualize and personalize the ads of its own advertising network
+- source: Google
+  target: datum collect
+  key: COLLECT
+  text:
+  - Google utilizes the Data collected to track and examine the use of this Application,
+    to prepare reports on its activities and share them with other Google services.
+  purposes:
+    analytics:
+    - to track and examine the use of this Application, to prepare reports on its
+      activities and share them with other Google services
+- source: UNSPECIFIED_ACTOR
+  target: datum concern date view
+  key: COLLECT
+  text:
+  - These services may also collect data concerning the date and time when the message
+    was viewed by the User, as well as when the User interacted with it, such as by
+    clicking on links included in the message.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: file record interaction with website
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Website and any third-party services
+    may collect files that record interaction with this Website (System logs) use
+    other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: UNSPECIFIED_ACTOR
+  target: information we collect about you
+  key: COLLECT
+  text:
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: We may disclose information that we collect
+    about you to our third-party contractors who perform services for us in order
+    to provide certain services or to complete or confirm a transaction that you conduct
+    with us.'
+  purposes:
+    services:
+    - in order to provide certain services or to complete or confirm a transaction
+      that you conduct with us
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We may also disclose your personal information to third parties when you explicitly
+    ask or authorize us to do so, in order to provide you with our Service.
+  - We may disclose the personal information we collect about you to a third party
+    for business purposes.
+  purposes:
+    services:
+    - in order to provide you with our Service
+- source: UNSPECIFIED_ACTOR
+  target: system log
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, this Website and any third-party services
+    may collect files that record interaction with this Website (System logs) use
+    other Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: employer
+  target: datum require
+  key: COLLECT
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  purposes: {}
+- source: include health
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Included Health may also use pixel tags in HTML-based emails sent to its users
+    to track which emails are opened by recipients.
+  purposes:
+    analytics:
+    - to track which emails are opened by recipients
+- source: included health
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - When visiting or using any of the Sites or Services, including Doctor On Demand
+    by Included Health (" Doctor On Demand "), or any other website or mobile application
+    that reference or link to this Privacy Policy, your information will be processed
+    by Included Health for the purposes stated below, and in accordance with the Doctor
+    On Demand Notice of Privacy Practices , where applicable and legally permissible.
+  purposes: {}
+- source: included health
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Included Health uses web beacons to count users who have visited certain pages,
+    verify system and server integrity and for similar statistical measures.
+  purposes:
+    analytics:
+    - to count users who have visited certain pages, verify system and server integrity
+      and for similar statistical measures
+    security:
+    - to count users who have visited certain pages, verify system and server integrity
+      and for similar statistical measures
+- source: provider with whom user have relationship
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Included Health will not share, rent, sell or otherwise disclose any of the personally
+    identifiable information that we collect about you, except when we have your permission
+    or in any of the following situations: For users of Communities, we also disclose
+    personal information to providers with whom the users have a relationship or with
+    whom users request that we facilitate a consultation or appointment as part of
+    Communities'' services.'
+  purposes:
+    services:
+    - For users of Communities
+- source: server inside united states
+  target: information we collect about you
+  key: COLLECT
+  text:
+  - If you use our Sites or Services outside of the United States, information that
+    we collect about you will be transferred to servers inside the United States,
+    which may involve the transfer of information out of countries located in the
+    European Economic Area.
+  purposes: {}
+- source: we
+  target: doctor on demand
+  key: SUBSUM
+  text:
+  - When visiting or using any of the Sites or Services, including Doctor On Demand
+    by Included Health (" Doctor On Demand "), or any other website or mobile application
+    that reference or link to this Privacy Policy, your information will be processed
+    by Included Health for the purposes stated below, and in accordance with the Doctor
+    On Demand Notice of Privacy Practices , where applicable and legally permissible.
+- source: we
+  target: doctor on demand webpage
+  key: SUBSUM
+  text:
+  - Included Health, Inc. (" Included Health ", " Company ", " we ", " us ", or "
+    our ") operates the websites located at includedhealth.com and doctorondemand.com
+    , and other websites, products, services, and mobile applications with links to
+    this Privacy Policy, including without limitation the Doctor On Demand webpages
+    and secure applications (collectively, the " Sites " or " Websites ", unless otherwise
+    specified).
+- source: we
+  target: included health
+  key: SUBSUM
+  text:
+  - When visiting or using any of the Sites or Services, including Doctor On Demand
+    by Included Health (" Doctor On Demand "), or any other website or mobile application
+    that reference or link to this Privacy Policy, your information will be processed
+    by Included Health for the purposes stated below, and in accordance with the Doctor
+    On Demand Notice of Privacy Practices , where applicable and legally permissible.
+- source: we
+  target: mobile application
+  key: SUBSUM
+  text:
+  - When visiting or using any of the Sites or Services, including Doctor On Demand
+    by Included Health (" Doctor On Demand "), or any other website or mobile application
+    that reference or link to this Privacy Policy, your information will be processed
+    by Included Health for the purposes stated below, and in accordance with the Doctor
+    On Demand Notice of Privacy Practices , where applicable and legally permissible.
+- source: we
+  target: secure application
+  key: SUBSUM
+  text:
+  - Included Health, Inc. (" Included Health ", " Company ", " we ", " us ", or "
+    our ") operates the websites located at includedhealth.com and doctorondemand.com
+    , and other websites, products, services, and mobile applications with links to
+    this Privacy Policy, including without limitation the Doctor On Demand webpages
+    and secure applications (collectively, the " Sites " or " Websites ", unless otherwise
+    specified).
+- source: aggregate / deidentified / pseudonymized information
+  target: information from medical record
+  key: SUBSUM
+  text:
+  - We may also use anonymous information gathered, including information from your
+    medical records, to generate conclusions about the healthcare process, particular
+    conditions, and other matters.
+- source: datum require
+  target: biometric information
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: datum require
+  target: carrier membership datum
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: datum require
+  target: email address
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: datum require
+  target: information use
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: datum require
+  target: medical history datum
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: datum require
+  target: person name
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: datum require
+  target: phone number
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: datum require
+  target: service eligibility datum
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: doctor on demand professionals
+  target: several group of own professional practice
+  key: SUBSUM
+  text:
+  - The Healthcare Professionals who deliver Services through Included Health are
+    independent professionals practicing within several groups of independently owned
+    professional practices (collectively, " Doctor On Demand Professionals ").
+- source: employer
+  target: labor union
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+- source: employer
+  target: plan
+  key: SUBSUM
+  text:
+  - If you are eligible for our Services through your employer, Plan, or labor union
+    (collectively, your " Employer "), your Employer may provide to us directly or
+    via a third-party data required to verify your eligibility, to allow us to communicate
+    with you, and to understand your health.
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'For users of Included Health Communities (" Communities "), in addition to other
+    types of information described above (such as contact information), we also collect:
+    information users provide directly to us, including by registering for events
+    through the Sites, when requesting support, by contacting us with inquiries or
+    comments, or accessing the Communities Site pages; usage information, such as
+    website traffic patterns; location information, meaning information used to locate
+    the device the user uses to access Communities services (e.g., the location of
+    the device derived from GPS or WiFi use, the location derived from the IP address
+    of the device or internet services used to access Communities services, and other
+    information made available by a user or others that indicates the current or prior
+    location of the user); and any other information that users may provide to us
+    that can be used to identify them.'
+- source: geolocation
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - 'For users of Included Health Communities (" Communities "), in addition to other
+    types of information described above (such as contact information), we also collect:
+    information users provide directly to us, including by registering for events
+    through the Sites, when requesting support, by contacting us with inquiries or
+    comments, or accessing the Communities Site pages; usage information, such as
+    website traffic patterns; location information, meaning information used to locate
+    the device the user uses to access Communities services (e.g., the location of
+    the device derived from GPS or WiFi use, the location derived from the IP address
+    of the device or internet services used to access Communities services, and other
+    information made available by a user or others that indicates the current or prior
+    location of the user); and any other information that users may provide to us
+    that can be used to identify them.'
+- source: information use
+  target: date of birth
+  key: SUBSUM
+  text:
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: information use
+  target: employee id number
+  key: SUBSUM
+  text:
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: information use
+  target: ssn
+  key: SUBSUM
+  text:
+  - This information may include your name, email address, phone number, Service eligibility
+    data, carrier membership data, biometric data, medical history and claims data,
+    and information used to verify your identity (such as birthday, partial social
+    security number, and/or employee ID number).
+- source: medical professional
+  target: physician
+  key: SUBSUM
+  text:
+  - We may review these records for, among other purposes, reviewing the quality of
+    service you received, reviewing the quality of service provided by the physicians
+    and medical professionals treating you (including the physicians and medical professionals
+    to whom you may have received a referral), to better understand the course of
+    treatment for your conditions including information regarding outcomes and costs,
+    and to improve treatments and recommendations for people with similar or different
+    conditions.
+- source: medical professional
+  target: referral
+  key: SUBSUM
+  text:
+  - We may review these records for, among other purposes, reviewing the quality of
+    service you received, reviewing the quality of service provided by the physicians
+    and medical professionals treating you (including the physicians and medical professionals
+    to whom you may have received a referral), to better understand the course of
+    treatment for your conditions including information regarding outcomes and costs,
+    and to improve treatments and recommendations for people with similar or different
+    conditions.
+- source: medical record
+  target: record pertain to care you receive after
+  key: SUBSUM
+  text:
+  - We may request courtesy notices from your treating physicians and/or request additional
+    medical records from them, including records pertaining to care you received after
+    receiving the services.
+- source: member information
+  target: list of member
+  key: SUBSUM
+  text:
+  - We do not sell Member information, including lists of Members or any personal
+    information of Members otherwise.
+- source: personal information
+  target: account information
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: personal information
+  target: employment
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: personal information
+  target: health status
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - For operation and maintenance purposes, this Website and any third-party services
+    may collect files that record interaction with this Website (System logs) use
+    other Personal Data (such as the IP Address) for this purpose.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: personal information
+  target: personal information relevant
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: personal information
+  target: source
+  key: SUBSUM
+  text:
+  - 'You have the right to request that we disclose to you: the categories and sources
+    of the personal information that we collect about you, the purposes for which
+    we use your information and with whom such information is shared;'
+- source: personal information
+  target: ssn
+  key: SUBSUM
+  text:
+  - To fully utilize the services we offer, you may be required to fill out forms
+    that will contain personal information such as your name, address, telephone number,
+    social security number, account information, employment, health status and other
+    personal information relevant to your health insurance coverage, diagnosis and
+    treatment.
+- source: publicly available information about user
+  target: profile
+  key: SUBSUM
+  text:
+  - This Personal Data may also be matched with publicly available information about
+    the User (such as social networks' profiles) and used to build private profiles
+    that Included Health can display and use for improving this Application.
+- source: record
+  target: medical record
+  key: SUBSUM
+  text:
+  - We may request courtesy notices from your treating physicians and/or request additional
+    medical records from them, including records pertaining to care you received after
+    receiving the services.
+  - We may review these records for, among other purposes, reviewing the quality of
+    service you received, reviewing the quality of service provided by the physicians
+    and medical professionals treating you (including the physicians and medical professionals
+    to whom you may have received a referral), to better understand the course of
+    treatment for your conditions including information regarding outcomes and costs,
+    and to improve treatments and recommendations for people with similar or different
+    conditions.
+- source: type of information describe
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'For users of Included Health Communities (" Communities "), in addition to other
+    types of information described above (such as contact information), we also collect:
+    information users provide directly to us, including by registering for events
+    through the Sites, when requesting support, by contacting us with inquiries or
+    comments, or accessing the Communities Site pages; usage information, such as
+    website traffic patterns; location information, meaning information used to locate
+    the device the user uses to access Communities services (e.g., the location of
+    the device derived from GPS or WiFi use, the location derived from the IP address
+    of the device or internet services used to access Communities services, and other
+    information made available by a user or others that indicates the current or prior
+    location of the user); and any other information that users may provide to us
+    that can be used to identify them.'
+- source: usage information
+  target: website traffic pattern
+  key: SUBSUM
+  text:
+  - 'For users of Included Health Communities (" Communities "), in addition to other
+    types of information described above (such as contact information), we also collect:
+    information users provide directly to us, including by registering for events
+    through the Sites, when requesting support, by contacting us with inquiries or
+    comments, or accessing the Communities Site pages; usage information, such as
+    website traffic patterns; location information, meaning information used to locate
+    the device the user uses to access Communities services (e.g., the location of
+    the device derived from GPS or WiFi use, the location derived from the IP address
+    of the device or internet services used to access Communities services, and other
+    information made available by a user or others that indicates the current or prior
+    location of the user); and any other information that users may provide to us
+    that can be used to identify them.'
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: doctor on demand
+- type: ACTOR
+  id: doctor on demand professionals
+- type: ACTOR
+  id: doctor on demand webpage
+- type: ACTOR
+  id: employer
+- type: ACTOR
+  id: include health
+- type: ACTOR
+  id: included health
+- type: ACTOR
+  id: labor union
+- type: ACTOR
+  id: medical professional
+- type: ACTOR
+  id: mobile application
+- type: ACTOR
+  id: physician
+- type: ACTOR
+  id: plan
+- type: ACTOR
+  id: provider with whom user have relationship
+- type: ACTOR
+  id: referral
+- type: ACTOR
+  id: secure application
+- type: ACTOR
+  id: server inside united states
+- type: ACTOR
+  id: several group of own professional practice
+- type: ACTOR
+  id: we
+- type: DATA
+  id: 3rd party audience datum
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account information
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: base advertising
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: carrier membership datum
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: data collect
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum collect
+- type: DATA
+  id: datum concern date view
+- type: DATA
+  id: datum require
+- type: DATA
+  id: description of symptom
+- type: DATA
+  id: email address
+- type: DATA
+  id: employee id number
+- type: DATA
+  id: employment
+- type: DATA
+  id: file record interaction with website
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health status
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information collect from user
+- type: DATA
+  id: information concern particular service
+- type: DATA
+  id: information from medical record
+- type: DATA
+  id: information regard member of age
+- type: DATA
+  id: information require
+- type: DATA
+  id: information use
+- type: DATA
+  id: information user provide to we
+- type: DATA
+  id: information we collect about you
+- type: DATA
+  id: information we know about you
+- type: DATA
+  id: ip address
+- type: DATA
+  id: life style description
+- type: DATA
+  id: list of member
+- type: DATA
+  id: medical history
+- type: DATA
+  id: medical history datum
+- type: DATA
+  id: medical record
+- type: DATA
+  id: member information
+- type: DATA
+  id: original information
+- type: DATA
+  id: password
+- type: DATA
+  id: past medical record
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum relate to user
+- type: DATA
+  id: personal detail
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information about communities user
+- type: DATA
+  id: personal information relevant
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: profile
+- type: DATA
+  id: publicly available information about user
+- type: DATA
+  id: record
+- type: DATA
+  id: record pertain to care you receive after
+- type: DATA
+  id: request
+- type: DATA
+  id: service eligibility datum
+- type: DATA
+  id: source
+- type: DATA
+  id: ssn
+- type: DATA
+  id: system log
+- type: DATA
+  id: type of information describe
+- type: DATA
+  id: usage
+- type: DATA
+  id: usage information
+- type: DATA
+  id: web traffic
+- type: DATA
+  id: website traffic pattern

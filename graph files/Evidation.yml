@@ -1,0 +1,1204 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As a result of using the Services, you may, either directly or indirectly, provide
+    certain information to us.
+  - As described in the " Information We Collect " section of our General Privacy
+    Statement, to provide you with the Services, you may either directly or indirectly
+    provide certain information to us.
+  - As required by the CPRA, we provide detailed information below regarding the data
+    subject rights available to California consumers.
+  - Even if you do not register with our Services, or submit information directly
+    to us, our Services may collect this automatically collected information.
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  - 'For example, we may use your information to:'
+  - 'If you submit your request via the " Submit a Request " function or by contacting
+    our Privacy Office, we may request the following information to verify your request:
+    name and email, how you''ve used our Services, and other similar information.'
+  - If you're located outside the United States and choose to provide your information
+    to us, we may transfer your information to the United States and process it there
+    (or any other country in which we operate).
+  - In certain circumstances, we may share your information with our affiliates, service
+    providers, and third-party business partners, as described in the General Privacy
+    Statement and this Supplemental Notice.
+  - In certain circumstances, we may share your information with our affiliates, service
+    providers, and third-party business partners.
+  - We may disclose or transfer your information to a third party if we sell, transfer,
+    divest, or disclose all or a portion of our business or assets to another company
+    in connection with or during negotiation of any merger, financing, acquisition,
+    bankruptcy, dissolution, transaction, or proceeding or take steps in anticipation
+    of such a transaction.
+  - We may request additional information from you to verify that the authorized agent
+    is operating on your behalf.
+  - We may share information when we believe that doing so is necessary to protect,
+    enforce, or defend the legal rights, privacy, safety, or property of Evidation,
+    our employees or agents or users, or if we reasonably believe that is necessary
+    in order to comply with laws, regulations, legal process (such as subpoenas or
+    warrants), or any other legal or regulatory request.
+  - We may share your information with third parties that are our service providers
+    to help us operate our business and provide the Services, such as for email management,
+    data hosting, analytics, fraud and safety protection and legal and accounting
+    services.
+  purposes:
+    analytics:
+    - to help us operate our business and provide the Services, such as for email
+      management, data hosting, analytics, fraud and safety protection and legal and
+      accounting services
+    - 'to: Analyze how you use and interact with our Services'
+    security:
+    - to help us operate our business and provide the Services, such as for email
+      management, data hosting, analytics, fraud and safety protection and legal and
+      accounting services
+    - to verify that the authorized agent is operating on your behalf
+    - to verify your request
+    - 'to: Protect our Services and the information collected against fraudulent,
+      illegal, or otherwise unauthorized activity, including any investigation into
+      such activity;'
+    services:
+    - to help us operate our business and provide the Services, such as for email
+      management, data hosting, analytics, fraud and safety protection and legal and
+      accounting services
+    - to provide you with the Services
+    - to verify that the authorized agent is operating on your behalf
+    - 'to: Operate and improve our Services, including development of new features
+      and functionalities;'
+    - 'to: Respond to your feedback, comments, or questions, or to otherwise send
+      you information about our Services;'
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use de-identified or aggregated data for any purpose.
+  purposes: {}
+- source: we
+  target: amount of time spend on particular page
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our third-party service providers may use both session and persistent cookies
+    on our Services.
+  purposes: {}
+- source: we
+  target: country
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - 'If you submit your request via the " Submit a Request " function or by contacting
+    our Privacy Office, we may request the following information to verify your request:
+    name and email, how you''ve used our Services, and other similar information.'
+  purposes:
+    security:
+    - to verify your request
+- source: we
+  target: error log
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or zip code associated
+    with an IP address) from your computer or mobile device.
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - 'You can request that we provide you with the following information about how
+    we have handled your Personal Information in the twelve (12) months preceding
+    your request:'
+  purposes: {}
+- source: we
+  target: information about disclosure of personal information in month precede request
+  key: COLLECT
+  text:
+  - 'You can request that we provide you with the following information about any
+    disclosure of your Personal Information in the twelve (12) months preceding your
+    request:'
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - In addition to the sharing described in this Notice, we may share information
+    about you with third parties whenever you consent to or direct such sharing.
+  - We and our third-party service providers also collect information about you, your
+    usage of the Services and your devices through cookies, web beacons, and similar
+    technologies.
+  purposes: {}
+- source: we
+  target: information collect
+  key: COLLECT
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: certain other information
+    that may be automatically collected, as described below, or that you may choose
+    to provide to us.'
+  - We use the information collected to provide our Services to you or as otherwise
+    described in this Notice.
+  purposes:
+    services:
+    - to provide our Services to you or as otherwise described in this Notice
+- source: we
+  target: information describe in list
+  key: COLLECT
+  text:
+  - We have provided the information described in the list above in this Supplemental
+    Notice.
+  purposes: {}
+- source: we
+  target: information enable we
+  key: COLLECT
+  text:
+  - We may ask you to provide information that will enable us to verify your identity
+    to comply with or fulfill your data subject request.
+  purposes: {}
+- source: we
+  target: information submit
+  key: COLLECT
+  text:
+  - We typically collect information submitted directly by you; for example, through
+    emails and webforms.
+  purposes: {}
+- source: we
+  target: information you provide we as part of request
+  key: COLLECT
+  text:
+  - Though we do not intend as part of your use of our Services to collect any categories
+    of information other than those listed above, we may also collect, process, and
+    if necessary share with our Vendors any information that you provide us directly
+    as part of your request or contact.
+  purposes: {}
+- source: we
+  target: information you submit to we through services
+  key: COLLECT
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: other information you
+    submit to us through the Services (such as information provided by filling in
+    forms or sending us emails, which at a minimum would include email address as
+    well as potentially your name and other contact information); and'
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: language system use
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: number of click
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: order of page
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - 'If you submit your request via the " Submit a Request " function or by contacting
+    our Privacy Office, we may request the following information to verify your request:
+    name and email, how you''ve used our Services, and other similar information.'
+  purposes:
+    security:
+    - to verify your request
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - As a processor, we process personal data to meet our contractual commitments to
+    our customers, for other purposes requested or permitted by our customers, and
+    for legal compliance.
+  - Collection, Processing & Disclosure of Personal Information
+  - 'In addition to the specific purposes for processing information listed in the
+    chart above, we, and our Vendors, collect and process the Personal Information
+    (excluding Sensitive Personal Information) described in this Supplemental Notice
+    to:'
+  - In general, we will retain your Personal Information for so long as reasonably
+    necessary to provide the Services to you and for the period reasonably necessary
+    to support our business operational purposes.
+  - We may also collect Personal Information from joint marketing partners, public
+    databases, providers of demographic data, publications, professional organizations,
+    social media platforms, people with whom you are connected on social media platforms,
+    and Vendors and Third Parties when they share the information with us.
+  - 'We may also disclose your Personal Information to the following categories of
+    Third Parties:'
+  - We may also process your personal data for direct marketing purposes, and you
+    may object to our use of your personal data for such direct marketing purposes
+    at any time.
+  - We may disclose your Personal Information to any Third Party with your consent
+    or at your direction.
+  - We may disclose your Personal Information to government authorities, including
+    regulatory agencies and courts, as reasonably necessary for our business' operational
+    purposes, to assert and defend legal claims, and otherwise as permitted or required
+    by law.
+  - We may disclose your Personal Information to other entities as reasonably necessary
+    to facilitate a merger, sale, joint venture or collaboration, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with any bankruptcy or similar proceedings).
+  - We may disclose your Personal Information to our affiliates and Vendors for the
+    purposes described below, and as stated in our General Privacy Statement.
+  - We may share or otherwise disclose your Personal Information to certain Third
+    Parties for business purposes and in order to provide the Services to you, as
+    set forth in the " How We Share Information " section of the General Privacy Statement.
+  - We retain your Personal Information for the period reasonably necessary to provide
+    the Services to you and for the period reasonably necessary to support our business
+    operational purposes, as listed in the above.
+  - While we primarily collect Personal Information directly from individuals as part
+    of the Services, we may also collect such information automatically, such as through
+    analytics and cookies as described in the General Privacy Statement.
+  purposes:
+    advertising:
+    - for direct marketing purposes
+    - 'to: Personalize, advertise, and market our products and services to you, including
+      the Services'
+    legal:
+    - for other purposes requested or permitted by our customers, and for legal compliance
+    - to assert and defend legal claims, and otherwise as permitted or required by
+      law
+    - to facilitate a merger, sale, joint venture or collaboration, assignment, transfer,
+      or other disposition of all or any portion of our business, assets, or stock
+      (including in connection with any bankruptcy or similar proceedings)
+    - to meet our contractual commitments to our customers
+    - 'to: Comply with law, legal process, and internal policies'
+    - 'to: Exercise and defend legal claims; and'
+    - 'to: Otherwise accomplish our business purposes and objectives'
+    security:
+    - 'to: Conduct and implement risk and security controls and monitoring, and secure
+      the Services;'
+    - 'to: Detect and prevent fraud'
+    services:
+    - for business purposes and in order to provide the Services to you
+    - 'to: Identify and correct technical errors in our products and services, including
+      the Services'
+    - 'to: Operate, manage, and maintain our business, do business with you (if applicable),
+      and provide the Services;'
+    - 'to: Otherwise accomplish our business purposes and objectives'
+    - 'to: Personalize, advertise, and market our products and services to you, including
+      the Services'
+    - 'to: Provide, develop, improve, repair, and maintain our products and services,
+      including the Services'
+- source: we
+  target: personal information beyond
+  key: COLLECT
+  text:
+  - For instance, if you upload a document as part of a support request or provide
+    us with additional Personal Information beyond what we have specifically requested
+    to collect.
+  purposes: {}
+- source: we
+  target: proof of sign permission from you submit request
+  key: COLLECT
+  text:
+  - In particular, when a California consumer authorizes an agent to make a request
+    on their behalf, we may require the agent to provide proof of signed permission
+    from you to submit the request, or we may require you to verify your own identity
+    to us or confirm with us that you provided the agent with permission to submit
+    the request.
+  purposes: {}
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'You have the right to receive the following information at or before the point
+    of collection: If we collect Sensitive Personal Information, the categories of
+    Sensitive Personal Information to be collected, the purposes for which it is collected
+    or used, and whether that information is sold or shared (as such terms are defined
+    by the CPRA); and'
+  purposes: {}
+- source: we
+  target: system setting
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  - In certain circumstances, we may share your information with our affiliates, service
+    providers, and third-party business partners, as described in the General Privacy
+    Statement and this Supplemental Notice.
+  - In certain circumstances, we may share your information with our affiliates, service
+    providers, and third-party business partners.
+  - We may disclose or transfer your information to a third party if we sell, transfer,
+    divest, or disclose all or a portion of our business or assets to another company
+    in connection with or during negotiation of any merger, financing, acquisition,
+    bankruptcy, dissolution, transaction, or proceeding or take steps in anticipation
+    of such a transaction.
+  - We may share your information with third parties that are our service providers
+    to help us operate our business and provide the Services, such as for email management,
+    data hosting, analytics, fraud and safety protection and legal and accounting
+    services.
+  purposes:
+    analytics:
+    - to help us operate our business and provide the Services, such as for email
+      management, data hosting, analytics, fraud and safety protection and legal and
+      accounting services
+    security:
+    - to help us operate our business and provide the Services, such as for email
+      management, data hosting, analytics, fraud and safety protection and legal and
+      accounting services
+    services:
+    - to help us operate our business and provide the Services, such as for email
+      management, data hosting, analytics, fraud and safety protection and legal and
+      accounting services
+- source: UNSPECIFIED_ACTOR
+  target: amount of time spend on particular page
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: browser type
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our third-party service providers may use both session and persistent cookies
+    on our Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: country
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: date
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: device identifier
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: error log
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about you
+  key: COLLECT
+  text:
+  - In addition to the sharing described in this Notice, we may share information
+    about you with third parties whenever you consent to or direct such sharing.
+  - These third parties may collect information about you over time such as about
+    your use of our Services, as well as your online activities across other websites
+    or online services.
+  - We and our third-party service providers also collect information about you, your
+    usage of the Services and your devices through cookies, web beacons, and similar
+    technologies.
+  - We may utilize the services of third parties in conjunction with this automatically
+    collected information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information you provide we as part of request
+  key: COLLECT
+  text:
+  - Though we do not intend as part of your use of our Services to collect any categories
+    of information other than those listed above, we may also collect, process, and
+    if necessary share with our Vendors any information that you provide us directly
+    as part of your request or contact.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: ip address
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: language system use
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: number of click
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: order of page
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'In addition to the specific purposes for processing information listed in the
+    chart above, we, and our Vendors, collect and process the Personal Information
+    (excluding Sensitive Personal Information) described in this Supplemental Notice
+    to:'
+  - We may disclose your Personal Information to any Third Party with your consent
+    or at your direction.
+  - We may disclose your Personal Information to other entities as reasonably necessary
+    to facilitate a merger, sale, joint venture or collaboration, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with any bankruptcy or similar proceedings).
+  - We may disclose your Personal Information to our affiliates and Vendors for the
+    purposes described below, and as stated in our General Privacy Statement.
+  - We may share or otherwise disclose your Personal Information to certain Third
+    Parties for business purposes and in order to provide the Services to you, as
+    set forth in the " How We Share Information " section of the General Privacy Statement.
+  purposes:
+    advertising:
+    - 'to: Personalize, advertise, and market our products and services to you, including
+      the Services'
+    legal:
+    - to facilitate a merger, sale, joint venture or collaboration, assignment, transfer,
+      or other disposition of all or any portion of our business, assets, or stock
+      (including in connection with any bankruptcy or similar proceedings)
+    - 'to: Comply with law, legal process, and internal policies'
+    - 'to: Exercise and defend legal claims; and'
+    - 'to: Otherwise accomplish our business purposes and objectives'
+    security:
+    - 'to: Conduct and implement risk and security controls and monitoring, and secure
+      the Services;'
+    - 'to: Detect and prevent fraud'
+    services:
+    - for business purposes and in order to provide the Services to you
+    - 'to: Identify and correct technical errors in our products and services, including
+      the Services'
+    - 'to: Operate, manage, and maintain our business, do business with you (if applicable),
+      and provide the Services;'
+    - 'to: Otherwise accomplish our business purposes and objectives'
+    - 'to: Personalize, advertise, and market our products and services to you, including
+      the Services'
+    - 'to: Provide, develop, improve, repair, and maintain our products and services,
+      including the Services'
+- source: UNSPECIFIED_ACTOR
+  target: proof of sign permission from you submit request
+  key: COLLECT
+  text:
+  - In particular, when a California consumer authorizes an agent to make a request
+    on their behalf, we may require the agent to provide proof of signed permission
+    from you to submit the request, or we may require you to verify your own identity
+    to us or confirm with us that you provided the agent with permission to submit
+    the request.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: system setting
+  key: COLLECT
+  text:
+  - For example, we and our third party service providers may automatically collect
+    your Internet Protocol (IP) address (and associated city and state or province
+    or country for the IP address), computer operating system, browser type, other
+    system settings, as well as the language your system uses and the country and
+    time zone where your device is located, device identifiers, the website you visited
+    before our Services, the number of clicks, pages viewed and the order of those
+    pages, the amount of time spent on particular pages, the date and time you used
+    the Services and upload or post content, error logs, and other similar information.
+  purposes: {}
+- source: assignment
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may also disclose your Personal Information to the following categories of
+    Third Parties: Business Transfers or Assignments .'
+  purposes: {}
+- source: business transfer
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may also disclose your Personal Information to the following categories of
+    Third Parties: Business Transfers or Assignments .'
+  purposes: {}
+- source: government authority
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose your Personal Information to government authorities, including
+    regulatory agencies and courts, as reasonably necessary for our business' operational
+    purposes, to assert and defend legal claims, and otherwise as permitted or required
+    by law.
+  purposes:
+    legal:
+    - to assert and defend legal claims, and otherwise as permitted or required by
+      law
+- source: legal requirement
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may also disclose your Personal Information to the following categories of
+    Third Parties: Legal and Regulatory Requirement .'
+  purposes: {}
+- source: many website
+  target: browsing datum
+  key: COLLECT
+  text:
+  - Even if that option is turned on, many websites will still collect and use your
+    browsing data to improve security, provide content, services, ads and recommendations
+    on their websites, and generate reporting statistics.
+  purposes:
+    advertising:
+    - to improve security, provide content, services, ads and recommendations on their
+      websites, and generate reporting statistics
+    analytics:
+    - to improve security, provide content, services, ads and recommendations on their
+      websites, and generate reporting statistics
+    security:
+    - to improve security, provide content, services, ads and recommendations on their
+      websites, and generate reporting statistics
+    services:
+    - to improve security, provide content, services, ads and recommendations on their
+      websites, and generate reporting statistics
+- source: reed smith
+  target: communication relate to european personal datum practice
+  key: COLLECT
+  text:
+  - Reed Smith are authorized to receive communications relating to our European personal
+    data practices on our behalf.
+  purposes: {}
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In certain circumstances, we may share your information with our affiliates, service
+    providers, and third-party business partners, as described in the General Privacy
+    Statement and this Supplemental Notice.
+  - In certain circumstances, we may share your information with our affiliates, service
+    providers, and third-party business partners.
+  purposes: {}
+- source: service provider
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - These service providers use cookies and other technologies described in this Notice
+    to help us analyze how users use our Services.
+  purposes:
+    analytics:
+    - to help us analyze how users use our Services
+- source: service provider
+  target: geolocation
+  key: COLLECT
+  text:
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or zip code associated
+    with an IP address) from your computer or mobile device.
+  purposes: {}
+- source: service provider
+  target: information collect
+  key: COLLECT
+  text:
+  - The information collected by the technology will be disclosed to or collected
+    directly by these service providers.
+  - These service providers use cookies and other technologies described in this Notice
+    to help us analyze how users use our Services.
+  purposes: {}
+- source: we
+  target: asset
+  key: SUBSUM
+  text:
+  - We may disclose or transfer your information to a third party if we sell, transfer,
+    divest, or disclose all or a portion of our business or assets to another company
+    in connection with or during negotiation of any merger, financing, acquisition,
+    bankruptcy, dissolution, transaction, or proceeding or take steps in anticipation
+    of such a transaction.
+- source: we
+  target: online service link to notice
+  key: SUBSUM
+  text:
+  - explains how information is collected, used, and disclosed by Evidation Health,
+    Inc. and its subsidiaries (collectively, "Evidation," "we," "us," or "our") in
+    connection with your use of our website at www.evidation.com , or any other online
+    services that link to this Notice (collectively, our "Services").
+- source: we
+  target: website at www.evidation.com
+  key: SUBSUM
+  text:
+  - explains how information is collected, used, and disclosed by Evidation Health,
+    Inc. and its subsidiaries (collectively, "Evidation," "we," "us," or "our") in
+    connection with your use of our website at www.evidation.com , or any other online
+    services that link to this Notice (collectively, our "Services").
+- source: alias
+  target: professional name
+  key: SUBSUM
+  text:
+  - Identifiers and Contact Information - This may include real name, alias (e.g.,
+    professional name), postal address, unique personal identifier, online identifier,
+    Internet Protocol (IP) address, email address (personal or professional), account
+    name, or other similar identifiers.
+- source: contact information
+  target: company name
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+- source: contact information
+  target: title
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+- source: email address
+  target: person name
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: other information you
+    submit to us through the Services (such as information provided by filling in
+    forms or sending us emails, which at a minimum would include email address as
+    well as potentially your name and other contact information); and'
+- source: evidation
+  target: evidation health
+  key: SUBSUM
+  text:
+  - explains how information is collected, used, and disclosed by Evidation Health,
+    Inc. and its subsidiaries (collectively, "Evidation," "we," "us," or "our") in
+    connection with your use of our website at www.evidation.com , or any other online
+    services that link to this Notice (collectively, our "Services").
+- source: geolocation
+  target: city state
+  key: SUBSUM
+  text:
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or zip code associated
+    with an IP address) from your computer or mobile device.
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you use the Services, we and our service providers may automatically collect
+    general location information (e.g., IP address, city/state and or zip code associated
+    with an IP address) from your computer or mobile device.
+- source: government authority
+  target: court
+  key: SUBSUM
+  text:
+  - We may disclose your Personal Information to government authorities, including
+    regulatory agencies and courts, as reasonably necessary for our business' operational
+    purposes, to assert and defend legal claims, and otherwise as permitted or required
+    by law.
+- source: government authority
+  target: regulatory agency
+  key: SUBSUM
+  text:
+  - We may disclose your Personal Information to government authorities, including
+    regulatory agencies and courts, as reasonably necessary for our business' operational
+    purposes, to assert and defend legal claims, and otherwise as permitted or required
+    by law.
+- source: internet activity
+  target: information on interaction with
+  key: SUBSUM
+  text:
+  - 'United States: California, Colorado, Virginia, Utah, & Connecticut
+
+
+    Collection, Processing & Disclosure of Personal Information
+
+
+    Electronic Network Activity - such as information on your interaction with or
+    utilization of our website, tool, or application.'
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: contact information (such
+    as name, postal address, email address (personal and/or professional), company
+    name, title, and phone number), typically from prospective or current customers,
+    partners, and vendors, as well as individuals subscribing to our updates and/or
+    newsletters;'
+- source: personal information
+  target: information collect
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: certain other information
+    that may be automatically collected, as described below, or that you may choose
+    to provide to us.'
+- source: personal information
+  target: information on interaction with
+  key: SUBSUM
+  text:
+  - 'United States: California, Colorado, Virginia, Utah, & Connecticut
+
+
+    Collection, Processing & Disclosure of Personal Information
+
+
+    Electronic Network Activity - such as information on your interaction with or
+    utilization of our website, tool, or application.'
+- source: personal information
+  target: information you submit to we through services
+  key: SUBSUM
+  text:
+  - 'In addition to other information and data we might collect, the types of personal
+    information we collect as part of the Services includes: other information you
+    submit to us through the Services (such as information provided by filling in
+    forms or sending us emails, which at a minimum would include email address as
+    well as potentially your name and other contact information); and'
+- source: personal information
+  target: sensitive personal information
+  key: SUBSUM
+  text:
+  - Personal Information also includes "Sensitive Personal Information," as defined
+    below, except where otherwise noted.
+- source: personal information
+  target: source of information
+  key: SUBSUM
+  text:
+  - 'The following table shows the categories of Personal Information (excluding Sensitive
+    Personal Information) we may have already collected and processed about you in
+    the preceding twelve (12) months, or in the future may collect from you and process,
+    as part of your use of the Services, as well as the source of that information,
+    the specific purposes for Processing that information, and the third parties with
+    which we may disclose that information:'
+- source: program
+  target: sponsor program
+  key: SUBSUM
+  text:
+  - Participation in research or other programs, including sponsored programs, run
+    by Evidation may be subject to specific informed consent and/or disclosures for
+    the relevant research or other program.
+- source: sensitive personal information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - Sensitive Personal Information also includes processing of biometric information
+    for the purpose of uniquely identifying a consumer and Personal Information collected
+    and analyzed concerning a consumer's health, sex life, or sexual orientation.
+- source: sensitive personal information
+  target: personal information collect
+  key: SUBSUM
+  text:
+  - Sensitive Personal Information also includes processing of biometric information
+    for the purpose of uniquely identifying a consumer and Personal Information collected
+    and analyzed concerning a consumer's health, sex life, or sexual orientation.
+- source: sensitive personal information
+  target: sensitive datum
+  key: SUBSUM
+  text:
+  - Sensitive Personal Information also includes "sensitive data" as that term is
+    defined in the CPA, VCDPA, UCPA, and CDPA.
+- source: sensitive personal information collect
+  target: sensitive personal information
+  key: SUBSUM
+  text:
+  - 'You have the right to receive the following information at or before the point
+    of collection: If we collect Sensitive Personal Information, the categories of
+    Sensitive Personal Information to be collected, the purposes for which it is collected
+    or used, and whether that information is sold or shared (as such terms are defined
+    by the CPRA); and'
+- source: source of information
+  target: sensitive personal information
+  key: SUBSUM
+  text:
+  - 'The following table shows the categories of Personal Information (excluding Sensitive
+    Personal Information) we may have already collected and processed about you in
+    the preceding twelve (12) months, or in the future may collect from you and process,
+    as part of your use of the Services, as well as the source of that information,
+    the specific purposes for Processing that information, and the third parties with
+    which we may disclose that information:'
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: asset
+- type: ACTOR
+  id: assignment
+- type: ACTOR
+  id: business transfer
+- type: ACTOR
+  id: court
+- type: ACTOR
+  id: evidation
+- type: ACTOR
+  id: evidation health
+- type: ACTOR
+  id: government authority
+- type: ACTOR
+  id: legal requirement
+- type: ACTOR
+  id: many website
+- type: ACTOR
+  id: online service link to notice
+- type: ACTOR
+  id: program
+- type: ACTOR
+  id: reed smith
+- type: ACTOR
+  id: regulatory agency
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: sponsor program
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: website at www.evidation.com
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: alias
+- type: DATA
+  id: amount of time spend on particular page
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing datum
+- type: DATA
+  id: city state
+- type: DATA
+  id: communication relate to european personal datum practice
+- type: DATA
+  id: company name
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: country
+- type: DATA
+  id: date
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: error log
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about disclosure of personal information in month precede request
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information collect
+- type: DATA
+  id: information describe in list
+- type: DATA
+  id: information enable we
+- type: DATA
+  id: information on interaction with
+- type: DATA
+  id: information submit
+- type: DATA
+  id: information you provide we as part of request
+- type: DATA
+  id: information you submit to we through services
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language system use
+- type: DATA
+  id: number of click
+- type: DATA
+  id: order of page
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information beyond
+- type: DATA
+  id: personal information collect
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: professional name
+- type: DATA
+  id: proof of sign permission from you submit request
+- type: DATA
+  id: sensitive datum
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sensitive personal information collect
+- type: DATA
+  id: source of information
+- type: DATA
+  id: system setting
+- type: DATA
+  id: title

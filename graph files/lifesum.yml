@@ -1,0 +1,545 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: calorie intake
+  key: COLLECT
+  text:
+  - It follows from the nature of the Services that we must process such data that
+    you upload to the Services to enable the Services, for example, we will process
+    your weight data and calorie intake to enable the monitoring and presentation
+    of your personal goals (whether it be weight loss or weight gain).
+  purposes:
+    analytics:
+    - to enable the monitoring and presentation of your personal goals (whether it
+      be weight loss or weight gain
+    services:
+    - to enable the monitoring and presentation of your personal goals (whether it
+      be weight loss or weight gain
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use both session cookies (which expire once you close your web browser) and
+    persistent cookies (which stay on your device for a set period of time or until
+    you delete them).
+  purposes: {}
+- source: we
+  target: information from device
+  key: COLLECT
+  text:
+  - When you use the Lifesum Services, we also collect information from your device,
+    such as, device identifiers and characteristics, app version, os version and non-precise
+    location data.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - As you continue to use the Services, you will regularly provide Lifesum with further
+    personal data.
+  - Generally, we retain personal information so we may complete the transaction for
+    which the personal information was collected; provide a good or service requested
+    by you, or reasonably anticipated within the context of our ongoing business relationship
+    with you, or otherwise perform a contract between us and you; detect security
+    incidents; protect against malicious, deceptive, fraudulent, or illegal activity,
+    or prosecute those responsible for that activity; debug to identify and repair
+    errors that impair existing intended unctionality of our online properties; enable
+    solely internal uses that are reasonably aligned with your expectations based
+    on your relationship with Lifesum; comply with a legal obligation; or otherwise
+    use your personal information internally in a lawful manner that is compatible
+    with the context in which you provided the information.
+  - It follows from the nature of the Services that we must process such data that
+    you upload to the Services to enable the Services, for example, we will process
+    your weight data and calorie intake to enable the monitoring and presentation
+    of your personal goals (whether it be weight loss or weight gain).
+  - 'Privacy Policy
+
+
+    Lifesum/Movesum Privacy Policy
+
+
+    Our use of your personal data
+
+
+    Your privacy is important to us, and we will only process your personal data in
+    accordance with this Privacy Policy and relevant personal data regulation.'
+  - We may also transfer your personal data in the event that our business (or part
+    of it) is sold, for instance, as part of a merger or acquisition.
+  - 'When you register for Lifesum''s Services, we collect personal data from you
+    such as: your email address, first and last name, height, weight, date of birth,
+    and gender.'
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as:'
+  purposes:
+    analytics:
+    - to enable the monitoring and presentation of your personal goals (whether it
+      be weight loss or weight gain
+    services:
+    - to enable the Services
+    - to enable the monitoring and presentation of your personal goals (whether it
+      be weight loss or weight gain
+- source: we
+  target: sufficient personal information about authorized agent
+  key: COLLECT
+  text:
+  - We will also need sufficient personal information about your authorized agent
+    to be able to identify them.
+  purposes: {}
+- source: we
+  target: weight datum
+  key: COLLECT
+  text:
+  - It follows from the nature of the Services that we must process such data that
+    you upload to the Services to enable the Services, for example, we will process
+    your weight data and calorie intake to enable the monitoring and presentation
+    of your personal goals (whether it be weight loss or weight gain).
+  purposes:
+    analytics:
+    - to enable the monitoring and presentation of your personal goals (whether it
+      be weight loss or weight gain
+    services:
+    - to enable the monitoring and presentation of your personal goals (whether it
+      be weight loss or weight gain
+- source: UNSPECIFIED_ACTOR
+  target: personal datum collect from you
+  key: COLLECT
+  text:
+  - Personal data collected from you may be shared with third-party providers of Lifesum
+    that process personal data on behalf of Lifesum; such as server hosting providers,
+    data storage providers, companies carrying out system and sales performance monitoring,
+    customer support systems- and payment service providers.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - The use of personal data for direct marketing purposes will only concern such
+    offers that have a close relation to your use of the Service and the offers will
+    be sent to you by Lifesum; no personal data will be transferred to third parties
+    for direct marketing purposes.
+  purposes:
+    advertising:
+    - for direct marketing purposes
+- source: UNSPECIFIED_ACTOR
+  target: step count datum
+  key: COLLECT
+  text:
+  - Similarly, if you connect your Lifesum account with a Third Party Application
+    for tracking your nutrition, exercise, hydration, sleep, or step count data, e.g.,
+    Apple HealthKit, Google Health Connect, Fitbit, Withings, Oura, Runkeeper or Garmin,
+    Lifesum may share or process such data with said Third Party Application to provide
+    the requested integration.
+  purposes:
+    services:
+    - to provide the requested integration
+- source: customer support systems-
+  target: personal datum collect from you
+  key: COLLECT
+  text:
+  - Personal data collected from you may be shared with third-party providers of Lifesum
+    that process personal data on behalf of Lifesum; such as server hosting providers,
+    data storage providers, companies carrying out system and sales performance monitoring,
+    customer support systems- and payment service providers.
+  purposes: {}
+- source: datum storage provider
+  target: personal datum collect from you
+  key: COLLECT
+  text:
+  - Personal data collected from you may be shared with third-party providers of Lifesum
+    that process personal data on behalf of Lifesum; such as server hosting providers,
+    data storage providers, companies carrying out system and sales performance monitoring,
+    customer support systems- and payment service providers.
+  purposes: {}
+- source: lifesum
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In analyzing the usage of the Services, Lifesum will process certain data for
+    so-called profiling.
+  purposes:
+    analytics:
+    - for so-called profiling
+- source: lifesum
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Lifesum uses cookies in order to function properly.
+  purposes:
+    services:
+    - in order to function properly
+- source: lifesum
+  target: personal information
+  key: COLLECT
+  text:
+  - As you continue to use the Services, you will regularly provide Lifesum with further
+    personal data.
+  - If you connect to the Services using a Third-Party Application for authentication
+    e.g. Facebook Login or Google Auth, Lifesum will collect and use your personal
+    information from such Third Party Applications such as your username, name, profile
+    picture, country, hometown, email address, date of birth, and gender.
+  - Lifesum may further disclose your personal data in order to comply with a legal
+    or regulatory obligation if we reasonably believe that this is required by law,
+    regulation, or other legislation, or in order to protect and defend Lifesum, our
+    business partners, or users' rights and interests, subject always to relevant
+    applicable personal data regulation.
+  - Lifesum may use your personal data for profiling and direct marketing purposes
+    via emails, notifications, or other messages, by Lifesum or Lifesum's selected
+    business partners.
+  purposes:
+    advertising:
+    - for profiling and direct marketing purposes
+    analytics:
+    - for profiling and direct marketing purposes
+    legal:
+    - in order to comply with a legal or regulatory obligation
+- source: lifesum
+  target: specific piece
+  key: COLLECT
+  text:
+  - You may request that Lifesum provide you the specific pieces of personal information
+    that Lifesum has about you, categories of personal information we have collected
+    about you, categories of sources from which the personal information is collected,
+    categories of personal information that Lifesum sold or disclosed for a business
+    purpose about you, categories of third parties to whom the personal information
+    was sold or disclosed for a business purpose, and the business or commercial purpose
+    for collecting or selling personal information.
+  purposes: {}
+- source: lifesum
+  target: step count datum
+  key: COLLECT
+  text:
+  - Similarly, if you connect your Lifesum account with a Third Party Application
+    for tracking your nutrition, exercise, hydration, sleep, or step count data, e.g.,
+    Apple HealthKit, Google Health Connect, Fitbit, Withings, Oura, Runkeeper or Garmin,
+    Lifesum may share or process such data with said Third Party Application to provide
+    the requested integration.
+  purposes:
+    services:
+    - to provide the requested integration
+- source: server hosting provider
+  target: personal datum collect from you
+  key: COLLECT
+  text:
+  - Personal data collected from you may be shared with third-party providers of Lifesum
+    that process personal data on behalf of Lifesum; such as server hosting providers,
+    data storage providers, companies carrying out system and sales performance monitoring,
+    customer support systems- and payment service providers.
+  purposes: {}
+- source: device identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Device identifiers (i.e. information on what device, IP-address, etc.
+    you use to register and log on to the Services), and'
+- source: information from device
+  target: app version
+  key: SUBSUM
+  text:
+  - When you use the Lifesum Services, we also collect information from your device,
+    such as, device identifiers and characteristics, app version, os version and non-precise
+    location data.
+- source: information from device
+  target: characteristic
+  key: SUBSUM
+  text:
+  - When you use the Lifesum Services, we also collect information from your device,
+    such as, device identifiers and characteristics, app version, os version and non-precise
+    location data.
+- source: information from device
+  target: coarse geolocation
+  key: SUBSUM
+  text:
+  - When you use the Lifesum Services, we also collect information from your device,
+    such as, device identifiers and characteristics, app version, os version and non-precise
+    location data.
+- source: information from device
+  target: device identifier
+  key: SUBSUM
+  text:
+  - When you use the Lifesum Services, we also collect information from your device,
+    such as, device identifiers and characteristics, app version, os version and non-precise
+    location data.
+- source: information from device
+  target: os version
+  key: SUBSUM
+  text:
+  - When you use the Lifesum Services, we also collect information from your device,
+    such as, device identifiers and characteristics, app version, os version and non-precise
+    location data.
+- source: personal information
+  target: country of residence
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Country of residence'
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'When you register for Lifesum''s Services, we collect personal data from you
+    such as: your email address, first and last name, height, weight, date of birth,
+    and gender.'
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Date of birth'
+- source: personal information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Device identifiers (i.e. information on what device, IP-address, etc.
+    you use to register and log on to the Services), and'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'When you register for Lifesum''s Services, we collect personal data from you
+    such as: your email address, first and last name, height, weight, date of birth,
+    and gender.'
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: email'
+- source: personal information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'When you register for Lifesum''s Services, we collect personal data from you
+    such as: your email address, first and last name, height, weight, date of birth,
+    and gender.'
+- source: personal information
+  target: height
+  key: SUBSUM
+  text:
+  - 'When you register for Lifesum''s Services, we collect personal data from you
+    such as: your email address, first and last name, height, weight, date of birth,
+    and gender.'
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Height'
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'When you register for Lifesum''s Services, we collect personal data from you
+    such as: your email address, first and last name, height, weight, date of birth,
+    and gender.'
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: First and last name'
+- source: personal information
+  target: specific piece
+  key: SUBSUM
+  text:
+  - You may request that Lifesum provide you the specific pieces of personal information
+    that Lifesum has about you, categories of personal information we have collected
+    about you, categories of sources from which the personal information is collected,
+    categories of personal information that Lifesum sold or disclosed for a business
+    purpose about you, categories of third parties to whom the personal information
+    was sold or disclosed for a business purpose, and the business or commercial purpose
+    for collecting or selling personal information.
+- source: personal information
+  target: technical information relate to use of device attribute to you
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Technical information related to your use of your device which could
+    be attributed to you (i.e. geolocation data, access history, search history, and
+    information regarding your interaction with the application or advertisements)
+    which is used to provide the Services and to allow Lifesum to market to you in
+    accordance with this Privacy Policy.'
+- source: personal information
+  target: weight
+  key: SUBSUM
+  text:
+  - 'When you register for Lifesum''s Services, we collect personal data from you
+    such as: your email address, first and last name, height, weight, date of birth,
+    and gender.'
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Weight'
+- source: personal information lifesum sell
+  target: source from collect
+  key: SUBSUM
+  text:
+  - You may request that Lifesum provide you the specific pieces of personal information
+    that Lifesum has about you, categories of personal information we have collected
+    about you, categories of sources from which the personal information is collected,
+    categories of personal information that Lifesum sold or disclosed for a business
+    purpose about you, categories of third parties to whom the personal information
+    was sold or disclosed for a business purpose, and the business or commercial purpose
+    for collecting or selling personal information.
+- source: platform
+  target: social media
+  key: SUBSUM
+  text:
+  - The profiling of your data can also be used as the basis for marketing towards
+    other new potential customers on platforms other than the Lifesum Services, such
+    as other social media platforms.
+- source: procedure
+  target: firewall
+  key: SUBSUM
+  text:
+  - In addition to complying with applicable relevant personal data regulation, we
+    use accepted industry standards, technologies, and procedures, such as firewalls,
+    security software, etc., in order to protect the integrity of your personal data
+    and to prevent any unauthorized access.
+- source: procedure
+  target: security software
+  key: SUBSUM
+  text:
+  - In addition to complying with applicable relevant personal data regulation, we
+    use accepted industry standards, technologies, and procedures, such as firewalls,
+    security software, etc., in order to protect the integrity of your personal data
+    and to prevent any unauthorized access.
+- source: source from collect
+  target: personal information
+  key: SUBSUM
+  text:
+  - You may request that Lifesum provide you the specific pieces of personal information
+    that Lifesum has about you, categories of personal information we have collected
+    about you, categories of sources from which the personal information is collected,
+    categories of personal information that Lifesum sold or disclosed for a business
+    purpose about you, categories of third parties to whom the personal information
+    was sold or disclosed for a business purpose, and the business or commercial purpose
+    for collecting or selling personal information.
+- source: technical information relate to use of device
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Technical information related to your use of your device which could
+    be attributed to you (i.e. geolocation data, access history, search history, and
+    information regarding your interaction with the application or advertisements)
+    which is used to provide the Services and to allow Lifesum to market to you in
+    accordance with this Privacy Policy.'
+- source: technical information relate to use of device
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Technical information related to your use of your device which could
+    be attributed to you (i.e. geolocation data, access history, search history, and
+    information regarding your interaction with the application or advertisements)
+    which is used to provide the Services and to allow Lifesum to market to you in
+    accordance with this Privacy Policy.'
+- source: technical information relate to use of device
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Technical information related to your use of your device which could
+    be attributed to you (i.e. geolocation data, access history, search history, and
+    information regarding your interaction with the application or advertisements)
+    which is used to provide the Services and to allow Lifesum to market to you in
+    accordance with this Privacy Policy.'
+- source: technical information relate to use of device attribute to you
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Technical information related to your use of your device which could
+    be attributed to you (i.e. geolocation data, access history, search history, and
+    information regarding your interaction with the application or advertisements)
+    which is used to provide the Services and to allow Lifesum to market to you in
+    accordance with this Privacy Policy.'
+- source: technical information relate to use of device attribute to you
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Technical information related to your use of your device which could
+    be attributed to you (i.e. geolocation data, access history, search history, and
+    information regarding your interaction with the application or advertisements)
+    which is used to provide the Services and to allow Lifesum to market to you in
+    accordance with this Privacy Policy.'
+- source: technical information relate to use of device attribute to you
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'we process your personal data that you provide us with at the time of registration,
+    such as: Technical information related to your use of your device which could
+    be attributed to you (i.e. geolocation data, access history, search history, and
+    information regarding your interaction with the application or advertisements)
+    which is used to provide the Services and to allow Lifesum to market to you in
+    accordance with this Privacy Policy.'
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: customer support systems-
+- type: ACTOR
+  id: datum storage provider
+- type: ACTOR
+  id: firewall
+- type: ACTOR
+  id: lifesum
+- type: ACTOR
+  id: platform
+- type: ACTOR
+  id: procedure
+- type: ACTOR
+  id: security software
+- type: ACTOR
+  id: server hosting provider
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: app version
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: calorie intake
+- type: DATA
+  id: characteristic
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: country of residence
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: height
+- type: DATA
+  id: information from device
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: os version
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum collect from you
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information lifesum sell
+- type: DATA
+  id: source from collect
+- type: DATA
+  id: specific piece
+- type: DATA
+  id: step count datum
+- type: DATA
+  id: sufficient personal information about authorized agent
+- type: DATA
+  id: technical information relate to use of device
+- type: DATA
+  id: technical information relate to use of device attribute to you
+- type: DATA
+  id: weight
+- type: DATA
+  id: weight datum

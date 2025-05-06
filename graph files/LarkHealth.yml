@@ -1,0 +1,1359 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Except where prohibited by law, and only to the extent permitted by Lark's agreements
+    with applicable Lark Partners, we may also use your information in connection
+    with any other services we make available to you.
+  - For example, if you utilize a wearable to track your physical activity levels,
+    and link that device to your Lark account, we may obtain information about the
+    type and amount of physical activity you have engaged in.
+  - For example, we may retain certain information for legal compliance and to secure
+    our Services.
+  - Lark may also collect data from third party sources (such as publicly available
+    data) and combine this with other data that Lark maintains.
+  - 'Privacy Policy
+
+
+    Introduction
+
+
+    Table Of Contents
+
+
+    When We Disclose Information'
+  - 'This Privacy Policy explains: (1) what information we collect; (2) how we use
+    that information; (3) when we may disclose it; (4) the choices we offer, including
+    how to access and update certain information about you; (6) and the measures we
+    take to secure information about you.'
+  - We and our partners use various technologies to collect and store information
+    when you access our Services, such as information about your browser or device.
+  - 'We may disclose your information at your direction or in the following circumstances:'
+  - We process such combined data consistent with this Privacy Policy, including for
+    purposes of learning more about social determinants of health in a particular
+    region.
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  - When you use our Services, we automatically collect and store certain information
+    in service logs and sometimes in our databases.
+  - You may provide information to us when you post information in these interactive
+    and social features.
+  purposes:
+    legal:
+    - for legal compliance and to secure our Services
+    security:
+    - for legal compliance and to secure our Services
+    services:
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Lark may compile and disclose information in an aggregated form (i.e., in a manner
+    that would not personally identify you) or in de-identified form so that it cannot
+    reasonably be used to identify an individual ("De-Identified Information").
+  - We may also retain De-Identified Information after your account has been closed.
+  - We may use and disclose such De-Identified Information for any reason, including
+    disclosing such De-Identified Information publicly and to third parties, for example,
+    in public reports about exercise and activity, or to Lark Partners under agreement
+    with us.
+  purposes: {}
+- source: we
+  target: archive copy of record
+  key: COLLECT
+  text:
+  - We may retain an archived copy of your records as required by law, to comply with
+    our legal obligations, to resolve disputes, to enforce our agreements or for other
+    legitimate business purposes.
+  purposes: {}
+- source: we
+  target: blood glucose
+  key: COLLECT
+  text:
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  purposes:
+    services:
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: blood pressure
+  key: COLLECT
+  text:
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  purposes:
+    services:
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: body measurement
+  key: COLLECT
+  text:
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  purposes:
+    services:
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - We collect certain information automatically, such as your operating system version,
+    browser type, and internet service provider.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'The cookies and similar technologies that we may use for automatic data collection
+    may include:'
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - We may use such information in accordance with this Privacy Policy, such as for
+    internal purposes and to provide you a better experience, such as to troubleshoot
+    application problems you may experience.
+  - When using our Services, we or our service provider may collect your unique device
+    ID.
+  purposes: {}
+- source: we
+  target: eating habit
+  key: COLLECT
+  text:
+  - We collect information via your interactions with the digital coach, such as physical
+    activity, eating habits, mood, and weight, in order to help you set and track
+    your progress toward achieving health-related goals.
+  purposes:
+    analytics:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+    services:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - We may use email addresses to provide you with any Service-related notices, or
+    to provide you with information about our events, invitations, or related educational
+    information.
+  purposes:
+    advertising:
+    - to provide you with any Service-related notices, or to provide you with information
+      about our events, invitations, or related educational information
+    services:
+    - to provide you with any Service-related notices, or to provide you with information
+      about our events, invitations, or related educational information
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We may also collect and process information about your location.
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  purposes:
+    services:
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: google fit datum
+  key: COLLECT
+  text:
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  purposes:
+    services:
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: heart rate
+  key: COLLECT
+  text:
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  purposes:
+    services:
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: information about interaction with services as
+  key: COLLECT
+  text:
+  - We also collect information about Users' interactions with the Services, such
+    as a User creating or logging into their account, or opening or interacting with
+    the Services on their mobile device.
+  purposes: {}
+- source: we
+  target: information about use
+  key: COLLECT
+  text:
+  - If you contact a wellness coach, we collect information about such use in accordance
+    with this Privacy Policy, including information regarding your health goals and
+    other information submitted by you for the purpose of using our Services.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - For example, we keep information about you for no longer than reasonably necessary
+    for your use of our programs and Services and for a reasonable period afterward.
+  - Information about you and the contents of your communications through the Services
+    may be disclosed to third parties as required by law, such as to comply with a
+    subpoena or similar legal process, or when we reasonably believe disclosure is
+    necessary to protect our rights (including to enforce our Terms and Conditions),
+    protect your safety or the safety of others, investigate fraud, report improper
+    or unlawful activity, or respond to a government request.
+  - We collect information about you for various purposes, including to provide better
+    services to all our Users.
+  - 'We collect information about you in the following ways:'
+  - We may retain information about you even after your business relationship with
+    us ends, if reasonably necessary to comply with our legal obligations (including
+    law enforcement requests), meet regulatory requirements, resolve disputes, maintain
+    security, prevent fraud and abuse, enforce our Terms and Conditions, in copies
+    made for backup and business continuity purposes, or to fulfill your request to
+    "unsubscribe" from further messages from us.
+  - We may retain information about you for a period of time consistent with the original
+    purpose for collection.
+  purposes:
+    legal:
+    - to comply with our legal obligations (including law enforcement requests),
+- source: we
+  target: information about yourself
+  key: COLLECT
+  text:
+  - You may also provide us with information about yourself when you report a problem
+    or have a question about our Services or provide our third-party service provider
+    with payment method information for the purchase of Service subscriptions.
+  purposes: {}
+- source: we
+  target: information consider under ccpa
+  key: COLLECT
+  text:
+  - Users may also voluntarily provide us with other information that may be considered
+    "sensitive personal information" under the CCPA.
+  purposes: {}
+- source: we
+  target: information in profile
+  key: COLLECT
+  text:
+  - 'We obtain the categories of information listed above from the following categories
+    of sources: When you engage with our content on or through social media services
+    or other third party platforms, plug-ins, integrations or applications, you may
+    allow us to have access to certain information in your profile on those services,
+    platforms, plug-ins, integrations or applications.'
+  purposes: {}
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - .  We may disclose the information we collect in connection with any proposed
+    or actual merger, reorganization, a sale of some or all our assets, a financing
+    or acquisition of all or a portion of our business by another company, or to a
+    receiver, trustee or successor in interest in bankruptcy, in which case such company
+    may continue to process your Information as set forth in this Privacy Policy (except
+    where prohibited by law) or otherwise as permitted by law.
+  purposes: {}
+- source: we
+  target: information we collect through service
+  key: COLLECT
+  text:
+  - 'In addition to the purposes described in this Privacy Policy, we and third-party
+    vendors acting on our behalf, may use the information that we collect through
+    our Services for a variety of purposes, including:'
+  purposes:
+    advertising:
+    - To communicate about, and administer your participation in, special programs,
+      surveys, voting polls, contests, online campaigns, online programs, promotions,
+      and to deliver pertinent emails and features
+    analytics:
+    - To present, operate or improve the Services, including data analysis and testing
+    - To use statistical information that we collect in any way permitted by law,
+      including from third parties
+    legal:
+    - To comply with all applicable legal requirements and protect our Users
+    security:
+    - To authorize access to our Services
+    - To comply with all applicable legal requirements and protect our Users
+    - To investigate and enforce our Terms and Conditions and other Lark policies
+      including possible violations, fraud, and/or attempts to harm our Users
+    - To secure our Services, including to authenticate Users
+    services:
+    - To assist users with scheduling an appointment with and accessing healthcare
+      with a third party telehealth provider, OpenLoop, as defined below
+    - To authorize access to our Services
+    - To contact you for the purpose of rendering the Services (such as wellness coaching)
+      and improving User outcomes related to the same
+    - To inform you about Services and products available from Lark
+    - To offer and administer programs, including for payment processing
+    - To personalize the Services to your goals and customize or tailor your experience
+      of the Services, which may include sending customized messages
+    - To present, operate or improve the Services, including data analysis and testing
+    - To process job applications or inquiries about jobs with Lark
+    - To provide, maintain, administer or expand the Services, perform business analysis,
+      or for other internal purposes to support, improve or enhance our business,
+      the Services, and other products and services we offer
+    - To respond to and support Users regarding their use of the Services
+- source: we
+  target: mood
+  key: COLLECT
+  text:
+  - We collect information via your interactions with the digital coach, such as physical
+    activity, eating habits, mood, and weight, in order to help you set and track
+    your progress toward achieving health-related goals.
+  purposes:
+    analytics:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+    services:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+- source: we
+  target: operate system version
+  key: COLLECT
+  text:
+  - We collect certain information automatically, such as your operating system version,
+    browser type, and internet service provider.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide personal information to advertising providers to provide more relevant
+    and tailored advertising to you, and to analytics providers to assist us in understanding
+    how our Users interact with the Services.
+  purposes:
+    advertising:
+    - to provide more relevant and tailored advertising to you, and to analytics providers
+    analytics:
+    - to assist us in understanding how our Users interact with the Services
+- source: we
+  target: physical activity
+  key: COLLECT
+  text:
+  - We collect information via your interactions with the digital coach, such as physical
+    activity, eating habits, mood, and weight, in order to help you set and track
+    your progress toward achieving health-related goals.
+  - We use Google Fit and Apple Health Kit data (heart rate, blood glucose, blood
+    pressure, body measurements, physical activity, and location data), and similar
+    data collected from devices and activity trackers that you choose to connect to
+    our Services, to assist with coaching our members so that they can maintain a
+    healthy lifestyle.
+  purposes:
+    analytics:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+    services:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+    - to assist with coaching our members so that they can maintain a healthy lifestyle
+- source: we
+  target: weight
+  key: COLLECT
+  text:
+  - We collect information via your interactions with the digital coach, such as physical
+    activity, eating habits, mood, and weight, in order to help you set and track
+    your progress toward achieving health-related goals.
+  purposes:
+    analytics:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+    services:
+    - in order to help you set and track your progress toward achieving health-related
+      goals
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As described above, Lark allows third party vendors to use cookies and other technologies
+    to collect information when you visit our Sites for the purpose of serving you
+    tailored or targeted advertising (also referred to as "online behavioral advertising"
+    or "interest-based advertising") within our Services, or on third party websites
+    within their ad network.
+  - In connection with certain Lark programs, Lark may share information with a third-party
+    AI vendor that powers specific modules in the Lark mobile application.
+  - We and our partners use various technologies to collect and store information
+    when you access our Services, such as information about your browser or device.
+  purposes:
+    advertising:
+    - for the purpose of serving you tailored or targeted advertising (also referred
+      to as "online behavioral advertising" or "interest-based advertising") within
+      our Services, or on third party websites within their ad network
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - As described above, Lark allows third party vendors to use cookies and other technologies
+    to collect information when you visit our Sites for the purpose of serving you
+    tailored or targeted advertising (also referred to as "online behavioral advertising"
+    or "interest-based advertising") within our Services, or on third party websites
+    within their ad network.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about web activity
+  key: COLLECT
+  text:
+  - These companies may also use non-cookie technologies to recognize your computer
+    or device and/or to collect and record information about your web activity including
+    your activities on or off of the Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about you
+  key: COLLECT
+  text:
+  - Information about you and the contents of your communications through the Services
+    may be disclosed to third parties as required by law, such as to comply with a
+    subpoena or similar legal process, or when we reasonably believe disclosure is
+    necessary to protect our rights (including to enforce our Terms and Conditions),
+    protect your safety or the safety of others, investigate fraud, report improper
+    or unlawful activity, or respond to a government request.
+  - Lark, and third party vendors acting on our behalf, may disclose information about
+    you to Lark Partners or vendors acting on our behalf, for the purpose of providing
+    the Services and related services to you or other Users, including, without limitation,
+    determining eligibility, registering you to use the Services (i.e. authenticating
+    your identity), logging you into the Services, providing you with information
+    you have requested through the Services or related services, connecting you with
+    resources and other benefits, filing of medical claims, shipping devices to you
+    (such as weight scales), scheduling coaching appointments and, for any Services
+    that require you to pay a fee, processing your payment and managing your subscription,
+    as well as for Lark Partners' administration of benefits.
+  purposes:
+    services:
+    - for the purpose of providing the Services and related services to you or other
+      Users, including, without limitation, determining eligibility, registering you
+      to use the Services (i.e. authenticating your identity), logging you into the
+      Services, providing you with information you have requested through the Services
+      or related services, connecting you with resources and other benefits, filing
+      of medical claims, shipping devices to you (such as weight scales), scheduling
+      coaching appointments and, for any Services that require you to pay a fee, processing
+      your payment and managing your subscription, as well as for Lark Partners' administration
+      of benefits
+- source: UNSPECIFIED_ACTOR
+  target: information we collect through service
+  key: COLLECT
+  text:
+  - 'In addition to the purposes described in this Privacy Policy, we and third-party
+    vendors acting on our behalf, may use the information that we collect through
+    our Services for a variety of purposes, including:'
+  purposes:
+    advertising:
+    - To communicate about, and administer your participation in, special programs,
+      surveys, voting polls, contests, online campaigns, online programs, promotions,
+      and to deliver pertinent emails and features
+    analytics:
+    - To present, operate or improve the Services, including data analysis and testing
+    - To use statistical information that we collect in any way permitted by law,
+      including from third parties
+    legal:
+    - To comply with all applicable legal requirements and protect our Users
+    security:
+    - To authorize access to our Services
+    - To comply with all applicable legal requirements and protect our Users
+    - To investigate and enforce our Terms and Conditions and other Lark policies
+      including possible violations, fraud, and/or attempts to harm our Users
+    - To secure our Services, including to authenticate Users
+    services:
+    - To assist users with scheduling an appointment with and accessing healthcare
+      with a third party telehealth provider, OpenLoop, as defined below
+    - To authorize access to our Services
+    - To contact you for the purpose of rendering the Services (such as wellness coaching)
+      and improving User outcomes related to the same
+    - To inform you about Services and products available from Lark
+    - To offer and administer programs, including for payment processing
+    - To personalize the Services to your goals and customize or tailor your experience
+      of the Services, which may include sending customized messages
+    - To present, operate or improve the Services, including data analysis and testing
+    - To process job applications or inquiries about jobs with Lark
+    - To provide, maintain, administer or expand the Services, perform business analysis,
+      or for other internal purposes to support, improve or enhance our business,
+      the Services, and other products and services we offer
+    - To respond to and support Users regarding their use of the Services
+- source: UNSPECIFIED_ACTOR
+  target: payment method information for purchase of service subscription
+  key: COLLECT
+  text:
+  - You may also provide us with information about yourself when you report a problem
+    or have a question about our Services or provide our third-party service provider
+    with payment method information for the purchase of Service subscriptions.
+  purposes: {}
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - A permitted network advertiser may use cookies, web beacons or similar technologies
+    to collect information about your interaction with the Services or to tailor certain
+    advertisements and content delivered within the Services or on other websites
+    within such network advertiser's ad network.
+  purposes: {}
+- source: advertiser
+  target: information about interaction with services
+  key: COLLECT
+  text:
+  - A permitted network advertiser may use cookies, web beacons or similar technologies
+    to collect information about your interaction with the Services or to tailor certain
+    advertisements and content delivered within the Services or on other websites
+    within such network advertiser's ad network.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - We may provide personal information to advertising providers to provide more relevant
+    and tailored advertising to you, and to analytics providers to assist us in understanding
+    how our Users interact with the Services.
+  purposes:
+    advertising:
+    - to provide more relevant and tailored advertising to you, and to analytics providers
+    analytics:
+    - to assist us in understanding how our Users interact with the Services
+- source: lark
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In connection with certain Lark programs, Lark may share information with a third-party
+    AI vendor that powers specific modules in the Lark mobile application.
+  - Lark may also collect data from third party sources (such as publicly available
+    data) and combine this with other data that Lark maintains.
+  - Lark may collect information about your general location and, with your permission,
+    your precise GPS location when you use our Services.
+  - Lark may compile and disclose information in an aggregated form (i.e., in a manner
+    that would not personally identify you) or in de-identified form so that it cannot
+    reasonably be used to identify an individual ("De-Identified Information").
+  - The CCPA requires Lark to disclose information regarding the categories of personal
+    information and sensitive personal information that we have collected about California
+    consumers, the categories of sources from which the information was collected,
+    the business or commercial purposes (as those terms are defined by applicable
+    law) for which the information was collected, and the categories of parties to
+    whom we disclose personal information. The Privacy Policy above
+  purposes: {}
+- source: lark
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Lark may also disclose De-Identified Information for general research purposes
+    and in research collaborations with third parties, such as universities, hospitals
+    or other laboratories to determine the prevalence of particular conditions among
+    Users.
+  - Lark may also use De-Identified Information for commercial collaborations with
+    private companies for purposes such as product design or enhancement of Services.
+  purposes:
+    analytics:
+    - for general research purposes and in research collaborations with third parties,
+      such as universities, hospitals or other laboratories
+    - to determine the prevalence of particular conditions among Users
+    services:
+    - for purposes such as product design or enhancement of Services
+- source: lark
+  target: email address
+  key: COLLECT
+  text:
+  - When you choose to schedule an appointment with an OpenLoop telehealth provider,
+    Lark will share your first name, last name, and email with OpenLoop to assist
+    with scheduling your visit.  Lark may also receive certain information about you
+    from OpenLoop, where permitted by applicable law, in the course of providing administrative
+    services to OpenLoop, subject to OpenLoop's privacy policy.
+  purposes:
+    services:
+    - to assist with scheduling your visit
+- source: lark
+  target: information about you
+  key: COLLECT
+  text:
+  - Lark, and third party vendors acting on our behalf, may disclose information about
+    you to Lark Partners or vendors acting on our behalf, for the purpose of providing
+    the Services and related services to you or other Users, including, without limitation,
+    determining eligibility, registering you to use the Services (i.e. authenticating
+    your identity), logging you into the Services, providing you with information
+    you have requested through the Services or related services, connecting you with
+    resources and other benefits, filing of medical claims, shipping devices to you
+    (such as weight scales), scheduling coaching appointments and, for any Services
+    that require you to pay a fee, processing your payment and managing your subscription,
+    as well as for Lark Partners' administration of benefits.
+  - When you choose to schedule an appointment with an OpenLoop telehealth provider,
+    Lark will share your first name, last name, and email with OpenLoop to assist
+    with scheduling your visit.  Lark may also receive certain information about you
+    from OpenLoop, where permitted by applicable law, in the course of providing administrative
+    services to OpenLoop, subject to OpenLoop's privacy policy.
+  purposes:
+    services:
+    - for the purpose of providing the Services and related services to you or other
+      Users, including, without limitation, determining eligibility, registering you
+      to use the Services (i.e. authenticating your identity), logging you into the
+      Services, providing you with information you have requested through the Services
+      or related services, connecting you with resources and other benefits, filing
+      of medical claims, shipping devices to you (such as weight scales), scheduling
+      coaching appointments and, for any Services that require you to pay a fee, processing
+      your payment and managing your subscription, as well as for Lark Partners' administration
+      of benefits
+    - to assist with scheduling your visit
+- source: lark
+  target: person name
+  key: COLLECT
+  text:
+  - When you choose to schedule an appointment with an OpenLoop telehealth provider,
+    Lark will share your first name, last name, and email with OpenLoop to assist
+    with scheduling your visit.  Lark may also receive certain information about you
+    from OpenLoop, where permitted by applicable law, in the course of providing administrative
+    services to OpenLoop, subject to OpenLoop's privacy policy.
+  purposes:
+    services:
+    - to assist with scheduling your visit
+- source: lark
+  target: precise geolocation
+  key: COLLECT
+  text:
+  - Lark may collect information about your general location and, with your permission,
+    your precise GPS location when you use our Services.
+  purposes: {}
+- source: lark
+  target: real time base digital coaching
+  key: COLLECT
+  text:
+  - Lark provides real-time chat-based digital coaching and health-related information
+    to our Users via our mobile application.
+  purposes: {}
+- source: lark
+  target: relate information
+  key: COLLECT
+  text:
+  - Lark provides real-time chat-based digital coaching and health-related information
+    to our Users via our mobile application.
+  purposes: {}
+- source: lark partners
+  target: information about you
+  key: COLLECT
+  text:
+  - Lark, and third party vendors acting on our behalf, may disclose information about
+    you to Lark Partners or vendors acting on our behalf, for the purpose of providing
+    the Services and related services to you or other Users, including, without limitation,
+    determining eligibility, registering you to use the Services (i.e. authenticating
+    your identity), logging you into the Services, providing you with information
+    you have requested through the Services or related services, connecting you with
+    resources and other benefits, filing of medical claims, shipping devices to you
+    (such as weight scales), scheduling coaching appointments and, for any Services
+    that require you to pay a fee, processing your payment and managing your subscription,
+    as well as for Lark Partners' administration of benefits.
+  purposes:
+    services:
+    - for the purpose of providing the Services and related services to you or other
+      Users, including, without limitation, determining eligibility, registering you
+      to use the Services (i.e. authenticating your identity), logging you into the
+      Services, providing you with information you have requested through the Services
+      or related services, connecting you with resources and other benefits, filing
+      of medical claims, shipping devices to you (such as weight scales), scheduling
+      coaching appointments and, for any Services that require you to pay a fee, processing
+      your payment and managing your subscription, as well as for Lark Partners' administration
+      of benefits
+- source: openloop
+  target: email address
+  key: COLLECT
+  text:
+  - When you choose to schedule an appointment with an OpenLoop telehealth provider,
+    Lark will share your first name, last name, and email with OpenLoop to assist
+    with scheduling your visit.  Lark may also receive certain information about you
+    from OpenLoop, where permitted by applicable law, in the course of providing administrative
+    services to OpenLoop, subject to OpenLoop's privacy policy.
+  purposes:
+    services:
+    - to assist with scheduling your visit
+- source: openloop
+  target: person name
+  key: COLLECT
+  text:
+  - When you choose to schedule an appointment with an OpenLoop telehealth provider,
+    Lark will share your first name, last name, and email with OpenLoop to assist
+    with scheduling your visit.  Lark may also receive certain information about you
+    from OpenLoop, where permitted by applicable law, in the course of providing administrative
+    services to OpenLoop, subject to OpenLoop's privacy policy.
+  purposes:
+    services:
+    - to assist with scheduling your visit
+- source: service provider
+  target: device identifier
+  key: COLLECT
+  text:
+  - When using our Services, we or our service provider may collect your unique device
+    ID.
+  purposes: {}
+- source: vendor act on behalf
+  target: information about you
+  key: COLLECT
+  text:
+  - Lark, and third party vendors acting on our behalf, may disclose information about
+    you to Lark Partners or vendors acting on our behalf, for the purpose of providing
+    the Services and related services to you or other Users, including, without limitation,
+    determining eligibility, registering you to use the Services (i.e. authenticating
+    your identity), logging you into the Services, providing you with information
+    you have requested through the Services or related services, connecting you with
+    resources and other benefits, filing of medical claims, shipping devices to you
+    (such as weight scales), scheduling coaching appointments and, for any Services
+    that require you to pay a fee, processing your payment and managing your subscription,
+    as well as for Lark Partners' administration of benefits.
+  purposes:
+    services:
+    - for the purpose of providing the Services and related services to you or other
+      Users, including, without limitation, determining eligibility, registering you
+      to use the Services (i.e. authenticating your identity), logging you into the
+      Services, providing you with information you have requested through the Services
+      or related services, connecting you with resources and other benefits, filing
+      of medical claims, shipping devices to you (such as weight scales), scheduling
+      coaching appointments and, for any Services that require you to pay a fee, processing
+      your payment and managing your subscription, as well as for Lark Partners' administration
+      of benefits
+- source: we
+  target: datum analysis
+  key: SUBSUM
+  text:
+  - 'In addition to the purposes described in this Privacy Policy, we and third-party
+    vendors acting on our behalf, may use the information that we collect through
+    our Services for a variety of purposes, including: To present, operate or improve
+    the Services, including data analysis and testing;'
+- source: we
+  target: wellness coaching
+  key: SUBSUM
+  text:
+  - 'In addition to the purposes described in this Privacy Policy, we and third-party
+    vendors acting on our behalf, may use the information that we collect through
+    our Services for a variety of purposes, including: To contact you for the purpose
+    of rendering the Services (such as wellness coaching) and improving User outcomes
+    related to the same;'
+- source: account
+  target: email address
+  key: SUBSUM
+  text:
+  - In some cases, certain information is required when creating an account to use
+    our Services on the mobile application, such as your name, email address and password.
+- source: account
+  target: password
+  key: SUBSUM
+  text:
+  - In some cases, certain information is required when creating an account to use
+    our Services on the mobile application, such as your name, email address and password.
+- source: account
+  target: person name
+  key: SUBSUM
+  text:
+  - In some cases, certain information is required when creating an account to use
+    our Services on the mobile application, such as your name, email address and password.
+- source: business partner
+  target: contractor
+  key: SUBSUM
+  text:
+  - Lark's business partners such as Providers, Health Plans, and Contractors are
+    collectively referred to in this Privacy Policy as "Lark Partners".
+- source: business partner
+  target: health insurer
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: business partner
+  target: health plan
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: business partner
+  target: health plans
+  key: SUBSUM
+  text:
+  - Lark's business partners such as Providers, Health Plans, and Contractors are
+    collectively referred to in this Privacy Policy as "Lark Partners".
+- source: business partner
+  target: providers
+  key: SUBSUM
+  text:
+  - Lark's business partners such as Providers, Health Plans, and Contractors are
+    collectively referred to in this Privacy Policy as "Lark Partners".
+- source: clickstream datum
+  target: type of browser make request
+  key: SUBSUM
+  text:
+  - Clickstream data may include information such as the page served, the time spent
+    viewing the page, source of the request, type of browser making the request, the
+    preceding page viewed and similar information.
+- source: commercial information
+  target: payment method information
+  key: SUBSUM
+  text:
+  - 'Summary of Information Collected
+
+
+    Telephone number, insurance policy number, health plan name and group number,
+    medical and health insurance information, employer information, commercial information
+    such as payment method information.'
+- source: data point
+  target: activity
+  key: SUBSUM
+  text:
+  - In connection with the use of the Services, your mobile device may collect certain
+    data points like activity and sleep habits.
+- source: data point
+  target: sleep habit
+  key: SUBSUM
+  text:
+  - In connection with the use of the Services, your mobile device may collect certain
+    data points like activity and sleep habits.
+- source: health information
+  target: blood pressure
+  key: SUBSUM
+  text:
+  - In addition, in order to improve your experience with the Services, you may choose
+    to provide additional information such as your gender, birth date, ethnicity,
+    weight, height, insurance provider, physical activity, eating habits, health goals,
+    diet preferences, sleep tracking data, and other health information, such as heart
+    rate, blood pressure, and glucose level.
+- source: health information
+  target: glucose level
+  key: SUBSUM
+  text:
+  - In addition, in order to improve your experience with the Services, you may choose
+    to provide additional information such as your gender, birth date, ethnicity,
+    weight, height, insurance provider, physical activity, eating habits, health goals,
+    diet preferences, sleep tracking data, and other health information, such as heart
+    rate, blood pressure, and glucose level.
+- source: health information
+  target: heart rate
+  key: SUBSUM
+  text:
+  - In addition, in order to improve your experience with the Services, you may choose
+    to provide additional information such as your gender, birth date, ethnicity,
+    weight, height, insurance provider, physical activity, eating habits, health goals,
+    diet preferences, sleep tracking data, and other health information, such as heart
+    rate, blood pressure, and glucose level.
+- source: health insurer
+  target: employer
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: health insurer
+  target: health plans
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: health insurer
+  target: healthcare provider
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: health insurer
+  target: network of healthcare provider
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: health insurer
+  target: providers
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: health insurer
+  target: service provider
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: health insurer
+  target: sponsor health plan
+  key: SUBSUM
+  text:
+  - 'Lark enters into business relationships with business partners including: health
+    plans or health insurers, including, without limitation, employer-sponsored and
+    government sponsored health plans ("Health Plans"), healthcare providers and/or
+    networks of healthcare providers ("Providers"), and companies, such as employers
+    and service providers, that contract with Health Plans, Providers, and/or Lark
+    ("Contractors") to make Lark''s products and services available to Users who are
+    patients of such Providers or enrollees, members, employees, or participants of
+    such Health Plans or Contractors.'
+- source: identify information
+  target: height
+  key: SUBSUM
+  text:
+  - Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as height, weight, or other physical patterns, and sleep, health, stress,
+    diet, physical activity and exercise data.
+- source: identify information
+  target: physical pattern
+  key: SUBSUM
+  text:
+  - Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as height, weight, or other physical patterns, and sleep, health, stress,
+    diet, physical activity and exercise data.
+- source: identify information
+  target: sleep datum
+  key: SUBSUM
+  text:
+  - Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as height, weight, or other physical patterns, and sleep, health, stress,
+    diet, physical activity and exercise data.
+- source: identify information
+  target: weight
+  key: SUBSUM
+  text:
+  - Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as height, weight, or other physical patterns, and sleep, health, stress,
+    diet, physical activity and exercise data.
+- source: information about use
+  target: information regard health goal
+  key: SUBSUM
+  text:
+  - If you contact a wellness coach, we collect information about such use in accordance
+    with this Privacy Policy, including information regarding your health goals and
+    other information submitted by you for the purpose of using our Services.
+- source: information about use
+  target: information submit for purpose of
+  key: SUBSUM
+  text:
+  - If you contact a wellness coach, we collect information about such use in accordance
+    with this Privacy Policy, including information regarding your health goals and
+    other information submitted by you for the purpose of using our Services.
+- source: information share
+  target: age
+  key: SUBSUM
+  text:
+  - The information shared can include your age, gender, dietary restrictions, primary
+    health goals, meal preferences, and previously logged meals for purposes of providing
+    calorie and nutritional information and dietary guidance to you regarding your
+    meal.
+- source: information share
+  target: dietary restriction
+  key: SUBSUM
+  text:
+  - The information shared can include your age, gender, dietary restrictions, primary
+    health goals, meal preferences, and previously logged meals for purposes of providing
+    calorie and nutritional information and dietary guidance to you regarding your
+    meal.
+- source: information share
+  target: gender
+  key: SUBSUM
+  text:
+  - The information shared can include your age, gender, dietary restrictions, primary
+    health goals, meal preferences, and previously logged meals for purposes of providing
+    calorie and nutritional information and dietary guidance to you regarding your
+    meal.
+- source: information share
+  target: log meal
+  key: SUBSUM
+  text:
+  - The information shared can include your age, gender, dietary restrictions, primary
+    health goals, meal preferences, and previously logged meals for purposes of providing
+    calorie and nutritional information and dietary guidance to you regarding your
+    meal.
+- source: information share
+  target: meal preference
+  key: SUBSUM
+  text:
+  - The information shared can include your age, gender, dietary restrictions, primary
+    health goals, meal preferences, and previously logged meals for purposes of providing
+    calorie and nutritional information and dietary guidance to you regarding your
+    meal.
+- source: information share
+  target: primary health goal
+  key: SUBSUM
+  text:
+  - The information shared can include your age, gender, dietary restrictions, primary
+    health goals, meal preferences, and previously logged meals for purposes of providing
+    calorie and nutritional information and dietary guidance to you regarding your
+    meal.
+- source: online meeting platform
+  target: Google
+  key: SUBSUM
+  text:
+  - Communications with a live wellness coach may be offered via online meeting platforms
+    such as Google Meet, which require Users to access a link via email or create
+    an account with such third-party site.
+- source: openloop
+  target: md medical associates
+  key: SUBSUM
+  text:
+  - MD Medical Associates New Jersey, PC,Reliant.MD Medical Associates Wisconsin,
+    SC, MECNB Physician Services, PC,MECNB Physician Services California, PC, MECNB
+    Physician Services Colorado, PC,MECNB Physician Services New Jersey, PC, and MECNB
+    Physician Services Wisconsin,SC, (collectively, " OpenLoop ").
+- source: openloop
+  target: mecnb physician services
+  key: SUBSUM
+  text:
+  - MD Medical Associates New Jersey, PC,Reliant.MD Medical Associates Wisconsin,
+    SC, MECNB Physician Services, PC,MECNB Physician Services California, PC, MECNB
+    Physician Services Colorado, PC,MECNB Physician Services New Jersey, PC, and MECNB
+    Physician Services Wisconsin,SC, (collectively, " OpenLoop ").
+- source: openloop
+  target: pc
+  key: SUBSUM
+  text:
+  - MD Medical Associates New Jersey, PC,Reliant.MD Medical Associates Wisconsin,
+    SC, MECNB Physician Services, PC,MECNB Physician Services California, PC, MECNB
+    Physician Services Colorado, PC,MECNB Physician Services New Jersey, PC, and MECNB
+    Physician Services Wisconsin,SC, (collectively, " OpenLoop ").
+- source: openloop
+  target: reliant md medical associates
+  key: SUBSUM
+  text:
+  - MD Medical Associates New Jersey, PC,Reliant.MD Medical Associates Wisconsin,
+    SC, MECNB Physician Services, PC,MECNB Physician Services California, PC, MECNB
+    Physician Services Colorado, PC,MECNB Physician Services New Jersey, PC, and MECNB
+    Physician Services Wisconsin,SC, (collectively, " OpenLoop ").
+- source: particular kind of content
+  target: particular kind of content on sites
+  key: SUBSUM
+  text:
+  - Clickstream data permits us to analyze how visitors arrive at the Sites, what
+    type of content is popular, what type of visitors are interested in particular
+    kinds of content on the Sites.
+- source: party to we disclose personal information
+  target: source from collect
+  key: SUBSUM
+  text:
+  - The CCPA requires Lark to disclose information regarding the categories of personal
+    information and sensitive personal information that we have collected about California
+    consumers, the categories of sources from which the information was collected,
+    the business or commercial purposes (as those terms are defined by applicable
+    law) for which the information was collected, and the categories of parties to
+    whom we disclose personal information. The Privacy Policy above
+- source: personal information
+  target: sensitive personal information
+  key: SUBSUM
+  text:
+  - The CCPA requires Lark to disclose information regarding the categories of personal
+    information and sensitive personal information that we have collected about California
+    consumers, the categories of sources from which the information was collected,
+    the business or commercial purposes (as those terms are defined by applicable
+    law) for which the information was collected, and the categories of parties to
+    whom we disclose personal information. The Privacy Policy above
+- source: physical activity
+  target: amount
+  key: SUBSUM
+  text:
+  - For example, if you utilize a wearable to track your physical activity levels,
+    and link that device to your Lark account, we may obtain information about the
+    type and amount of physical activity you have engaged in.
+- source: service offer
+  target: lark partners
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to all of the Services offered by Lark and its affiliates,
+    including some Lark Partners, and Services offered on other sites, but excludes
+    services that have separate privacy policies that do not incorporate this Privacy
+    Policy.
+- source: service offer
+  target: service offer on site
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to all of the Services offered by Lark and its affiliates,
+    including some Lark Partners, and Services offered on other sites, but excludes
+    services that have separate privacy policies that do not incorporate this Privacy
+    Policy.
+- source: service offer
+  target: site link from service
+  key: SUBSUM
+  text:
+  - This Privacy Policy does not apply to services offered by other companies or individuals,
+    including products or sites that may be displayed to you, or other sites linked
+    from our Services.
+- source: type of browser make request
+  target: source of request
+  key: SUBSUM
+  text:
+  - Clickstream data may include information such as the page served, the time spent
+    viewing the page, source of the request, type of browser making the request, the
+    preceding page viewed and similar information.
+- source: wearable
+  target: activity tracker
+  key: SUBSUM
+  text:
+  - You may also have the ability to link health monitoring devices or wearables (for
+    example, a weight scale, activity tracker, glucometer, or blood pressure monitor)
+    to your account, in which case we will collect your device information, information
+    about your use of that device, and information you choose to share via that device.
+- source: wearable
+  target: blood pressure monitor
+  key: SUBSUM
+  text:
+  - You may also have the ability to link health monitoring devices or wearables (for
+    example, a weight scale, activity tracker, glucometer, or blood pressure monitor)
+    to your account, in which case we will collect your device information, information
+    about your use of that device, and information you choose to share via that device.
+- source: wearable
+  target: glucometer
+  key: SUBSUM
+  text:
+  - You may also have the ability to link health monitoring devices or wearables (for
+    example, a weight scale, activity tracker, glucometer, or blood pressure monitor)
+    to your account, in which case we will collect your device information, information
+    about your use of that device, and information you choose to share via that device.
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: datum analysis
+- type: ACTOR
+  id: employer
+- type: ACTOR
+  id: health insurer
+- type: ACTOR
+  id: health plan
+- type: ACTOR
+  id: health plans
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: lark
+- type: ACTOR
+  id: lark partners
+- type: ACTOR
+  id: md medical associates
+- type: ACTOR
+  id: mecnb physician services
+- type: ACTOR
+  id: network of healthcare provider
+- type: ACTOR
+  id: online meeting platform
+- type: ACTOR
+  id: openloop
+- type: ACTOR
+  id: particular kind of content
+- type: ACTOR
+  id: particular kind of content on sites
+- type: ACTOR
+  id: party to we disclose personal information
+- type: ACTOR
+  id: pc
+- type: ACTOR
+  id: providers
+- type: ACTOR
+  id: reliant md medical associates
+- type: ACTOR
+  id: service offer
+- type: ACTOR
+  id: service offer on site
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: site link from service
+- type: ACTOR
+  id: source from collect
+- type: ACTOR
+  id: sponsor health plan
+- type: ACTOR
+  id: vendor act on behalf
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: wellness coaching
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account
+- type: DATA
+  id: activity
+- type: DATA
+  id: activity tracker
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: amount
+- type: DATA
+  id: archive copy of record
+- type: DATA
+  id: blood glucose
+- type: DATA
+  id: blood pressure
+- type: DATA
+  id: blood pressure monitor
+- type: DATA
+  id: body measurement
+- type: DATA
+  id: browser type
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: data point
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: dietary restriction
+- type: DATA
+  id: eating habit
+- type: DATA
+  id: email address
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: glucometer
+- type: DATA
+  id: glucose level
+- type: DATA
+  id: google fit datum
+- type: DATA
+  id: health information
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: height
+- type: DATA
+  id: identify information
+- type: DATA
+  id: information about interaction with services
+- type: DATA
+  id: information about interaction with services as
+- type: DATA
+  id: information about use
+- type: DATA
+  id: information about web activity
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information about yourself
+- type: DATA
+  id: information consider under ccpa
+- type: DATA
+  id: information in profile
+- type: DATA
+  id: information regard health goal
+- type: DATA
+  id: information share
+- type: DATA
+  id: information submit for purpose of
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information we collect through service
+- type: DATA
+  id: log meal
+- type: DATA
+  id: meal preference
+- type: DATA
+  id: mood
+- type: DATA
+  id: operate system version
+- type: DATA
+  id: password
+- type: DATA
+  id: payment method information
+- type: DATA
+  id: payment method information for purchase of service subscription
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: physical activity
+- type: DATA
+  id: physical pattern
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: primary health goal
+- type: DATA
+  id: real time base digital coaching
+- type: DATA
+  id: relate information
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sleep datum
+- type: DATA
+  id: sleep habit
+- type: DATA
+  id: source of request
+- type: DATA
+  id: type of browser make request
+- type: DATA
+  id: wearable
+- type: DATA
+  id: weight

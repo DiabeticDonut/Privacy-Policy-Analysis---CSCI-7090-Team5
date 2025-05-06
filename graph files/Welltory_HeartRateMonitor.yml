@@ -1,0 +1,261 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use cookies to help you navigate efficiently and perform certain functions.
+  purposes:
+    services:
+    - to help you navigate efficiently and perform certain functions
+- source: we
+  target: personal datum relate to user
+  key: COLLECT
+  text:
+  - 'The Owner may process Personal Data relating to Users if one of the following
+    applies:'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: file record interaction with welltory
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, Welltory and any third-party services
+    may collect files that record interaction with Welltory (System logs) or use other
+    Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, Welltory and any third-party services
+    may collect files that record interaction with Welltory (System logs) or use other
+    Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: UNSPECIFIED_ACTOR
+  target: system log
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, Welltory and any third-party services
+    may collect files that record interaction with Welltory (System logs) or use other
+    Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: iubenda
+  target: personal datum strictly necessary
+  key: COLLECT
+  text:
+  - 'Changes to this privacy policy
+
+
+    iubenda hosts this content and only collects the Personal Data strictly necessary
+    for it to be provided.'
+  purposes: {}
+- source: push notification base on geographic location
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Further information about the processing of Personal Data
+
+
+    Push notifications based on the User''s geographic location'
+  - Welltory may use the User's geographic location to send push notifications for
+    the purposes outlined in this privacy policy.
+  purposes:
+    services:
+    - to send push notifications for the purposes outlined in this privacy policy
+- source: welltory
+  target: file record interaction with welltory
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, Welltory and any third-party services
+    may collect files that record interaction with Welltory (System logs) or use other
+    Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: welltory
+  target: geolocation
+  key: COLLECT
+  text:
+  - Welltory may collect, use, and share User location Data in order to provide location-based
+    services.
+  - Welltory may use the User's geographic location to send push notifications for
+    the purposes outlined in this privacy policy.
+  purposes:
+    services:
+    - in order to provide location-based services
+    - to send push notifications for the purposes outlined in this privacy policy
+- source: welltory
+  target: information concern particular service upon
+  key: COLLECT
+  text:
+  - In addition to the information contained in this privacy policy, Welltory may
+    provide the User with additional and contextual information concerning particular
+    Services or the collection and processing of Personal Data upon request.
+  purposes: {}
+- source: welltory
+  target: permission allow
+  key: COLLECT
+  text:
+  - Depending on the User's specific device, Welltory may request certain permissions
+    that allow it to access the User's device Data as described below.
+  purposes: {}
+- source: welltory
+  target: personal information
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, Welltory and any third-party services
+    may collect files that record interaction with Welltory (System logs) or use other
+    Personal Data (such as the IP Address) for this purpose.
+  - Welltory collects some Personal Data from its Users.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: welltory
+  target: respective personal datum
+  key: COLLECT
+  text:
+  - If User grants any of the permissions listed below, the respective Personal Data
+    may be processed (i.e accessed to, modified or removed) by Welltory.
+  purposes: {}
+- source: welltory
+  target: system log
+  key: COLLECT
+  text:
+  - For operation and maintenance purposes, Welltory and any third-party services
+    may collect files that record interaction with Welltory (System logs) or use other
+    Personal Data (such as the IP Address) for this purpose.
+  purposes:
+    services:
+    - For operation and maintenance purposes
+- source: activity
+  target: movement type
+  key: SUBSUM
+  text:
+  - Used for accessing the User's device motion sensors to measure the User's activity
+    such as step counts, stairs climbed, and movement type (walking, cycling, etc.).
+- source: activity
+  target: stair climb
+  key: SUBSUM
+  text:
+  - Used for accessing the User's device motion sensors to measure the User's activity
+    such as step counts, stairs climbed, and movement type (walking, cycling, etc.).
+- source: activity
+  target: step count
+  key: SUBSUM
+  text:
+  - Used for accessing the User's device motion sensors to measure the User's activity
+    such as step counts, stairs climbed, and movement type (walking, cycling, etc.).
+- source: app on particular device
+  target: welltory
+  key: SUBSUM
+  text:
+  - Users may in most cases opt-out of receiving push notifications by visiting their
+    device settings, such as the notification settings for mobile phones, and then
+    changing those settings for Welltory or all of the apps on the particular device.
+- source: biometrical datum system
+  target: faceid
+  key: SUBSUM
+  text:
+  - 'Privacy Policy of Welltory
+
+
+    Device permissions for Personal Data access
+
+
+    Biometric Data access permission
+
+
+    Used for accessing the User''s biometrical Data and/or authentication systems,
+    such as for instance, FaceID.'
+- source: country
+  target: un
+  key: SUBSUM
+  text:
+  - Users are also entitled to learn about the legal basis for Data transfers abroad
+    including to any international organization governed by public international law
+    or set up by two or more countries, such as the UN, and about the security measures
+    taken by the Owner to safeguard their Data.
+- source: device setting
+  target: notification setting for mobile phone
+  key: SUBSUM
+  text:
+  - Users may in most cases opt-out of receiving push notifications by visiting their
+    device settings, such as the notification settings for mobile phones, and then
+    change those settings for Welltory, some or all of the apps on the particular
+    device.
+  - Users may in most cases opt-out of receiving push notifications by visiting their
+    device settings, such as the notification settings for mobile phones, and then
+    changing those settings for Welltory or all of the apps on the particular device.
+  - Users may in most cases opt-out of receiving push notifications by visiting their
+    device settings, such as the notification settings for mobile phones, and then
+    changing those settings for some or all of the apps on the particular device.
+- source: personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - For operation and maintenance purposes, Welltory and any third-party services
+    may collect files that record interaction with Welltory (System logs) or use other
+    Personal Data (such as the IP Address) for this purpose.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: app on particular device
+- type: ACTOR
+  id: country
+- type: ACTOR
+  id: iubenda
+- type: ACTOR
+  id: push notification base on geographic location
+- type: ACTOR
+  id: un
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: welltory
+- type: DATA
+  id: activity
+- type: DATA
+  id: biometrical datum system
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: device setting
+- type: DATA
+  id: faceid
+- type: DATA
+  id: file record interaction with welltory
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information concern particular service upon
+- type: DATA
+  id: ip address
+- type: DATA
+  id: movement type
+- type: DATA
+  id: notification setting for mobile phone
+- type: DATA
+  id: permission allow
+- type: DATA
+  id: personal datum relate to user
+- type: DATA
+  id: personal datum strictly necessary
+- type: DATA
+  id: personal information
+- type: DATA
+  id: respective personal datum
+- type: DATA
+  id: stair climb
+- type: DATA
+  id: step count
+- type: DATA
+  id: system log

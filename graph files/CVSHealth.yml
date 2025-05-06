@@ -1,0 +1,1075 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may also use or disclose your information to enforce our terms and conditions,
+    to protect our operations or those of any of our affiliates, to prevent misuse
+    of our Services, or to protect our rights, privacy, safety or property and/or
+    that of our affiliates, you, or others.
+  - We use this information for the purposes described in our Notice at Collection
+    of Personal Information , including for targeted advertising.
+  - When you interact with our Services, certain information may be collected by us
+    or our third party vendors, such as the date and time of your visit, the pages
+    you view immediately before and after you access our Services, the areas or pages
+    of our Services that you visit, the amount of time you spend viewing or using
+    our Services, items placed or left in your shopping cart on the Site or CVS App,
+    keystrokes, mouse movements, form field entries, recordings of chat sessions or
+    your use of and inputs to other AI-supported tools, and other use and overall
+    engagement with our Services.
+  purposes:
+    advertising:
+    - for the purposes described in our Notice at Collection of Personal Information
+      , including for targeted advertising
+    analytics:
+    - for the purposes described in our Notice at Collection of Personal Information
+      , including for targeted advertising
+    security:
+    - to enforce our terms and conditions, to protect our operations or those of any
+      of our affiliates, to prevent misuse of our Services, or to protect our rights,
+      privacy, safety or property and/or that of our affiliates, you, or others
+- source: we
+  target: audio information
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Audio, electronic,
+    visual, or similar information.'
+  purposes: {}
+- source: we
+  target: biometric information
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Biometric
+    information.'
+  purposes: {}
+- source: we
+  target: coarse geolocation
+  key: COLLECT
+  text:
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+  purposes:
+    advertising:
+    - for targeted advertising
+- source: we
+  target: combine personal information
+  key: COLLECT
+  text:
+  - We use, disclose, and protect combined Personal Information as described in this
+    Privacy Policy.
+  purposes: {}
+- source: we
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Commercial
+    information, such as items purchased, obtained, or considered and other purchasing
+    or consuming histories or tendencies.'
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+  purposes:
+    advertising:
+    - for targeted advertising
+- source: we
+  target: date of birth
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Geolocation
+    data (non-precise).'
+  purposes: {}
+- source: we
+  target: inference
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Inferences,
+    meaning inferences drawn from the listed categories of Personal Information reflecting
+    consumer preferences or characteristics.'
+  purposes: {}
+- source: we
+  target: information regard activity
+  key: COLLECT
+  text:
+  - When you visit and interact with our Services, we or our third-party advertising
+    and analytics partners and service providers may use a variety of technologies,
+    such as cookies, tags, SDKs or scripts, to collect certain information regarding
+    your activity.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Internet
+    or other electronic network activity information.'
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+  purposes:
+    advertising:
+    - for targeted advertising
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+  purposes: {}
+- source: we
+  target: online identifier
+  key: COLLECT
+  text:
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+  purposes:
+    advertising:
+    - for targeted advertising
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Additionally, we will disclose your Personal Information as we believe necessary
+    or appropriate to: (a) comply with applicable law; (b) enforce our terms and conditions;
+    (c) protect our operations; (d) protect our rights, privacy, safety, or property,
+    and/or those of you or others; and (e) allow us to pursue available remedies or
+    limit damages that we may sustain.'
+  - 'Depending on your U.S. state of residence, including California, Colorado, Connecticut,
+    Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah,
+    Virginia and such other states with privacy laws that are enacted, you may have
+    certain rights in relation to your Personal Information, including: Right to Opt
+    Out of Certain Types of Personal Information Uses and Disclosures : We use and
+    disclose to third parties Personal Information for analytics and advertising purposes.'
+  - In the event of a reorganization, merger, sale, joint venture, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with a bankruptcy or similar proceeding), we may disclose or transfer
+    your Personal Information to certain third parties, such as the acquiring entity
+    and its advisers.
+  - We disclose Personal Information in matters involving claims of personal or public
+    safety, or in litigation.
+  - We disclose your Personal Information to our research partners, such as those
+    that administer surveys or conduct research projects in partnership with us or
+    on our behalf.
+  - We disclose your Personal Information to our service providers that provide business,
+    professional, or technical support services to us, help us operate our business
+    and the Services, or administer activities on our behalf.
+  - 'We may ask you to provide Personal Information in connection with these promotions,
+    including the following Personal Information: identifiers, including contact information,
+    date of birth, commercial information, purchase history, and information concerning
+    your health.'
+  - We may disclose Personal Information for other reasons that we will describe at
+    the time of information collection or prior to disclosing your information.
+  - 'We may disclose Personal Information that we collect to the following categories
+    of recipients:'
+  - We may disclose Personal Information to third-party ad network providers, sponsors
+    and/or traffic measurement services.
+  - We may disclose your Personal Information only as permitted or if required to
+    do so by government and law enforcement authorities.
+  - We may receive Personal Information from other sources.
+  - We may share your Personal Information with third parties as described in our
+    Notice at Collection of Personal Information, including data analytics providers,
+    advertising technology vendors, and social media platforms.
+  - 'We may use the Personal Information we collect about you for the purposes listed
+    below:'
+  - We will disclose your Personal Information to other third parties at your direction
+    or with your consent.
+  - We will retain and use your Personal Information as necessary to comply with our
+    legal obligations, resolve disputes, and enforce our agreements.
+  - We will retain your Personal Information for as long as reasonably necessary to
+    provide you with our Services that you request, for marketing purposes unless
+    you opt out as described in our Privacy Policy, or otherwise where permitted or
+    required in accordance with applicable law.
+  - When you use our Services, we may collect Personal Information from you, such
+    as when you create an account, your interactions with our CVS Pharmacy stores,
+    our Site, or CVS App, or your enrollment in programs such as e-receipt or ExtraCare
+    (r) .
+  purposes:
+    advertising:
+    - To provide you or others with customized content or targeted offers
+    - To send you information, newsletters and marketing/promotional material from
+      us and, or on behalf of, our marketing partners and affiliates
+    - for analytics and advertising purposes
+    - for marketing purposes
+    analytics:
+    - To carry out sales and business transactions in which information held by us
+      is among the assets transferred or is otherwise relevant to the evaluation,
+      negotiation or completion of the transaction
+    - To conduct analysis and develop and/or improve our Services
+    - To review the usage and maintain the operation of our Services
+    - for analytics and advertising purposes
+    - for other reasons that we will describe at the time of information collection
+      or prior to disclosing your information
+    legal:
+    - To comply with applicable laws and regulations and respond to lawful requests
+      and communications from law enforcement and other government officials
+    - to comply with our legal obligations, resolve disputes, and enforce our agreements
+    - 'to: (a) comply with applicable law; (b) enforce our terms and conditions; (c)
+      protect our operations; (d) protect our rights, privacy, safety, or property,
+      and/or those of you or others; and (e) allow us to pursue available remedies
+      or limit damages that we may sustain'
+    security:
+    - To create, maintain, customize and secure your account with us
+    - To monitor, protect and maintain the security and integrity of our Services
+      and our business, such as protecting against and preventing fraud, unauthorized
+      transactions, claims and other liabilities
+    - To protect our rights, privacy, safety, property and/or those of others
+    - 'to: (a) comply with applicable law; (b) enforce our terms and conditions; (c)
+      protect our operations; (d) protect our rights, privacy, safety, or property,
+      and/or those of you or others; and (e) allow us to pursue available remedies
+      or limit damages that we may sustain'
+    services:
+    - To administer our loyalty and membership programs, including ExtraCare and ExtraCare
+      Plus(tm
+    - To carry out sales and business transactions in which information held by us
+      is among the assets transferred or is otherwise relevant to the evaluation,
+      negotiation or completion of the transaction
+    - To communicate with you, such as through bots (which may be powered by third
+      party vendors and be trained on your inputs through AI-based technology), including
+      to respond to your inquiries/requests and request feedback from you, and to
+      send you important updates and messages about changes to our Services, our Privacy
+      Policy or this Notice and/or other applicable terms and conditions
+    - To conduct analysis and develop and/or improve our Services
+    - To create, maintain, customize and secure your account with us
+    - To process your payments and fulfill your orders
+    - To provide you or others with customized content or targeted offers
+    - To provide you with our Services, including to manage your accounts, orders,
+      billing and improve reorder experiences
+    - To review the usage and maintain the operation of our Services
+    - for other reasons that we will describe at the time of information collection
+      or prior to disclosing your information
+    - to provide you with our Services that you request
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+  purposes: {}
+- source: we
+  target: professional information
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Professional
+    or employment-related information.'
+  purposes: {}
+- source: we
+  target: sensitive personal information
+  key: COLLECT
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+  purposes: {}
+- source: we
+  target: specific type
+  key: COLLECT
+  text:
+  - The specific types of information that we and our partners and service providers
+    may automatically collect when you visit and interact with our Services
+  purposes: {}
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: personal information
+  key: COLLECT
+  text:
+  - We may share your Personal Information with third parties as described in our
+    Notice at Collection of Personal Information, including data analytics providers,
+    advertising technology vendors, and social media platforms.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - When you interact with our Services, certain information may be collected by us
+    or our third party vendors, such as the date and time of your visit, the pages
+    you view immediately before and after you access our Services, the areas or pages
+    of our Services that you visit, the amount of time you spend viewing or using
+    our Services, items placed or left in your shopping cart on the Site or CVS App,
+    keystrokes, mouse movements, form field entries, recordings of chat sessions or
+    your use of and inputs to other AI-supported tools, and other use and overall
+    engagement with our Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - These third parties may use cookies, JavaScript, web beacons (including clear
+    GIFs), and other tracking technologies to measure the effectiveness of their ads
+    and to personalize advertising content to you.
+  purposes:
+    advertising:
+    - to measure the effectiveness of their ads and to personalize advertising content
+      to you
+    analytics:
+    - to measure the effectiveness of their ads and to personalize advertising content
+      to you
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - 'CVS Privacy Policy
+
+
+    3. How We May Disclose Your Personal Information'
+  - 'Depending on your U.S. state of residence, including California, Colorado, Connecticut,
+    Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah,
+    Virginia and such other states with privacy laws that are enacted, you may have
+    certain rights in relation to your Personal Information, including: Right to Opt
+    Out of Certain Types of Personal Information Uses and Disclosures : We use and
+    disclose to third parties Personal Information for analytics and advertising purposes.'
+  - Please note that we may de-identify or aggregate Personal Information so that
+    it will no longer be considered Personal Information and disclose such information
+    to other parties for purposes consistent with those described in this Privacy
+    Policy.
+  purposes:
+    advertising:
+    - for analytics and advertising purposes
+    analytics:
+    - for analytics and advertising purposes
+- source: UNSPECIFIED_ACTOR
+  target: specific type
+  key: COLLECT
+  text:
+  - The specific types of information that we and our partners and service providers
+    may automatically collect when you visit and interact with our Services
+  purposes: {}
+- source: acquire entity
+  target: personal information
+  key: COLLECT
+  text:
+  - In the event of a reorganization, merger, sale, joint venture, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with a bankruptcy or similar proceeding), we may disclose or transfer
+    your Personal Information to certain third parties, such as the acquiring entity
+    and its advisers.
+  purposes: {}
+- source: advertiser
+  target: information regard activity
+  key: COLLECT
+  text:
+  - When you visit and interact with our Services, we or our third-party advertising
+    and analytics partners and service providers may use a variety of technologies,
+    such as cookies, tags, SDKs or scripts, to collect certain information regarding
+    your activity.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Information that we collect to the following categories
+    of recipients: Third-Party Ad Networks and Providers.'
+  - We may disclose Personal Information to third-party ad network providers, sponsors
+    and/or traffic measurement services.
+  purposes: {}
+- source: adviser
+  target: personal information
+  key: COLLECT
+  text:
+  - In the event of a reorganization, merger, sale, joint venture, assignment, transfer,
+    or other disposition of all or any portion of our business, assets, or stock (including
+    in connection with a bankruptcy or similar proceeding), we may disclose or transfer
+    your Personal Information to certain third parties, such as the acquiring entity
+    and its advisers.
+  purposes: {}
+- source: analytic provider
+  target: information regard activity
+  key: COLLECT
+  text:
+  - When you visit and interact with our Services, we or our third-party advertising
+    and analytics partners and service providers may use a variety of technologies,
+    such as cookies, tags, SDKs or scripts, to collect certain information regarding
+    your activity.
+  purposes: {}
+- source: analytic provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose Personal Information to third-party ad network providers, sponsors
+    and/or traffic measurement services.
+  purposes: {}
+- source: research partner
+  target: personal information
+  key: COLLECT
+  text:
+  - We disclose your Personal Information to our research partners, such as those
+    that administer surveys or conduct research projects in partnership with us or
+    on our behalf.
+  - 'We may disclose Personal Information that we collect to the following categories
+    of recipients: Our Research Partners.'
+  purposes: {}
+- source: service provider
+  target: information regard activity
+  key: COLLECT
+  text:
+  - When you visit and interact with our Services, we or our third-party advertising
+    and analytics partners and service providers may use a variety of technologies,
+    such as cookies, tags, SDKs or scripts, to collect certain information regarding
+    your activity.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose Personal Information that we collect to the following categories
+    of recipients: Our Service Providers.'
+  purposes: {}
+- source: service provider
+  target: specific type
+  key: COLLECT
+  text:
+  - The specific types of information that we and our partners and service providers
+    may automatically collect when you visit and interact with our Services
+  purposes: {}
+- source: service provider provide business support service to we
+  target: personal information
+  key: COLLECT
+  text:
+  - We disclose your Personal Information to our service providers that provide business,
+    professional, or technical support services to us, help us operate our business
+    and the Services, or administer activities on our behalf.
+  purposes: {}
+- source: sponsor
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose Personal Information to third-party ad network providers, sponsors
+    and/or traffic measurement services.
+  purposes: {}
+- source: LINE
+  target: company co -
+  key: SUBSUM
+  text:
+  - 'Our third-party sources may include: Our Business Partners, such as companies
+    that co-sponsor our promotions.'
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: advertiser
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with third parties as described in our
+    Notice at Collection of Personal Information, including data analytics providers,
+    advertising technology vendors, and social media platforms.
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with third parties as described in our
+    Notice at Collection of Personal Information, including data analytics providers,
+    advertising technology vendors, and social media platforms.
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: data aggregator
+  key: SUBSUM
+  text:
+  - 'Our third-party sources may include: Other Companies that provide Personal Information
+    to supplement what we already know about you, including data aggregators.'
+- source: Personal Information Privacy and Security Association (Vancouver)
+  target: social media
+  key: SUBSUM
+  text:
+  - We may share your Personal Information with third parties as described in our
+    Notice at Collection of Personal Information, including data analytics providers,
+    advertising technology vendors, and social media platforms.
+- source: analytic provider
+  target: advertiser
+  key: SUBSUM
+  text:
+  - 'Our third-party sources may include: Our Marketing/advertising and analytics
+    partners,  such as online advertising networks and analytics providers.'
+- source: base opt preference signal
+  target: global privacy control
+  key: SUBSUM
+  text:
+  - If you enable a browser-based opt-out preference signal, such as Global Privacy
+    Control (GPC), upon receipt or detection, we will endeavor to recognize and treat
+    the signal as a valid request to opt out.
+- source: business you interact with
+  target: cvs
+  key: SUBSUM
+  text:
+  - Alternatively, you can use certain preference signals to opt out automatically
+    with all businesses that you interact with online, including CVS.
+- source: commercial information
+  target: item purchase
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Commercial
+    information, such as items purchased, obtained, or considered and other purchasing
+    or consuming histories or tendencies.'
+- source: date of birth
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: email address
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: email address
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: healthcare service
+  target: CVS Pharmacy
+  key: SUBSUM
+  text:
+  - If you are looking for information about how a CVS Health company collects and
+    uses information for any healthcare services including CVS Pharmacy and MinuteClinic,
+    please review the privacy policy provided for those services, which you can find
+    at our Privacy Center.
+- source: healthcare service
+  target: minuteclinic
+  key: SUBSUM
+  text:
+  - If you are looking for information about how a CVS Health company collects and
+    uses information for any healthcare services including CVS Pharmacy and MinuteClinic,
+    please review the privacy policy provided for those services, which you can find
+    at our Privacy Center.
+- source: identifier
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'We may ask you to provide Personal Information in connection with these promotions,
+    including the following Personal Information: identifiers, including contact information,
+    date of birth, commercial information, purchase history, and information concerning
+    your health.'
+- source: identifier
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'We may ask you to provide Personal Information in connection with these promotions,
+    including the following Personal Information: identifiers, including contact information,
+    date of birth, commercial information, purchase history, and information concerning
+    your health.'
+- source: identifier
+  target: information concern health
+  key: SUBSUM
+  text:
+  - 'We may ask you to provide Personal Information in connection with these promotions,
+    including the following Personal Information: identifiers, including contact information,
+    date of birth, commercial information, purchase history, and information concerning
+    your health.'
+- source: identifier
+  target: purchase history
+  key: SUBSUM
+  text:
+  - 'We may ask you to provide Personal Information in connection with these promotions,
+    including the following Personal Information: identifiers, including contact information,
+    date of birth, commercial information, purchase history, and information concerning
+    your health.'
+- source: ip address
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: ip address
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: ip address
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: loyalty program
+  target: extracare
+  key: SUBSUM
+  text:
+  - 'We may use the Personal Information we collect about you for the purposes listed
+    below: To administer our loyalty and membership programs, including ExtraCare
+    and ExtraCare Plus(tm).'
+- source: loyalty program
+  target: extracare plus(tm
+  key: SUBSUM
+  text:
+  - 'We may use the Personal Information we collect about you for the purposes listed
+    below: To administer our loyalty and membership programs, including ExtraCare
+    and ExtraCare Plus(tm).'
+- source: marketing communication
+  target: special offer from we
+  key: SUBSUM
+  text:
+  - From time to time, we may send you marketing and promotional communications, including
+    special offers from us or our partners.
+- source: personal information
+  target: audio information
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Audio, electronic,
+    visual, or similar information.'
+- source: personal information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Biometric
+    information.'
+- source: personal information
+  target: choice
+  key: SUBSUM
+  text:
+  - It also describes the types of Personal Information we collect, how we may use
+    and disclose such information, and your choices and legal rights with respect
+    to such information.
+- source: personal information
+  target: coarse geolocation
+  key: SUBSUM
+  text:
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Commercial
+    information, such as items purchased, obtained, or considered and other purchasing
+    or consuming histories or tendencies.'
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Geolocation
+    data (non-precise).'
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'We may ask you to provide Personal Information in connection with these promotions,
+    including the following Personal Information: identifiers, including contact information,
+    date of birth, commercial information, purchase history, and information concerning
+    your health.'
+- source: personal information
+  target: inference
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Inferences,
+    meaning inferences drawn from the listed categories of Personal Information reflecting
+    consumer preferences or characteristics.'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Internet
+    or other electronic network activity information.'
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+- source: personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: personal information
+  target: online identifier
+  key: SUBSUM
+  text:
+  - We may share or sell, or use for targeted advertising, as those terms are defined
+    by applicable law, certain categories of Personal Information, including online
+    and other identifiers, commercial information, internet activity, and non-precise
+    location information.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: personal information
+  target: professional information
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Professional
+    or employment-related information.'
+- source: personal information
+  target: sensitive personal information
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: personal information
+  target: specific piece of personal information we collect about you
+  key: SUBSUM
+  text:
+  - 'Depending on your U.S. state of residence, including California, Colorado, Connecticut,
+    Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah,
+    Virginia and such other states with privacy laws that are enacted, you may have
+    certain rights in relation to your Personal Information, including: Right to Know
+    : You may have the right to know what Personal Information we have collected about
+    you, including the categories of sources from which the Personal Information is
+    collected, the business or commercial purpose for collecting, selling, or sharing
+    Personal Information, the categories of third parties to whom we disclose Personal
+    Information, the categories of Personal Information disclosed to third parties,
+    and the specific pieces of Personal Information we have collected about you.'
+- source: phone number
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: phone number
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: phone number
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: phone number
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Identifiers/demographic
+    information, such as name, age, date of birth, sex, gender, postal and email address,
+    phone number, and online identifiers, Internet Protocol ("IP") address, and other
+    similar identifiers.'
+- source: program
+  target: e
+  key: SUBSUM
+  text:
+  - When you use our Services, we may collect Personal Information from you, such
+    as when you create an account, your interactions with our CVS Pharmacy stores,
+    our Site, or CVS App, or your enrollment in programs such as e-receipt or ExtraCare
+    (r) .
+- source: sensitive personal information
+  target: account log in
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: sensitive personal information
+  target: biometric information
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: sensitive personal information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: sensitive personal information
+  target: government identifier
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: sensitive personal information
+  target: password
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: sensitive personal information
+  target: personal information collect
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: sensitive personal information
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: sensitive personal information
+  target: racial origin
+  key: SUBSUM
+  text:
+  - 'We may collect certain categories of Personal Information, such as: Sensitive
+    Personal Information as defined by applicable laws, including government identification
+    numbers, biometric information, account log-in and password, credit or debit card
+    number, precise geolocation, racial or ethnic origin, and Personal Information
+    collected and analyzed concerning a consumer''s health, sex life, or sexual orientation.'
+- source: specific type
+  target: device information
+  key: SUBSUM
+  text:
+  - 'The specific types of information that we and our partners and service providers
+    may automatically collect when you visit and interact with our Services include:
+    Device and Browser Information.'
+- source: specific type
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'The specific types of information that we and our partners and service providers
+    may automatically collect when you visit and interact with our Services include:
+    Location Information.'
+- source: specific type
+  target: marketing information
+  key: SUBSUM
+  text:
+  - 'The specific types of information that we and our partners and service providers
+    may automatically collect when you visit and interact with our Services include:
+    Marketing Information.'
+- source: specific type
+  target: usage information
+  key: SUBSUM
+  text:
+  - 'The specific types of information that we and our partners and service providers
+    may automatically collect when you visit and interact with our Services include:
+    Usage Information.'
+- source: technology
+  target: script
+  key: SUBSUM
+  text:
+  - When you visit and interact with our Services, we or our third-party advertising
+    and analytics partners and service providers may use a variety of technologies,
+    such as cookies, tags, SDKs or scripts, to collect certain information regarding
+    your activity.
+- source: technology
+  target: sdk
+  key: SUBSUM
+  text:
+  - When you visit and interact with our Services, we or our third-party advertising
+    and analytics partners and service providers may use a variety of technologies,
+    such as cookies, tags, SDKs or scripts, to collect certain information regarding
+    your activity.
+nodes:
+- type: ACTOR
+  id: CVS Pharmacy
+- type: ACTOR
+  id: LINE
+- type: ACTOR
+  id: Personal Information Privacy and Security Association (Vancouver)
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: acquire entity
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: adviser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: business you interact with
+- type: ACTOR
+  id: company co -
+- type: ACTOR
+  id: cvs
+- type: ACTOR
+  id: data aggregator
+- type: ACTOR
+  id: e
+- type: ACTOR
+  id: extracare
+- type: ACTOR
+  id: extracare plus(tm
+- type: ACTOR
+  id: healthcare service
+- type: ACTOR
+  id: loyalty program
+- type: ACTOR
+  id: marketing communication
+- type: ACTOR
+  id: minuteclinic
+- type: ACTOR
+  id: program
+- type: ACTOR
+  id: research partner
+- type: ACTOR
+  id: script
+- type: ACTOR
+  id: sdk
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service provider provide business support service to we
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: special offer from we
+- type: ACTOR
+  id: sponsor
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account log in
+- type: DATA
+  id: audio information
+- type: DATA
+  id: base opt preference signal
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: choice
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: combine personal information
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: device information
+- type: DATA
+  id: email address
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: global privacy control
+- type: DATA
+  id: government identifier
+- type: DATA
+  id: identifier
+- type: DATA
+  id: inference
+- type: DATA
+  id: information concern health
+- type: DATA
+  id: information regard activity
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: item purchase
+- type: DATA
+  id: marketing information
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: password
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information collect
+- type: DATA
+  id: phone number
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: professional information
+- type: DATA
+  id: purchase history
+- type: DATA
+  id: racial origin
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: specific piece of personal information we collect about you
+- type: DATA
+  id: specific type
+- type: DATA
+  id: usage information

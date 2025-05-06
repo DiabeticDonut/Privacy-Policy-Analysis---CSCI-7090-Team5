@@ -1,0 +1,403 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If user contacts Stoic we collect user's data.
+  - In case of an error of the App we collect data and information (through third
+    party products) on your phone called Log Data.
+  - It's also necessary to fix technical problems that may occur while using the App
+    Legitimate interest - we process data to develop our service and offer users more
+    advanced product.
+  - 'Legal grounds: Legitimate interest - we process data to understand visitors''
+    needs and develop our Services.'
+  - We share users' data with analytical services that support us with data analyses.
+  - We will keep your data as long as it is necessary for the purposes described above.
+  - When you rise valid objection to receiving information from us or processing your
+    personal data on legitimate interest basis we will keep your data no longer than
+    it is necessary to perform the contract or for legal purposes.
+  purposes:
+    analytics:
+    - to understand visitors' needs and develop our Services
+    legal:
+    - or for legal purposes
+    services:
+    - to develop our service and offer users more advanced product
+    - to understand visitors' needs and develop our Services
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - On this basis we receive only statistical, depersonalised (anonymised) information
+    about visitors to our fan page.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - When you contact us via email we collect your email address and may collect your
+    name or other contact details (ie. telephone number) if you provide us with them.
+  purposes: {}
+- source: we
+  target: datum about app
+  key: COLLECT
+  text:
+  - When you open Stoic App we automatically collect certain data about the App and
+    how you engage with it, such as your device Internet Protocol ("IP") address,
+    approximate location, the pages of the App that you open, time, type, frequency
+    and duration of your activities in the App.
+  purposes: {}
+- source: we
+  target: datum you share
+  key: COLLECT
+  text:
+  - We collect data you share when you contact us either directly or fill in form
+    on our website.
+  purposes: {}
+- source: we
+  target: detail of social network profile
+  key: COLLECT
+  text:
+  - We have access to detail of your social network profile if you contact us via
+    Facebook, Instagram, LinkedIn, Twitter, Discord, or Mastodon.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - When you contact us via email we collect your email address and may collect your
+    name or other contact details (ie. telephone number) if you provide us with them.
+  purposes: {}
+- source: we
+  target: non - sensitive information
+  key: COLLECT
+  text:
+  - We also collect certain non-sensitive information through HealthKit or Google
+    Fit, ie. data related to "mindful minutes" or "activity" Sections in Stoic App
+    that facilitate providing personalized experience.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - When you contact us via email we collect your email address and may collect your
+    name or other contact details (ie. telephone number) if you provide us with them.
+  purposes: {}
+- source: we
+  target: personalized experience
+  key: COLLECT
+  text:
+  - If you grant Stoic App access to your location we can provide you with more personalized
+    experience, ie. gives you suggestions how certain places may be connected to your
+    wellbeing.
+  purposes: {}
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - When you contact us via email we collect your email address and may collect your
+    name or other contact details (ie. telephone number) if you provide us with them.
+  purposes: {}
+- source: we
+  target: public information
+  key: COLLECT
+  text:
+  - If you have an account on Facebook, Instagram, LinkedIn, Twitter, Discord, or
+    Mastodon, we automatically have access to your public information.
+  purposes: {}
+- source: we
+  target: relate information
+  key: COLLECT
+  text:
+  - When using Stoic App, you may agree that we will share some health-related information
+    with third party devices and services, such as Apple HealthKit and Google Fit.
+  purposes: {}
+- source: Apple
+  target: relate information
+  key: COLLECT
+  text:
+  - When using Stoic App, you may agree that we will share some health-related information
+    with third party devices and services, such as Apple HealthKit and Google Fit.
+  purposes: {}
+- source: Discord
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Whenever you interact with fan pages, Facebook, Instagram, LinkedIn, Twitter,
+    Discord, or Mastodon uses cookies and similar technologies to track the usage
+    behaviour of fan page visits.
+  purposes:
+    analytics:
+    - to track the usage behaviour of fan page visits
+- source: Facebook
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Whenever you interact with fan pages, Facebook, Instagram, LinkedIn, Twitter,
+    Discord, or Mastodon uses cookies and similar technologies to track the usage
+    behaviour of fan page visits.
+  purposes:
+    analytics:
+    - to track the usage behaviour of fan page visits
+- source: Google
+  target: relate information
+  key: COLLECT
+  text:
+  - When using Stoic App, you may agree that we will share some health-related information
+    with third party devices and services, such as Apple HealthKit and Google Fit.
+  purposes: {}
+- source: Mastodon C
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Whenever you interact with fan pages, Facebook, Instagram, LinkedIn, Twitter,
+    Discord, or Mastodon uses cookies and similar technologies to track the usage
+    behaviour of fan page visits.
+  purposes:
+    analytics:
+    - to track the usage behaviour of fan page visits
+- source: Microsoft
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Whenever you interact with fan pages, Facebook, Instagram, LinkedIn, Twitter,
+    Discord, or Mastodon uses cookies and similar technologies to track the usage
+    behaviour of fan page visits.
+  purposes:
+    analytics:
+    - to track the usage behaviour of fan page visits
+- source: Twitter
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Whenever you interact with fan pages, Facebook, Instagram, LinkedIn, Twitter,
+    Discord, or Mastodon uses cookies and similar technologies to track the usage
+    behaviour of fan page visits.
+  purposes:
+    analytics:
+    - to track the usage behaviour of fan page visits
+- source: UNSPECIFIED_ACTOR
+  target: relate information
+  key: COLLECT
+  text:
+  - When using Stoic App, you may agree that we will share some health-related information
+    with third party devices and services, such as Apple HealthKit and Google Fit.
+  purposes: {}
+- source: ai service we cooperate with
+  target: datum as input
+  key: COLLECT
+  text:
+  - When user utilizes AI features in the Stoic app data such as user's input are
+    collected by AI services we cooperate with.
+  purposes: {}
+- source: analytical service support we with datum analysis
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We share users' data with analytical services that support us with data analyses.
+  purposes: {}
+- source: analytical service we cooperate with
+  target: analytical datum
+  key: COLLECT
+  text:
+  - When user visits Stoic website limited analytical data such as user's device Internet
+    Protocol ("IP") address, approximate location, the pages opened, time and duration
+    of the visit is collected by analytical services we cooperate with.
+  purposes: {}
+- source: analytical service we cooperate with
+  target: datum from stoic website
+  key: COLLECT
+  text:
+  - Data from Stoic website
+  - When user visits Stoic website limited analytical data such as user's device Internet
+    Protocol ("IP") address, approximate location, the pages opened, time and duration
+    of the visit is collected by analytical services we cooperate with.
+  purposes: {}
+- source: relevant app stores provider
+  target: personal datum relate to subscription
+  key: COLLECT
+  text:
+  - Personal data related to subscriptions and payments are - as it was explained
+    above - solely processed by relevant App Stores providers and do not lie within
+    Stoic competence.
+  purposes: {}
+- source: stoic
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - When you visit our fan pages, Stoic collects communications, content and other
+    information that you provide us.
+  purposes: {}
+- source: stoic
+  target: apple id
+  key: COLLECT
+  text:
+  - Stoic has no access to users' Apple ID or Google ID and financial information
+    they provide in the process of purchasing Stoic App subscription.
+  purposes: {}
+- source: stoic
+  target: communication
+  key: COLLECT
+  text:
+  - When you visit our fan pages, Stoic collects communications, content and other
+    information that you provide us.
+  purposes: {}
+- source: stoic
+  target: content
+  key: COLLECT
+  text:
+  - When you visit our fan pages, Stoic collects communications, content and other
+    information that you provide us.
+  purposes: {}
+- source: stoic
+  target: financial information they provide in process of
+  key: COLLECT
+  text:
+  - Stoic has no access to users' Apple ID or Google ID and financial information
+    they provide in the process of purchasing Stoic App subscription.
+  purposes: {}
+- source: stoic
+  target: google id
+  key: COLLECT
+  text:
+  - Stoic has no access to users' Apple ID or Google ID and financial information
+    they provide in the process of purchasing Stoic App subscription.
+  purposes: {}
+- source: stoic app inc.
+  target: datum as input
+  key: COLLECT
+  text:
+  - This information may be stored on OpenAI servers and Stoic app Inc. is not responsible
+    for its safety at any moment.
+  - When user utilizes AI features in the Stoic app data such as user's input are
+    collected by AI services we cooperate with.
+  purposes: {}
+- source: analytical datum
+  target: coarse geolocation
+  key: SUBSUM
+  text:
+  - When user visits Stoic website limited analytical data such as user's device Internet
+    Protocol ("IP") address, approximate location, the pages opened, time and duration
+    of the visit is collected by analytical services we cooperate with.
+- source: analytical datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - When user visits Stoic website limited analytical data such as user's device Internet
+    Protocol ("IP") address, approximate location, the pages opened, time and duration
+    of the visit is collected by analytical services we cooperate with.
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - When you contact us via email we collect your email address and may collect your
+    name or other contact details (ie. telephone number) if you provide us with them.
+- source: datum about app
+  target: coarse geolocation
+  key: SUBSUM
+  text:
+  - When you open Stoic App we automatically collect certain data about the App and
+    how you engage with it, such as your device Internet Protocol ("IP") address,
+    approximate location, the pages of the App that you open, time, type, frequency
+    and duration of your activities in the App.
+- source: datum about app
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you open Stoic App we automatically collect certain data about the App and
+    how you engage with it, such as your device Internet Protocol ("IP") address,
+    approximate location, the pages of the App that you open, time, type, frequency
+    and duration of your activities in the App.
+- source: non - sensitive information
+  target: datum relate to mindful minute facilitate
+  key: SUBSUM
+  text:
+  - We also collect certain non-sensitive information through HealthKit or Google
+    Fit, ie. data related to "mindful minutes" or "activity" Sections in Stoic App
+    that facilitate providing personalized experience.
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: Discord
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: Mastodon C
+- type: ACTOR
+  id: Microsoft
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: ai service we cooperate with
+- type: ACTOR
+  id: analytical service support we with datum analysis
+- type: ACTOR
+  id: analytical service we cooperate with
+- type: ACTOR
+  id: relevant app stores provider
+- type: ACTOR
+  id: stoic
+- type: ACTOR
+  id: stoic app inc.
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: analytical datum
+- type: DATA
+  id: apple id
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: communication
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: datum about app
+- type: DATA
+  id: datum as input
+- type: DATA
+  id: datum from stoic website
+- type: DATA
+  id: datum relate to mindful minute facilitate
+- type: DATA
+  id: datum you share
+- type: DATA
+  id: detail of social network profile
+- type: DATA
+  id: email address
+- type: DATA
+  id: financial information they provide in process of
+- type: DATA
+  id: google id
+- type: DATA
+  id: ip address
+- type: DATA
+  id: non - sensitive information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum relate to subscription
+- type: DATA
+  id: personalized experience
+- type: DATA
+  id: phone number
+- type: DATA
+  id: public information
+- type: DATA
+  id: relate information

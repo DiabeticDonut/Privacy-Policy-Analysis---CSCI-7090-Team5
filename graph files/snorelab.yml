@@ -1,0 +1,433 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Anonymous data collected from every SnoreLab user
+  - We use this information to conduct research, develop app features and troubleshoot;
+    performing data analysis and tests.
+  purposes:
+    analytics:
+    - to conduct research, develop app features and troubleshoot; performing data
+      analysis and tests
+    services:
+    - to conduct research, develop app features and troubleshoot; performing data
+      analysis and tests
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Cookies and pixels
+  - 'We use cookies for:'
+  - We use these cookies to deliver advertisements, to make them more relevant and
+    meaningful to users, and to track the efficiency of our advertising campaigns.
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Information from cookies and other tracking
+    technologies -- we use various technologies to collect information about your
+    use of&bsp;SnoreLab including your frequency of use and interactions with features.'
+  purposes:
+    advertising:
+    - to deliver advertisements, to make them more relevant and meaningful to users,
+      and to track the efficiency of our advertising campaigns
+    analytics:
+    - to deliver advertisements, to make them more relevant and meaningful to users,
+      and to track the efficiency of our advertising campaigns
+- source: we
+  target: datum you input into app
+  key: COLLECT
+  text:
+  - We will also collect all data that you input into the app (such as age, weight
+    and sex) and your snoring stats, so that you can fully restore this SnoreLab data
+    on other devices.
+  purposes: {}
+- source: we
+  target: device information
+  key: COLLECT
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - If you choose to sign up to our online backup service, in order to provide access
+    to our cloud services in an authenticated and secure manner, we will collect your
+    email address.
+  purposes:
+    security:
+    - in order to provide access to our cloud services in an authenticated and secure
+      manner
+    services:
+    - in order to provide access to our cloud services in an authenticated and secure
+      manner
+- source: we
+  target: height
+  key: COLLECT
+  text:
+  - If, upon initial setup of SnoreLab on iOS you enable us to link with Apple Health,
+    we may collect data including but not limited to weight, steps and height.
+  purposes: {}
+- source: we
+  target: information about use of&bsp;snorelab
+  key: COLLECT
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Information from cookies and other tracking
+    technologies -- we use various technologies to collect information about your
+    use of&bsp;SnoreLab including your frequency of use and interactions with features.'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We may store and process your personal data you provide through the usage of the
+    app and through the account creation process solely for the purpose of providing
+    services to you, to improve our service features and other purposes indicated
+    in this Privacy Policy.
+  purposes:
+    services:
+    - solely for the purpose of providing services to you,
+    - to improve our service features and other purposes indicated in this Privacy
+      Policy
+- source: we
+  target: snoring stat
+  key: COLLECT
+  text:
+  - We will also collect all data that you input into the app (such as age, weight
+    and sex) and your snoring stats, so that you can fully restore this SnoreLab data
+    on other devices.
+  purposes: {}
+- source: we
+  target: weight
+  key: COLLECT
+  text:
+  - If, upon initial setup of SnoreLab on iOS you enable us to link with Apple Health,
+    we may collect data including but not limited to weight, steps and height.
+  purposes: {}
+- source: we
+  target: weight datum
+  key: COLLECT
+  text:
+  - Specifically, we collect weight data from Google Fit and write sleep data.
+  purposes: {}
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Cookies and pixels
+  - Our third-party advertising partners may use these cookies to build a profile
+    of your interests and deliver relevant advertising on other sites.
+  purposes:
+    advertising:
+    - to build a profile of your interests and deliver relevant advertising on other
+      sites
+    analytics:
+    - to build a profile of your interests and deliver relevant advertising on other
+      sites
+- source: snorelab
+  target: datum be
+  key: COLLECT
+  text:
+  - SnoreLab only collects data that is relevant to the functionality of the service
+    we provide.
+  purposes: {}
+- source: snorelab
+  target: datum obtain from interaction with you
+  key: COLLECT
+  text:
+  - This Privacy Policy details how SnoreLab collects, uses, stores, transfers and
+    discloses data obtained from our interactions with you.
+  purposes: {}
+- source: we
+  target: reviva softworks ltd
+  key: SUBSUM
+  text:
+  - This Privacy Policy establishes a legal agreement between Reviva Softworks Ltd
+    ("we", "us", "SnoreLab", "the app") and you ("you", "your") as the user of SnoreLab.
+- source: we
+  target: snorelab
+  key: SUBSUM
+  text:
+  - This Privacy Policy establishes a legal agreement between Reviva Softworks Ltd
+    ("we", "us", "SnoreLab", "the app") and you ("you", "your") as the user of SnoreLab.
+- source: account datum
+  target: email address
+  key: SUBSUM
+  text:
+  - The data that you provide to us through the account creation process includes
+    personal data you enter into the app, such as your account data (e.g. your name
+    and email address), and other general data (e.g. age and sex).
+- source: account datum
+  target: person name
+  key: SUBSUM
+  text:
+  - The data that you provide to us through the account creation process includes
+    personal data you enter into the app, such as your account data (e.g. your name
+    and email address), and other general data (e.g. age and sex).
+- source: data you provide to we through account creation process
+  target: personal information
+  key: SUBSUM
+  text:
+  - The data that you provide to us through the account creation process includes
+    personal data you enter into the app, such as your account data (e.g. your name
+    and email address), and other general data (e.g. age and sex).
+- source: datum you input into app
+  target: age
+  key: SUBSUM
+  text:
+  - We will also collect all data that you input into the app (such as age, weight
+    and sex) and your snoring stats, so that you can fully restore this SnoreLab data
+    on other devices.
+- source: datum you input into app
+  target: gender
+  key: SUBSUM
+  text:
+  - We will also collect all data that you input into the app (such as age, weight
+    and sex) and your snoring stats, so that you can fully restore this SnoreLab data
+    on other devices.
+- source: datum you input into app
+  target: weight
+  key: SUBSUM
+  text:
+  - We will also collect all data that you input into the app (such as age, weight
+    and sex) and your snoring stats, so that you can fully restore this SnoreLab data
+    on other devices.
+- source: device information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: device information
+  target: hardware model
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: device information
+  target: log file
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: device information
+  target: operating system
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: device information
+  target: timestamp
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: device information
+  target: version
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: general datum
+  target: age
+  key: SUBSUM
+  text:
+  - The data that you provide to us through the account creation process includes
+    personal data you enter into the app, such as your account data (e.g. your name
+    and email address), and other general data (e.g. age and sex).
+- source: general datum
+  target: gender
+  key: SUBSUM
+  text:
+  - The data that you provide to us through the account creation process includes
+    personal data you enter into the app, such as your account data (e.g. your name
+    and email address), and other general data (e.g. age and sex).
+- source: information about mobile device you use
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: information about mobile device you use
+  target: hardware model
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: information about mobile device you use
+  target: log file
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: information about mobile device you use
+  target: operating system
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: information about mobile device you use
+  target: timestamp
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: information about mobile device you use
+  target: version
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Device information -- information about the
+    mobile device you use to access SnoreLab; including the hardware model, operating
+    system and version, log files, timestamps and unique device identifiers.'
+- source: information about use of&bsp;snorelab
+  target: frequency of use
+  key: SUBSUM
+  text:
+  - 'When you use the app or contact our support email channels, we automatically
+    collect the following information: Information from cookies and other tracking
+    technologies -- we use various technologies to collect information about your
+    use of&bsp;SnoreLab including your frequency of use and interactions with features.'
+- source: personal information
+  target: account datum
+  key: SUBSUM
+  text:
+  - The data that you provide to us through the account creation process includes
+    personal data you enter into the app, such as your account data (e.g. your name
+    and email address), and other general data (e.g. age and sex).
+- source: personal information
+  target: account detail
+  key: SUBSUM
+  text:
+  - Once deleted, your personal data including your account details, snoring stats
+    and audio recordings cannot be reinstated.
+- source: personal information
+  target: audio recording
+  key: SUBSUM
+  text:
+  - Once deleted, your personal data including your account details, snoring stats
+    and audio recordings cannot be reinstated.
+- source: personal information
+  target: general datum
+  key: SUBSUM
+  text:
+  - The data that you provide to us through the account creation process includes
+    personal data you enter into the app, such as your account data (e.g. your name
+    and email address), and other general data (e.g. age and sex).
+- source: personal information
+  target: snoring stat
+  key: SUBSUM
+  text:
+  - Once deleted, your personal data including your account details, snoring stats
+    and audio recordings cannot be reinstated.
+- source: snorelab data
+  target: datum you input into app
+  key: SUBSUM
+  text:
+  - We will also collect all data that you input into the app (such as age, weight
+    and sex) and your snoring stats, so that you can fully restore this SnoreLab data
+    on other devices.
+- source: snorelab data
+  target: snoring stat
+  key: SUBSUM
+  text:
+  - We will also collect all data that you input into the app (such as age, weight
+    and sex) and your snoring stats, so that you can fully restore this SnoreLab data
+    on other devices.
+nodes:
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: reviva softworks ltd
+- type: ACTOR
+  id: snorelab
+- type: ACTOR
+  id: we
+- type: DATA
+  id: account datum
+- type: DATA
+  id: account detail
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: audio recording
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: data you provide to we through account creation process
+- type: DATA
+  id: datum be
+- type: DATA
+  id: datum obtain from interaction with you
+- type: DATA
+  id: datum you input into app
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device information
+- type: DATA
+  id: email address
+- type: DATA
+  id: frequency of use
+- type: DATA
+  id: gender
+- type: DATA
+  id: general datum
+- type: DATA
+  id: hardware model
+- type: DATA
+  id: height
+- type: DATA
+  id: information about mobile device you use
+- type: DATA
+  id: information about use of&bsp;snorelab
+- type: DATA
+  id: log file
+- type: DATA
+  id: operating system
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: snorelab data
+- type: DATA
+  id: snoring stat
+- type: DATA
+  id: timestamp
+- type: DATA
+  id: version
+- type: DATA
+  id: weight
+- type: DATA
+  id: weight datum

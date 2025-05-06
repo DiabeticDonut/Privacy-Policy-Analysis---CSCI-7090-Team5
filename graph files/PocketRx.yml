@@ -1,0 +1,278 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We use cookies and similar tracking technologies to track the activity on our
+    Service and we hold certain information.
+  - We use your data to provide and improve the Service.
+  purposes:
+    analytics:
+    - to track the activity on our Service
+    services:
+    - to provide and improve the Service
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - While using our Service, we may ask you to provide us with certain personally
+    identifiable information that can be used to contact or identify you ("Personal
+    Data").
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We use Preference Cookies to remember your preferences and various settings.
+  - We use Security Cookies for security purposes.
+  - We use Session Cookies to operate our Service.
+  - We use cookies and similar tracking technologies to track the activity on our
+    Service and we hold certain information.
+  purposes:
+    analytics:
+    - to track the activity on our Service
+    security:
+    - for security purposes
+    services:
+    - to operate our Service
+    - to remember your preferences and various settings
+- source: we
+  target: information browser send
+  key: COLLECT
+  text:
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - While using our Service, we may ask you to provide us with certain personally
+    identifiable information that can be used to contact or identify you ("Personal
+    Data").
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - If you are located outside the United States and choose to provide information
+    to us, please note that we transfer the data, including Personal Data, to the
+    United States and process it there.
+  - While using our Service, we may ask you to provide us with certain personally
+    identifiable information that can be used to contact or identify you ("Personal
+    Data").
+  purposes: {}
+- source: we
+  target: several different type
+  key: COLLECT
+  text:
+  - We collect several different types of information for various purposes to provide
+    and improve our Service to you.
+  purposes: {}
+- source: pocket pharmacist
+  target: collect datum
+  key: COLLECT
+  text:
+  - 'Pocket Pharmacist uses the collected data for various purposes:'
+  purposes: {}
+- source: pocket pharmacist
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Pocket Pharmacist may disclose your Personal Data in the good faith belief that
+    such action is necessary to:'
+  purposes: {}
+- source: cookie / pixel tag
+  target: anonymous identifier
+  key: SUBSUM
+  text:
+  - Cookies are files with a small amount of data which may include an anonymous unique
+    identifier.
+- source: internet activity
+  target: browser type
+  key: SUBSUM
+  text:
+  - This Usage Data may include information such as your computer's Internet Protocol
+    address (e.g. IP address), browser type, browser version, the pages of our Service
+    that you visit, the time and date of your visit, the time spent on those pages,
+    unique device identifiers and other diagnostic data.
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+- source: internet activity
+  target: browser version
+  key: SUBSUM
+  text:
+  - This Usage Data may include information such as your computer's Internet Protocol
+    address (e.g. IP address), browser type, browser version, the pages of our Service
+    that you visit, the time and date of your visit, the time spent on those pages,
+    unique device identifiers and other diagnostic data.
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+- source: internet activity
+  target: date
+  key: SUBSUM
+  text:
+  - This Usage Data may include information such as your computer's Internet Protocol
+    address (e.g. IP address), browser type, browser version, the pages of our Service
+    that you visit, the time and date of your visit, the time spent on those pages,
+    unique device identifiers and other diagnostic data.
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+- source: internet activity
+  target: device identifier
+  key: SUBSUM
+  text:
+  - This Usage Data may include information such as your computer's Internet Protocol
+    address (e.g. IP address), browser type, browser version, the pages of our Service
+    that you visit, the time and date of your visit, the time spent on those pages,
+    unique device identifiers and other diagnostic data.
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+- source: internet activity
+  target: diagnostic datum
+  key: SUBSUM
+  text:
+  - This Usage Data may include information such as your computer's Internet Protocol
+    address (e.g. IP address), browser type, browser version, the pages of our Service
+    that you visit, the time and date of your visit, the time spent on those pages,
+    unique device identifiers and other diagnostic data.
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+- source: internet activity
+  target: ip address
+  key: SUBSUM
+  text:
+  - This Usage Data may include information such as your computer's Internet Protocol
+    address (e.g. IP address), browser type, browser version, the pages of our Service
+    that you visit, the time and date of your visit, the time spent on those pages,
+    unique device identifiers and other diagnostic data.
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+- source: internet activity
+  target: time
+  key: SUBSUM
+  text:
+  - This Usage Data may include information such as your computer's Internet Protocol
+    address (e.g. IP address), browser type, browser version, the pages of our Service
+    that you visit, the time and date of your visit, the time spent on those pages,
+    unique device identifiers and other diagnostic data.
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+- source: internet activity
+  target: type of mobile device you use
+  key: SUBSUM
+  text:
+  - We may also collect information that your browser sends whenever you visit our
+    Service or when you access the Service by or through a mobile device ("Usage Data").
+  - When you access the Service by or through a mobile device, this Usage Data may
+    include information such as the type of mobile device you use, your mobile device
+    unique ID, the IP address of your mobile device, your mobile operating system,
+    the type of mobile Internet browser you use, anonymous unique user identifiers
+    and other diagnostic data.
+- source: type of mobile device you use
+  target: anonymous identifier
+  key: SUBSUM
+  text:
+  - When you access the Service by or through a mobile device, this Usage Data may
+    include information such as the type of mobile device you use, your mobile device
+    unique ID, the IP address of your mobile device, your mobile operating system,
+    the type of mobile Internet browser you use, anonymous unique user identifiers
+    and other diagnostic data.
+- source: type of mobile device you use
+  target: device identifier
+  key: SUBSUM
+  text:
+  - When you access the Service by or through a mobile device, this Usage Data may
+    include information such as the type of mobile device you use, your mobile device
+    unique ID, the IP address of your mobile device, your mobile operating system,
+    the type of mobile Internet browser you use, anonymous unique user identifiers
+    and other diagnostic data.
+- source: type of mobile device you use
+  target: diagnostic datum
+  key: SUBSUM
+  text:
+  - When you access the Service by or through a mobile device, this Usage Data may
+    include information such as the type of mobile device you use, your mobile device
+    unique ID, the IP address of your mobile device, your mobile operating system,
+    the type of mobile Internet browser you use, anonymous unique user identifiers
+    and other diagnostic data.
+- source: type of mobile device you use
+  target: ip address
+  key: SUBSUM
+  text:
+  - When you access the Service by or through a mobile device, this Usage Data may
+    include information such as the type of mobile device you use, your mobile device
+    unique ID, the IP address of your mobile device, your mobile operating system,
+    the type of mobile Internet browser you use, anonymous unique user identifiers
+    and other diagnostic data.
+- source: type of mobile device you use
+  target: mobile operate system
+  key: SUBSUM
+  text:
+  - When you access the Service by or through a mobile device, this Usage Data may
+    include information such as the type of mobile device you use, your mobile device
+    unique ID, the IP address of your mobile device, your mobile operating system,
+    the type of mobile Internet browser you use, anonymous unique user identifiers
+    and other diagnostic data.
+- source: type of mobile device you use
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - When you access the Service by or through a mobile device, this Usage Data may
+    include information such as the type of mobile device you use, your mobile device
+    unique ID, the IP address of your mobile device, your mobile operating system,
+    the type of mobile Internet browser you use, anonymous unique user identifiers
+    and other diagnostic data.
+nodes:
+- type: ACTOR
+  id: pocket pharmacist
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: anonymous identifier
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browser version
+- type: DATA
+  id: collect datum
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: diagnostic datum
+- type: DATA
+  id: information browser send
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: mobile operate system
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: several different type
+- type: DATA
+  id: time
+- type: DATA
+  id: type of mobile device you use

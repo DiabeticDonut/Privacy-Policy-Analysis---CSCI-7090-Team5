@@ -1,0 +1,2145 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you use the Services in connection with an employer or organizational corporate
+    wellness program, we may share your information with that organization subject
+    to your consent.
+  - You can also request that we transmit the data to another controller where technically
+    feasible.
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - Typically, we will share only Aggregated Data with these organizations.
+  - Upon receipt of such request, unless we are required to retain your Personal Data
+    for compliance with applicable law, we will erase your Personal Data, but may
+    retain Aggregated Data or De-identified Data derived from or incorporating your
+    Personal Data that does not identify you.
+  - Upon withdrawal of your consent to us processing your Personal Data, we will also,
+    unless we are required to retain your Personal Data for compliance with applicable
+    law, erase your Personal Data, but may retain Aggregated Data or De-identified
+    Data derived from or incorporating your Personal Data that does not identify you.
+  - We may create and use Aggregated Data, De-identified Data, or other anonymous
+    data from Personal Data we collect, including Wellness Data, for our business
+    purpose, including to analyze the effectiveness of the Services, to improve and
+    add features to the Services, and to analyze the general behavior and characteristics
+    of users of the Services.
+  - We may need to retain certain Personal Data in our records, as well as Aggregated
+    Data or De-identified Data derived from or incorporating your Personal Data that
+    does not identify you after you update or delete it.
+  purposes:
+    analytics:
+    - for our business purpose, including to analyze the effectiveness of the Services,
+      to improve and add features to the Services, and to analyze the general behavior
+      and characteristics of users of the Services
+    services:
+    - for our business purpose, including to analyze the effectiveness of the Services,
+      to improve and add features to the Services, and to analyze the general behavior
+      and characteristics of users of the Services
+- source: we
+  target: aggregate statistic
+  key: COLLECT
+  text:
+  - We use these aggregated statistics internally to improve the Services.
+  purposes:
+    services:
+    - to improve the Services
+- source: we
+  target: anonymized whoop metric
+  key: COLLECT
+  text:
+  - We will only share your anonymized WHOOP metrics with our LLM partner that powers
+    WHOOP Coach if you enable and engage with the feature.
+  - We will only share your anonymized WHOOP metrics with our LLM partner.
+  purposes: {}
+- source: we
+  target: anonymous wellness data
+  key: COLLECT
+  text:
+  - We also use anonymous Wellness Data for research purposes to help us and our research
+    partners answer important questions about human performance and create an even-better
+    experience for our members by identifying cutting-edge insights and providing
+    new content and product features.
+  purposes:
+    analytics:
+    - for research purposes
+    - to help us and our research partners answer important questions about human
+      performance and create an even-better experience for our members by identifying
+      cutting-edge insights and providing new content and product features
+    services:
+    - to help us and our research partners answer important questions about human
+      performance and create an even-better experience for our members by identifying
+      cutting-edge insights and providing new content and product features
+- source: we
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Contact details , such as
+    your first and last name, email and mailing address, and phone number;'
+  purposes: {}
+- source: we
+  target: conversation you participate in with whoop coach
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Conversations that you participate
+    in with the WHOOP Coach, as described in Section 8 below;'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - As we explain in this Privacy Policy, we use Cookies and other tracking technologies
+    to analyze website and application traffic and use, and to facilitate advertising.
+  purposes:
+    advertising:
+    - to analyze website and application traffic and use, and to facilitate advertising
+    analytics:
+    - to analyze website and application traffic and use, and to facilitate advertising
+- source: we
+  target: cookies
+  key: COLLECT
+  text:
+  - We and our advertising partners may use Cookies and similar technologies to collect
+    information about your interaction over time across the web, our communications,
+    and other online services, and may use that information to serve online ads.
+  purposes: {}
+- source: we
+  target: copy of unrevised information
+  key: COLLECT
+  text:
+  - When you update information, however, we may maintain a copy of the unrevised
+    information in our records.
+  purposes: {}
+- source: we
+  target: copy of unrevised information in record
+  key: COLLECT
+  text:
+  - When you update information, however, we may maintain a copy of the unrevised
+    information in our records.
+  purposes: {}
+- source: we
+  target: datum collect
+  key: COLLECT
+  text:
+  - We may use data from the Personal Data we collect, including Wellness Data and
+    certain data collected when you browse our website, to send you direct offers
+    marketing messages or advertise the Services or other WHOOP product offerings.
+  - With your consent, we may use data from the Personal Data we collect, including
+    Wellness Data and certain data collected when you browse our website, to send
+    you direct offers, marketing messages or advertise the Services or other WHOOP
+    product offerings.
+  purposes:
+    advertising:
+    - to send you direct offers marketing messages or advertise the Services or other
+      WHOOP product offerings
+    - to send you direct offers, marketing messages or advertise the Services or other
+      WHOOP product offerings
+- source: we
+  target: device datum
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Geolocation data , such
+    as GPS, IP Address, and movement on certain exercise types if you give permission
+    for WHOOP to do so; and'
+  purposes: {}
+- source: we
+  target: information about interaction over time across web
+  key: COLLECT
+  text:
+  - We and our advertising partners may use Cookies and similar technologies to collect
+    information about your interaction over time across the web, our communications,
+    and other online services, and may use that information to serve online ads.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+  purposes: {}
+- source: we
+  target: marketing datum
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Marketing data , such as
+    your preferences for receiving our marketing communications, and details about
+    your engagement with them (e.g., the marketing emails that you open and the links
+    within them that you click);'
+  purposes: {}
+- source: we
+  target: payment datum need
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+  purposes: {}
+- source: we
+  target: personal data in record
+  key: COLLECT
+  text:
+  - We may need to retain certain Personal Data in our records, as well as Aggregated
+    Data or De-identified Data derived from or incorporating your Personal Data that
+    does not identify you after you update or delete it.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - From time to time, we may also need to process Personal Data to comply with a
+    legal obligation, if it is necessary to protect the vital interests of you or
+    other data subjects, or if it is necessary for a task carried out in the public
+    interest.
+  - In addition, in some cases, such as when you direct us to share it, we process
+    Personal Data based on the consent you expressly grant to us at the time we collect
+    such data.
+  - In some cases, we may also need you to provide us with additional information,
+    which may include Personal Data, if necessary to verify your identity and the
+    nature of your request.
+  - Notwithstanding 11. DATA SECURITY AND RETENTION OF PERSONAL DATA of this Privacy
+    Policy, if required to retain Personal Data pursuant to applicable Korean laws,
+    such as those set out below, we will retain Personal Data for at least the retention
+    periods and purposes prescribed.
+  - To provide the Services, we will process your Personal Data in the United States,
+    where WHOOP is based.
+  - 'We collect Personal Data about you from:'
+  - We collect and process Personal Data in United States.
+  - We may need to retain certain Personal Data in our records as legally permitted,
+    as well as Aggregated Data or De-identified Data derived from or incorporating
+    your Personal Data that does not identify you after you update or delete it.
+  - 'We may share your Personal Data with:'
+  - We may use your Personal Data for reasons not described in this Privacy Policy
+    where permitted by law and where the reason is compatible with the purpose for
+    which we collected it.
+  - We process Personal Data to operate, improve, understand, and personalize our
+    Services.
+  - We process your Personal Data pursuant to the following legal bases for the purposes
+    stated in 5. HOW WE USE PERSONAL DATA of this Privacy Policy.
+  - We retain Personal Data for as long as reasonably necessary for the purposes described
+    in this Privacy Policy, or as required by applicable law (e.g., for tax, legal,
+    accounting, or other purposes), whichever is longer.
+  - We retain Personal Data for as long as reasonably necessary for the purposes described
+    in this Privacy Policy, while we have a business need to do so, or as required
+    by law (e.g., for tax, legal, accounting, or other purposes), whichever is longer.
+  - We retain your Personal Data until your request of deletion or account withdrawal
+    and delete it through standard delete functions of WHOOP systems and vendor systems.
+  - We share your Personal Data with third parties below.
+  - We take your privacy seriously and want you to understand how we use, collect,
+    and share Personal Data, and the measures we take to protect your Personal Data.
+  - 'We use Personal Data for the following purposes:'
+  - We will only process your Personal Data if we have a lawful basis for doing so.
+  - Where such consent is not required by applicable law, we process your personal
+    information for these purposes based on our legitimate interests in promoting
+    our business.
+  - Where we cannot process your Personal Data as required to operate the Services
+    on the grounds of contractual necessity, we process your personal information
+    for this purpose based on our legitimate interest in providing you with the products
+    or Services you access and request.
+  - Where we cannot process your Personal Data as required to operate the Services
+    on the grounds of performance of an agreement, we process your personal information
+    for this purpose based on our legitimate interest in providing you with the products
+    or Services you access and request.
+  - With your consent, we may share your personal data with advertising partners that
+    may collect information on our website through Cookies and other automated technologies,
+    including for the interest-based advertising purposes described above.
+  purposes:
+    legal:
+    - to comply with a legal obligation
+    security:
+    - to verify your identity and the nature of your request
+    services:
+    - To provide the Services
+    - to operate, improve, understand, and personalize our Services
+- source: we
+  target: photograph
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Profile data , such as username
+    and password that you may establish to create a WHOOP account, as well as any
+    photographs or information you choose to include in your WHOOP profile;'
+  purposes: {}
+- source: we
+  target: profile datum
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Profile data , such as username
+    and password that you may establish to create a WHOOP account, as well as any
+    photographs or information you choose to include in your WHOOP profile;'
+  purposes: {}
+- source: we
+  target: sensitive personal information in privacy notice
+  key: COLLECT
+  text:
+  - 'Before collecting or using any special categories of data (referred to as sensitive
+    personal information in the Privacy Notice), we will only use that information:'
+  purposes: {}
+- source: we
+  target: special category
+  key: COLLECT
+  text:
+  - 'Before collecting or using any special categories of data (referred to as sensitive
+    personal information in the Privacy Notice), we will only use that information:'
+  purposes: {}
+- source: we
+  target: transaction history
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+  purposes:
+    services:
+    - to complete your orders on the website or through the Services
+- source: we
+  target: wellness data
+  key: COLLECT
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+  purposes: {}
+- source: we
+  target: wellness datum
+  key: COLLECT
+  text:
+  - We may use data from the Personal Data we collect, including Wellness Data and
+    certain data collected when you browse our website, to send you direct offers
+    marketing messages or advertise the Services or other WHOOP product offerings.
+  - With your consent, we may use data from the Personal Data we collect, including
+    Wellness Data and certain data collected when you browse our website, to send
+    you direct offers, marketing messages or advertise the Services or other WHOOP
+    product offerings.
+  purposes:
+    advertising:
+    - to send you direct offers marketing messages or advertise the Services or other
+      WHOOP product offerings
+    - to send you direct offers, marketing messages or advertise the Services or other
+      WHOOP product offerings
+- source: Google
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - For example, Google, Inc. ("Google") uses Cookies in connection with its Google
+    Analytics services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you use the Services in connection with an employer or organizational corporate
+    wellness program, we may share your information with that organization subject
+    to your consent.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - If you use the Services in connection with an employer or organizational corporate
+    wellness program, we may share your information with that organization subject
+    to your consent.
+  - Typically, we will share only Aggregated Data with these organizations.
+  purposes: {}
+- source: advertiser
+  target: cookies
+  key: COLLECT
+  text:
+  - We and our advertising partners may use Cookies and similar technologies to collect
+    information about your interaction over time across the web, our communications,
+    and other online services, and may use that information to serve online ads.
+  purposes: {}
+- source: advertiser
+  target: information about interaction over time across web
+  key: COLLECT
+  text:
+  - We and our advertising partners may use Cookies and similar technologies to collect
+    information about your interaction over time across the web, our communications,
+    and other online services, and may use that information to serve online ads.
+  purposes: {}
+- source: advertiser
+  target: ip address
+  key: COLLECT
+  text:
+  - An IP Address may be considered Personal Data and is at times used by advertisers
+    to serve interest-based ads.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Advertising partners that may collect information
+    on our website through Cookies and other automated technologies, including for
+    the interest-based advertising purposes described above.'
+  - With your consent, we may share your personal data with advertising partners that
+    may collect information on our website through Cookies and other automated technologies,
+    including for the interest-based advertising purposes described above.
+  purposes: {}
+- source: affiliate of whoop
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Affiliates of WHOOP.'
+  purposes: {}
+- source: authority
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Authorities and others , including law
+    enforcement, government authorities, and private parties we believe in good faith
+    to be necessary or appropriate to comply with the law or legal process; and'
+  purposes: {}
+- source: corporate wellness program
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Depending on your use of the Services, you may share Personal Data with: Corporate
+    wellness programs .'
+  - 'Depending on your use of the Services, you may share Personal Data with: Corporate
+    wellness programs.'
+  purposes: {}
+- source: distributor
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Distributors and retailers of our Services
+    or other WHOOP products;'
+  purposes: {}
+- source: government authority
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Authorities and others , including law
+    enforcement, government authorities, and private parties we believe in good faith
+    to be necessary or appropriate to comply with the law or legal process; and'
+  purposes: {}
+- source: law enforcement
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Authorities and others , including law
+    enforcement, government authorities, and private parties we believe in good faith
+    to be necessary or appropriate to comply with the law or legal process; and'
+  purposes: {}
+- source: llm partner
+  target: anonymized whoop metric
+  key: COLLECT
+  text:
+  - We will only share your anonymized WHOOP metrics with our LLM partner.
+  purposes: {}
+- source: llm partner power whoop coach
+  target: anonymized whoop metric
+  key: COLLECT
+  text:
+  - We will only share your anonymized WHOOP metrics with our LLM partner that powers
+    WHOOP Coach if you enable and engage with the feature.
+  purposes: {}
+- source: manage entity
+  target: account information
+  key: COLLECT
+  text:
+  - If your use of the Services is on behalf of or managed by a managing entity, such
+    as a coach, team, organizing body, or other entity with which you are affiliated,
+    your account information and Personal Data may be shared with the managing entity
+    subject to your consent, and you hereby consent to that managing entity allowing
+    that information to be publicly shared, subject to any features of the Services
+    that expressly override that control.
+  purposes: {}
+- source: manage entity
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Depending on your use of the Services, you may share Personal Data with: Managing
+    entities .'
+  - If your use of the Services is on behalf of or managed by a managing entity, such
+    as a coach, team, organizing body, or other entity with which you are affiliated,
+    your account information and Personal Data may be shared with the managing entity
+    subject to your consent, and you hereby consent to that managing entity allowing
+    that information to be publicly shared, subject to any features of the Services
+    that expressly override that control.
+  purposes: {}
+- source: payment processor
+  target: financial information necessary
+  key: COLLECT
+  text:
+  - Our payment processors will collect the financial information necessary to process
+    your payments in accordance with the payment processor's respective services agreement
+    and privacy policy;
+  purposes: {}
+- source: private party
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Authorities and others , including law
+    enforcement, government authorities, and private parties we believe in good faith
+    to be necessary or appropriate to comply with the law or legal process; and'
+  purposes: {}
+- source: professional advisor
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Professional advisors , such as lawyers,
+    auditors, bankers, and insurers, where necessary in the course of the professional
+    services they render to us;'
+  purposes: {}
+- source: retailer
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Distributors and retailers of our Services
+    or other WHOOP products;'
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your Personal Data with: Service providers , such as payment processors,
+    vendors who advertise our Services or other WHOOP products, security and fraud
+    prevention consultants, hosting and other technology and communications providers,
+    analytics providers, and staff augmentation and contract personnel, that provide
+    services to us or on our behalf; our service providers also include our third-party
+    Large Language Model ("LLM") partner that powers WHOOP Coach, as described in
+    Section 8 below;'
+  purposes: {}
+- source: social media
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Depending on your use of the Services, you may share Personal Data with: Third-party
+    social media platforms, or linked accounts, devices, or features , when you choose
+    to connect your account on those services with WHOOP or post content to social
+    media, such as through the WHOOP Live feature;'
+  purposes: {}
+- source: third parties
+  target: personal information
+  key: COLLECT
+  text:
+  - You can learn about and control how these Third Parties use and share Personal
+    Data about you, including with WHOOP, by reviewing their privacy notices and exercising
+    the privacy choices the Third Party may offer.
+  purposes: {}
+- source: whoop
+  target: context of previous conversation with whoop coach
+  key: COLLECT
+  text:
+  - When you revisit any topics from previous chats, WHOOP may share the context of
+    your previous conversations with WHOOP Coach to create a better experience for
+    you.
+  purposes:
+    services:
+    - to create a better experience for you
+- source: whoop
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - WHOOP uses cookies and similar technologies such as pixel tags, web beacons, clear
+    GIFs, and JavaScript (collectively, "Cookies") to enable our servers to recognize
+    your web browser and tell us how and when you visit and use our Services, as well
+    as to analyze trends, learn about our user base, and operate and improve our Services.
+  - 'WHOOP uses the following Cookies:'
+  purposes:
+    analytics:
+    - to enable our servers to recognize your web browser and tell us how and when
+      you visit and use our Services, as well as to analyze trends, learn about our
+      user base, and operate and improve our Services
+    - to record your choices and settings regarding our Services, maintain your preferences
+      over time, and recognize you when you return to our Services
+    services:
+    - to enable our servers to recognize your web browser and tell us how and when
+      you visit and use our Services, as well as to analyze trends, learn about our
+      user base, and operate and improve our Services
+    - to record your choices and settings regarding our Services, maintain your preferences
+      over time, and recognize you when you return to our Services
+- source: whoop
+  target: end user personal datum
+  key: COLLECT
+  text:
+  - 'WHOOP, INC FULL PRIVACY POLICY
+
+
+    WHOOP processes End User Personal Data on the following grounds:'
+  purposes: {}
+- source: whoop
+  target: geolocation
+  key: COLLECT
+  text:
+  - You may allow or disallow WHOOP to collect geolocation data by enabling or disabling
+    location services on your mobile device.
+  purposes: {}
+- source: whoop
+  target: history of conversation with whoop coach
+  key: COLLECT
+  text:
+  - As long as you use our Service and as WHOOP requires in light of its legitimate
+    business needs and legal requirements it is subject to, WHOOP may retain the history
+    of your conversations with WHOOP Coach to ensure you continue to have access to
+    previous conversations while using the feature.
+  purposes:
+    services:
+    - to ensure you continue to have access to previous conversations while using
+      the feature
+- source: whoop
+  target: personal information
+  key: COLLECT
+  text:
+  - In order to provide the Services, WHOOP will transfer your Personal Data to the
+    United States.
+  - WHOOP may process your Personal Data on more than one ground depending on the
+    reason or grounds for using your Personal Data.
+  purposes:
+    services:
+    - In order to provide the Services
+- source: whoop coach
+  target: personalized tip for
+  key: COLLECT
+  text:
+  - For example, if you ask WHOOP Coach a sleep-related question, then WHOOP Coach
+    will provide personalized tips for improving your sleep based on your anonymized
+    sleep data collected through the Services.
+  purposes: {}
+- source: we
+  target: product development
+  key: SUBSUM
+  text:
+  - 'WHOOP, INC FULL PRIVACY POLICY
+
+
+    Service delivery , including to: Provide, operate, improve, develop, understand,
+    and personalize the Services and our business, including testing, research, analysis,
+    and product development;'
+- source: we
+  target: service announcement
+  key: SUBSUM
+  text:
+  - 'WHOOP, INC FULL PRIVACY POLICY
+
+
+    Service delivery , including to: Communicate with you about the Services, including
+    Service announcements, updates, or offers;'
+- source: we
+  target: whoop
+  key: SUBSUM
+  text:
+  - At Whoop, Inc. ("WHOOP," "us," "we," or "our"), our mission is to unlock human
+    performance.
+- source: we
+  target: whoop strap
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to Personal Data we collect about members and other
+    consumers who interact with WHOOP or use our services, including by visiting our
+    websites or our social media pages, or using our mobile apps, the WHOOP Strap
+    or another WHOOP device (collectively, the "Services").
+- source: advertiser
+  target: company enter in joint marketing relationship with we
+  key: SUBSUM
+  text:
+  - 'We collect Personal Data about you from: Marketing and advertising partners ,
+    such as companies that have entered in joint marketing relationships with us or
+    assist us with marketing or promotional services, which may provide us with data
+    related to how you interact with our Services, advertisements, or communications;'
+- source: advertiser
+  target: marketing service
+  key: SUBSUM
+  text:
+  - 'We collect Personal Data about you from: Marketing and advertising partners ,
+    such as companies that have entered in joint marketing relationships with us or
+    assist us with marketing or promotional services, which may provide us with data
+    related to how you interact with our Services, advertisements, or communications;'
+- source: advertiser
+  target: research firm
+  key: SUBSUM
+  text:
+  - Some third-party ad networks, including third-party ad servers, ad agencies, ad
+    technology vendors, and research firms, allow you to opt-out directly by using
+    their opt-out tools.
+- source: advertiser
+  target: social media
+  key: SUBSUM
+  text:
+  - We engage our advertising partners, including third party advertising companies
+    and social media companies, to advertise our Services.
+- source: automatic data collection
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - 'We collect Personal Data about you from: Automatic data collection , such as
+    Cookies, local storage objects, web beacons, and other similar technologies in
+    connection with your use of the Services;'
+- source: automatic data collection
+  target: local storage object
+  key: SUBSUM
+  text:
+  - 'We collect Personal Data about you from: Automatic data collection , such as
+    Cookies, local storage objects, web beacons, and other similar technologies in
+    connection with your use of the Services;'
+- source: browser plugin
+  target: ghostery
+  key: SUBSUM
+  text:
+  - You can block our websites from setting Cookies used for interest-based ads by
+    using a browser with privacy features, like Brave, or installing browser plugins
+    like Privacy Badger, Ghostery, or uBlock Origin, and configuring them to block
+    third party Cookies/trackers.
+- source: browser plugin
+  target: privacy badger
+  key: SUBSUM
+  text:
+  - You can block our websites from setting Cookies used for interest-based ads by
+    using a browser with privacy features, like Brave, or installing browser plugins
+    like Privacy Badger, Ghostery, or uBlock Origin, and configuring them to block
+    third party Cookies/trackers.
+- source: browser plugin
+  target: ublock origin
+  key: SUBSUM
+  text:
+  - You can block our websites from setting Cookies used for interest-based ads by
+    using a browser with privacy features, like Brave, or installing browser plugins
+    like Privacy Badger, Ghostery, or uBlock Origin, and configuring them to block
+    third party Cookies/trackers.
+- source: browser with privacy feature
+  target: brave
+  key: SUBSUM
+  text:
+  - You can block our websites from setting Cookies used for interest-based ads by
+    using a browser with privacy features, like Brave, or installing browser plugins
+    like Privacy Badger, Ghostery, or uBlock Origin, and configuring them to block
+    third party Cookies/trackers.
+- source: browsing / search history
+  target: access time
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+- source: browsing / search history
+  target: navigation path
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Contact details , such as
+    your first and last name, email and mailing address, and phone number;'
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Contact details , such as
+    your first and last name, email and mailing address, and phone number;'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Contact details , such as
+    your first and last name, email and mailing address, and phone number;'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Contact details , such as
+    your first and last name, email and mailing address, and phone number;'
+- source: data provider
+  target: datum licensor
+  key: SUBSUM
+  text:
+  - 'We collect Personal Data about you from: Data providers , such as information
+    services and data licensors, when we supplement your data.'
+- source: data provider
+  target: information service
+  key: SUBSUM
+  text:
+  - 'We collect Personal Data about you from: Data providers , such as information
+    services and data licensors, when we supplement your data.'
+- source: device datum
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: computer operate system type
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: cpu usage
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: device type
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: identifier
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: language setting
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: manufacturer
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: model
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: radio network information
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: ram size
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: screen resolution
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: device datum
+  target: version
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: geolocation
+  target: city
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Geolocation data , such
+    as GPS, IP Address, and movement on certain exercise types if you give permission
+    for WHOOP to do so; and'
+- source: geolocation
+  target: movement on exercise type
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Geolocation data , such
+    as GPS, IP Address, and movement on certain exercise types if you give permission
+    for WHOOP to do so; and'
+- source: geolocation
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Geolocation data , such
+    as GPS, IP Address, and movement on certain exercise types if you give permission
+    for WHOOP to do so; and'
+- source: identifier
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: identifying information
+  target: person name
+  key: SUBSUM
+  text:
+  - We ask that you refrain from providing any identifying information, such as your
+    name, in conversations with WHOOP Coach.
+- source: information you choose
+  target: information collect from account you link with whoop account
+  key: SUBSUM
+  text:
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: information you provide to we
+  target: email address
+  key: SUBSUM
+  text:
+  - When you log in to your account, you may access, and, in some cases, edit or delete
+    certain information you've provided to us, such as first and last name, username
+    and password, email and mailing address, and other information in your profile.
+- source: information you provide to we
+  target: information in profile
+  key: SUBSUM
+  text:
+  - When you log in to your account, you may access, and, in some cases, edit or delete
+    certain information you've provided to us, such as first and last name, username
+    and password, email and mailing address, and other information in your profile.
+- source: information you provide to we
+  target: password
+  key: SUBSUM
+  text:
+  - When you log in to your account, you may access, and, in some cases, edit or delete
+    certain information you've provided to us, such as first and last name, username
+    and password, email and mailing address, and other information in your profile.
+- source: information you provide to we
+  target: person name
+  key: SUBSUM
+  text:
+  - When you log in to your account, you may access, and, in some cases, edit or delete
+    certain information you've provided to us, such as first and last name, username
+    and password, email and mailing address, and other information in your profile.
+- source: information you provide to we
+  target: postal address
+  key: SUBSUM
+  text:
+  - When you log in to your account, you may access, and, in some cases, edit or delete
+    certain information you've provided to us, such as first and last name, username
+    and password, email and mailing address, and other information in your profile.
+- source: information you provide to we
+  target: username
+  key: SUBSUM
+  text:
+  - When you log in to your account, you may access, and, in some cases, edit or delete
+    certain information you've provided to us, such as first and last name, username
+    and password, email and mailing address, and other information in your profile.
+- source: internet activity
+  target: access time
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+- source: internet activity
+  target: navigation path
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+- source: manage entity
+  target: coach
+  key: SUBSUM
+  text:
+  - If your use of the Services is on behalf of or managed by a managing entity, such
+    as a coach, team, organizing body, or other entity with which you are affiliated,
+    your account information and Personal Data may be shared with the managing entity
+    subject to your consent, and you hereby consent to that managing entity allowing
+    that information to be publicly shared, subject to any features of the Services
+    that expressly override that control.
+- source: manage entity
+  target: entity with affiliate
+  key: SUBSUM
+  text:
+  - If your use of the Services is on behalf of or managed by a managing entity, such
+    as a coach, team, organizing body, or other entity with which you are affiliated,
+    your account information and Personal Data may be shared with the managing entity
+    subject to your consent, and you hereby consent to that managing entity allowing
+    that information to be publicly shared, subject to any features of the Services
+    that expressly override that control.
+- source: manage entity
+  target: organize body
+  key: SUBSUM
+  text:
+  - If your use of the Services is on behalf of or managed by a managing entity, such
+    as a coach, team, organizing body, or other entity with which you are affiliated,
+    your account information and Personal Data may be shared with the managing entity
+    subject to your consent, and you hereby consent to that managing entity allowing
+    that information to be publicly shared, subject to any features of the Services
+    that expressly override that control.
+- source: manage entity
+  target: team
+  key: SUBSUM
+  text:
+  - If your use of the Services is on behalf of or managed by a managing entity, such
+    as a coach, team, organizing body, or other entity with which you are affiliated,
+    your account information and Personal Data may be shared with the managing entity
+    subject to your consent, and you hereby consent to that managing entity allowing
+    that information to be publicly shared, subject to any features of the Services
+    that expressly override that control.
+- source: marketing datum
+  target: detail about engagement with they
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Marketing data , such as
+    your preferences for receiving our marketing communications, and details about
+    your engagement with them (e.g., the marketing emails that you open and the links
+    within them that you click);'
+- source: marketing datum
+  target: preference for
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Marketing data , such as
+    your preferences for receiving our marketing communications, and details about
+    your engagement with them (e.g., the marketing emails that you open and the links
+    within them that you click);'
+- source: payment datum need
+  target: bank account number
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+- source: payment datum need
+  target: billing information
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+- source: payment datum need
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+- source: payment datum need
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+- source: payment datum need
+  target: person name
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+- source: personal information
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Contact details , such as
+    your first and last name, email and mailing address, and phone number;'
+- source: personal information
+  target: conversation you participate in with whoop coach
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Conversations that you participate
+    in with the WHOOP Coach, as described in Section 8 below;'
+- source: personal information
+  target: datum collect
+  key: SUBSUM
+  text:
+  - We may use data from the Personal Data we collect, including Wellness Data and
+    certain data collected when you browse our website, to send you direct offers
+    marketing messages or advertise the Services or other WHOOP product offerings.
+  - With your consent, we may use data from the Personal Data we collect, including
+    Wellness Data and certain data collected when you browse our website, to send
+    you direct offers, marketing messages or advertise the Services or other WHOOP
+    product offerings.
+- source: personal information
+  target: device datum
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Device data , such as your
+    computer or mobile device operating system type and version, manufacturer and
+    model, browser type, screen resolution, RAM and disk size, CPU usage, device type
+    (e.g., phone, tablet), IP Address, unique identifiers (including identifiers used
+    for advertising purposes), language settings, mobile device carrier, radio/network
+    information (e.g., WiFi, LTE, 3G), and general location information such as city,
+    state, or geographic area;'
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Geolocation data , such
+    as GPS, IP Address, and movement on certain exercise types if you give permission
+    for WHOOP to do so; and'
+- source: personal information
+  target: health datum
+  key: SUBSUM
+  text:
+  - To the extent that Wellness Data that we collect is considered health data or
+    another special category of Personal Data subject to the GDPR, we ask for your
+    explicit consent to process this data.
+  - To the extent that Wellness Data that we collect is considered health data or
+    another special category of Personal Data, we ask for your explicit consent to
+    process this data.
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Online activity data , such
+    as pages or screens you view, how long you spent on a page or screen, the website
+    you visited before visiting our website, navigation paths between pages or screens,
+    information about your activity on a page or screen, access times, and duration
+    of access.'
+- source: personal information
+  target: marketing datum
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Marketing data , such as
+    your preferences for receiving our marketing communications, and details about
+    your engagement with them (e.g., the marketing emails that you open and the links
+    within them that you click);'
+- source: personal information
+  target: payment datum need
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+- source: personal information
+  target: photograph
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Profile data , such as username
+    and password that you may establish to create a WHOOP account, as well as any
+    photographs or information you choose to include in your WHOOP profile;'
+- source: personal information
+  target: physical activity
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: personal information
+  target: profile datum
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Profile data , such as username
+    and password that you may establish to create a WHOOP account, as well as any
+    photographs or information you choose to include in your WHOOP profile;'
+- source: personal information
+  target: special category
+  key: SUBSUM
+  text:
+  - To the extent that Wellness Data that we collect is considered health data or
+    another special category of Personal Data subject to the GDPR, we ask for your
+    explicit consent to process this data.
+  - To the extent that Wellness Data that we collect is considered health data or
+    another special category of Personal Data, we ask for your explicit consent to
+    process this data.
+- source: personal information
+  target: specific context in we process it
+  key: SUBSUM
+  text:
+  - Lawful bases for processing include consent, performance of an agreement and our
+    "legitimate interests" but will depend on the type of Personal Data and the specific
+    context in which we process it.
+- source: personal information
+  target: subject identity
+  key: SUBSUM
+  text:
+  - 'You may access: Subject to applicable law, the identities of the third parties
+    with whom we have shared your Personal Data along with a description of such Personal
+    Data.'
+- source: personal information
+  target: transaction history
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Payment and transactional
+    data needed to complete your orders on the website or through the Services (including
+    name, email address, payment card information, bank account number, billing information)
+    and your transaction history, although WHOOP does not have access to payment card
+    numbers.'
+- source: personal information
+  target: wellness data
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+  - We may create and use Aggregated Data, De-identified Data, or other anonymous
+    data from Personal Data we collect, including Wellness Data, for our business
+    purpose, including to analyze the effectiveness of the Services, to improve and
+    add features to the Services, and to analyze the general behavior and characteristics
+    of users of the Services.
+- source: personal information
+  target: wellness datum
+  key: SUBSUM
+  text:
+  - We may use data from the Personal Data we collect, including Wellness Data and
+    certain data collected when you browse our website, to send you direct offers
+    marketing messages or advertise the Services or other WHOOP product offerings.
+  - With your consent, we may use data from the Personal Data we collect, including
+    Wellness Data and certain data collected when you browse our website, to send
+    you direct offers, marketing messages or advertise the Services or other WHOOP
+    product offerings.
+- source: physical activity
+  target: metadata
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: physical activity
+  target: physiological profile
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: physical activity
+  target: sensitive personal datum
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: physical activity
+  target: wellness data
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: physiological profile
+  target: date of birth
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: physiological profile
+  target: detail you choose
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: physiological profile
+  target: diet
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: physiological profile
+  target: female health tracking
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: physiological profile
+  target: fitness athlete level
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: physiological profile
+  target: gender identity
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: physiological profile
+  target: weight
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: preference
+  target: region
+  key: SUBSUM
+  text:
+  - These Cookies help us to personalize our content for you, greet you by name, and
+    remember your preferences (e.g., your region).
+- source: professional advisor
+  target: auditor
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Professional advisors , such as lawyers,
+    auditors, bankers, and insurers, where necessary in the course of the professional
+    services they render to us;'
+- source: professional advisor
+  target: banker
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Professional advisors , such as lawyers,
+    auditors, bankers, and insurers, where necessary in the course of the professional
+    services they render to us;'
+- source: professional advisor
+  target: insurer
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Professional advisors , such as lawyers,
+    auditors, bankers, and insurers, where necessary in the course of the professional
+    services they render to us;'
+- source: professional advisor
+  target: lawyer
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Professional advisors , such as lawyers,
+    auditors, bankers, and insurers, where necessary in the course of the professional
+    services they render to us;'
+- source: profile datum
+  target: password
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Profile data , such as username
+    and password that you may establish to create a WHOOP account, as well as any
+    photographs or information you choose to include in your WHOOP profile;'
+- source: profile datum
+  target: username
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Profile data , such as username
+    and password that you may establish to create a WHOOP account, as well as any
+    photographs or information you choose to include in your WHOOP profile;'
+- source: profile datum
+  target: whoop account
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Profile data , such as username
+    and password that you may establish to create a WHOOP account, as well as any
+    photographs or information you choose to include in your WHOOP profile;'
+- source: sensitive personal datum
+  target: acceleration
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: sensitive personal datum
+  target: blood oxygen saturation level
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: sensitive personal datum
+  target: heart rate variability
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: sensitive personal datum
+  target: rest heart rate
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: sensitive personal datum
+  target: skin temperature
+  key: SUBSUM
+  text:
+  - If you are a resident of Mexico, WHOOP will obtain your express consent to collect
+    and process Wellness Data, which is considered "sensitive personal data", such
+    as resting heart rate, heart rate variability, skin temperature, blood oxygen
+    saturation level and acceleration; metadata on workouts and sleep; the type of
+    physical activity you engage in and the duration of your activity; data reflecting
+    strain and recovery; your physiological profile, including birthday, gender identity,
+    weight, height, fitness/athlete level (e.g., professional or recreational); and
+    details you choose to submit about your diet, medications, and female health tracking.
+- source: service provider
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Service providers , such as payment processors,
+    vendors who advertise our Services or other WHOOP products, security and fraud
+    prevention consultants, hosting and other technology and communications providers,
+    analytics providers, and staff augmentation and contract personnel, that provide
+    services to us or on our behalf; our service providers also include our third-party
+    Large Language Model ("LLM") partner that powers WHOOP Coach, as described in
+    Section 8 below;'
+- source: service provider
+  target: hosting technology provider
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Service providers , such as payment processors,
+    vendors who advertise our Services or other WHOOP products, security and fraud
+    prevention consultants, hosting and other technology and communications providers,
+    analytics providers, and staff augmentation and contract personnel, that provide
+    services to us or on our behalf; our service providers also include our third-party
+    Large Language Model ("LLM") partner that powers WHOOP Coach, as described in
+    Section 8 below;'
+- source: service provider
+  target: payment processor
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Service providers , such as payment processors,
+    vendors who advertise our Services or other WHOOP products, security and fraud
+    prevention consultants, hosting and other technology and communications providers,
+    analytics providers, and staff augmentation and contract personnel, that provide
+    services to us or on our behalf; our service providers also include our third-party
+    Large Language Model ("LLM") partner that powers WHOOP Coach, as described in
+    Section 8 below;'
+- source: service provider
+  target: security consultant
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Service providers , such as payment processors,
+    vendors who advertise our Services or other WHOOP products, security and fraud
+    prevention consultants, hosting and other technology and communications providers,
+    analytics providers, and staff augmentation and contract personnel, that provide
+    services to us or on our behalf; our service providers also include our third-party
+    Large Language Model ("LLM") partner that powers WHOOP Coach, as described in
+    Section 8 below;'
+- source: service provider
+  target: whoop product
+  key: SUBSUM
+  text:
+  - 'We may share your Personal Data with: Service providers , such as payment processors,
+    vendors who advertise our Services or other WHOOP products, security and fraud
+    prevention consultants, hosting and other technology and communications providers,
+    analytics providers, and staff augmentation and contract personnel, that provide
+    services to us or on our behalf; our service providers also include our third-party
+    Large Language Model ("LLM") partner that powers WHOOP Coach, as described in
+    Section 8 below;'
+- source: technology
+  target: javascript
+  key: SUBSUM
+  text:
+  - WHOOP uses cookies and similar technologies such as pixel tags, web beacons, clear
+    GIFs, and JavaScript (collectively, "Cookies") to enable our servers to recognize
+    your web browser and tell us how and when you visit and use our Services, as well
+    as to analyze trends, learn about our user base, and operate and improve our Services.
+- source: wellness data
+  target: acceleration
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: wellness data
+  target: blood oxygen saturation level
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: wellness data
+  target: heart rate
+  key: SUBSUM
+  text:
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: wellness data
+  target: heart rate variability
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: wellness data
+  target: information you choose
+  key: SUBSUM
+  text:
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: wellness data
+  target: metadata
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: wellness data
+  target: physiological profile
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: wellness data
+  target: respiratory rate
+  key: SUBSUM
+  text:
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: wellness data
+  target: rest heart rate
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+- source: wellness data
+  target: skin temperature
+  key: SUBSUM
+  text:
+  - 'We may collect the following types of Personal Data: Wellness Data , such as
+    resting heart rate, heart rate variability, skin temperature, blood oxygen saturation
+    level and acceleration; metadata on workouts and sleep; the type of physical activity
+    you engage in and the duration of your activity; data reflecting strain and recovery;
+    your physiological profile, including birthday, gender identity, weight, height,
+    fitness/athlete level (e.g., professional or recreational); and details you choose
+    to submit about your diet, medications, and female health tracking.'
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: wellness data
+  target: sleep duration
+  key: SUBSUM
+  text:
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+- source: wellness data
+  target: type of activity you engage in
+  key: SUBSUM
+  text:
+  - Wellness Data is (a) data collected by your WHOOP Strap and sent to the WHOOP
+    platform, including your heart rate, heart rate variability, sleep duration, respiratory
+    rate, skin temperature, blood oxygen saturation level, and data such as the type
+    of activity you engage in and the duration of your physical activity; and (b)
+    any additional information you chose to enter during the use of our Services,
+    such as information about your health and wellness, including information collected
+    from accounts, devices, or features that you link with your WHOOP account.
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: affiliate of whoop
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: auditor
+- type: ACTOR
+  id: authority
+- type: ACTOR
+  id: banker
+- type: ACTOR
+  id: brave
+- type: ACTOR
+  id: browser plugin
+- type: ACTOR
+  id: browser with privacy feature
+- type: ACTOR
+  id: coach
+- type: ACTOR
+  id: company enter in joint marketing relationship with we
+- type: ACTOR
+  id: corporate wellness program
+- type: ACTOR
+  id: data provider
+- type: ACTOR
+  id: datum licensor
+- type: ACTOR
+  id: distributor
+- type: ACTOR
+  id: entity with affiliate
+- type: ACTOR
+  id: ghostery
+- type: ACTOR
+  id: government authority
+- type: ACTOR
+  id: hosting technology provider
+- type: ACTOR
+  id: information service
+- type: ACTOR
+  id: insurer
+- type: ACTOR
+  id: javascript
+- type: ACTOR
+  id: law enforcement
+- type: ACTOR
+  id: lawyer
+- type: ACTOR
+  id: llm partner
+- type: ACTOR
+  id: llm partner power whoop coach
+- type: ACTOR
+  id: manage entity
+- type: ACTOR
+  id: marketing service
+- type: ACTOR
+  id: organize body
+- type: ACTOR
+  id: payment processor
+- type: ACTOR
+  id: privacy badger
+- type: ACTOR
+  id: private party
+- type: ACTOR
+  id: product development
+- type: ACTOR
+  id: professional advisor
+- type: ACTOR
+  id: research firm
+- type: ACTOR
+  id: retailer
+- type: ACTOR
+  id: security consultant
+- type: ACTOR
+  id: service announcement
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: team
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: third parties
+- type: ACTOR
+  id: ublock origin
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: whoop
+- type: ACTOR
+  id: whoop coach
+- type: ACTOR
+  id: whoop product
+- type: ACTOR
+  id: whoop strap
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: acceleration
+- type: DATA
+  id: access time
+- type: DATA
+  id: account information
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: aggregate statistic
+- type: DATA
+  id: anonymized whoop metric
+- type: DATA
+  id: anonymous wellness data
+- type: DATA
+  id: automatic data collection
+- type: DATA
+  id: bank account number
+- type: DATA
+  id: billing information
+- type: DATA
+  id: blood oxygen saturation level
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: city
+- type: DATA
+  id: computer operate system type
+- type: DATA
+  id: contact information
+- type: DATA
+  id: context of previous conversation with whoop coach
+- type: DATA
+  id: conversation you participate in with whoop coach
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: cookies
+- type: DATA
+  id: copy of unrevised information
+- type: DATA
+  id: copy of unrevised information in record
+- type: DATA
+  id: cpu usage
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum collect
+- type: DATA
+  id: detail about engagement with they
+- type: DATA
+  id: detail you choose
+- type: DATA
+  id: device datum
+- type: DATA
+  id: device type
+- type: DATA
+  id: diet
+- type: DATA
+  id: email address
+- type: DATA
+  id: end user personal datum
+- type: DATA
+  id: female health tracking
+- type: DATA
+  id: financial information necessary
+- type: DATA
+  id: fitness athlete level
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health datum
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: heart rate variability
+- type: DATA
+  id: history of conversation with whoop coach
+- type: DATA
+  id: identifier
+- type: DATA
+  id: identifying information
+- type: DATA
+  id: information about interaction over time across web
+- type: DATA
+  id: information collect from account you link with whoop account
+- type: DATA
+  id: information in profile
+- type: DATA
+  id: information you choose
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language setting
+- type: DATA
+  id: local storage object
+- type: DATA
+  id: manufacturer
+- type: DATA
+  id: marketing datum
+- type: DATA
+  id: metadata
+- type: DATA
+  id: model
+- type: DATA
+  id: movement on exercise type
+- type: DATA
+  id: navigation path
+- type: DATA
+  id: password
+- type: DATA
+  id: payment datum need
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal data in record
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personalized tip for
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photograph
+- type: DATA
+  id: physical activity
+- type: DATA
+  id: physiological profile
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: preference
+- type: DATA
+  id: preference for
+- type: DATA
+  id: profile datum
+- type: DATA
+  id: radio network information
+- type: DATA
+  id: ram size
+- type: DATA
+  id: region
+- type: DATA
+  id: respiratory rate
+- type: DATA
+  id: rest heart rate
+- type: DATA
+  id: screen resolution
+- type: DATA
+  id: sensitive personal datum
+- type: DATA
+  id: sensitive personal information in privacy notice
+- type: DATA
+  id: skin temperature
+- type: DATA
+  id: sleep duration
+- type: DATA
+  id: special category
+- type: DATA
+  id: specific context in we process it
+- type: DATA
+  id: subject identity
+- type: DATA
+  id: transaction history
+- type: DATA
+  id: type of activity you engage in
+- type: DATA
+  id: username
+- type: DATA
+  id: version
+- type: DATA
+  id: weight
+- type: DATA
+  id: wellness data
+- type: DATA
+  id: wellness datum
+- type: DATA
+  id: whoop account

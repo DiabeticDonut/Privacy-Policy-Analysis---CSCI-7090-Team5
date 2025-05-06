@@ -1,0 +1,775 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you elect to consult with a licensed therapist through 7 Cups, we may share
+    your information with your therapist to enable and facilitate care.
+  - We may process your information to personalize your experience.
+  purposes:
+    services:
+    - to enable and facilitate care
+    - to personalize your experience
+- source: we
+  target: account with we
+  key: COLLECT
+  text:
+  - We need this information to provide you with the Services.
+  - When you sign up for an account with us, we ask for and collect Personal Information
+    such as your name, a valid email address, phone number, birthdate and address.
+  purposes:
+    services:
+    - to provide you with the Services
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may also use aggregated data from chat transcripts to conduct research and
+    development.
+  purposes:
+    analytics:
+    - to conduct research and development
+- source: we
+  target: broad demographic information
+  key: COLLECT
+  text:
+  - 'We may also use browser information, cookies and pixel tags: to determine how
+    you arrived at 7 Cups'' Site or Listening Platform, to determine whether you are
+    a return visitor, to help us improve our product and service offerings, for quality
+    assurance and training purposes, to help diagnose problems with our servers, to
+    gather broad demographic information, to administer and optimize our services,
+    and for other lawful purposes.'
+  purposes: {}
+- source: we
+  target: browser information
+  key: COLLECT
+  text:
+  - 'We may also use browser information, cookies and pixel tags: to determine how
+    you arrived at 7 Cups'' Site or Listening Platform, to determine whether you are
+    a return visitor, to help us improve our product and service offerings, for quality
+    assurance and training purposes, to help diagnose problems with our servers, to
+    gather broad demographic information, to administer and optimize our services,
+    and for other lawful purposes.'
+  - We use browser information (e.g., IP addresses and browser types), cookies and
+    pixel tags to determine what data or information should be shown on your browser
+    when you are visiting 7 Cups' Site or using 7 Cups' Listening Platform.
+  purposes:
+    analytics:
+    - to determine how you arrived at 7 Cups' Site or Listening Platform, to determine
+      whether you are a return visitor, to help us improve our product and service
+      offerings, for quality assurance and training purposes, to help diagnose problems
+      with our servers, to gather broad demographic information, to administer and
+      optimize our services, and for other lawful purposes
+    - to determine what data or information should be shown on your browser when you
+      are visiting 7 Cups' Site or using 7 Cups' Listening Platform
+    services:
+    - to determine how you arrived at 7 Cups' Site or Listening Platform, to determine
+      whether you are a return visitor, to help us improve our product and service
+      offerings, for quality assurance and training purposes, to help diagnose problems
+      with our servers, to gather broad demographic information, to administer and
+      optimize our services, and for other lawful purposes
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'Generally, we use first-party and third-party cookies for the following purposes:'
+  - We also use pixel tags throughout or Services.
+  - 'We may also use browser information, cookies and pixel tags: to determine how
+    you arrived at 7 Cups'' Site or Listening Platform, to determine whether you are
+    a return visitor, to help us improve our product and service offerings, for quality
+    assurance and training purposes, to help diagnose problems with our servers, to
+    gather broad demographic information, to administer and optimize our services,
+    and for other lawful purposes.'
+  - We use browser information (e.g., IP addresses and browser types), cookies and
+    pixel tags to determine what data or information should be shown on your browser
+    when you are visiting 7 Cups' Site or using 7 Cups' Listening Platform.
+  - We use functional cookies to remember your choices so we can tailor our Services
+    to provide you with enhanced features and personalized content.
+  - 'We use the following types of cookies on our Services:'
+  - We use the information collected by such cookies to improve and optimize our Services.
+  purposes:
+    analytics:
+    - to determine how you arrived at 7 Cups' Site or Listening Platform, to determine
+      whether you are a return visitor, to help us improve our product and service
+      offerings, for quality assurance and training purposes, to help diagnose problems
+      with our servers, to gather broad demographic information, to administer and
+      optimize our services, and for other lawful purposes
+    - to determine what data or information should be shown on your browser when you
+      are visiting 7 Cups' Site or using 7 Cups' Listening Platform
+    security:
+    - to provide a secure browsing experience during your use of our Services
+    services:
+    - to determine how you arrived at 7 Cups' Site or Listening Platform, to determine
+      whether you are a return visitor, to help us improve our product and service
+      offerings, for quality assurance and training purposes, to help diagnose problems
+      with our servers, to gather broad demographic information, to administer and
+      optimize our services, and for other lawful purposes
+    - to help us improve our Services;
+    - to improve and optimize our Services
+    - to make our Services function properly
+    - to provide a secure browsing experience during your use of our Services
+    - to remember your choices
+    - to remember your preferences for your convenience
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - We may collect your email address that you voluntarily provide to us when you
+    subscribe to our marketing communications.
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - When you use our Services, we store, process and transmit your information about
+    how you use our Services to engage, educate and suggest behavioral activation
+    strategies to you.
+  purposes: {}
+- source: we
+  target: information about personal information collection practice
+  key: COLLECT
+  text:
+  - We may provide additional "just-in-time" disclosures or additional information
+    about our Personal Information collection, use and sharing practices.
+  purposes: {}
+- source: we
+  target: information regard account
+  key: COLLECT
+  text:
+  - We may process any information regarding your account and your use of our Services
+    as is necessary in the context of corporate acquisitions, mergers or other corporate
+    transactions.
+  purposes: {}
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - We collect any information that you provide to us when you contact us.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, we process your Personal Information to fulfill our business obligations,
+    ensure compliance with industry regulator's standard and policies, to manage risk
+    as required under applicable laws and regulations, or to respond to requests by
+    judicial process or governmental agency.
+  - From time to time we may collect Personal Information from users via surveys.
+  - Generally, we will retain your Personal Information for as long as your account
+    or profile is active, or for the length of time needed to fulfill the purposes
+    outlined in this Privacy Policy unless a longer retention period is required or
+    permitted by law.
+  - However, we may continue to process your personal information if it is necessary
+    for the defense of legal claims, or for any other exceptions permitted by applicable
+    law.
+  - If you have been referred to the Services as part of a care plan by your healthcare
+    provider, we may share your Personal Information with your healthcare provider
+    to facilitate care.
+  - In the event of a merger, reorganization, consolidation, restructuring, bankruptcy,
+    sale of substantially all interests or assets, or other similar transaction, we
+    may transfer you Personal Information to the subsequent owner or operator of the
+    Services.
+  - This privacy policy ("Privacy Policy") describes how we collect, use, disclose
+    and store Personal Information you provide to us through the website and mobile
+    application tools that provide the services described above (collectively, the
+    "Services").
+  - We collect your Personal Information when you access mental health services through
+    our Services, when you contact or correspond with us, therapists or other health
+    care providers via the Services or when you utilize the therapy exercises and
+    programs available on the Services.
+  - We may also share your Personal Information as required to pursue available remedies
+    or limit damages we may sustain.
+  - We may de-identify your Personal Information, in compliance with applicable law
+    and aggregate such de-identified data with the de-identified data of other users.
+  - We may disclose your Personal Information directly to law enforcement or local
+    authorities in the event that it has been reasonably determined that your safety
+    or the safety of others may be at risk.
+  - We may process your Personal Information and derive analytical and statistical
+    data to better understand the way you use and interact with our Services.
+  - We may process your Personal Information for compliance purposes, such as carrying
+    out our obligations and enforcing our Terms or other legal rights, including those
+    arising from any contracts entered into between you and us, including for billing
+    and collection.
+  - We may process your Personal Information to help monitor, prevent and detect fraud
+    and abusive use of our Service, monitor and verify your identity so that unauthorized
+    users do not gain access to your information, enhance system security, and combat
+    spam, malware, malicious activities or other security risks.
+  - 'We may share and disclose Personal Information as follows: To Service Providers
+    Performing Services on Our Behalf We share Personal Information, with certain
+    third-party service providers that assist us in providing the Services and which
+    are bound by duties of confidentiality.'
+  - We may share your Personal Information for any other purpose disclosed to you
+    prior to you providing us your Personal Information or which is reasonably necessary
+    to provide the services or other related services requested, with your permission
+    or upon your direction.
+  - We may then share such anonymized aggregated data with the sponsors of programs
+    that facilitate your access to the Services, such as government health agencies,
+    researchers or healthcare providers.
+  - 'We may use Personal Information that we collect about you for various purposes,
+    including:'
+  - We transfer your Personal Information subject to appropriate safeguards as permitted
+    under the relevant data protection laws.
+  - We will disclose your Personal Information as we deem necessary to respond to
+    a subpoena, regulation, binding order of a data protection agency, legal process,
+    governmental request or other legal or regulatory process.
+  - We will use your Personal Information to provide information or perform Services
+    that you request, such as creating and managing user accounts and providing you
+    therapy or consulting services.
+  - When you sign up for an account with us, we ask for and collect Personal Information
+    such as your name, a valid email address, phone number, birthdate and address.
+  purposes:
+    advertising:
+    - To Provide Marketing Communication
+    analytics:
+    - To Research and Develop of Our Services
+    - to provide information
+    legal:
+    - For Legal Purposes
+    - To Enforce Compliance with Our Terms, Agreements and Policies
+    - To Facilitate Corporate Acquisitions, Mergers and Transactions
+    - To Maintain Legal and Regulatory Compliance
+    - for compliance purposes, such as carrying out our obligations and enforcing
+      our Terms or other legal rights, including those arising from any contracts
+      entered into between you and us, including for billing and collection
+    - to fulfill our business obligations, ensure compliance with industry regulator's
+      standard and policies, to manage risk as required under applicable laws and
+      regulations, or to respond to requests by judicial process or governmental agency
+    security:
+    - To Detect and Prevent Fraud and Security Risks
+    - to help monitor, prevent and detect fraud and abusive use of our Service, monitor
+      and verify your identity so that unauthorized users do not gain access to your
+      information, enhance system security, and combat spam, malware, malicious activities
+      or other security risks
+    services:
+    - For Business Transfer
+    - For Welfare Assurance
+    - To Facilitate Corporate Acquisitions, Mergers and Transactions
+    - To Personalize Your Experience
+    - To Provide Customer Support or Respond to You
+    - To Provide Our Services
+    - To Provide You with Service-Related Communications
+    - To Research and Develop of Our Services
+    - to facilitate care
+    - to provide information
+- source: we
+  target: record of email chat communication
+  key: COLLECT
+  text:
+  - When you contact us, we keep a record of email and chat communications to address
+    and resolve any issues you are facing.
+  purposes:
+    services:
+    - to address and resolve any issues you are facing
+- source: we
+  target: standard secure socket layer encryption encode information for transmission
+  key: COLLECT
+  text:
+  - We use standard Secure Socket Layer (SSL) encryption that encodes information
+    for such transmissions.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - These are cookies that are provided by third-party service providers and belong
+    in one of the cookie categories described above.
+  - These third-party providers process your Personal Information on our behalf pursuant
+    to our instructions and obligations consistent with this Privacy Policy.
+  - 'We may share and disclose Personal Information as follows: To Service Providers
+    Performing Services on Our Behalf We share Personal Information, with certain
+    third-party service providers that assist us in providing the Services and which
+    are bound by duties of confidentiality.'
+  purposes: {}
+- source: cups
+  target: associated personal information
+  key: COLLECT
+  text:
+  - 7 Cups will store your user account and associated Personal Information if your
+    account is active.
+  purposes: {}
+- source: cups
+  target: personal information supply for purpose of
+  key: COLLECT
+  text:
+  - Any Personal Information supplied by or on behalf of a visitor for purposes of
+    becoming a Listener or Therapist will be maintained by 7 Cups.
+  purposes: {}
+- source: cups
+  target: user account
+  key: COLLECT
+  text:
+  - 7 Cups will store your user account and associated Personal Information if your
+    account is active.
+  purposes: {}
+- source: healthcare provider
+  target: personal information
+  key: COLLECT
+  text:
+  - If you have been referred to the Services as part of a care plan by your healthcare
+    provider, we may share your Personal Information with your healthcare provider
+    to facilitate care.
+  - 'We may share and disclose Personal Information as follows: To Healthcare Providers.'
+  purposes:
+    legal:
+    - For Legal Purposes
+    services:
+    - For Business Transfer
+    - For Welfare Assurance
+    - to facilitate care
+- source: law enforcement
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose your Personal Information directly to law enforcement or local
+    authorities in the event that it has been reasonably determined that your safety
+    or the safety of others may be at risk.
+  purposes: {}
+- source: local authority
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose your Personal Information directly to law enforcement or local
+    authorities in the event that it has been reasonably determined that your safety
+    or the safety of others may be at risk.
+  purposes: {}
+- source: operator
+  target: personal information
+  key: COLLECT
+  text:
+  - In the event of a merger, reorganization, consolidation, restructuring, bankruptcy,
+    sale of substantially all interests or assets, or other similar transaction, we
+    may transfer you Personal Information to the subsequent owner or operator of the
+    Services.
+  purposes: {}
+- source: sponsor of program facilitate access to services
+  target: personal information
+  key: COLLECT
+  text:
+  - We may de-identify your Personal Information, in compliance with applicable law
+    and aggregate such de-identified data with the de-identified data of other users.
+  - We may then share such anonymized aggregated data with the sponsors of programs
+    that facilitate your access to the Services, such as government health agencies,
+    researchers or healthcare providers.
+  purposes: {}
+- source: therapist
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you elect to consult with a licensed therapist through 7 Cups, we may share
+    your information with your therapist to enable and facilitate care.
+  purposes:
+    services:
+    - to enable and facilitate care
+- source: we
+  target: cups
+  key: SUBSUM
+  text:
+  - 7 Cups ("7 Cups," "we," "us" and "our") provides virtual mental health care services
+    intended to increase access to emotional and social support, and to promote early
+    detection of mental health symptoms.
+- source: we
+  target: service describe
+  key: SUBSUM
+  text:
+  - This privacy policy ("Privacy Policy") describes how we collect, use, disclose
+    and store Personal Information you provide to us through the website and mobile
+    application tools that provide the services described above (collectively, the
+    "Services").
+- source: browser information
+  target: browser type
+  key: SUBSUM
+  text:
+  - We use browser information (e.g., IP addresses and browser types), cookies and
+    pixel tags to determine what data or information should be shown on your browser
+    when you are visiting 7 Cups' Site or using 7 Cups' Listening Platform.
+- source: browser information
+  target: ip address
+  key: SUBSUM
+  text:
+  - We use browser information (e.g., IP addresses and browser types), cookies and
+    pixel tags to determine what data or information should be shown on your browser
+    when you are visiting 7 Cups' Site or using 7 Cups' Listening Platform.
+- source: community forum
+  target: subcommunitie
+  key: SUBSUM
+  text:
+  - Posts in community forums (including subcommunities) are maintained on community
+    forums at the discretion of Community admins.
+- source: contact information
+  target: demographic information
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: contact information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: contact information
+  target: health
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: contact information
+  target: information about
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: contact information
+  target: medical history
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: demographic information
+  target: age
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: demographic information
+  target: disability
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: demographic information
+  target: gender
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: demographic information
+  target: primary language speak
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: demographic information
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: demographic information
+  target: sexual orientation
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: demographic information
+  target: veteran status
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: pay service
+  target: therapy
+  key: SUBSUM
+  text:
+  - If you purchase paid services, such as therapy or other upgrades, Personal Information
+    such as billing name, address and credit card payment information will be collected
+    to process payment.
+- source: pay service
+  target: upgrade
+  key: SUBSUM
+  text:
+  - If you purchase paid services, such as therapy or other upgrades, Personal Information
+    such as billing name, address and credit card payment information will be collected
+    to process payment.
+- source: personal information
+  target: contact information
+  key: SUBSUM
+  text:
+  - '"Personal Information" may include contact information such as your first name,
+    last name, email address, location, phone number, certain demographic information
+    such as age, gender, race ethnicity, primary language spoken, sexual orientation,
+    disabilities, and veteran status, information about your health and medical history
+    that you may input while using or communicating through the Services, and information
+    about how you interact with and use your device.'
+- source: personal information
+  target: credit card payment information
+  key: SUBSUM
+  text:
+  - If you purchase paid services, such as therapy or other upgrades, Personal Information
+    such as billing name, address and credit card payment information will be collected
+    to process payment.
+- source: personal information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - When you sign up for an account with us, we ask for and collect Personal Information
+    such as your name, a valid email address, phone number, birthdate and address.
+- source: personal information
+  target: description of issue
+  key: SUBSUM
+  text:
+  - When submitting a technical support request, you will be asked to provide Personal
+    Information, including an email address and a description of the issue.
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - When signing up to receive such information, you will be asked to provide Personal
+    Information, including your name, an email address, address and phone number.
+  - When submitting a technical support request, you will be asked to provide Personal
+    Information, including an email address and a description of the issue.
+  - When you sign up for an account with us, we ask for and collect Personal Information
+    such as your name, a valid email address, phone number, birthdate and address.
+- source: personal information
+  target: person name
+  key: SUBSUM
+  text:
+  - If you purchase paid services, such as therapy or other upgrades, Personal Information
+    such as billing name, address and credit card payment information will be collected
+    to process payment.
+  - When signing up to receive such information, you will be asked to provide Personal
+    Information, including your name, an email address, address and phone number.
+  - When you sign up for an account with us, we ask for and collect Personal Information
+    such as your name, a valid email address, phone number, birthdate and address.
+- source: personal information
+  target: phone number
+  key: SUBSUM
+  text:
+  - When signing up to receive such information, you will be asked to provide Personal
+    Information, including your name, an email address, address and phone number.
+  - When you sign up for an account with us, we ask for and collect Personal Information
+    such as your name, a valid email address, phone number, birthdate and address.
+- source: personal information
+  target: postal address
+  key: SUBSUM
+  text:
+  - If you purchase paid services, such as therapy or other upgrades, Personal Information
+    such as billing name, address and credit card payment information will be collected
+    to process payment.
+  - When signing up to receive such information, you will be asked to provide Personal
+    Information, including your name, an email address, address and phone number.
+  - When you sign up for an account with us, we ask for and collect Personal Information
+    such as your name, a valid email address, phone number, birthdate and address.
+- source: personal information we hold about you
+  target: supplementary information
+  key: SUBSUM
+  text:
+  - You may have the right to obtain a copy, or a list of categories of the personal
+    information that we hold about you, as well as other supplementary information,
+    such as the purposes of processing, and the entities to whom we disclose your
+    personal information.
+- source: sponsor of program facilitate access to services
+  target: government health agency
+  key: SUBSUM
+  text:
+  - We may then share such anonymized aggregated data with the sponsors of programs
+    that facilitate your access to the Services, such as government health agencies,
+    researchers or healthcare providers.
+- source: sponsor of program facilitate access to services
+  target: healthcare provider
+  key: SUBSUM
+  text:
+  - We may then share such anonymized aggregated data with the sponsors of programs
+    that facilitate your access to the Services, such as government health agencies,
+    researchers or healthcare providers.
+- source: sponsor of program facilitate access to services
+  target: researcher
+  key: SUBSUM
+  text:
+  - We may then share such anonymized aggregated data with the sponsors of programs
+    that facilitate your access to the Services, such as government health agencies,
+    researchers or healthcare providers.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: community forum
+- type: ACTOR
+  id: cups
+- type: ACTOR
+  id: government health agency
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: law enforcement
+- type: ACTOR
+  id: local authority
+- type: ACTOR
+  id: operator
+- type: ACTOR
+  id: pay service
+- type: ACTOR
+  id: researcher
+- type: ACTOR
+  id: service describe
+- type: ACTOR
+  id: sponsor of program facilitate access to services
+- type: ACTOR
+  id: subcommunitie
+- type: ACTOR
+  id: therapist
+- type: ACTOR
+  id: therapy
+- type: ACTOR
+  id: upgrade
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account with we
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: associated personal information
+- type: DATA
+  id: broad demographic information
+- type: DATA
+  id: browser information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit card payment information
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: description of issue
+- type: DATA
+  id: disability
+- type: DATA
+  id: email address
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about personal information collection practice
+- type: DATA
+  id: information regard account
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: ip address
+- type: DATA
+  id: medical history
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information supply for purpose of
+- type: DATA
+  id: personal information we hold about you
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: primary language speak
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: record of email chat communication
+- type: DATA
+  id: sexual orientation
+- type: DATA
+  id: standard secure socket layer encryption encode information for transmission
+- type: DATA
+  id: supplementary information
+- type: DATA
+  id: user account
+- type: DATA
+  id: veteran status

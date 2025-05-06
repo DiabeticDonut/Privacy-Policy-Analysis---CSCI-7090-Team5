@@ -1,0 +1,91 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If required by law or in response to legal processes, we may disclose your data
+    to comply with legal obligations.
+  - 'Privacy Policy
+
+
+    2. How We Use Your Information'
+  - We may share your data with trusted service providers that help us operate and
+    improve our products.
+  purposes:
+    analytics:
+    - To Analyze Usage Patterns
+    legal:
+    - to comply with legal obligations
+    services:
+    - To Provide Notifications
+    - to improve the overall user experience and product performance
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We may collect general location data to provide location-based features (e.g.,
+    tracking outdoor exercises like running or cycling).
+  purposes:
+    analytics:
+    - to provide location-based features (e.g., tracking outdoor exercises like running
+      or cycling
+    services:
+    - to provide location-based features (e.g., tracking outdoor exercises like running
+      or cycling
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - We use the information we collect to provide, maintain, and improve our products
+    and services.
+  purposes:
+    services:
+    - to provide, maintain, and improve our products and services
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - This privacy policy explains how we collect, use, and protect your personal information
+    when you use our products and services.
+  purposes: {}
+- source: trust service provider help
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your data with trusted service providers that help us operate and
+    improve our products.
+  purposes: {}
+- source: sensitive personal information
+  target: financial datum
+  key: SUBSUM
+  text:
+  - We do not collect any sensitive personal information, such as medical records
+    or financial data.
+- source: sensitive personal information
+  target: medical record
+  key: SUBSUM
+  text:
+  - We do not collect any sensitive personal information, such as medical records
+    or financial data.
+nodes:
+- type: ACTOR
+  id: trust service provider help
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: financial datum
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: medical record
+- type: DATA
+  id: personal information
+- type: DATA
+  id: sensitive personal information

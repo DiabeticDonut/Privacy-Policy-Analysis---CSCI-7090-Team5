@@ -1,0 +1,1108 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Information we collect automatically.
+  - We maintain information in the United States of America and in accordance with
+    the laws of the United States, which may not provide the same level of protection
+    as the laws in your jurisdiction.
+  - We may collect certain information automatically when you use our Services, such
+    as your Internet protocol (IP) address, device and advertising identifiers, browser
+    type, operating system, Internet service provider, pages that you visit before
+    and after using the Services, the date and time of your visit, information about
+    the links you click and pages you view within the Services, and other standard
+    server log information.
+  - We may disclose information to respond to subpoenas, court orders, legal process,
+    law enforcement requests, legal claims or government inquiries, and to protect
+    and defend the rights, interests, health, safety, and security of American Well,
+    our affiliates, users, or the public.
+  - We may share information for any other purposes disclosed to you at the time we
+    collect the information or pursuant to your consent or direction.
+  - We may share your information in connection with a substantial corporate transaction,
+    such as the sale of a website, a merger, consolidation, asset sale, or in the
+    unlikely event of bankruptcy.
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  - We may share your information with our corporate affiliates that are subject to
+    this policy.
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+  purposes:
+    legal:
+    - to respond to subpoenas, court orders, legal process, law enforcement requests,
+      legal claims or government inquiries, and to protect and defend the rights,
+      interests, health, safety, and security of American Well, our affiliates, users,
+      or the public
+    security:
+    - to respond to subpoenas, court orders, legal process, law enforcement requests,
+      legal claims or government inquiries, and to protect and defend the rights,
+      interests, health, safety, and security of American Well, our affiliates, users,
+      or the public
+- source: we
+  target: advertising id
+  key: COLLECT
+  text:
+  - We may collect certain information automatically when you use our Services, such
+    as your Internet protocol (IP) address, device and advertising identifiers, browser
+    type, operating system, Internet service provider, pages that you visit before
+    and after using the Services, the date and time of your visit, information about
+    the links you click and pages you view within the Services, and other standard
+    server log information.
+  purposes: {}
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - We may collect certain information automatically when you use our Services, such
+    as your Internet protocol (IP) address, device and advertising identifiers, browser
+    type, operating system, Internet service provider, pages that you visit before
+    and after using the Services, the date and time of your visit, information about
+    the links you click and pages you view within the Services, and other standard
+    server log information.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Contact information, such as your full name,
+    email address, mobile phone number, and address;'
+  - 'We may collect the following kinds of information when you use the Services:
+    Information you provide directly to us.'
+  purposes:
+    services:
+    - For certain activities, such as when you register, use our telemedicine services,
+      subscribe to our alerts, or contact us directly
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may use cookies, pixel tags, Local Shared Objects, and similar technologies
+    to automatically collect this information.
+  purposes: {}
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - We may collect certain information automatically when you use our Services, such
+    as your Internet protocol (IP) address, device and advertising identifiers, browser
+    type, operating system, Internet service provider, pages that you visit before
+    and after using the Services, the date and time of your visit, information about
+    the links you click and pages you view within the Services, and other standard
+    server log information.
+  purposes: {}
+- source: we
+  target: for health care provider information about employment
+  key: COLLECT
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+  - 'We may collect the following kinds of information when you use the Services:
+    Information you provide directly to us.'
+  purposes:
+    services:
+    - For certain activities, such as when you register, use our telemedicine services,
+      subscribe to our alerts, or contact us directly
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We may also collect certain location information when you use our Services, such
+    as your computer's IP address, your mobile device's GPS signal, or information
+    about nearby WiFi access points and cell towers.
+  purposes: {}
+- source: we
+  target: information about link you click
+  key: COLLECT
+  text:
+  - We may collect certain information automatically when you use our Services, such
+    as your Internet protocol (IP) address, device and advertising identifiers, browser
+    type, operating system, Internet service provider, pages that you visit before
+    and after using the Services, the date and time of your visit, information about
+    the links you click and pages you view within the Services, and other standard
+    server log information.
+  purposes: {}
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - 'We generally use the information we collect online to:'
+  purposes:
+    analytics:
+    - 'to: Analyze the use of the Services and user data to understand and improve
+      the Services'
+    - 'to: Conduct research using your information, which may be subject to your separate
+      written authorization;'
+    security:
+    - 'to: Prevent potentially prohibited or illegal activities and otherwise in accordance
+      with our Terms of Use (which can be found at https://amwell.com/landing.htm);
+      and'
+    services:
+    - 'to: Contact you'
+    - 'to: Customize the content you see when you use the Services;'
+    - 'to: Fulfill your requests for products, services, and information'
+    - 'to: Provide and improve the Services'
+    - 'to: Send you information about additional clinical services or general wellness
+      from us or on behalf of our affiliates and trusted third-party partners;'
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Any other information you provide to us.'
+  - 'We may collect the following kinds of information when you use the Services:
+    Information you provide directly to us.'
+  purposes:
+    services:
+    - For certain activities, such as when you register, use our telemedicine services,
+      subscribe to our alerts, or contact us directly
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - We may collect certain information automatically when you use our Services, such
+    as your Internet protocol (IP) address, device and advertising identifiers, browser
+    type, operating system, Internet service provider, pages that you visit before
+    and after using the Services, the date and time of your visit, information about
+    the links you click and pages you view within the Services, and other standard
+    server log information.
+  purposes: {}
+- source: we
+  target: local shared objects
+  key: COLLECT
+  text:
+  - We may use cookies, pixel tags, Local Shared Objects, and similar technologies
+    to automatically collect this information.
+  purposes: {}
+- source: we
+  target: medical record
+  key: COLLECT
+  text:
+  - In connection with your treatment, we may collect medical records from your past,
+    current, and future health care providers.
+  purposes: {}
+- source: we
+  target: payment information
+  key: COLLECT
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Payment information, such as your credit card
+    number, expiration date, and credit card security code;'
+  - 'We may collect the following kinds of information when you use the Services:
+    Information you provide directly to us.'
+  purposes:
+    services:
+    - For certain activities, such as when you register, use our telemedicine services,
+      subscribe to our alerts, or contact us directly
+- source: we
+  target: personal health information
+  key: COLLECT
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Personal health information; and'
+  - 'We may collect the following kinds of information when you use the Services:
+    Information you provide directly to us.'
+  purposes:
+    services:
+    - For certain activities, such as when you register, use our telemedicine services,
+      subscribe to our alerts, or contact us directly
+- source: we
+  target: phi
+  key: COLLECT
+  text:
+  - The HIPAA Notice describes how OCN and we can use and share your PHI and also
+    describes your rights with respect to your PHI.
+  purposes: {}
+- source: we
+  target: standard server log information
+  key: COLLECT
+  text:
+  - We may collect certain information automatically when you use our Services, such
+    as your Internet protocol (IP) address, device and advertising identifiers, browser
+    type, operating system, Internet service provider, pages that you visit before
+    and after using the Services, the date and time of your visit, information about
+    the links you click and pages you view within the Services, and other standard
+    server log information.
+  purposes: {}
+- source: we
+  target: technical datum
+  key: COLLECT
+  text:
+  - We may also collect technical data to address and fix technical problems and improve
+    our Services, including the memory state of your device when a system or app crash
+    occurs while using our Services.
+  purposes: {}
+- source: we
+  target: username
+  key: COLLECT
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Username and password;'
+  - 'We may collect the following kinds of information when you use the Services:
+    Information you provide directly to us.'
+  purposes:
+    services:
+    - For certain activities, such as when you register, use our telemedicine services,
+      subscribe to our alerts, or contact us directly
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: chat message
+  key: COLLECT
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about use of platform
+  key: COLLECT
+  text:
+  - Amwell uses third party vendors and service-providers that help us provide you
+    the Services.
+  - These third party vendors and service providers only collect information about
+    your use of our Platform in order to support us in providing you the Services.
+  purposes:
+    services:
+    - in order to support us in providing you the Services
+- source: UNSPECIFIED_ACTOR
+  target: information provide
+  key: COLLECT
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: not track signal
+  key: COLLECT
+  text:
+  - Some web browsers transmit "do-not-track" signals to websites.
+  purposes: {}
+- source: advertiser
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - We allow third parties, including business partners, advertising networks, and
+    other advertising service providers, to collect information about your online
+    activities through cookies, pixels, local storage, and other technologies to provide
+    you interest based advertising.
+  purposes: {}
+- source: advertiser
+  target: internet activity
+  key: COLLECT
+  text:
+  - We allow third parties, including business partners, advertising networks, and
+    other advertising service providers, to collect information about your online
+    activities through cookies, pixels, local storage, and other technologies to provide
+    you interest based advertising.
+  purposes: {}
+- source: business partner
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - We allow third parties, including business partners, advertising networks, and
+    other advertising service providers, to collect information about your online
+    activities through cookies, pixels, local storage, and other technologies to provide
+    you interest based advertising.
+  purposes: {}
+- source: business partner
+  target: internet activity
+  key: COLLECT
+  text:
+  - We allow third parties, including business partners, advertising networks, and
+    other advertising service providers, to collect information about your online
+    activities through cookies, pixels, local storage, and other technologies to provide
+    you interest based advertising.
+  purposes: {}
+- source: entity relevant
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: funeral director
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: government agency
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: health care provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: insurance company
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: laboratory
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: medical examiner
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: ocn
+  target: phi
+  key: COLLECT
+  text:
+  - The HIPAA Notice describes how OCN and we can use and share your PHI and also
+    describes your rights with respect to your PHI.
+  purposes: {}
+- source: organ procurement organization
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We may share your information with other health care providers, laboratories,
+    government agencies, insurance companies, organ procurement organizations, medical
+    examiners or funeral directors, and other entities relevant to providing you with
+    treatment options and support.
+  purposes: {}
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+  purposes: {}
+- source: service provider
+  target: chat message
+  key: COLLECT
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+  purposes: {}
+- source: service provider
+  target: information about use of platform
+  key: COLLECT
+  text:
+  - These third party vendors and service providers only collect information about
+    your use of our Platform in order to support us in providing you the Services.
+  purposes:
+    services:
+    - in order to support us in providing you the Services
+- source: service provider
+  target: information provide
+  key: COLLECT
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+  purposes: {}
+- source: web browser
+  target: not track signal
+  key: COLLECT
+  text:
+  - Some web browsers transmit "do-not-track" signals to websites.
+  purposes: {}
+- source: we
+  target: american well platform
+  key: SUBSUM
+  text:
+  - American Well Corporation ("American Well," "Amwell," "we," "us," or "our") recognizes
+    the importance of protecting the privacy of your personal information, and we
+    have prepared this Privacy Policy to provide you with important information about
+    the privacy practices applicable to the American Well Platform and any website
+    or service that links to or refers to this Privacy Policy (collectively, the "Services").
+- source: activity
+  target: click
+  key: SUBSUM
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+- source: activity
+  target: mouse movement
+  key: SUBSUM
+  text:
+  - These third-party vendors and service-providers may monitor activity (including
+    mouse movements and clicks) on our website and may collect, store, and use certain
+    information, including but not limited to information regarding your device and
+    your interactions with this website, chat messages, and information provided by
+    you.
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Contact information, such as your full name,
+    email address, mobile phone number, and address;'
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Contact information, such as your full name,
+    email address, mobile phone number, and address;'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Contact information, such as your full name,
+    email address, mobile phone number, and address;'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Contact information, such as your full name,
+    email address, mobile phone number, and address;'
+- source: cover entity
+  target: business associate
+  key: SUBSUM
+  text:
+  - The CCPA does not apply to information regulated either by the California Confidentiality
+    of Medical Information Act (CMIA), the Health Insurance Portability and Accountability
+    Act of 1996 (HIPAA), or the Health Information Technology for Economic and Clinical
+    Health Act (HITECH), nor does it apply to covered entities, including providers
+    of health care, and their business associates, who maintain patient information
+    in accordance with those laws.
+- source: cover entity
+  target: provider of health care
+  key: SUBSUM
+  text:
+  - The CCPA does not apply to information regulated either by the California Confidentiality
+    of Medical Information Act (CMIA), the Health Insurance Portability and Accountability
+    Act of 1996 (HIPAA), or the Health Information Technology for Economic and Clinical
+    Health Act (HITECH), nor does it apply to covered entities, including providers
+    of health care, and their business associates, who maintain patient information
+    in accordance with those laws.
+- source: device setting
+  target: content of communication
+  key: SUBSUM
+  text:
+  - This data may include parts of a document you were using when a problem occurred,
+    or the contents of your communications.
+  - Your device or browser settings may permit you to control the collection of this
+    technical data.
+- source: for health care provider information about employment
+  target: bank account information
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: educational background
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: gender
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: job title
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: language speak
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: medical license status
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: npi number
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: photograph
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: practice area
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: primary specialty
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: professional license information
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: ssn
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: for health care provider information about employment
+  target: tax id
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: For health care providers, information about
+    your employment, such as your job title, practice area, primary specialty, and
+    medical license status, gender, date of birth, languages spoken, educational background,
+    address, photograph, social security number, Tax ID, NPI number, professional
+    license information and bank account information;'
+- source: geolocation
+  target: cell tower
+  key: SUBSUM
+  text:
+  - We may also collect certain location information when you use our Services, such
+    as your computer's IP address, your mobile device's GPS signal, or information
+    about nearby WiFi access points and cell towers.
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - We may also collect certain location information when you use our Services, such
+    as your computer's IP address, your mobile device's GPS signal, or information
+    about nearby WiFi access points and cell towers.
+- source: geolocation
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - We may also collect certain location information when you use our Services, such
+    as your computer's IP address, your mobile device's GPS signal, or information
+    about nearby WiFi access points and cell towers.
+- source: geolocation
+  target: router ssid
+  key: SUBSUM
+  text:
+  - We may also collect certain location information when you use our Services, such
+    as your computer's IP address, your mobile device's GPS signal, or information
+    about nearby WiFi access points and cell towers.
+- source: information about you
+  target: internet activity
+  key: SUBSUM
+  text:
+  - However, if you access third-party services, such as Facebook, Google, or Twitter,
+    through the Services to login to the Services or to share information about your
+    experience on the Services with others, these third-party services may be able
+    to collect information about you, including information about your activity on
+    the Site, and they may notify your connections on the third-party services about
+    your use of the Site, in accordance with their own privacy policies.
+- source: marketing
+  target: mobile marketing
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: payment information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Payment information, such as your credit card
+    number, expiration date, and credit card security code;'
+- source: payment information
+  target: credit card security code
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Payment information, such as your credit card
+    number, expiration date, and credit card security code;'
+- source: payment information
+  target: expiration date
+  key: SUBSUM
+  text:
+  - 'For certain activities, such as when you register, use our telemedicine services,
+    subscribe to our alerts, or contact us directly, we may collect some or all of
+    the following types of information: Payment information, such as your credit card
+    number, expiration date, and credit card security code;'
+- source: personal information
+  target: source of personal information we collect about you
+  key: SUBSUM
+  text:
+  - 'You have the right to request we provide you with details about the information
+    we collect and disclose about you within the prior 12 months, including: (i) the
+    categories of personal information we collect about you, (ii) the categories of
+    the sources of personal information we collect about you, (iii) our business or
+    commercial purpose for collecting that information, (iv) the categories of personal
+    information that were disclosed for a business purpose, (v) the categories of
+    third parties to whom we disclosed that personal information, and (vi) the specific
+    pieces of personal information we collect about you.'
+- source: source of personal information we collect about you
+  target: specific piece of personal information we collect about you
+  key: SUBSUM
+  text:
+  - 'You have the right to request we provide you with details about the information
+    we collect and disclose about you within the prior 12 months, including: (i) the
+    categories of personal information we collect about you, (ii) the categories of
+    the sources of personal information we collect about you, (iii) our business or
+    commercial purpose for collecting that information, (iv) the categories of personal
+    information that were disclosed for a business purpose, (v) the categories of
+    third parties to whom we disclosed that personal information, and (vi) the specific
+    pieces of personal information we collect about you.'
+- source: specialized service
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: billing
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: chat functionality
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: customer service
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: data processing
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: email deployment
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: hosting
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: marketing
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: specialized service
+  target: payment processing
+  key: SUBSUM
+  text:
+  - We may share your information with third-party vendors and service-providers that
+    help us with specialized services, including billing, payment processing, customer
+    service, email deployment, business analytics, marketing (including but not limited
+    to advertising, attribution, mobile marketing, optimization and retargeting),
+    performance monitoring, hosting, chat functionality, and data processing.
+- source: technical datum
+  target: memory state of device
+  key: SUBSUM
+  text:
+  - We may also collect technical data to address and fix technical problems and improve
+    our Services, including the memory state of your device when a system or app crash
+    occurs while using our Services.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: american well platform
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: billing
+- type: ACTOR
+  id: business associate
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: chat functionality
+- type: ACTOR
+  id: cover entity
+- type: ACTOR
+  id: customer service
+- type: ACTOR
+  id: data processing
+- type: ACTOR
+  id: email deployment
+- type: ACTOR
+  id: entity relevant
+- type: ACTOR
+  id: funeral director
+- type: ACTOR
+  id: government agency
+- type: ACTOR
+  id: health care provider
+- type: ACTOR
+  id: hosting
+- type: ACTOR
+  id: insurance company
+- type: ACTOR
+  id: laboratory
+- type: ACTOR
+  id: marketing
+- type: ACTOR
+  id: medical examiner
+- type: ACTOR
+  id: mobile marketing
+- type: ACTOR
+  id: ocn
+- type: ACTOR
+  id: organ procurement organization
+- type: ACTOR
+  id: payment processing
+- type: ACTOR
+  id: provider of health care
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: specialized service
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: web browser
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: activity
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: bank account information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: cell tower
+- type: DATA
+  id: chat message
+- type: DATA
+  id: click
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content of communication
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: credit card security code
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: device setting
+- type: DATA
+  id: educational background
+- type: DATA
+  id: email address
+- type: DATA
+  id: expiration date
+- type: DATA
+  id: for health care provider information about employment
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information about link you click
+- type: DATA
+  id: information about use of platform
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information provide
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: job title
+- type: DATA
+  id: language speak
+- type: DATA
+  id: local shared objects
+- type: DATA
+  id: medical license status
+- type: DATA
+  id: medical record
+- type: DATA
+  id: memory state of device
+- type: DATA
+  id: mouse movement
+- type: DATA
+  id: not track signal
+- type: DATA
+  id: npi number
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal health information
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phi
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photograph
+- type: DATA
+  id: postal address
+- type: DATA
+  id: practice area
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: primary specialty
+- type: DATA
+  id: professional license information
+- type: DATA
+  id: router ssid
+- type: DATA
+  id: source of personal information we collect about you
+- type: DATA
+  id: specific piece of personal information we collect about you
+- type: DATA
+  id: ssn
+- type: DATA
+  id: standard server log information
+- type: DATA
+  id: tax id
+- type: DATA
+  id: technical datum
+- type: DATA
+  id: username

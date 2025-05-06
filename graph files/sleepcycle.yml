@@ -1,0 +1,321 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, we process your data when you create an account, if you contact our
+    customer support team, for maintenance of the app, and for marketing purposes.
+  - If you ask us, we will also tell you who we have shared your data with.
+  - If you unsubscribe to the service, we will keep your data for up to one (1) year,
+    in case you change your mind within this period of time and want to start a new
+    subscription.
+  - 'The right to restriction applies: When we no longer need the data for the purposes
+    for which we collected it, but you need it to be able to establish, assert or
+    defend legal claims.'
+  - We may also use the information for reasons relating to an important public interest.
+  - We may preserve data for legal reasons or to prevent harm.
+  - We will keep your data until you withdraw your consent or up to three (3) years
+    from collection, whichever is longer.
+  purposes:
+    legal:
+    - for legal reasons or to prevent harm
+    security:
+    - for legal reasons or to prevent harm
+- source: we
+  target: datum available
+  key: COLLECT
+  text:
+  - We will store all the data available in the app on our secure servers, hosted
+    by Google Cloud.
+  purposes: {}
+- source: we
+  target: datum we collect base on consent
+  key: COLLECT
+  text:
+  - However, we may continue to store data that we have already collected based on
+    your consent for statistical and scientific purposes (GDPR, art 9.2(j)).
+  purposes:
+    analytics:
+    - for statistical and scientific purposes
+- source: we
+  target: health datum
+  key: COLLECT
+  text:
+  - If you consent, we may use your data (including health data) to share publicly
+    and to third parties, for example, in public reports about sleep and activity,
+    to partners under agreement with us, or as part of the community benchmarking
+    information we provide to users of our subscription services.
+  - We will keep your health data in the backup until you withdraw your consent, or
+    until you end your subscription.
+  purposes:
+    analytics:
+    - to share publicly and to third parties, for example, in public reports about
+      sleep and activity, to partners under agreement with us, or as part of the community
+      benchmarking information we provide to users of our subscription services
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We will only share non-personal information that is aggregated or de-identified
+    so that it cannot reasonably be used to identify you as an individual.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - If you want to participate, we will share your personal data (as identified in
+    each individual case) with the investigator in question.
+  - 'The Sleep Cycle app privacy notice
+
+
+    Sleep Cycle AB (" we ", " us ", " our ") is the data controller for any personal
+    data that you or the Sleep Cycle app forward to us and we will process your personal
+    data only in accordance with applicable legislation, such as the GDPR.'
+  - To manage our relationship and provide the app and thereto related services in
+    a satisfactory and error free manner, we need to process your personal data.
+  purposes:
+    services:
+    - To manage our relationship and provide the app and thereto related services
+      in a satisfactory and error free manner
+- source: we
+  target: pseudonymised datum
+  key: COLLECT
+  text:
+  - For this purpose, we will only use pseudonymised data, meaning that your health
+    data will be awarded a hashed ID.
+  purposes: {}
+- source: Fivetran Inc
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Fivetran Inc. will only store data for twenty-four (24) hours.
+  purposes: {}
+- source: Leanplum
+  target: email address
+  key: COLLECT
+  text:
+  - When we communicate with you, for example via email, your email address may be
+    transferred to Mailgun Technologies Inc. and Leanplum Inc. who provide email and
+    communication services.
+  purposes: {}
+- source: country outside eea
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Depending on the research project, and the investigator, your data may be transferred
+    to a country outside the EEA.
+  purposes: {}
+- source: mailgun technologies inc.
+  target: email address
+  key: COLLECT
+  text:
+  - When we communicate with you, for example via email, your email address may be
+    transferred to Mailgun Technologies Inc. and Leanplum Inc. who provide email and
+    communication services.
+  purposes: {}
+- source: product development environment
+  target: datum we process for product development purpose
+  key: COLLECT
+  text:
+  - In addition, data that we process for product development purposes will be transferred
+    to our product development environment (separate from the backup environment)
+    hosted by Amplitude Inc. and their service provider Amazon Web Services.
+  purposes: {}
+- source: we
+  target: sleep cycle ab
+  key: SUBSUM
+  text:
+  - 'The Sleep Cycle app privacy notice
+
+
+    Sleep Cycle AB (" we ", " us ", " our ") is the data controller for any personal
+    data that you or the Sleep Cycle app forward to us and we will process your personal
+    data only in accordance with applicable legislation, such as the GDPR.'
+- source: accelerometer
+  target: movement
+  key: SUBSUM
+  text:
+  - When using the Sleep Cycle app, you will enter certain personal data into the
+    app (such as your email address, your height and weight, when you go to bed and
+    wake up, etc.), some personal data will be collected through your device's accelerometer
+    (such as your movements), microphone (such as snoring or other noises), camera
+    (pulse), or device location (for weather and sleep location statistics), and some
+    personal data will be derived (such as sleep efficiency and sleep quality).
+- source: account information
+  target: email address
+  key: SUBSUM
+  text:
+  - Although the app is configured to send account information (such as user name
+    and/or email address) and technical data (such as IP address and device type)
+    to us in certain situations, we will not able to get hold of or exercise any control
+    of your health data unless you give us your consent.
+- source: account information
+  target: user name
+  key: SUBSUM
+  text:
+  - Although the app is configured to send account information (such as user name
+    and/or email address) and technical data (such as IP address and device type)
+    to us in certain situations, we will not able to get hold of or exercise any control
+    of your health data unless you give us your consent.
+- source: company we not own
+  target: company you interact with in
+  key: SUBSUM
+  text:
+  - Please note that this notice does not apply to third party products or services
+    or the practices of companies that we do not own or control, including other companies
+    you might interact with, in or through Sleep Cycle, unless indicated otherwise.
+- source: health datum
+  target: sleep datum
+  key: SUBSUM
+  text:
+  - To protect your health data ( i.e. sleep data) from loss you can choose to use
+    our backup service.
+- source: microphone
+  target: noise
+  key: SUBSUM
+  text:
+  - When using the Sleep Cycle app, you will enter certain personal data into the
+    app (such as your email address, your height and weight, when you go to bed and
+    wake up, etc.), some personal data will be collected through your device's accelerometer
+    (such as your movements), microphone (such as snoring or other noises), camera
+    (pulse), or device location (for weather and sleep location statistics), and some
+    personal data will be derived (such as sleep efficiency and sleep quality).
+- source: microphone
+  target: snoring
+  key: SUBSUM
+  text:
+  - When using the Sleep Cycle app, you will enter certain personal data into the
+    app (such as your email address, your height and weight, when you go to bed and
+    wake up, etc.), some personal data will be collected through your device's accelerometer
+    (such as your movements), microphone (such as snoring or other noises), camera
+    (pulse), or device location (for weather and sleep location statistics), and some
+    personal data will be derived (such as sleep efficiency and sleep quality).
+- source: personal information
+  target: email address
+  key: SUBSUM
+  text:
+  - When using the Sleep Cycle app, you will enter certain personal data into the
+    app (such as your email address, your height and weight, when you go to bed and
+    wake up, etc.), some personal data will be collected through your device's accelerometer
+    (such as your movements), microphone (such as snoring or other noises), camera
+    (pulse), or device location (for weather and sleep location statistics), and some
+    personal data will be derived (such as sleep efficiency and sleep quality).
+- source: personal information
+  target: health datum
+  key: SUBSUM
+  text:
+  - Personal data, including health data, may also be collected from other sources,
+    for example if you choose to connect the Sleep Cycle app with your Life Cycle
+    app, or other (third party) apps - e.g. Google Fit or Apple Health.
+- source: personal information
+  target: height
+  key: SUBSUM
+  text:
+  - When using the Sleep Cycle app, you will enter certain personal data into the
+    app (such as your email address, your height and weight, when you go to bed and
+    wake up, etc.), some personal data will be collected through your device's accelerometer
+    (such as your movements), microphone (such as snoring or other noises), camera
+    (pulse), or device location (for weather and sleep location statistics), and some
+    personal data will be derived (such as sleep efficiency and sleep quality).
+- source: personal information
+  target: weight
+  key: SUBSUM
+  text:
+  - When using the Sleep Cycle app, you will enter certain personal data into the
+    app (such as your email address, your height and weight, when you go to bed and
+    wake up, etc.), some personal data will be collected through your device's accelerometer
+    (such as your movements), microphone (such as snoring or other noises), camera
+    (pulse), or device location (for weather and sleep location statistics), and some
+    personal data will be derived (such as sleep efficiency and sleep quality).
+- source: specific datum point
+  target: comment post
+  key: SUBSUM
+  text:
+  - You can delete specific data points, for example sleep sessions or comments posted
+    by yourself, directly in the app.
+- source: technical datum
+  target: device type
+  key: SUBSUM
+  text:
+  - Although the app is configured to send account information (such as user name
+    and/or email address) and technical data (such as IP address and device type)
+    to us in certain situations, we will not able to get hold of or exercise any control
+    of your health data unless you give us your consent.
+- source: technical datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - Although the app is configured to send account information (such as user name
+    and/or email address) and technical data (such as IP address and device type)
+    to us in certain situations, we will not able to get hold of or exercise any control
+    of your health data unless you give us your consent.
+nodes:
+- type: ACTOR
+  id: Fivetran Inc
+- type: ACTOR
+  id: Leanplum
+- type: ACTOR
+  id: company we not own
+- type: ACTOR
+  id: company you interact with in
+- type: ACTOR
+  id: country outside eea
+- type: ACTOR
+  id: mailgun technologies inc.
+- type: ACTOR
+  id: product development environment
+- type: ACTOR
+  id: sleep cycle ab
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: accelerometer
+- type: DATA
+  id: account information
+- type: DATA
+  id: comment post
+- type: DATA
+  id: datum available
+- type: DATA
+  id: datum we collect base on consent
+- type: DATA
+  id: datum we process for product development purpose
+- type: DATA
+  id: device type
+- type: DATA
+  id: email address
+- type: DATA
+  id: health datum
+- type: DATA
+  id: height
+- type: DATA
+  id: ip address
+- type: DATA
+  id: microphone
+- type: DATA
+  id: movement
+- type: DATA
+  id: noise
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: personal information
+- type: DATA
+  id: pseudonymised datum
+- type: DATA
+  id: sleep datum
+- type: DATA
+  id: snoring
+- type: DATA
+  id: specific datum point
+- type: DATA
+  id: technical datum
+- type: DATA
+  id: user name
+- type: DATA
+  id: weight

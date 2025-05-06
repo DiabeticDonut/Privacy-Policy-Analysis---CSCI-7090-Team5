@@ -1,0 +1,772 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We also collect information about the devices used to access the Services, such
+    as the device type, operating system, and IP address.
+  - We process data, content (including audiovisual content) and information provided
+    to the Services through the YouTube API services, including without limitation
+    YouTube Video ID information, connection tokens for YouTube channels, and YouTube
+    video thumbnail information (collectively, the " YouTube API Data ") to provide
+    the functionality of the Services to you, including without limitation to (i)
+    enable Trainers to search and select video content (including training exercises)
+    for sharing and display to Trainees and other users of the Services; (ii) enable
+    Trainers to connect to their YouTube channel, and create custom video content
+    (including training exercises) for the Services and link to, share and display
+    such content and control the settings of such content (including un-listing the
+    content from YouTube); (iii) enable Trainers, Trainees, and other users of the
+    Services to play YouTube content through the Services.
+  purposes:
+    services:
+    - to provide the functionality of the Services to you, including without limitation
+      to (i) enable Trainers to search and select video content (including training
+      exercises) for sharing and display to Trainees and other users of the Services;
+      (ii) enable Trainers to connect to their YouTube channel, and create custom
+      video content (including training exercises) for the Services and link to, share
+      and display such content and control the settings of such content (including
+      un-listing the content from YouTube); (iii) enable Trainers, Trainees, and other
+      users of the Services to play YouTube content through the Services
+- source: we
+  target: account information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Account and identity information'
+  purposes: {}
+- source: we
+  target: billing
+  key: COLLECT
+  text:
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Financial information: we may collect billing and other financial
+    information to process payments required in connection with the Services.'
+  purposes:
+    services:
+    - to process payments required in connection with the Services
+- source: we
+  target: category of personal information
+  key: COLLECT
+  text:
+  - We retain each category of Personal Information above for as long as may be reasonably
+    to achieve the purposes for which it was collected or as may be required or permitted
+    by law, after which time we will delete the Personal Information or aggregate
+    or anonymize the information so that it no longer relates to an identified or
+    identifiable person or household.
+  purposes: {}
+- source: we
+  target: commercial information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Commercial information: we maintain records about the transactions
+    you engage in with us or other parties (e.g., a Trainer) through the Services,
+    such as information about purchases, what has been provided to you, when and where,
+    if applicable, how much you paid, and similar information'
+  purposes: {}
+- source: we
+  target: consumer profile information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from third parties : Consumer profile information: Information used
+    to create a profile about you reflecting your preferences, market segments, likes,
+    favorites and other data or analytics provided about you or your account by a
+    Trainer, TSR Customer, social media companies or data aggregators, including household
+    data, the products and services you use or intend to use or purchase, and your
+    interests.'
+  purposes: {}
+- source: we
+  target: financial information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Financial information: we may collect billing and other financial
+    information to process payments required in connection with the Services.'
+  purposes: {}
+- source: we
+  target: fitness information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Fitness information:'
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from your use of the Services : Location Information:'
+  - With your consent, we collect Personal Information about your location.
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - For example, we collect information about how you interact with the Services,
+    such as when you log into your Account, how you navigate the Services, and what
+    functions you use in the Services.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - If you link your Account to third-party services, we may collect information about
+    you from such other services.
+  purposes: {}
+- source: we
+  target: information provide to services through youtube api service
+  key: COLLECT
+  text:
+  - We process data, content (including audiovisual content) and information provided
+    to the Services through the YouTube API services, including without limitation
+    YouTube Video ID information, connection tokens for YouTube channels, and YouTube
+    video thumbnail information (collectively, the " YouTube API Data ") to provide
+    the functionality of the Services to you, including without limitation to (i)
+    enable Trainers to search and select video content (including training exercises)
+    for sharing and display to Trainees and other users of the Services; (ii) enable
+    Trainers to connect to their YouTube channel, and create custom video content
+    (including training exercises) for the Services and link to, share and display
+    such content and control the settings of such content (including un-listing the
+    content from YouTube); (iii) enable Trainers, Trainees, and other users of the
+    Services to play YouTube content through the Services.
+  purposes:
+    services:
+    - to provide the functionality of the Services to you, including without limitation
+      to (i) enable Trainers to search and select video content (including training
+      exercises) for sharing and display to Trainees and other users of the Services;
+      (ii) enable Trainers to connect to their YouTube channel, and create custom
+      video content (including training exercises) for the Services and link to, share
+      and display such content and control the settings of such content (including
+      un-listing the content from YouTube); (iii) enable Trainers, Trainees, and other
+      users of the Services to play YouTube content through the Services
+- source: we
+  target: information we collect from third party
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information: Information we collect
+    from third parties'
+  purposes: {}
+- source: we
+  target: information we collect from use of services
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information: Information we collect
+    from your use of the Services'
+  purposes: {}
+- source: we
+  target: information you submit to we
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information: Information you submit
+    to us'
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from your use of the Services : Log and usage data: we collect log
+    data and usage information relating to your use of the Services.'
+  purposes: {}
+- source: we
+  target: log datum
+  key: COLLECT
+  text:
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from your use of the Services : Log and usage data: we collect log
+    data and usage information relating to your use of the Services.'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - ': At your direction, we share Personal Information with third-party partners
+    in connection with your use of the functionality of the Services.'
+  - ': We share Personal Information with our partner organizations, such as the Trainerize
+    family of companies, which includes parents, corporate affiliates, subsidiaries,
+    business units and other companies that share common ownership.'
+  - ': We share Personal Information with third-party service providers that we engage
+    with contracts that require them to use your Personal Information only for the
+    purpose of delivering the services for which we have engaged the third-party or
+    as otherwise permitted by law.'
+  - 'Effective: November 18, 2024 : Introduction : We process Personal Information
+    on behalf of our customers ("TSR Customers"), which include various kinds of individuals
+    and businesses who provide training, coaching, or similar services to individuals
+    ("Trainees").'
+  - 'Effective: November 18, 2024 : Processing of Personal Information : We use Personal
+    Information for the following purposes:'
+  - 'Effective: November 18, 2024 : The Legal Basis for Processing Your Personal Information
+    : We may also process Personal Information in accordance with our legitimate interests,
+    as outlined in this privacy policy, or because of a non-contractual legal obligation
+    that applies to us, such as legally compelled disclosures.'
+  - 'Effective: November 18, 2024 : The Legal Basis for Processing Your Personal Information
+    : We may also, on occasion, process Personal Information on the basis of your
+    consent.'
+  - 'Effective: November 18, 2024 : We disclose Personal Information as described
+    below.'
+  - 'Effective: November 18, 2024 : We may also share Personal Information with third
+    parties when needed to comply with a legal obligation that we are subject to.'
+  - 'Effective: November 18, 2024 : We may share Personal Information to a successor
+    or potential successor to all or a part of our business.'
+  - 'Effective: November 18, 2024 : We share Personal Information with law enforcement
+    authorities who make a request in accordance with applicable law.'
+  purposes:
+    advertising:
+    - to communicate with you for marketing purposes with your consent
+    analytics:
+    - to assess service levels, monitor traffic patterns and gauge popularity of different
+      features, functionalities and service options of, or related to, the Services
+    legal:
+    - as required to comply with any applicable laws, or as authorized by any applicable
+      laws
+    - to bill, or render invoices relating to, your Account, and to collect any debt
+      owed to us
+    - to comply with a legal obligation that we are subject to
+    - to respond to claims of any violation of our rights or those of any third party
+    security:
+    - to administer, maintain, monitor, and secure the Services
+    - to create and manage your Account, and to verify access rights to the Services
+    - to protect the rights, property, or personal safety of you, our personnel, other
+      users, and the public
+    services:
+    - to administer, maintain, monitor, and secure the Services
+    - to assess service levels, monitor traffic patterns and gauge popularity of different
+      features, functionalities and service options of, or related to, the Services
+    - to bill, or render invoices relating to, your Account, and to collect any debt
+      owed to us
+    - to communicate with you
+    - to create and activate your Account
+    - to create and manage your Account, and to verify access rights to the Services
+    - to facilitate payments between you and other users of the Services
+    - to improve the quality of the Services
+    - to make the Services available to you and to other users of the Services
+    - to respond to any request for customer service or technical support
+- source: we
+  target: personal information of customer
+  key: COLLECT
+  text:
+  - ': Introduction : We also process certain Personal Information of our customers
+    on our own behalf, and this kind of processing is also described in this Privacy
+    Notice.'
+  purposes: {}
+- source: we
+  target: record
+  key: COLLECT
+  text:
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Commercial information: we maintain records about the transactions
+    you engage in with us or other parties (e.g., a Trainer) through the Services,
+    such as information about purchases, what has been provided to you, when and where,
+    if applicable, how much you paid, and similar information'
+  purposes: {}
+- source: we
+  target: social medium
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from third parties : Social Media and App Information:'
+  purposes: {}
+- source: we
+  target: usage information
+  key: COLLECT
+  text:
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from your use of the Services : Log and usage data: we collect log
+    data and usage information relating to your use of the Services.'
+  purposes: {}
+- source: we
+  target: youtube api data
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from third parties : YouTube API Data'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: category of personal information
+  key: COLLECT
+  text:
+  - The following tables show the categories of personal information we have collected
+    in connection with the Services in the last 12 months and indicates whether each
+    category of personal information has been shared for a business purpose or sold
+    to a third party.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - ': At your direction, we share Personal Information with third-party partners
+    in connection with your use of the functionality of the Services.'
+  - ': Introduction : Your Personal Information may be shared with third parties.'
+  - ': We share Personal Information with third-party service providers that we engage
+    with contracts that require them to use your Personal Information only for the
+    purpose of delivering the services for which we have engaged the third-party or
+    as otherwise permitted by law.'
+  - 'Effective: November 18, 2024 : We may also share Personal Information with third
+    parties when needed to comply with a legal obligation that we are subject to.'
+  purposes:
+    legal:
+    - to comply with a legal obligation that we are subject to
+- source: fitness facility
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, if you use the Services as a trainee as part of your fitness facility
+    membership or as a trainer for a TSR Customer, your Personal Information may also
+    be provided to your fitness facility and/or your trainer.
+  purposes: {}
+- source: law enforcement authority who make request in accordance with applicable
+    law
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : We share Personal Information with law enforcement
+    authorities who make a request in accordance with applicable law.'
+  purposes: {}
+- source: partner organization
+  target: personal information
+  key: COLLECT
+  text:
+  - ': We share Personal Information with our partner organizations, such as the Trainerize
+    family of companies, which includes parents, corporate affiliates, subsidiaries,
+    business units and other companies that share common ownership.'
+  purposes: {}
+- source: trainer
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : If you are a Trainee, Personal Information you
+    provide may be shared with your Trainer and/or TSR Customer.'
+  - For example, if you use the Services as a trainee as part of your fitness facility
+    membership or as a trainer for a TSR Customer, your Personal Information may also
+    be provided to your fitness facility and/or your trainer.
+  purposes: {}
+- source: tsr customer
+  target: personal information
+  key: COLLECT
+  text:
+  - 'Effective: November 18, 2024 : If you are a Trainee, Personal Information you
+    provide may be shared with your Trainer and/or TSR Customer.'
+  purposes: {}
+- source: access id
+  target: private password
+  key: SUBSUM
+  text:
+  - ': in the event that you choose to register as a user of the Services, you will
+    be asked to create a unique username and private password (collectively, the "
+    Access ID ") which will be used to create and activate an account through which
+    we can make the Services available to you (the " Account ").'
+- source: access id
+  target: unique username
+  key: SUBSUM
+  text:
+  - ': in the event that you choose to register as a user of the Services, you will
+    be asked to create a unique username and private password (collectively, the "
+    Access ID ") which will be used to create and activate an account through which
+    we can make the Services available to you (the " Account ").'
+- source: business support function
+  target: payment processing
+  key: SUBSUM
+  text:
+  - These kinds of third parties provide business, professional, administrative, or
+    technical support functions for us, such as payment processing, billing, data
+    storage, transmission of email or other messages, and quality assurance.
+- source: custom video content
+  target: training exercise
+  key: SUBSUM
+  text:
+  - We process data, content (including audiovisual content) and information provided
+    to the Services through the YouTube API services, including without limitation
+    YouTube Video ID information, connection tokens for YouTube channels, and YouTube
+    video thumbnail information (collectively, the " YouTube API Data ") to provide
+    the functionality of the Services to you, including without limitation to (i)
+    enable Trainers to search and select video content (including training exercises)
+    for sharing and display to Trainees and other users of the Services; (ii) enable
+    Trainers to connect to their YouTube channel, and create custom video content
+    (including training exercises) for the Services and link to, share and display
+    such content and control the settings of such content (including un-listing the
+    content from YouTube); (iii) enable Trainers, Trainees, and other users of the
+    Services to play YouTube content through the Services.
+- source: information provide to services through youtube api service
+  target: youtube api data
+  key: SUBSUM
+  text:
+  - We process data, content (including audiovisual content) and information provided
+    to the Services through the YouTube API services, including without limitation
+    YouTube Video ID information, connection tokens for YouTube channels, and YouTube
+    video thumbnail information (collectively, the " YouTube API Data ") to provide
+    the functionality of the Services to you, including without limitation to (i)
+    enable Trainers to search and select video content (including training exercises)
+    for sharing and display to Trainees and other users of the Services; (ii) enable
+    Trainers to connect to their YouTube channel, and create custom video content
+    (including training exercises) for the Services and link to, share and display
+    such content and control the settings of such content (including un-listing the
+    content from YouTube); (iii) enable Trainers, Trainees, and other users of the
+    Services to play YouTube content through the Services.
+- source: partner organization
+  target: trainerize family of company
+  key: SUBSUM
+  text:
+  - ': We share Personal Information with our partner organizations, such as the Trainerize
+    family of companies, which includes parents, corporate affiliates, subsidiaries,
+    business units and other companies that share common ownership.'
+- source: personal information
+  target: account information
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Account and identity information'
+- source: personal information
+  target: commercial information
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Commercial information: we maintain records about the transactions
+    you engage in with us or other parties (e.g., a Trainer) through the Services,
+    such as information about purchases, what has been provided to you, when and where,
+    if applicable, how much you paid, and similar information'
+- source: personal information
+  target: consumer profile information
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from third parties : Consumer profile information: Information used
+    to create a profile about you reflecting your preferences, market segments, likes,
+    favorites and other data or analytics provided about you or your account by a
+    Trainer, TSR Customer, social media companies or data aggregators, including household
+    data, the products and services you use or intend to use or purchase, and your
+    interests.'
+- source: personal information
+  target: fitness information
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Fitness information:'
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from your use of the Services : Location Information:'
+- source: personal information
+  target: information use
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from third parties : Consumer profile information: Information used
+    to create a profile about you reflecting your preferences, market segments, likes,
+    favorites and other data or analytics provided about you or your account by a
+    Trainer, TSR Customer, social media companies or data aggregators, including household
+    data, the products and services you use or intend to use or purchase, and your
+    interests.'
+- source: personal information
+  target: information we collect from third party
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information: Information we collect
+    from third parties'
+- source: personal information
+  target: information we collect from use of services
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information: Information we collect
+    from your use of the Services'
+- source: personal information
+  target: information you submit to we
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information: Information you submit
+    to us'
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from your use of the Services : Log and usage data: we collect log
+    data and usage information relating to your use of the Services.'
+- source: personal information
+  target: social medium
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from third parties : Social Media and App Information:'
+- source: personal information
+  target: youtube api data
+  key: SUBSUM
+  text:
+  - 'Effective: November 18, 2024 : Processing of Personal Information : Our Services
+    collect the following categories of Personal Information:'
+  - 'Our Services collect the following categories of Personal Information: Information
+    we collect from third parties : YouTube API Data'
+- source: personal trainer
+  target: wide variety
+  key: SUBSUM
+  text:
+  - For instance, our customers include a wide variety of personal trainers, coaches,
+    studios, clinics, and fitness facilities.
+- source: record
+  target: information about purchase
+  key: SUBSUM
+  text:
+  - 'Our Services collect the following categories of Personal Information: Information
+    you submit to us : Commercial information: we maintain records about the transactions
+    you engage in with us or other parties (e.g., a Trainer) through the Services,
+    such as information about purchases, what has been provided to you, when and where,
+    if applicable, how much you paid, and similar information'
+- source: service we make
+  target: associate website
+  key: SUBSUM
+  text:
+  - ': Introduction : This privacy policy ("Privacy Policy") applies to personal information
+    provided to TSR Gym Technik Ltd. (the " Vendor " " we " " us " or " our ") through
+    the services we make or offer (" Services "), including the Trainerize software-as-a-service
+    platform as well as any associated website, application, or widget that links
+    to this Privacy Policy.'
+- source: service we make
+  target: trainerize software as service platform
+  key: SUBSUM
+  text:
+  - ': Introduction : This privacy policy ("Privacy Policy") applies to personal information
+    provided to TSR Gym Technik Ltd. (the " Vendor " " we " " us " or " our ") through
+    the services we make or offer (" Services "), including the Trainerize software-as-a-service
+    platform as well as any associated website, application, or widget that links
+    to this Privacy Policy.'
+- source: service we make
+  target: widget
+  key: SUBSUM
+  text:
+  - ': Introduction : This privacy policy ("Privacy Policy") applies to personal information
+    provided to TSR Gym Technik Ltd. (the " Vendor " " we " " us " or " our ") through
+    the services we make or offer (" Services "), including the Trainerize software-as-a-service
+    platform as well as any associated website, application, or widget that links
+    to this Privacy Policy.'
+- source: trainerize family of company
+  target: business unit
+  key: SUBSUM
+  text:
+  - ': We share Personal Information with our partner organizations, such as the Trainerize
+    family of companies, which includes parents, corporate affiliates, subsidiaries,
+    business units and other companies that share common ownership.'
+- source: trainerize family of company
+  target: company share common ownership
+  key: SUBSUM
+  text:
+  - ': We share Personal Information with our partner organizations, such as the Trainerize
+    family of companies, which includes parents, corporate affiliates, subsidiaries,
+    business units and other companies that share common ownership.'
+- source: trainerize family of company
+  target: corporate affiliate
+  key: SUBSUM
+  text:
+  - ': We share Personal Information with our partner organizations, such as the Trainerize
+    family of companies, which includes parents, corporate affiliates, subsidiaries,
+    business units and other companies that share common ownership.'
+- source: video content
+  target: training exercise
+  key: SUBSUM
+  text:
+  - We process data, content (including audiovisual content) and information provided
+    to the Services through the YouTube API services, including without limitation
+    YouTube Video ID information, connection tokens for YouTube channels, and YouTube
+    video thumbnail information (collectively, the " YouTube API Data ") to provide
+    the functionality of the Services to you, including without limitation to (i)
+    enable Trainers to search and select video content (including training exercises)
+    for sharing and display to Trainees and other users of the Services; (ii) enable
+    Trainers to connect to their YouTube channel, and create custom video content
+    (including training exercises) for the Services and link to, share and display
+    such content and control the settings of such content (including un-listing the
+    content from YouTube); (iii) enable Trainers, Trainees, and other users of the
+    Services to play YouTube content through the Services.
+- source: we we
+  target: tsr gym technik ltd.
+  key: SUBSUM
+  text:
+  - ': Introduction : This privacy policy ("Privacy Policy") applies to personal information
+    provided to TSR Gym Technik Ltd. (the " Vendor " " we " " us " or " our ") through
+    the services we make or offer (" Services "), including the Trainerize software-as-a-service
+    platform as well as any associated website, application, or widget that links
+    to this Privacy Policy.'
+- source: youtube api data
+  target: connection token for youtube channel
+  key: SUBSUM
+  text:
+  - We process data, content (including audiovisual content) and information provided
+    to the Services through the YouTube API services, including without limitation
+    YouTube Video ID information, connection tokens for YouTube channels, and YouTube
+    video thumbnail information (collectively, the " YouTube API Data ") to provide
+    the functionality of the Services to you, including without limitation to (i)
+    enable Trainers to search and select video content (including training exercises)
+    for sharing and display to Trainees and other users of the Services; (ii) enable
+    Trainers to connect to their YouTube channel, and create custom video content
+    (including training exercises) for the Services and link to, share and display
+    such content and control the settings of such content (including un-listing the
+    content from YouTube); (iii) enable Trainers, Trainees, and other users of the
+    Services to play YouTube content through the Services.
+- source: youtube api data
+  target: youtube video thumbnail information
+  key: SUBSUM
+  text:
+  - We process data, content (including audiovisual content) and information provided
+    to the Services through the YouTube API services, including without limitation
+    YouTube Video ID information, connection tokens for YouTube channels, and YouTube
+    video thumbnail information (collectively, the " YouTube API Data ") to provide
+    the functionality of the Services to you, including without limitation to (i)
+    enable Trainers to search and select video content (including training exercises)
+    for sharing and display to Trainees and other users of the Services; (ii) enable
+    Trainers to connect to their YouTube channel, and create custom video content
+    (including training exercises) for the Services and link to, share and display
+    such content and control the settings of such content (including un-listing the
+    content from YouTube); (iii) enable Trainers, Trainees, and other users of the
+    Services to play YouTube content through the Services.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: associate website
+- type: ACTOR
+  id: business support function
+- type: ACTOR
+  id: business unit
+- type: ACTOR
+  id: company share common ownership
+- type: ACTOR
+  id: corporate affiliate
+- type: ACTOR
+  id: custom video content
+- type: ACTOR
+  id: fitness facility
+- type: ACTOR
+  id: law enforcement authority who make request in accordance with applicable law
+- type: ACTOR
+  id: partner organization
+- type: ACTOR
+  id: payment processing
+- type: ACTOR
+  id: personal trainer
+- type: ACTOR
+  id: service we make
+- type: ACTOR
+  id: trainer
+- type: ACTOR
+  id: trainerize family of company
+- type: ACTOR
+  id: trainerize software as service platform
+- type: ACTOR
+  id: training exercise
+- type: ACTOR
+  id: tsr customer
+- type: ACTOR
+  id: tsr gym technik ltd.
+- type: ACTOR
+  id: video content
+- type: ACTOR
+  id: we
+- type: ACTOR
+  id: we we
+- type: ACTOR
+  id: wide variety
+- type: ACTOR
+  id: widget
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: access id
+- type: DATA
+  id: account information
+- type: DATA
+  id: billing
+- type: DATA
+  id: category of personal information
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: connection token for youtube channel
+- type: DATA
+  id: consumer profile information
+- type: DATA
+  id: financial information
+- type: DATA
+  id: fitness information
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about purchase
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information provide to services through youtube api service
+- type: DATA
+  id: information use
+- type: DATA
+  id: information we collect from third party
+- type: DATA
+  id: information we collect from use of services
+- type: DATA
+  id: information you submit to we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: log datum
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information of customer
+- type: DATA
+  id: private password
+- type: DATA
+  id: record
+- type: DATA
+  id: social medium
+- type: DATA
+  id: unique username
+- type: DATA
+  id: usage information
+- type: DATA
+  id: youtube api data
+- type: DATA
+  id: youtube video thumbnail information

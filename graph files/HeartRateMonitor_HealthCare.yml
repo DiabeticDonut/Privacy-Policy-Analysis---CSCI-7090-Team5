@@ -1,0 +1,224 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 2.We will not rent or sell your personal information to the third- party, but
+    for your better use of the services provided by third-party organizations, we
+    may share your information with third-party organizations that provide automatic
+    data processing technologies for the Software or providing service to the Software.
+  - If you communicate with us via our support section or via email, we may also collect
+    your email address, name and any information voluntarily submitted by you in connection
+    with such support (for example, your name, company name, and particular support
+    query or request).
+  purposes:
+    services:
+    - for your better use of the services provided by third-party organizations
+- source: we
+  target: api provide
+  key: COLLECT
+  text:
+  - We may use API provided by IOS to collect information about your subscription
+    orders, such as purchase items, subscription time, order status, payment time.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - If you communicate with us via our support section or via email, we may also collect
+    your email address, name and any information voluntarily submitted by you in connection
+    with such support (for example, your name, company name, and particular support
+    query or request).
+  purposes: {}
+- source: we
+  target: information about subscription order
+  key: COLLECT
+  text:
+  - We may use API provided by IOS to collect information about your subscription
+    orders, such as purchase items, subscription time, order status, payment time.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - If you communicate with us via our support section or via email, we may also collect
+    your email address, name and any information voluntarily submitted by you in connection
+    with such support (for example, your name, company name, and particular support
+    query or request).
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We generally retain your personal information for as long as is necessary for
+    the performance of the contract between you and us and to comply with our legal
+    obligations.
+  purposes: {}
+- source: we
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide automatic data processing technologies
+    for the Software or our third-party advertising partners may transfer the automatically
+    processed information across borders and from your country or jurisdiction to
+    other countries or jurisdictions around the world.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 2.We will not rent or sell your personal information to the third- party, but
+    for your better use of the services provided by third-party organizations, we
+    may share your information with third-party organizations that provide automatic
+    data processing technologies for the Software or providing service to the Software.
+  - 'Heart Beat Privacy Policy
+
+
+    1.We will share your information with third parties only in the ways that are
+    described in this Privacy Policy.'
+  purposes:
+    services:
+    - for your better use of the services provided by third-party organizations
+- source: UNSPECIFIED_ACTOR
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide automatic data processing technologies
+    for the Software or our third-party advertising partners may transfer the automatically
+    processed information across borders and from your country or jurisdiction to
+    other countries or jurisdictions around the world.
+  purposes: {}
+- source: advertiser
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide automatic data processing technologies
+    for the Software or our third-party advertising partners may transfer the automatically
+    processed information across borders and from your country or jurisdiction to
+    other countries or jurisdictions around the world.
+  purposes: {}
+- source: third- party
+  target: personal information
+  key: COLLECT
+  text:
+  - 2.We will not rent or sell your personal information to the third- party, but
+    for your better use of the services provided by third-party organizations, we
+    may share your information with third-party organizations that provide automatic
+    data processing technologies for the Software or providing service to the Software.
+  purposes: {}
+- source: identifier for advertiser use in android
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'We will use the API provided by IOS to collect  certain technical information
+    regarding your device, and your use of the Software and Service, including the
+    type, name and version of operating system: (i) your configurations and settings
+    of the Software and Service, version of the Software and Service;(ii)ISP (Internet
+    Service Provider), Internet protocol (IP) address, Media Access Control (MAC)
+    address, anonymous user identifiers, device configuration and identifiers; (iii)Advertising
+    ID (Identifier for Advertisers used in Android, such as Google advertising ID
+    (GAID)),UUID; (iv) Android ID.'
+- source: information about subscription order
+  target: order status
+  key: SUBSUM
+  text:
+  - We may use API provided by IOS to collect information about your subscription
+    orders, such as purchase items, subscription time, order status, payment time.
+- source: information about subscription order
+  target: payment time
+  key: SUBSUM
+  text:
+  - We may use API provided by IOS to collect information about your subscription
+    orders, such as purchase items, subscription time, order status, payment time.
+- source: information about subscription order
+  target: purchase item
+  key: SUBSUM
+  text:
+  - We may use API provided by IOS to collect information about your subscription
+    orders, such as purchase items, subscription time, order status, payment time.
+- source: information about subscription order
+  target: subscription time
+  key: SUBSUM
+  text:
+  - We may use API provided by IOS to collect information about your subscription
+    orders, such as purchase items, subscription time, order status, payment time.
+- source: information collect from you on
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - Such information will only be used to provide you with support services and will
+    not be connected with any other information collected from you on or through the
+    Software and Service, including, any individual User ID (as defined below) generated
+    or collected by us.
+- source: operate system
+  target: version of software
+  key: SUBSUM
+  text:
+  - 'We will use the API provided by IOS to collect  certain technical information
+    regarding your device, and your use of the Software and Service, including the
+    type, name and version of operating system: (i) your configurations and settings
+    of the Software and Service, version of the Software and Service;(ii)ISP (Internet
+    Service Provider), Internet protocol (IP) address, Media Access Control (MAC)
+    address, anonymous user identifiers, device configuration and identifiers; (iii)Advertising
+    ID (Identifier for Advertisers used in Android, such as Google advertising ID
+    (GAID)),UUID; (iv) Android ID.'
+- source: technical information regard device
+  target: person name
+  key: SUBSUM
+  text:
+  - 'We will use the API provided by IOS to collect  certain technical information
+    regarding your device, and your use of the Software and Service, including the
+    type, name and version of operating system: (i) your configurations and settings
+    of the Software and Service, version of the Software and Service;(ii)ISP (Internet
+    Service Provider), Internet protocol (IP) address, Media Access Control (MAC)
+    address, anonymous user identifiers, device configuration and identifiers; (iii)Advertising
+    ID (Identifier for Advertisers used in Android, such as Google advertising ID
+    (GAID)),UUID; (iv) Android ID.'
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: operate system
+- type: ACTOR
+  id: third- party
+- type: ACTOR
+  id: version of software
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: api provide
+- type: DATA
+  id: email address
+- type: DATA
+  id: identifier for advertiser use in android
+- type: DATA
+  id: information about subscription order
+- type: DATA
+  id: information collect from you on
+- type: DATA
+  id: order status
+- type: DATA
+  id: payment time
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: process information
+- type: DATA
+  id: purchase item
+- type: DATA
+  id: subscription time
+- type: DATA
+  id: technical information regard device

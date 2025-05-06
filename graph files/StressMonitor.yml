@@ -1,0 +1,151 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: backup
+  key: COLLECT
+  text:
+  - Your backups are stored in your private cloud space and we don't have access to
+    your backup files.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - We obtain your email address when you request support via email or customer support
+    contact form.
+  - We use your email only to contact you to provide support, feedback, or important
+    information.
+  purposes:
+    services:
+    - only to contact you to provide support, feedback, or important information
+- source: Apple
+  target: end to end encrypt information
+  key: COLLECT
+  text:
+  - No one else, not even Apple, can access end-to-end encrypted information.
+  purposes: {}
+- source: Apple
+  target: end to end encryption
+  key: COLLECT
+  text:
+  - For certain sensitive information, Apple uses end-to-end encryption.
+  purposes: {}
+- source: analytic provider
+  target: non-personal information
+  key: COLLECT
+  text:
+  - The analytics services automatically collect certain information that does not
+    personally identify our end users who access or use our mobile applications.
+  purposes: {}
+- source: he application
+  target: internet activity
+  key: COLLECT
+  text:
+  - T he application collects some usage data that are essential for us to deliver
+    our services, to understand your needs and to improve our services.
+  purposes: {}
+- source: non-personal information
+  target: device hardware information
+  key: SUBSUM
+  text:
+  - The analytics services automatically collect certain information that does not
+    personally identify our end users who access or use our mobile applications.
+  - This information includes but is not limited to device state information, unique
+    device identifiers, installation UUID, device hardware and OS information, information
+    relating to how application functions or anonymized IP addresses.
+- source: non-personal information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - The analytics services automatically collect certain information that does not
+    personally identify our end users who access or use our mobile applications.
+  - This information includes but is not limited to device state information, unique
+    device identifiers, installation UUID, device hardware and OS information, information
+    relating to how application functions or anonymized IP addresses.
+- source: non-personal information
+  target: device state information
+  key: SUBSUM
+  text:
+  - The analytics services automatically collect certain information that does not
+    personally identify our end users who access or use our mobile applications.
+  - This information includes but is not limited to device state information, unique
+    device identifiers, installation UUID, device hardware and OS information, information
+    relating to how application functions or anonymized IP addresses.
+- source: non-personal information
+  target: information relate to
+  key: SUBSUM
+  text:
+  - The analytics services automatically collect certain information that does not
+    personally identify our end users who access or use our mobile applications.
+  - This information includes but is not limited to device state information, unique
+    device identifiers, installation UUID, device hardware and OS information, information
+    relating to how application functions or anonymized IP addresses.
+- source: non-personal information
+  target: installation uuid
+  key: SUBSUM
+  text:
+  - The analytics services automatically collect certain information that does not
+    personally identify our end users who access or use our mobile applications.
+  - This information includes but is not limited to device state information, unique
+    device identifiers, installation UUID, device hardware and OS information, information
+    relating to how application functions or anonymized IP addresses.
+- source: non-personal information
+  target: ip address
+  key: SUBSUM
+  text:
+  - The analytics services automatically collect certain information that does not
+    personally identify our end users who access or use our mobile applications.
+  - This information includes but is not limited to device state information, unique
+    device identifiers, installation UUID, device hardware and OS information, information
+    relating to how application functions or anonymized IP addresses.
+- source: personal data identify you
+  target: email address
+  key: SUBSUM
+  text:
+  - The application does NOT collect any personal data that directly identifies you
+    such as your name, surname, email or anything you type within the app.
+- source: personal data identify you
+  target: person name
+  key: SUBSUM
+  text:
+  - The application does NOT collect any personal data that directly identifies you
+    such as your name, surname, email or anything you type within the app.
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: he application
+- type: ACTOR
+  id: we
+- type: DATA
+  id: backup
+- type: DATA
+  id: device hardware information
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device state information
+- type: DATA
+  id: email address
+- type: DATA
+  id: end to end encrypt information
+- type: DATA
+  id: end to end encryption
+- type: DATA
+  id: information relate to
+- type: DATA
+  id: installation uuid
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal data identify you

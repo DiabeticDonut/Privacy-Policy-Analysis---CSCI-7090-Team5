@@ -1,0 +1,1297 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Generally, we keep your information no longer than the period necessary for the
+    purposes for which it is processed.
+  - If we learn that we have received any information for an individual under the
+    age of eighteen, we process and delete that information as required by applicable
+    law.
+  - 'Note: if you choose to allow other apps on your device to disclose information
+    to our Services, we may collect information from those other apps (for example,
+    photos, health information, and/or audio clips).'
+  - The length of time for which we retain information depends on the purposes for
+    which we collected and use it and your choices, after which time we may delete
+    and/or aggregate it.
+  - We may also disclose your information in diligence leading up to a potential corporate
+    transaction.
+  - We may also retain and use this information as necessary to comply with our legal
+    obligations, as necessary for our legitimate business interests, to resolve disputes,
+    and to enforce our agreements.
+  - We may collect information from public sources, advertisers, partners, and other
+    parties (such as intermediaries, including Providers and the Pharmacies).
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  - You disclose information to us at your own risk.
+  purposes:
+    legal:
+    - to comply with our legal obligations, as necessary for our legitimate business
+      interests, to resolve disputes, and to enforce our agreements
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use aggregated or anonymized information for any permitted purpose, including
+    for research and marketing analytics purposes, and we may also disclose such information
+    for any permitted purpose to any other parties.
+  purposes: {}
+- source: we
+  target: biometric information
+  key: COLLECT
+  text:
+  - We or our service providers may use biometric information to verify your identity
+    prior to your use of the Service.
+  purposes:
+    security:
+    - to verify your identity prior to your use of the Service
+- source: we
+  target: browsing / search history
+  key: COLLECT
+  text:
+  - We may also collect information about your online activities over time and across
+    other websites or online services.
+  purposes: {}
+- source: we
+  target: clickstream datum
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: connection speed
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: content of communication you make via service
+  key: COLLECT
+  text:
+  - We also may collect the contents of communications that you make via our services.
+  purposes: {}
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: error information
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: frequency
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  - You can choose whether to allow our Services to collect real-time information
+    about your device's location through the device's privacy settings.
+  purposes: {}
+- source: we
+  target: information about browser
+  key: COLLECT
+  text:
+  - When you interact with the Services, we (and other parties that support our advertising
+    efforts) may automatically collect certain information about your browser, device,
+    and use of the Services through cookies, pixel tags, web beacons, local storage,
+    and other similar technologies.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - We may also collect information about you through a social media or other account
+    provided by another party, such as Facebook or Google (each, a " Third-Party Account
+    ").
+  - We may collect information about you if you use any of the other websites we operate
+    or the other services we provide.
+  purposes: {}
+- source: we
+  target: information concern health
+  key: COLLECT
+  text:
+  - Moreover, we collect and analyze information concerning your health.
+  purposes: {}
+- source: we
+  target: information in third party account
+  key: COLLECT
+  text:
+  - For example, if you access the Services or create a User Account through a Third-Party
+    Account, you may allow us to have access to certain information in your Third-Party
+    Account.
+  purposes: {}
+- source: we
+  target: information relate to use of
+  key: COLLECT
+  text:
+  - We may collect information related to your use of and interaction with the Services,
+    such as communications with Providers through the Services, whether you are a
+    current user, product interests, User Materials, and information related to your
+    inquiries or requests.
+  purposes: {}
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - 'We may use the information we collect in the following ways:'
+  purposes:
+    advertising:
+    - to deliver and customize relevant advertising and content to you
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - 'As part of Services, you authorize Cerebral to, and we may collect the following
+    information: Information you provide to us.'
+  - We may collect information you provide to us directly - for example, when you
+    create a User Account, submit feedback, answer research questions, interact with
+    Cerebral customer support, or use the Services.
+  purposes:
+    services:
+    - for example, when you create a User Account, submit feedback, answer research
+      questions, interact with Cerebral customer support, or use the Services
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We may also collect information about your online activities over time and across
+    other websites or online services.
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: log
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: operating system
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may disclose your personal information under the following circumstances:'
+  purposes:
+    services:
+    - to provide you with the Services, provide customer support, and for similar
+      purposes
+- source: we
+  target: phi
+  key: COLLECT
+  text:
+  - We may use your PHI to contact you for any services or products offered by Cerebral
+    or the Medical Groups.
+  purposes:
+    advertising:
+    - to contact you for any services or products offered by Cerebral or the Medical
+      Groups
+    services:
+    - to contact you for any services or products offered by Cerebral or the Medical
+      Groups
+- source: we
+  target: traffic datum
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: we
+  target: web page request
+  key: COLLECT
+  text:
+  - When you interact with the Services, we may automatically collect information
+    such as traffic data, logs, referring/exit pages, web page requests, location
+    data, frequency and/or date and time of your activities on the Services, error
+    information, clickstream data, IP address, usage data, and information about your
+    Internet connection, device (such as a mobile device ID), connection speed, operating
+    system, and/or browser.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other parties may gather information from or about you.
+  - This Privacy Policy does not address and we are not responsible for the practices
+    or policies of any other parties using, accessible through, or linked from the
+    Services, including Providers, the Medical Groups, the Pharmacies, the Labs, the
+    manufacturer of your mobile device and other IT hardware or software, and any
+    app or website operated by another party to which our Services may contain a link.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use aggregated or anonymized information for any permitted purpose, including
+    for research and marketing analytics purposes, and we may also disclose such information
+    for any permitted purpose to any other parties.
+  purposes: {}
+- source: associate provider
+  target: health information
+  key: COLLECT
+  text:
+  - The Medical Groups and their associated Providers process your health information
+    in accordance with the Medical Group Notice of Privacy Practices .
+  purposes: {}
+- source: cerebral
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As part of that relationship, you provide information to Cerebral, including but
+    not limited to, your name, email address, shipping address, phone number and certain
+    transactional information that are not "protected health information" or "medical
+    information."
+  purposes: {}
+- source: it hardware
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other parties may gather information from or about you.
+  - This Privacy Policy does not address and we are not responsible for the practices
+    or policies of any other parties using, accessible through, or linked from the
+    Services, including Providers, the Medical Groups, the Pharmacies, the Labs, the
+    manufacturer of your mobile device and other IT hardware or software, and any
+    app or website operated by another party to which our Services may contain a link.
+  purposes: {}
+- source: labs
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other parties may gather information from or about you.
+  - This Privacy Policy does not address and we are not responsible for the practices
+    or policies of any other parties using, accessible through, or linked from the
+    Services, including Providers, the Medical Groups, the Pharmacies, the Labs, the
+    manufacturer of your mobile device and other IT hardware or software, and any
+    app or website operated by another party to which our Services may contain a link.
+  purposes: {}
+- source: manufacturer
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other parties may gather information from or about you.
+  - This Privacy Policy does not address and we are not responsible for the practices
+    or policies of any other parties using, accessible through, or linked from the
+    Services, including Providers, the Medical Groups, the Pharmacies, the Labs, the
+    manufacturer of your mobile device and other IT hardware or software, and any
+    app or website operated by another party to which our Services may contain a link.
+  purposes: {}
+- source: medical groups
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other parties may gather information from or about you.
+  - This Privacy Policy does not address and we are not responsible for the practices
+    or policies of any other parties using, accessible through, or linked from the
+    Services, including Providers, the Medical Groups, the Pharmacies, the Labs, the
+    manufacturer of your mobile device and other IT hardware or software, and any
+    app or website operated by another party to which our Services may contain a link.
+  purposes: {}
+- source: medical groups
+  target: health information
+  key: COLLECT
+  text:
+  - The Medical Groups and their associated Providers process your health information
+    in accordance with the Medical Group Notice of Privacy Practices .
+  purposes: {}
+- source: medical groups
+  target: phi
+  key: COLLECT
+  text:
+  - The Medical Groups and its affiliated Providers have adopted a Medical Group Notice
+    of Privacy Practices that describes how they use and disclose PHI.
+  purposes: {}
+- source: party support advertising effort
+  target: information about browser
+  key: COLLECT
+  text:
+  - When you interact with the Services, we (and other parties that support our advertising
+    efforts) may automatically collect certain information about your browser, device,
+    and use of the Services through cookies, pixel tags, web beacons, local storage,
+    and other similar technologies.
+  purposes: {}
+- source: pharmacies
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other parties may gather information from or about you.
+  - This Privacy Policy does not address and we are not responsible for the practices
+    or policies of any other parties using, accessible through, or linked from the
+    Services, including Providers, the Medical Groups, the Pharmacies, the Labs, the
+    manufacturer of your mobile device and other IT hardware or software, and any
+    app or website operated by another party to which our Services may contain a link.
+  purposes: {}
+- source: providers
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These other parties may gather information from or about you.
+  - This Privacy Policy does not address and we are not responsible for the practices
+    or policies of any other parties using, accessible through, or linked from the
+    Services, including Providers, the Medical Groups, the Pharmacies, the Labs, the
+    manufacturer of your mobile device and other IT hardware or software, and any
+    app or website operated by another party to which our Services may contain a link.
+  purposes: {}
+- source: service provider
+  target: biometric information
+  key: COLLECT
+  text:
+  - We or our service providers may use biometric information to verify your identity
+    prior to your use of the Service.
+  purposes:
+    security:
+    - to verify your identity prior to your use of the Service
+- source: account access information
+  target: account number
+  key: SUBSUM
+  text:
+  - As stated above, other sensitive information may also include account access information
+    such as a username or account number in combination with a password, security
+    or access code, or other credential that allows access to an account.
+- source: account access information
+  target: username
+  key: SUBSUM
+  text:
+  - As stated above, other sensitive information may also include account access information
+    such as a username or account number in combination with a password, security
+    or access code, or other credential that allows access to an account.
+- source: administrative email regard service
+  target: appointment reminder
+  key: SUBSUM
+  text:
+  - Regardless of your indicated email preferences, we may send you administrative
+    emails regarding the Services, including, for example, notices of updates to our
+    Terms of Use or this Privacy Policy, appointment reminders, and other information
+    related to your User Account.
+- source: administrative email regard service
+  target: information relate to user account
+  key: SUBSUM
+  text:
+  - Regardless of your indicated email preferences, we may send you administrative
+    emails regarding the Services, including, for example, notices of updates to our
+    Terms of Use or this Privacy Policy, appointment reminders, and other information
+    related to your User Account.
+- source: base health care provider
+  target: doctor
+  key: SUBSUM
+  text:
+  - Any telehealth consults obtained through our Services are provided by independent
+    medical provider groups, including, but not limited to, Cerebral Medical Group,
+    P.A. (collectively, the " Medical Groups "), which engage with a network of United
+    States-based health care providers, including licensed therapists, nurse practitioners
+    and doctors (each, a " Provider ").
+- source: base health care provider
+  target: licensed therapist
+  key: SUBSUM
+  text:
+  - Any telehealth consults obtained through our Services are provided by independent
+    medical provider groups, including, but not limited to, Cerebral Medical Group,
+    P.A. (collectively, the " Medical Groups "), which engage with a network of United
+    States-based health care providers, including licensed therapists, nurse practitioners
+    and doctors (each, a " Provider ").
+- source: base health care provider
+  target: nurse practitioner
+  key: SUBSUM
+  text:
+  - Any telehealth consults obtained through our Services are provided by independent
+    medical provider groups, including, but not limited to, Cerebral Medical Group,
+    P.A. (collectively, the " Medical Groups "), which engage with a network of United
+    States-based health care providers, including licensed therapists, nurse practitioners
+    and doctors (each, a " Provider ").
+- source: business function
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - To vendors with which we contract to help us deliver our Services and perform
+    certain business and administrative functions, such as customer service, email
+    management, payment processing, analytics, legal services, auditing, hosting the
+    Services, and IT support (" Vendors ").
+- source: business function
+  target: customer service
+  key: SUBSUM
+  text:
+  - To vendors with which we contract to help us deliver our Services and perform
+    certain business and administrative functions, such as customer service, email
+    management, payment processing, analytics, legal services, auditing, hosting the
+    Services, and IT support (" Vendors ").
+- source: business function
+  target: email management
+  key: SUBSUM
+  text:
+  - To vendors with which we contract to help us deliver our Services and perform
+    certain business and administrative functions, such as customer service, email
+    management, payment processing, analytics, legal services, auditing, hosting the
+    Services, and IT support (" Vendors ").
+- source: business function
+  target: it support
+  key: SUBSUM
+  text:
+  - To vendors with which we contract to help us deliver our Services and perform
+    certain business and administrative functions, such as customer service, email
+    management, payment processing, analytics, legal services, auditing, hosting the
+    Services, and IT support (" Vendors ").
+- source: business function
+  target: legal service
+  key: SUBSUM
+  text:
+  - To vendors with which we contract to help us deliver our Services and perform
+    certain business and administrative functions, such as customer service, email
+    management, payment processing, analytics, legal services, auditing, hosting the
+    Services, and IT support (" Vendors ").
+- source: business function
+  target: payment processing
+  key: SUBSUM
+  text:
+  - To vendors with which we contract to help us deliver our Services and perform
+    certain business and administrative functions, such as customer service, email
+    management, payment processing, analytics, legal services, auditing, hosting the
+    Services, and IT support (" Vendors ").
+- source: cerebral
+  target: cerebral inc.
+  key: SUBSUM
+  text:
+  - To that end, this Privacy Policy (" Privacy Policy ") describes the types of information
+    Cerebral Inc. and its affiliates (collectively, " Cerebral ," " we ," " our ,"
+    or " us ") may collect, how we may use such information, and to whom we may disclose
+    it in order to provide the services described below.
+- source: contact information
+  target: demographic information
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: home
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: identity verification information
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: payment detail
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: contact information
+  target: relate information
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: content
+  target: advertising
+  key: SUBSUM
+  text:
+  - It also does not apply to the information practices of any other party, including
+    other parties you may communicate with off the Services, or other parties you
+    connect with through any application or content (including advertising) that may
+    link to or be accessible from or on the Services.
+- source: demographic information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: demographic information
+  target: gender
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: demographic information
+  target: race / ethnicity
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: government identification document
+  target: license
+  key: SUBSUM
+  text:
+  - Some of this information you provide to us may include sensitive personal information
+    including government identification documents such as a driver's license, passport
+    number, and social security numbers.
+- source: government identification document
+  target: passport number
+  key: SUBSUM
+  text:
+  - Some of this information you provide to us may include sensitive personal information
+    including government identification documents such as a driver's license, passport
+    number, and social security numbers.
+- source: government identification document
+  target: ssn
+  key: SUBSUM
+  text:
+  - Some of this information you provide to us may include sensitive personal information
+    including government identification documents such as a driver's license, passport
+    number, and social security numbers.
+- source: information about you
+  target: information from source as
+  key: SUBSUM
+  text:
+  - We may combine your PHI with other information about you, including information
+    from other sources, such as from your Medical Groups or Providers, pharmacies,
+    insurers, or benefits program, to maintain an accurate record of our users.
+- source: information relate to use of
+  target: information relate to inquiry
+  key: SUBSUM
+  text:
+  - We may collect information related to your use of and interaction with the Services,
+    such as communications with Providers through the Services, whether you are a
+    current user, product interests, User Materials, and information related to your
+    inquiries or requests.
+- source: information relate to use of
+  target: product interest
+  key: SUBSUM
+  text:
+  - We may collect information related to your use of and interaction with the Services,
+    such as communications with Providers through the Services, whether you are a
+    current user, product interests, User Materials, and information related to your
+    inquiries or requests.
+- source: information relate to use of
+  target: user material
+  key: SUBSUM
+  text:
+  - We may collect information related to your use of and interaction with the Services,
+    such as communications with Providers through the Services, whether you are a
+    current user, product interests, User Materials, and information related to your
+    inquiries or requests.
+- source: intermediary
+  target: pharmacies
+  key: SUBSUM
+  text:
+  - We may collect information from public sources, advertisers, partners, and other
+    parties (such as intermediaries, including Providers and the Pharmacies).
+- source: intermediary
+  target: providers
+  key: SUBSUM
+  text:
+  - We may collect information from public sources, advertisers, partners, and other
+    parties (such as intermediaries, including Providers and the Pharmacies).
+- source: medical provider
+  target: providers
+  key: SUBSUM
+  text:
+  - Please note that if you delete your User Account, medical providers, including
+    Providers, and other affiliates may still have the right to retain information
+    under applicable law, regulations, or their own retention policy.
+- source: payment detail
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: payment detail
+  target: postal address
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: protected information
+  target: medical information
+  key: SUBSUM
+  text:
+  - In addition, any medical or health information that you provide that is subject
+    to specific protections under applicable state laws (collectively, with PHI, "
+    Protected Information "), will be used and disclosed in accordance with such applicable
+    laws.
+- source: relate information
+  target: audio
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: health insurance information
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: information you choose
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: lab result
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: lifestyle preference
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: log credential
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: medical condition
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: physician referral
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: prescription
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: related health information
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: ssn
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: treatment option
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: relate information
+  target: user account
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: related health information
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - This includes contact information, such as name, home and billing address, email
+    address, and telephone number; demographic information such as date of birth,
+    gender, sexuality, race/ethnicity; payment details like billing address and credit
+    or debit card number (for payment purposes only); identity-verification information;
+    health-related information, such as information about your medical history, medical
+    conditions, treatment options, physician referrals, prescriptions, lab results,
+    lifestyle and personal preferences, health insurance information, or other related
+    health information, such as your physical and emotional characteristics; other
+    information, such as Social Security Number (collected by our trusted verification
+    provider solely for purposes of identity verification), audio, images, and video
+    of you; log-in credentials (if you create a User Account); and any other information
+    you choose to provide to us about yourself or others.
+- source: sensitive information
+  target: account access information
+  key: SUBSUM
+  text:
+  - As stated above, other sensitive information may also include account access information
+    such as a username or account number in combination with a password, security
+    or access code, or other credential that allows access to an account.
+- source: sensitive personal information
+  target: government identification document
+  key: SUBSUM
+  text:
+  - Some of this information you provide to us may include sensitive personal information
+    including government identification documents such as a driver's license, passport
+    number, and social security numbers.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertising
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: associate provider
+- type: ACTOR
+  id: base health care provider
+- type: ACTOR
+  id: business function
+- type: ACTOR
+  id: cerebral
+- type: ACTOR
+  id: cerebral inc.
+- type: ACTOR
+  id: content
+- type: ACTOR
+  id: customer service
+- type: ACTOR
+  id: doctor
+- type: ACTOR
+  id: email management
+- type: ACTOR
+  id: intermediary
+- type: ACTOR
+  id: it hardware
+- type: ACTOR
+  id: it support
+- type: ACTOR
+  id: labs
+- type: ACTOR
+  id: legal service
+- type: ACTOR
+  id: licensed therapist
+- type: ACTOR
+  id: manufacturer
+- type: ACTOR
+  id: medical groups
+- type: ACTOR
+  id: medical provider
+- type: ACTOR
+  id: nurse practitioner
+- type: ACTOR
+  id: party support advertising effort
+- type: ACTOR
+  id: payment processing
+- type: ACTOR
+  id: pharmacies
+- type: ACTOR
+  id: providers
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account access information
+- type: DATA
+  id: account number
+- type: DATA
+  id: administrative email regard service
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: appointment reminder
+- type: DATA
+  id: audio
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: clickstream datum
+- type: DATA
+  id: connection speed
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content of communication you make via service
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: email address
+- type: DATA
+  id: error information
+- type: DATA
+  id: frequency
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: government identification document
+- type: DATA
+  id: health information
+- type: DATA
+  id: health insurance information
+- type: DATA
+  id: home
+- type: DATA
+  id: identity verification information
+- type: DATA
+  id: information about browser
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information concern health
+- type: DATA
+  id: information from source as
+- type: DATA
+  id: information in third party account
+- type: DATA
+  id: information relate to inquiry
+- type: DATA
+  id: information relate to use of
+- type: DATA
+  id: information relate to user account
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information you choose
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: lab result
+- type: DATA
+  id: license
+- type: DATA
+  id: lifestyle preference
+- type: DATA
+  id: log
+- type: DATA
+  id: log credential
+- type: DATA
+  id: medical condition
+- type: DATA
+  id: medical information
+- type: DATA
+  id: operating system
+- type: DATA
+  id: passport number
+- type: DATA
+  id: payment detail
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phi
+- type: DATA
+  id: phone number
+- type: DATA
+  id: physician referral
+- type: DATA
+  id: postal address
+- type: DATA
+  id: prescription
+- type: DATA
+  id: product interest
+- type: DATA
+  id: protected information
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: relate information
+- type: DATA
+  id: related health information
+- type: DATA
+  id: sensitive information
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: ssn
+- type: DATA
+  id: traffic datum
+- type: DATA
+  id: treatment option
+- type: DATA
+  id: user account
+- type: DATA
+  id: user material
+- type: DATA
+  id: username
+- type: DATA
+  id: web page request

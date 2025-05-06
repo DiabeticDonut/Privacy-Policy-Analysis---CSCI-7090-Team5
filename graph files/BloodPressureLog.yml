@@ -1,0 +1,242 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - "Intro \n\nDepending on your actions, we receive your data when you use and interact
+    with the App ."
+  - We may also receive data from third parties.
+  - We share your data with the parties below for purposes listen in Section "Types
+    of data we collect" .
+  - We store your data while you use our App.
+  - We will only retain your data for as long as necessary to fulfill the purposes
+    for which we collected it, including satisfying any legal, accounting, or reporting
+    requirements.
+  purposes:
+    legal:
+    - to fulfill the purposes for which we collected it, including satisfying any
+      legal, accounting, or reporting requirements
+- source: we
+  target: app statistic
+  key: COLLECT
+  text:
+  - When a user buys a subscription, we receive transaction data, ID subscriptions,
+    subscription terms, and App statistics from the Apple App Store.
+  purposes: {}
+- source: we
+  target: different kind
+  key: COLLECT
+  text:
+  - 'Types of data we collect
+
+
+    We collect (automatically or with your consent), use, store, and transfer different
+    kinds of personal data about you, which we have grouped as follows:'
+  purposes: {}
+- source: we
+  target: id subscription
+  key: COLLECT
+  text:
+  - When a user buys a subscription, we receive transaction data, ID subscriptions,
+    subscription terms, and App statistics from the Apple App Store.
+  purposes: {}
+- source: we
+  target: personal identifier
+  key: COLLECT
+  text:
+  - We disclose potentially personally-identifying information (i.e., personal data)
+    among our employees, contractors, and affiliated or other third-party organizations
+    that (i) need to know that information in order to process it on our behalf or
+    to provide services available at the Company, and (ii) that have agreed not to
+    disclose it to others.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - This privacy notice will inform you how we look after, collect, process, and use
+    your personal data when you use our App and tell you about your legal rights.
+  - We share your Personal Data with our service providers, strictly limited to cases
+    and purposes stipulated in this privacy notice.
+  purposes: {}
+- source: we
+  target: subscription term
+  key: COLLECT
+  text:
+  - When a user buys a subscription, we receive transaction data, ID subscriptions,
+    subscription terms, and App statistics from the Apple App Store.
+  purposes: {}
+- source: we
+  target: transaction datum
+  key: COLLECT
+  text:
+  - When a user buys a subscription, we receive transaction data, ID subscriptions,
+    subscription terms, and App statistics from the Apple App Store.
+  purposes: {}
+- source: Apple
+  target: banking information
+  key: COLLECT
+  text:
+  - When you pay for a subscription to our App, you share your banking information
+    with the Apple App Store.
+  purposes: {}
+- source: Apple
+  target: datum you share through send consumption information api
+  key: COLLECT
+  text:
+  - Apple uses and protects the data you share through the Send Consumption Information
+    API in accordance with Apple's Privacy Policy .
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In addition, we limit access to your data to employees, agents, contractors, and
+    other third parties who have a business need to know.
+  - These parties help us with the storage of Personal Data, analyze or keep your
+    data, and show relevant information about the App to us when you use the app to
+    understand how you use the App, engage with particular features, and what you
+    like or dislike the most to generate statistical reports.
+  - They will only process your data based on our instructions and are subject to
+    a duty of confidentiality.
+  - We share your data with the parties below for purposes listen in Section "Types
+    of data we collect" .
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We do not allow our third-party service providers to use your personal data for
+    their purposes and only permit them to process your personal data for specified
+    purposes and under our instructions.
+  - We do not allow our third-party service providers to use your personal data for
+    their purposes and only permit them to process your personal data for specified
+    purposes.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - We share your Personal Data with our service providers, strictly limited to cases
+    and purposes stipulated in this privacy notice.
+  purposes: {}
+- source: cover entity
+  target: health insurance company
+  key: SUBSUM
+  text:
+  - We are not entities that require HIPAA compliance ( covered entities , such as
+    health insurance companies, healthcare providers, including pharmacies and healthcare
+    clearinghouses), and not business associates -- persons or entities  who handle
+    protected health information for a covered entity.
+- source: cover entity
+  target: healthcare provider
+  key: SUBSUM
+  text:
+  - We are not entities that require HIPAA compliance ( covered entities , such as
+    health insurance companies, healthcare providers, including pharmacies and healthcare
+    clearinghouses), and not business associates -- persons or entities  who handle
+    protected health information for a covered entity.
+- source: device identifier
+  target: advertising id
+  key: SUBSUM
+  text:
+  - Unique device identifiers (including IDFA).
+- source: health insurance company
+  target: healthcare clearinghouse
+  key: SUBSUM
+  text:
+  - We are not entities that require HIPAA compliance ( covered entities , such as
+    health insurance companies, healthcare providers, including pharmacies and healthcare
+    clearinghouses), and not business associates -- persons or entities  who handle
+    protected health information for a covered entity.
+- source: health insurance company
+  target: pharmacy
+  key: SUBSUM
+  text:
+  - We are not entities that require HIPAA compliance ( covered entities , such as
+    health insurance companies, healthcare providers, including pharmacies and healthcare
+    clearinghouses), and not business associates -- persons or entities  who handle
+    protected health information for a covered entity.
+- source: personal identifier
+  target: personal information
+  key: SUBSUM
+  text:
+  - We disclose potentially personally-identifying information (i.e., personal data)
+    among our employees, contractors, and affiliated or other third-party organizations
+    that (i) need to know that information in order to process it on our behalf or
+    to provide services available at the Company, and (ii) that have agreed not to
+    disclose it to others.
+- source: personal information
+  target: amount
+  key: SUBSUM
+  text:
+  - We also undertake to collect only such amounts and types of personal data strictly
+    required for the purposes mentioned in this privacy notice section (data minimization
+    principle).
+- source: personal information
+  target: different kind
+  key: SUBSUM
+  text:
+  - 'Types of data we collect
+
+
+    We collect (automatically or with your consent), use, store, and transfer different
+    kinds of personal data about you, which we have grouped as follows:'
+- source: technical datum encryption tool
+  target: SSL
+  key: SUBSUM
+  text:
+  - We also use technical data encryption tools like SSL protocols to secure your
+    data.
+nodes:
+- type: ACTOR
+  id: Apple
+- type: ACTOR
+  id: SSL
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: cover entity
+- type: ACTOR
+  id: health insurance company
+- type: ACTOR
+  id: healthcare clearinghouse
+- type: ACTOR
+  id: healthcare provider
+- type: ACTOR
+  id: pharmacy
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: technical datum encryption tool
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: amount
+- type: DATA
+  id: app statistic
+- type: DATA
+  id: banking information
+- type: DATA
+  id: datum you share through send consumption information api
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: different kind
+- type: DATA
+  id: id subscription
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: subscription term
+- type: DATA
+  id: transaction datum

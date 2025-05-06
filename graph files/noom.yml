@@ -1,0 +1,842 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, online advertisers or third parties share information with us to
+    measure, report on, or improve the performance of ads for Noom.
+  - 'How and when we share your information:
+
+
+    We may share your information with, for example: Service providers: We provide
+    your information to vendors or agents working on our behalf for the purposes described
+    in this policy.'
+  - 'Noom Privacy Policy
+
+
+    How long we keep your information:'
+  - To do that, we use your information to provide and improve your experience.
+  - We keep your information only so long as we need it to provide our services to
+    you, fulfill the purposes described in this policy, comply with our legal obligations,
+    resolve disputes, and enforce our agreements.
+  - We may also receive data from third party sensors you choose to connect; for example,
+    you can choose to connect your Apple Watch Health App with Noom so we can receive
+    and help you track your step and exercise data.
+  - 'We may share your information with, for example: Corporate transactions: We may
+    disclose your information as part of a corporate transaction or proceeding such
+    as a merger, financing, acquisition, bankruptcy, dissolution, or a transfer, divestiture,
+    or sale of all or a portion of our business or assets.'
+  - 'We may share your information with, for example: Legal and law enforcement: We
+    will access, disclose, and preserve your information when we believe that doing
+    so is necessary to comply with applicable law or respond to valid legal process,
+    including from law enforcement or other government agencies.'
+  - 'We may share your information with, for example: Safety, security, and protecting
+    rights: We will also disclose your information if we believe it is necessary to:'
+  purposes:
+    advertising:
+    - to measure, report on, or improve the performance of ads for Noom
+    analytics:
+    - to measure, report on, or improve the performance of ads for Noom
+    services:
+    - to connect your Apple Watch Health App with Noom
+    - to provide and improve your experience
+- source: we
+  target: account number
+  key: COLLECT
+  text:
+  - We collect information such as a username or account number in combination with
+    a password, security or access code, or other credential that allows access to
+    an account.
+  purposes: {}
+- source: we
+  target: activity
+  key: COLLECT
+  text:
+  - When you're on Noom, we use your activity--such as the foods you typically log--
+    to customize your experience.
+  purposes:
+    services:
+    - to customize your experience
+- source: we
+  target: activity on website
+  key: COLLECT
+  text:
+  - We also automatically log your other activity on our websites, apps, and connected
+    products, including the URL of the website from which you came to our sites, pages
+    you viewed, how long you spent on a page, access times, and other details about
+    your use of and actions on our website.
+  purposes: {}
+- source: we
+  target: advertising id
+  key: COLLECT
+  text:
+  - We and our partners also use cookies, web beacons, mobile analytics and advertising
+    device IDs, and similar technologies.
+  purposes: {}
+- source: we
+  target: age
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Demographic
+    data: In some cases, we request that you provide or you may offer age, gender,
+    marital status, and similar demographic details.'
+  purposes: {}
+- source: we
+  target: alias
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Common
+    personal information and identifiers: We collect name, username or alias, and
+    contact details such as email address, postal address, and phone number.'
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Common
+    personal information and identifiers: We collect name, username or alias, and
+    contact details such as email address, postal address, and phone number.'
+  purposes: {}
+- source: we
+  target: content of message you send in chat in app
+  key: COLLECT
+  text:
+  - 'Contents of communications : We collect the contents of messages you send in
+    chats and message boards in our apps.'
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our partners also use cookies, web beacons, mobile analytics and advertising
+    device IDs, and similar technologies.
+  purposes: {}
+- source: we
+  target: credit / debit card number
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Payment
+    information: If you make a purchase or other financial transaction, we collect
+    credit card numbers, financial account information, and other payment details.'
+  purposes: {}
+- source: we
+  target: demographic detail
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Demographic
+    data: In some cases, we request that you provide or you may offer age, gender,
+    marital status, and similar demographic details.'
+  purposes: {}
+- source: we
+  target: document
+  key: COLLECT
+  text:
+  - We collect the photos, documents, or other files you upload to Noom; and if you
+    send us email messages or communications, we collect and retain those communications.
+  purposes: {}
+- source: we
+  target: file
+  key: COLLECT
+  text:
+  - We collect the photos, documents, or other files you upload to Noom; and if you
+    send us email messages or communications, we collect and retain those communications.
+  purposes: {}
+- source: we
+  target: financial account information
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Payment
+    information: If you make a purchase or other financial transaction, we collect
+    credit card numbers, financial account information, and other payment details.'
+  purposes: {}
+- source: we
+  target: gender
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Demographic
+    data: In some cases, we request that you provide or you may offer age, gender,
+    marital status, and similar demographic details.'
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - Depending on your device and app settings, we collect geolocation data when you
+    use our apps or online services.
+  purposes: {}
+- source: we
+  target: information about device you use noom on
+  key: COLLECT
+  text:
+  - In addition to log data, we collect information about the device you're using
+    Noom on, including the type of device, operating system, settings, unique device
+    identifiers, and crash data.
+  purposes: {}
+- source: we
+  target: information about racial origin you provide
+  key: COLLECT
+  text:
+  - We collect information about racial or ethic origin, religion, or philosophical
+    beliefs that you may provide or we infer throughout the program to better support
+    you.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'These third-party sources include, for example: Information our advertisers share
+    with us: We also get information about you and your activity from our advertising
+    partners and other third parties we work with.'
+  - We collect information about you from different sources and in various ways when
+    you use our services, including information you provide directly, information
+    collected automatically, information from third-party data sources, and data we
+    infer or generate from other data.
+  purposes: {}
+- source: we
+  target: information browser send
+  key: COLLECT
+  text:
+  - When you use Noom, our servers record information ("log data"), including information
+    that your browser automatically sends whenever you visit a website, or that your
+    mobile app automatically sends when you're using it.
+  purposes: {}
+- source: we
+  target: information concern health
+  key: COLLECT
+  text:
+  - We collect and analyze information concerning your health, such as weight, mental
+    state, sleep and exercise habits, and food intake.
+  purposes: {}
+- source: we
+  target: log datum
+  key: COLLECT
+  text:
+  - When you use Noom, our servers record information ("log data"), including information
+    that your browser automatically sends whenever you visit a website, or that your
+    mobile app automatically sends when you're using it.
+  purposes: {}
+- source: we
+  target: marital status
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Demographic
+    data: In some cases, we request that you provide or you may offer age, gender,
+    marital status, and similar demographic details.'
+  purposes: {}
+- source: we
+  target: payment datum
+  key: COLLECT
+  text:
+  - 'We may share your information with, for example: Financial services and payment
+    processing: When you provide payment data, for example to make a purchase, we
+    will disclose payment and transactional data to banks and other entities as necessary
+    for payment processing, fraud prevention, credit risk reduction, analytics, or
+    other related financial services.'
+  purposes: {}
+- source: we
+  target: payment detail
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Payment
+    information: If you make a purchase or other financial transaction, we collect
+    credit card numbers, financial account information, and other payment details.'
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Common
+    personal information and identifiers: We collect name, username or alias, and
+    contact details such as email address, postal address, and phone number.'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We and our partners use these technologies in websites, apps, and online services
+    to collect personal data (such as the pages you visit, the links you click on,
+    and similar usage information, identifiers, and device information) when you use
+    our services, including personal data about your online activities over time and
+    across different websites, apps, or online services.
+  purposes: {}
+- source: we
+  target: photo
+  key: COLLECT
+  text:
+  - We collect the photos, documents, or other files you upload to Noom; and if you
+    send us email messages or communications, we collect and retain those communications.
+  purposes: {}
+- source: we
+  target: type of information describe
+  key: COLLECT
+  text:
+  - We also obtain the types of information described above from third parties.
+  purposes: {}
+- source: we
+  target: username
+  key: COLLECT
+  text:
+  - We collect information such as a username or account number in combination with
+    a password, security or access code, or other credential that allows access to
+    an account.
+  - 'When you sign up for or use Noom, you share certain information, such as: Common
+    personal information and identifiers: We collect name, username or alias, and
+    contact details such as email address, postal address, and phone number.'
+  purposes: {}
+- source: Google
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, we use Google Analytics on our website to help us understand how
+    users interact with our website; you can learn how Google collects and uses information
+    at www.google.com/policies/privacy/partners .
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, online advertisers or third parties share information with us to
+    measure, report on, or improve the performance of ads for Noom.
+  - 'How and when we share your information:
+
+
+    We may share your information with, for example: Service providers: We provide
+    your information to vendors or agents working on our behalf for the purposes described
+    in this policy.'
+  purposes:
+    advertising:
+    - to measure, report on, or improve the performance of ads for Noom
+    analytics:
+    - to measure, report on, or improve the performance of ads for Noom
+- source: UNSPECIFIED_ACTOR
+  target: advertising id
+  key: COLLECT
+  text:
+  - We and our partners also use cookies, web beacons, mobile analytics and advertising
+    device IDs, and similar technologies.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our partners also use cookies, web beacons, mobile analytics and advertising
+    device IDs, and similar technologies.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: payment datum
+  key: COLLECT
+  text:
+  - 'We may share your information with, for example: Financial services and payment
+    processing: When you provide payment data, for example to make a purchase, we
+    will disclose payment and transactional data to banks and other entities as necessary
+    for payment processing, fraud prevention, credit risk reduction, analytics, or
+    other related financial services.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We and our partners use these technologies in websites, apps, and online services
+    to collect personal data (such as the pages you visit, the links you click on,
+    and similar usage information, identifiers, and device information) when you use
+    our services, including personal data about your online activities over time and
+    across different websites, apps, or online services.
+  purposes: {}
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - For example, online advertisers or third parties share information with us to
+    measure, report on, or improve the performance of ads for Noom.
+  - 'We may share your information with, for example: Advertising providers:'
+  purposes:
+    advertising:
+    - to measure, report on, or improve the performance of ads for Noom
+    analytics:
+    - to measure, report on, or improve the performance of ads for Noom
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+  purposes: {}
+- source: analytic provider
+  target: personal information
+  key: COLLECT
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+  purposes: {}
+- source: bank
+  target: payment datum
+  key: COLLECT
+  text:
+  - 'We may share your information with, for example: Financial services and payment
+    processing: When you provide payment data, for example to make a purchase, we
+    will disclose payment and transactional data to banks and other entities as necessary
+    for payment processing, fraud prevention, credit risk reduction, analytics, or
+    other related financial services.'
+  purposes: {}
+- source: financial service
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may share your information with, for example: Financial services and payment
+    processing: When you provide payment data, for example to make a purchase, we
+    will disclose payment and transactional data to banks and other entities as necessary
+    for payment processing, fraud prevention, credit risk reduction, analytics, or
+    other related financial services.'
+  purposes: {}
+- source: payment processing
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We may share your information with, for example: Financial services and payment
+    processing: When you provide payment data, for example to make a purchase, we
+    will disclose payment and transactional data to banks and other entities as necessary
+    for payment processing, fraud prevention, credit risk reduction, analytics, or
+    other related financial services.'
+  purposes: {}
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'How and when we share your information:
+
+
+    We may share your information with, for example: Service providers: We provide
+    your information to vendors or agents working on our behalf for the purposes described
+    in this policy.'
+  purposes: {}
+- source: activity
+  target: food
+  key: SUBSUM
+  text:
+  - When you're on Noom, we use your activity--such as the foods you typically log--
+    to customize your experience.
+- source: activity on website
+  target: access time
+  key: SUBSUM
+  text:
+  - We also automatically log your other activity on our websites, apps, and connected
+    products, including the URL of the website from which you came to our sites, pages
+    you viewed, how long you spent on a page, access times, and other details about
+    your use of and actions on our website.
+- source: activity on website
+  target: url of website from you come to site
+  key: SUBSUM
+  text:
+  - We also automatically log your other activity on our websites, apps, and connected
+    products, including the URL of the website from which you came to our sites, pages
+    you viewed, how long you spent on a page, access times, and other details about
+    your use of and actions on our website.
+- source: choice
+  target: global privacy control
+  key: SUBSUM
+  text:
+  - To learn how to use browser and device controls to express your choices, including
+    the Global Privacy Control , please visit our Cookie Policy .
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Common
+    personal information and identifiers: We collect name, username or alias, and
+    contact details such as email address, postal address, and phone number.'
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Common
+    personal information and identifiers: We collect name, username or alias, and
+    contact details such as email address, postal address, and phone number.'
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'When you sign up for or use Noom, you share certain information, such as: Common
+    personal information and identifiers: We collect name, username or alias, and
+    contact details such as email address, postal address, and phone number.'
+- source: device information
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+- source: device information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+- source: device information
+  target: ip address
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+- source: information about device you use noom on
+  target: type of device
+  key: SUBSUM
+  text:
+  - In addition to log data, we collect information about the device you're using
+    Noom on, including the type of device, operating system, settings, unique device
+    identifiers, and crash data.
+- source: information about you
+  target: datum we infer
+  key: SUBSUM
+  text:
+  - We collect information about you from different sources and in various ways when
+    you use our services, including information you provide directly, information
+    collected automatically, information from third-party data sources, and data we
+    infer or generate from other data.
+- source: information about you
+  target: information collect
+  key: SUBSUM
+  text:
+  - We collect information about you from different sources and in various ways when
+    you use our services, including information you provide directly, information
+    collected automatically, information from third-party data sources, and data we
+    infer or generate from other data.
+- source: information about you
+  target: information you provide
+  key: SUBSUM
+  text:
+  - We collect information about you from different sources and in various ways when
+    you use our services, including information you provide directly, information
+    collected automatically, information from third-party data sources, and data we
+    infer or generate from other data.
+- source: information concern health
+  target: food intake
+  key: SUBSUM
+  text:
+  - We collect and analyze information concerning your health, such as weight, mental
+    state, sleep and exercise habits, and food intake.
+- source: information concern health
+  target: mental state
+  key: SUBSUM
+  text:
+  - We collect and analyze information concerning your health, such as weight, mental
+    state, sleep and exercise habits, and food intake.
+- source: information concern health
+  target: sleep habit
+  key: SUBSUM
+  text:
+  - We collect and analyze information concerning your health, such as weight, mental
+    state, sleep and exercise habits, and food intake.
+- source: information concern health
+  target: weight
+  key: SUBSUM
+  text:
+  - We collect and analyze information concerning your health, such as weight, mental
+    state, sleep and exercise habits, and food intake.
+- source: log data
+  target: browser type
+  key: SUBSUM
+  text:
+  - This log data includes your IP address, browser type and settings, and the date
+    and time you used Noom.
+- source: log data
+  target: date
+  key: SUBSUM
+  text:
+  - This log data includes your IP address, browser type and settings, and the date
+    and time you used Noom.
+- source: log data
+  target: information browser send
+  key: SUBSUM
+  text:
+  - This log data includes your IP address, browser type and settings, and the date
+    and time you used Noom.
+  - When you use Noom, our servers record information ("log data"), including information
+    that your browser automatically sends whenever you visit a website, or that your
+    mobile app automatically sends when you're using it.
+- source: log data
+  target: ip address
+  key: SUBSUM
+  text:
+  - This log data includes your IP address, browser type and settings, and the date
+    and time you used Noom.
+- source: log data
+  target: log datum
+  key: SUBSUM
+  text:
+  - This log data includes your IP address, browser type and settings, and the date
+    and time you used Noom.
+  - When you use Noom, our servers record information ("log data"), including information
+    that your browser automatically sends whenever you visit a website, or that your
+    mobile app automatically sends when you're using it.
+- source: log data
+  target: setting
+  key: SUBSUM
+  text:
+  - This log data includes your IP address, browser type and settings, and the date
+    and time you used Noom.
+- source: log data
+  target: time
+  key: SUBSUM
+  text:
+  - This log data includes your IP address, browser type and settings, and the date
+    and time you used Noom.
+- source: personal information
+  target: browsing / search history
+  key: SUBSUM
+  text:
+  - We and our partners use these technologies in websites, apps, and online services
+    to collect personal data (such as the pages you visit, the links you click on,
+    and similar usage information, identifiers, and device information) when you use
+    our services, including personal data about your online activities over time and
+    across different websites, apps, or online services.
+- source: personal information
+  target: device information
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+  - We and our partners use these technologies in websites, apps, and online services
+    to collect personal data (such as the pages you visit, the links you click on,
+    and similar usage information, identifiers, and device information) when you use
+    our services, including personal data about your online activities over time and
+    across different websites, apps, or online services.
+- source: personal information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+- source: personal information
+  target: identifier
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+  - We and our partners use these technologies in websites, apps, and online services
+    to collect personal data (such as the pages you visit, the links you click on,
+    and similar usage information, identifiers, and device information) when you use
+    our services, including personal data about your online activities over time and
+    across different websites, apps, or online services.
+- source: personal information
+  target: inference
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+- source: personal information
+  target: internet activity
+  key: SUBSUM
+  text:
+  - We and our partners use these technologies in websites, apps, and online services
+    to collect personal data (such as the pages you visit, the links you click on,
+    and similar usage information, identifiers, and device information) when you use
+    our services, including personal data about your online activities over time and
+    across different websites, apps, or online services.
+- source: personal information
+  target: log datum
+  key: SUBSUM
+  text:
+  - Third party analytics and advertising companies also collect personal data through
+    our website and apps, including identifiers and device information (such as cookie
+    IDs, device IDs, and IP address), geolocation data, log data, and inferences based
+    on and associated with that data, as described in our Cookie Policy .
+- source: personal information
+  target: usage information
+  key: SUBSUM
+  text:
+  - We and our partners use these technologies in websites, apps, and online services
+    to collect personal data (such as the pages you visit, the links you click on,
+    and similar usage information, identifiers, and device information) when you use
+    our services, including personal data about your online activities over time and
+    across different websites, apps, or online services.
+- source: type of device
+  target: crash datum
+  key: SUBSUM
+  text:
+  - In addition to log data, we collect information about the device you're using
+    Noom on, including the type of device, operating system, settings, unique device
+    identifiers, and crash data.
+- source: type of device
+  target: device identifier
+  key: SUBSUM
+  text:
+  - In addition to log data, we collect information about the device you're using
+    Noom on, including the type of device, operating system, settings, unique device
+    identifiers, and crash data.
+- source: type of device
+  target: operate system
+  key: SUBSUM
+  text:
+  - In addition to log data, we collect information about the device you're using
+    Noom on, including the type of device, operating system, settings, unique device
+    identifiers, and crash data.
+- source: type of device
+  target: setting
+  key: SUBSUM
+  text:
+  - In addition to log data, we collect information about the device you're using
+    Noom on, including the type of device, operating system, settings, unique device
+    identifiers, and crash data.
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: bank
+- type: ACTOR
+  id: financial service
+- type: ACTOR
+  id: payment processing
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: access time
+- type: DATA
+  id: account number
+- type: DATA
+  id: activity
+- type: DATA
+  id: activity on website
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: age
+- type: DATA
+  id: alias
+- type: DATA
+  id: browser type
+- type: DATA
+  id: browsing / search history
+- type: DATA
+  id: choice
+- type: DATA
+  id: contact information
+- type: DATA
+  id: content of message you send in chat in app
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: crash datum
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: date
+- type: DATA
+  id: datum we infer
+- type: DATA
+  id: demographic detail
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device information
+- type: DATA
+  id: document
+- type: DATA
+  id: email address
+- type: DATA
+  id: file
+- type: DATA
+  id: financial account information
+- type: DATA
+  id: food
+- type: DATA
+  id: food intake
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: global privacy control
+- type: DATA
+  id: identifier
+- type: DATA
+  id: inference
+- type: DATA
+  id: information about device you use noom on
+- type: DATA
+  id: information about racial origin you provide
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information browser send
+- type: DATA
+  id: information collect
+- type: DATA
+  id: information concern health
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: log data
+- type: DATA
+  id: log datum
+- type: DATA
+  id: marital status
+- type: DATA
+  id: mental state
+- type: DATA
+  id: operate system
+- type: DATA
+  id: payment datum
+- type: DATA
+  id: payment detail
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photo
+- type: DATA
+  id: postal address
+- type: DATA
+  id: setting
+- type: DATA
+  id: sleep habit
+- type: DATA
+  id: time
+- type: DATA
+  id: type of device
+- type: DATA
+  id: type of information describe
+- type: DATA
+  id: url of website from you come to site
+- type: DATA
+  id: usage information
+- type: DATA
+  id: username
+- type: DATA
+  id: weight

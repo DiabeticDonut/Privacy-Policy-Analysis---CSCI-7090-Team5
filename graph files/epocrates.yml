@@ -1,0 +1,1291 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+  - 'For example, we may use your information to:'
+  - If you choose to engage with such integration, we may receive information from
+    the social network that you have authorized to share with us.
+  - We also collect information in connection with your use of the Services and your
+    interaction with the Services or your interaction with communications sent to
+    you in connection with your use of our Services (including, but not limited to,
+    your clicks and searches through your use of the Services, advertisements, your
+    interaction with the content made available through the Services, messages and
+    communications (e.g. emails or newsletters) surfaced through or in connection
+    with your use of the Services (whether sponsored or not sponsored), emails, newsletters,
+    push notifications, In App messages, or other messaging from us).
+  - We also may collect information from third party social media and marketing companies
+    to enhance our data sets.
+  - We collect information automatically.
+  - We may also receive information from third-parties who provide services to us
+    through web-beacons and other technologies or as otherwise discussed in this Privacy
+    Policy and use such information for marketing, sales, and advertising purposes.
+  - We or third parties with whom we may partner to provide certain features within
+    our Services or to display advertising based upon your browsing activity use LSOs
+    (Local Shared Objects), which are similar to cookies, to collect and store information.
+  - We receive information from third parties.
+  - We retain information for different periods of time depending on the purposes
+    for which we collect and use it, as described in this Privacy Policy.
+  - 'We share information outside of epocrates as follows: To (i) comply with laws
+    or to respond to lawful requests and legal process, (ii) to protect the rights
+    and property of our agents, customers, and others including to enforce our agreements,
+    policies, and terms of use or (iii) in an emergency to protect the safety of epocrates,
+    its customers, or any person, and in certain situations, we may be required to
+    disclose information in response to lawful requests by public authorities, including
+    meeting national security or law enforcement requirements;'
+  - 'We share information outside of epocrates as follows: With our third party vendors,
+    consultants, agents, and other service providers with whom we contract to help
+    us provide or improve our Services.'
+  purposes:
+    advertising:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+    - To provide our commercial clients and prospective commercial clients, such as
+      pharmaceutical companies and their advertising agencies, with your information
+      for audience or user matching purposes
+    - 'to: Better understand you so that we may tailor messaging and services to you
+      based on your interests, preferences, needs, and specialties;'
+    - 'to: Communicate with you via email, alerts (push notifications and/or in app
+      alerts), and other messaging outlets about commercial, non-commercial, sponsored,
+      and non-sponsored information, FDA and product safety alerts, new drugs and
+      pharmaceutical studies, and related information'
+    - 'to: Send you information via email about products and services offered by us,
+      our affiliates, and our partners'
+    - 'to: Send you invitations, by email or other means, to participate in market
+      research survey opportunities'
+    - 'to: Share information you provide to us and/or User Behavior Information with
+      clients and prospective clients (for example, pharmaceutical companies and other
+      advertising clients) about your use or interaction with the Services, interaction
+      with promotional and non-promotional content contained within the Services,
+      as well as interactions with communications you receive in connection with the
+      Services (for example, emails and newsletters);'
+    analytics:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+    - To provide our commercial clients and prospective commercial clients, such as
+      pharmaceutical companies and their advertising agencies, with your information
+      for audience or user matching purposes
+    - to enhance our data sets
+    - 'to: Better understand you so that we may tailor messaging and services to you
+      based on your interests, preferences, needs, and specialties;'
+    - 'to: Link or combine your information with other information we collect through
+      our Services or information collected through your interaction with communications
+      received in connection with the Services, with information receive from third
+      parties'
+    - 'to: Share information you provide to us and/or User Behavior Information with
+      clients and prospective clients (for example, pharmaceutical companies and other
+      advertising clients) about your use or interaction with the Services, interaction
+      with promotional and non-promotional content contained within the Services,
+      as well as interactions with communications you receive in connection with the
+      Services (for example, emails and newsletters);'
+    legal:
+    - To (i) comply with laws or to respond to lawful requests and legal process,
+      (ii) to protect the rights and property of our agents, customers, and others
+      including to enforce our agreements, policies, and terms of use or (iii) in
+      an emergency to protect the safety of epocrates, its customers, or any person,
+      and in certain situations, we may be required to disclose information in response
+      to lawful requests by public authorities, including meeting national security
+      or law enforcement requirements;
+    security:
+    - To (i) comply with laws or to respond to lawful requests and legal process,
+      (ii) to protect the rights and property of our agents, customers, and others
+      including to enforce our agreements, policies, and terms of use or (iii) in
+      an emergency to protect the safety of epocrates, its customers, or any person,
+      and in certain situations, we may be required to disclose information in response
+      to lawful requests by public authorities, including meeting national security
+      or law enforcement requirements;
+    services:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+    - 'to: Better understand you so that we may tailor messaging and services to you
+      based on your interests, preferences, needs, and specialties;'
+    - 'to: Communicate with you via email, alerts (push notifications and/or in app
+      alerts), and other messaging outlets about commercial, non-commercial, sponsored,
+      and non-sponsored information, FDA and product safety alerts, new drugs and
+      pharmaceutical studies, and related information'
+    - 'to: Operate and improve our Services'
+    - 'to: Respond to your comments and questions and provide customer service;'
+    - 'to: Send you information via email about products and services offered by us,
+      our affiliates, and our partners'
+    - 'to: Send you related information, including confirmations, invoices, technical
+      notices, updates, security alerts, and support and administrative messages;'
+    - 'to: To provide you access to CME content through the Services;'
+- source: we
+  target: address include zip code
+  key: COLLECT
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+  purposes: {}
+- source: we
+  target: clear.gif
+  key: COLLECT
+  text:
+  - We may also use web beacons or clear.gifs.
+  purposes: {}
+- source: we
+  target: commercially available information about you
+  key: COLLECT
+  text:
+  - For example, we may obtain commercially or publicly available information about
+    you from third parties or purchase email lists from third-parties for advertising
+    and marketing purposes.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may also use web beacons or clear.gifs.
+  purposes: {}
+- source: we
+  target: date of birth
+  key: COLLECT
+  text:
+  - We collect date of birth when you participate in Continuing Medical Education
+    ("CME") programs offered through our Services;
+  purposes: {}
+- source: we
+  target: datum about device
+  key: COLLECT
+  text:
+  - Additionally, when you use our Services or interact with communications sent to
+    you in connection with our Services, we may automatically collect data about your
+    device such as your device ID, type of device you use, operating system version,
+    and information related to your use of the Services.
+  purposes: {}
+- source: we
+  target: discount code tie to employer
+  key: COLLECT
+  text:
+  - For example, we may collect a discount code that is directly tied to your employer;
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - This privacy policy ("Policy") describes how Epocrates, LLC and our parent companies,
+    subsidiaries, and affiliated companies, including athenahealth, Inc. ("epocrates,"
+    "we," "our," or "us") may collect, use, and share information about you that we
+    obtain through epocrates.com, epocrates Online, our epocrates mobile applications,
+    any communication mechanisms (e.g., emails or newsletters) from us, and other
+    websites and/or applications of ours that display this privacy policy ("Services").
+  - We may also collect additional information about you from third parties to assist
+    us in providing you with Services.
+  purposes:
+    services:
+    - to assist us in providing you with Services
+- source: we
+  target: information collect include user behavior information through service
+  key: COLLECT
+  text:
+  - We use information collected (including User Behavior Information) through our
+    Services for purposes described in this policy or for those purposes disclosed
+    to you in our Services.
+  purposes:
+    advertising:
+    - 'to: Share information you provide to us and/or User Behavior Information with
+      clients and prospective clients (for example, pharmaceutical companies and other
+      advertising clients) about your use or interaction with the Services, interaction
+      with promotional and non-promotional content contained within the Services,
+      as well as interactions with communications you receive in connection with the
+      Services (for example, emails and newsletters);'
+    analytics:
+    - 'to: Share information you provide to us and/or User Behavior Information with
+      clients and prospective clients (for example, pharmaceutical companies and other
+      advertising clients) about your use or interaction with the Services, interaction
+      with promotional and non-promotional content contained within the Services,
+      as well as interactions with communications you receive in connection with the
+      Services (for example, emails and newsletters);'
+- source: we
+  target: information necessary
+  key: COLLECT
+  text:
+  - We may ask you to provide us with information necessary to reasonably verify your
+    identity before responding to your request.
+  purposes: {}
+- source: we
+  target: information regard appeal process
+  key: COLLECT
+  text:
+  - In such circumstances, we will provide you with information regarding the appeals
+    process.
+  purposes: {}
+- source: we
+  target: information relate to current subscription status associate with identifiable
+    characteristic of you
+  key: COLLECT
+  text:
+  - We may also collect and track information related to your current and historic
+    subscription status, search queries, discount codes used, and other interactions
+    with the Services which may inherently be associated with other identifiable characteristics
+    of you.
+  purposes: {}
+- source: we
+  target: information you enter free text field
+  key: COLLECT
+  text:
+  - For example, if you use the 'Feedback' functionality within the Services, we will
+    collect the rating you provide as well as any information you enter the free text
+    field.
+  purposes: {}
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - We may also collect any information you provide to us through use of the Services.
+  purposes: {}
+- source: we
+  target: information you provide we
+  key: COLLECT
+  text:
+  - We collect information you provide us.
+  purposes: {}
+- source: we
+  target: local shared object
+  key: COLLECT
+  text:
+  - We or third parties with whom we may partner to provide certain features within
+    our Services or to display advertising based upon your browsing activity use LSOs
+    (Local Shared Objects), which are similar to cookies, to collect and store information.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 'If you are a resident of a state with applicable consumer privacy laws, you may
+    have the following rights: To confirm whether we process your personal information.'
+  purposes: {}
+- source: we
+  target: personal information fall into
+  key: COLLECT
+  text:
+  - 'Over the last 12 months, we may have collected personal information that generally
+    fall into the following categories:'
+  purposes: {}
+- source: we
+  target: phone
+  key: COLLECT
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+  purposes: {}
+- source: we
+  target: piece of information
+  key: COLLECT
+  text:
+  - We may also ask you to provide other pieces of information, including, but not
+    limited to, information related to your residency (including years attended),
+    information related to your practice, information related to your hospital affiliation,
+    and your billing address.
+  purposes: {}
+- source: we
+  target: rating you provide
+  key: COLLECT
+  text:
+  - For example, if you use the 'Feedback' functionality within the Services, we will
+    collect the rating you provide as well as any information you enter the free text
+    field.
+  purposes: {}
+- source: we
+  target: reference
+  key: COLLECT
+  text:
+  - Also, if you publicly reference our Services on social media (e.g., by using a
+    hashtag associated with epocrates in a tweet or post), we may use your reference
+    on or in connection with our Services.
+  purposes: {}
+- source: we
+  target: response
+  key: COLLECT
+  text:
+  - We will consider all requests and provide our response within the time period
+    required by applicable law.
+  purposes: {}
+- source: we
+  target: school affiliation information
+  key: COLLECT
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+  purposes: {}
+- source: we
+  target: text you enter into free text field
+  key: COLLECT
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+  purposes: {}
+- source: we
+  target: web server log
+  key: COLLECT
+  text:
+  - We may use web server logs.
+  purposes: {}
+- source: we
+  target: widget
+  key: COLLECT
+  text:
+  - We may also use widgets.
+  purposes: {}
+- source: Mayo Foundation for Medical Education and Research
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: In connection with providing
+    you access to CME content through the Services, your information and/or User Behavior
+    Information will be shared with relevant Accrediting Organizations, Accredited
+    Education Providers, Medical Education Companies and Medical Education Sponsors
+    (collectively referred to as "Continuing Medical Education Partners") who have
+    funded, created, or distributed the CME content through the Services.'
+  purposes: {}
+- source: Mayo Foundation for Medical Education and Research
+  target: user behavior information
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: In connection with providing
+    you access to CME content through the Services, your information and/or User Behavior
+    Information will be shared with relevant Accrediting Organizations, Accredited
+    Education Providers, Medical Education Companies and Medical Education Sponsors
+    (collectively referred to as "Continuing Medical Education Partners") who have
+    funded, created, or distributed the CME content through the Services.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Our third party partners may use technologies such as cookies to gather information
+    about your activities on this site and other sites in order to provide you targeted
+    advertising based upon your browsing activities and interests.
+  - Please note that when you interact with other entities, including when you leave
+    our Services, those entities may independently collect information about you and
+    solicit information from you.
+  - We engage third parties to help us deliver these advertisements, and these third
+    parties may collect your information over time and across our Services (and third
+    party sites) in order to associate different devices you use and further gain
+    insights into the goods and services that may interest you.
+  - We or third parties with whom we may partner to provide certain features within
+    our Services or to display advertising based upon your browsing activity use LSOs
+    (Local Shared Objects), which are similar to cookies, to collect and store information.
+  - 'We share information outside of epocrates as follows: With our third party vendors,
+    consultants, agents, and other service providers with whom we contract to help
+    us provide or improve our Services.'
+  purposes:
+    advertising:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+    - To provide our commercial clients and prospective commercial clients, such as
+      pharmaceutical companies and their advertising agencies, with your information
+      for audience or user matching purposes
+    - in order to provide you targeted advertising based upon your browsing activities
+      and interests
+    - to help us deliver these advertisements
+    analytics:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+    - To provide our commercial clients and prospective commercial clients, such as
+      pharmaceutical companies and their advertising agencies, with your information
+      for audience or user matching purposes
+    - in order to associate different devices you use and further gain insights into
+      the goods and services that may interest you
+    legal:
+    - To (i) comply with laws or to respond to lawful requests and legal process,
+      (ii) to protect the rights and property of our agents, customers, and others
+      including to enforce our agreements, policies, and terms of use or (iii) in
+      an emergency to protect the safety of epocrates, its customers, or any person,
+      and in certain situations, we may be required to disclose information in response
+      to lawful requests by public authorities, including meeting national security
+      or law enforcement requirements;
+    security:
+    - To (i) comply with laws or to respond to lawful requests and legal process,
+      (ii) to protect the rights and property of our agents, customers, and others
+      including to enforce our agreements, policies, and terms of use or (iii) in
+      an emergency to protect the safety of epocrates, its customers, or any person,
+      and in certain situations, we may be required to disclose information in response
+      to lawful requests by public authorities, including meeting national security
+      or law enforcement requirements;
+    services:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Our third party partners may use technologies such as cookies to gather information
+    about your activities on this site and other sites in order to provide you targeted
+    advertising based upon your browsing activities and interests.
+  purposes:
+    advertising:
+    - to gather information about your activities on this site and other sites in
+      order to provide you targeted advertising based upon your browsing activities
+      and interests
+    analytics:
+    - to gather information about your activities on this site and other sites in
+      order to provide you targeted advertising based upon your browsing activities
+      and interests
+- source: UNSPECIFIED_ACTOR
+  target: information about you
+  key: COLLECT
+  text:
+  - Please note that when you interact with other entities, including when you leave
+    our Services, those entities may independently collect information about you and
+    solicit information from you.
+  - This privacy policy ("Policy") describes how Epocrates, LLC and our parent companies,
+    subsidiaries, and affiliated companies, including athenahealth, Inc. ("epocrates,"
+    "we," "our," or "us") may collect, use, and share information about you that we
+    obtain through epocrates.com, epocrates Online, our epocrates mobile applications,
+    any communication mechanisms (e.g., emails or newsletters) from us, and other
+    websites and/or applications of ours that display this privacy policy ("Services").
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: local shared object
+  key: COLLECT
+  text:
+  - We or third parties with whom we may partner to provide certain features within
+    our Services or to display advertising based upon your browsing activity use LSOs
+    (Local Shared Objects), which are similar to cookies, to collect and store information.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: widget
+  key: COLLECT
+  text:
+  - Widgets are often provided by third parties to enable collection of data about
+    website usage.
+  purposes:
+    analytics:
+    - to enable collection of data about website usage
+- source: accredited education providers
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: In connection with providing
+    you access to CME content through the Services, your information and/or User Behavior
+    Information will be shared with relevant Accrediting Organizations, Accredited
+    Education Providers, Medical Education Companies and Medical Education Sponsors
+    (collectively referred to as "Continuing Medical Education Partners") who have
+    funded, created, or distributed the CME content through the Services.'
+  purposes: {}
+- source: accredited education providers
+  target: user behavior information
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: In connection with providing
+    you access to CME content through the Services, your information and/or User Behavior
+    Information will be shared with relevant Accrediting Organizations, Accredited
+    Education Providers, Medical Education Companies and Medical Education Sponsors
+    (collectively referred to as "Continuing Medical Education Partners") who have
+    funded, created, or distributed the CME content through the Services.'
+  purposes: {}
+- source: activity you perform
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Certain activities that you perform utilizing the Services may record information
+    in server logs.
+  purposes: {}
+- source: advertising client
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'For example, we may use your information to: Share information you provide to
+    us and/or User Behavior Information with clients and prospective clients (for
+    example, pharmaceutical companies and other advertising clients) about your use
+    or interaction with the Services, interaction with promotional and non-promotional
+    content contained within the Services, as well as interactions with communications
+    you receive in connection with the Services (for example, emails and newsletters);'
+  purposes: {}
+- source: advertising client
+  target: user behavior information
+  key: COLLECT
+  text:
+  - 'For example, we may use your information to: Share information you provide to
+    us and/or User Behavior Information with clients and prospective clients (for
+    example, pharmaceutical companies and other advertising clients) about your use
+    or interaction with the Services, interaction with promotional and non-promotional
+    content contained within the Services, as well as interactions with communications
+    you receive in connection with the Services (for example, emails and newsletters);'
+  purposes: {}
+- source: affiliated company
+  target: information about you
+  key: COLLECT
+  text:
+  - This privacy policy ("Policy") describes how Epocrates, LLC and our parent companies,
+    subsidiaries, and affiliated companies, including athenahealth, Inc. ("epocrates,"
+    "we," "our," or "us") may collect, use, and share information about you that we
+    obtain through epocrates.com, epocrates Online, our epocrates mobile applications,
+    any communication mechanisms (e.g., emails or newsletters) from us, and other
+    websites and/or applications of ours that display this privacy policy ("Services").
+  purposes: {}
+- source: analytic provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: To provide market research
+    clients with your information when you engage in market research activities;'
+  purposes: {}
+- source: analytic provider
+  target: information as
+  key: COLLECT
+  text:
+  - This software may record information such as, but not limited to, how often you
+    use the application, the events that occur within the application, usage information,
+    performance data, and where the application was downloaded from.
+  - We may use mobile analytics software to allow us to better understand the functionality
+    of our Services.
+  purposes: {}
+- source: commercial client
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients (for example, pharmaceutical companies
+    and their advertising agencies) with your information when you engage with promotional
+    and nonpromotional content (including related communications) through or in connection
+    with our Services and information about the type of engagement (e.g., whether
+    you viewed, interacted with or requested information about such promotional content);'
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients, such as pharmaceutical companies and
+    their advertising agencies, with your information for audience or user matching
+    purposes;'
+  purposes:
+    analytics:
+    - for audience or user matching purposes
+    services:
+    - for audience or user matching purposes
+- source: consultant
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: With our third party vendors,
+    consultants, agents, and other service providers with whom we contract to help
+    us provide or improve our Services.'
+  purposes:
+    advertising:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+    - To provide our commercial clients and prospective commercial clients, such as
+      pharmaceutical companies and their advertising agencies, with your information
+      for audience or user matching purposes
+    analytics:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+    - To provide our commercial clients and prospective commercial clients, such as
+      pharmaceutical companies and their advertising agencies, with your information
+      for audience or user matching purposes
+    legal:
+    - To (i) comply with laws or to respond to lawful requests and legal process,
+      (ii) to protect the rights and property of our agents, customers, and others
+      including to enforce our agreements, policies, and terms of use or (iii) in
+      an emergency to protect the safety of epocrates, its customers, or any person,
+      and in certain situations, we may be required to disclose information in response
+      to lawful requests by public authorities, including meeting national security
+      or law enforcement requirements;
+    security:
+    - To (i) comply with laws or to respond to lawful requests and legal process,
+      (ii) to protect the rights and property of our agents, customers, and others
+      including to enforce our agreements, policies, and terms of use or (iii) in
+      an emergency to protect the safety of epocrates, its customers, or any person,
+      and in certain situations, we may be required to disclose information in response
+      to lawful requests by public authorities, including meeting national security
+      or law enforcement requirements;
+    services:
+    - To provide our clients, prospective clients, or third party vendors with aggregated
+      information such as statistics about our customers, sales, product usage or
+      traffic patterns, and related website or Services information as well as User
+      Behavior Information in order to provide the Services
+- source: epocrates llc
+  target: information about you
+  key: COLLECT
+  text:
+  - This privacy policy ("Policy") describes how Epocrates, LLC and our parent companies,
+    subsidiaries, and affiliated companies, including athenahealth, Inc. ("epocrates,"
+    "we," "our," or "us") may collect, use, and share information about you that we
+    obtain through epocrates.com, epocrates Online, our epocrates mobile applications,
+    any communication mechanisms (e.g., emails or newsletters) from us, and other
+    websites and/or applications of ours that display this privacy policy ("Services").
+  purposes: {}
+- source: for pharmaceutical company
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'For example, we may use your information to: Share information you provide to
+    us and/or User Behavior Information with clients and prospective clients (for
+    example, pharmaceutical companies and other advertising clients) about your use
+    or interaction with the Services, interaction with promotional and non-promotional
+    content contained within the Services, as well as interactions with communications
+    you receive in connection with the Services (for example, emails and newsletters);'
+  purposes: {}
+- source: for pharmaceutical company
+  target: user behavior information
+  key: COLLECT
+  text:
+  - 'For example, we may use your information to: Share information you provide to
+    us and/or User Behavior Information with clients and prospective clients (for
+    example, pharmaceutical companies and other advertising clients) about your use
+    or interaction with the Services, interaction with promotional and non-promotional
+    content contained within the Services, as well as interactions with communications
+    you receive in connection with the Services (for example, emails and newsletters);'
+  purposes: {}
+- source: prospective commercial client
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients (for example, pharmaceutical companies
+    and their advertising agencies) with your information when you engage with promotional
+    and nonpromotional content (including related communications) through or in connection
+    with our Services and information about the type of engagement (e.g., whether
+    you viewed, interacted with or requested information about such promotional content);'
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients, such as pharmaceutical companies and
+    their advertising agencies, with your information for audience or user matching
+    purposes;'
+  purposes:
+    analytics:
+    - for audience or user matching purposes
+    services:
+    - for audience or user matching purposes
+- source: relevant accrediting organizations
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: In connection with providing
+    you access to CME content through the Services, your information and/or User Behavior
+    Information will be shared with relevant Accrediting Organizations, Accredited
+    Education Providers, Medical Education Companies and Medical Education Sponsors
+    (collectively referred to as "Continuing Medical Education Partners") who have
+    funded, created, or distributed the CME content through the Services.'
+  purposes: {}
+- source: relevant accrediting organizations
+  target: user behavior information
+  key: COLLECT
+  text:
+  - 'We share information outside of epocrates as follows: In connection with providing
+    you access to CME content through the Services, your information and/or User Behavior
+    Information will be shared with relevant Accrediting Organizations, Accredited
+    Education Providers, Medical Education Companies and Medical Education Sponsors
+    (collectively referred to as "Continuing Medical Education Partners") who have
+    funded, created, or distributed the CME content through the Services.'
+  purposes: {}
+- source: social media
+  target: information about you
+  key: COLLECT
+  text:
+  - Please note that the social network may independently collect information about
+    you through the integration.
+  purposes: {}
+- source: address include zip code
+  target: employer organization name
+  key: SUBSUM
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+- source: address include zip code
+  target: employment title
+  key: SUBSUM
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+- source: address include zip code
+  target: information you provide related
+  key: SUBSUM
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+- source: address include zip code
+  target: school affiliation information
+  key: SUBSUM
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+- source: affiliated company
+  target: athenahealth inc.
+  key: SUBSUM
+  text:
+  - This privacy policy ("Policy") describes how Epocrates, LLC and our parent companies,
+    subsidiaries, and affiliated companies, including athenahealth, Inc. ("epocrates,"
+    "we," "our," or "us") may collect, use, and share information about you that we
+    obtain through epocrates.com, epocrates Online, our epocrates mobile applications,
+    any communication mechanisms (e.g., emails or newsletters) from us, and other
+    websites and/or applications of ours that display this privacy policy ("Services").
+- source: affiliated company
+  target: epocrates
+  key: SUBSUM
+  text:
+  - This privacy policy ("Policy") describes how Epocrates, LLC and our parent companies,
+    subsidiaries, and affiliated companies, including athenahealth, Inc. ("epocrates,"
+    "we," "our," or "us") may collect, use, and share information about you that we
+    obtain through epocrates.com, epocrates Online, our epocrates mobile applications,
+    any communication mechanisms (e.g., emails or newsletters) from us, and other
+    websites and/or applications of ours that display this privacy policy ("Services").
+- source: aggregate / deidentified / pseudonymized information
+  target: product usage
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our clients,
+    prospective clients, or third party vendors with aggregated information such as
+    statistics about our customers, sales, product usage or traffic patterns, and
+    related website or Services information as well as User Behavior Information in
+    order to provide the Services;'
+- source: aggregate / deidentified / pseudonymized information
+  target: related website information
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our clients,
+    prospective clients, or third party vendors with aggregated information such as
+    statistics about our customers, sales, product usage or traffic patterns, and
+    related website or Services information as well as User Behavior Information in
+    order to provide the Services;'
+- source: aggregate / deidentified / pseudonymized information
+  target: statistic
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our clients,
+    prospective clients, or third party vendors with aggregated information such as
+    statistics about our customers, sales, product usage or traffic patterns, and
+    related website or Services information as well as User Behavior Information in
+    order to provide the Services;'
+- source: aggregate / deidentified / pseudonymized information
+  target: user behavior information
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our clients,
+    prospective clients, or third party vendors with aggregated information such as
+    statistics about our customers, sales, product usage or traffic patterns, and
+    related website or Services information as well as User Behavior Information in
+    order to provide the Services;'
+- source: commercial client
+  target: prospective commercial client
+  key: SUBSUM
+  text:
+  - Commercial clients (including prospective commercial clients).
+- source: commercial information
+  target: information regard product you purchase
+  key: SUBSUM
+  text:
+  - Commercial information , such as information regarding products or services you
+    purchased.
+- source: communication mechanism
+  target: newsletter
+  key: SUBSUM
+  text:
+  - This privacy policy ("Policy") describes how Epocrates, LLC and our parent companies,
+    subsidiaries, and affiliated companies, including athenahealth, Inc. ("epocrates,"
+    "we," "our," or "us") may collect, use, and share information about you that we
+    obtain through epocrates.com, epocrates Online, our epocrates mobile applications,
+    any communication mechanisms (e.g., emails or newsletters) from us, and other
+    websites and/or applications of ours that display this privacy policy ("Services").
+- source: communication you receive in connection with services
+  target: newsletter
+  key: SUBSUM
+  text:
+  - 'For example, we may use your information to: Share information you provide to
+    us and/or User Behavior Information with clients and prospective clients (for
+    example, pharmaceutical companies and other advertising clients) about your use
+    or interaction with the Services, interaction with promotional and non-promotional
+    content contained within the Services, as well as interactions with communications
+    you receive in connection with the Services (for example, emails and newsletters);'
+- source: datum about device
+  target: type of device you use
+  key: SUBSUM
+  text:
+  - Additionally, when you use our Services or interact with communications sent to
+    you in connection with our Services, we may automatically collect data about your
+    device such as your device ID, type of device you use, operating system version,
+    and information related to your use of the Services.
+- source: geolocation
+  target: city state
+  key: SUBSUM
+  text:
+  - Geolocation information , such as your general location (e.g., city/state) which
+    may be collected or derived from your IP address.
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - Identifiers , such as your name, email address, or IP address.
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - Identifiers , such as your name, email address, or IP address.
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - Identifiers , such as your name, email address, or IP address.
+- source: information about browser
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - The server log may also record information about your browser, such as your IP
+    address and the cookies set on your browser.
+- source: information about browser
+  target: ip address
+  key: SUBSUM
+  text:
+  - The server log may also record information about your browser, such as your IP
+    address and the cookies set on your browser.
+- source: information relate to medical school you attend
+  target: date of birth
+  key: SUBSUM
+  text:
+  - You may also provide information related to the medical school you attended including
+    the country, state, name, graduation year, former last name (as applicable), and
+    date of birth.
+- source: information relate to medical school you attend
+  target: person name
+  key: SUBSUM
+  text:
+  - You may also provide information related to the medical school you attended including
+    the country, state, name, graduation year, former last name (as applicable), and
+    date of birth.
+- source: information relate to medical school you attend
+  target: state
+  key: SUBSUM
+  text:
+  - You may also provide information related to the medical school you attended including
+    the country, state, name, graduation year, former last name (as applicable), and
+    date of birth.
+- source: information you provide related
+  target: number of license be
+  key: SUBSUM
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+- source: information you provide related
+  target: product interest
+  key: SUBSUM
+  text:
+  - '* Through your interaction and use of epocrates.com and/or requests for information
+    related to our Services, we may also collect the following information from you:
+    first and last name, email address(es), phone, address including a zip code, employer/organization
+    name, employment title, school affiliation information (as applicable), information
+    you provide related to your interest in epocrates and our Services (for example,
+    nature of your request, what products you are interested in, and why you are interested
+    in epocrates, number of licenses you are interested in, product interest, etc.),
+    school affiliation information, and the text you enter into free text fields;'
+- source: personal information
+  target: profile reflect preference
+  key: SUBSUM
+  text:
+  - Inferences drawn from other personal information , such as a profile reflecting
+    a person's preferences, behavior, or characteristics.
+- source: personal information
+  target: specific piece of personal information we collect about you
+  key: SUBSUM
+  text:
+  - 'If you are a California resident, you may have the following rights with respect
+    to the personal information we process about you: To request information about
+    the categories of personal information we have collected about you, the categories
+    of sources from which we collected the personal information, the purposes for
+    collecting or sharing the personal information, the categories of third parties
+    with whom we have shared or sold your personal information, and the specific pieces
+    of personal information we have collected about you.'
+- source: professional information
+  target: employer
+  key: SUBSUM
+  text:
+  - Professional or employment information , such as your title or employer.
+- source: professional information
+  target: title
+  key: SUBSUM
+  text:
+  - Professional or employment information , such as your title or employer.
+- source: promotional content
+  target: related communication
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients (for example, pharmaceutical companies
+    and their advertising agencies) with your information when you engage with promotional
+    and nonpromotional content (including related communications) through or in connection
+    with our Services and information about the type of engagement (e.g., whether
+    you viewed, interacted with or requested information about such promotional content);'
+- source: prospective commercial client
+  target: advertiser
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients (for example, pharmaceutical companies
+    and their advertising agencies) with your information when you engage with promotional
+    and nonpromotional content (including related communications) through or in connection
+    with our Services and information about the type of engagement (e.g., whether
+    you viewed, interacted with or requested information about such promotional content);'
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients, such as pharmaceutical companies and
+    their advertising agencies, with your information for audience or user matching
+    purposes;'
+- source: prospective commercial client
+  target: for pharmaceutical company
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients (for example, pharmaceutical companies
+    and their advertising agencies) with your information when you engage with promotional
+    and nonpromotional content (including related communications) through or in connection
+    with our Services and information about the type of engagement (e.g., whether
+    you viewed, interacted with or requested information about such promotional content);'
+- source: prospective commercial client
+  target: pharmaceutical company
+  key: SUBSUM
+  text:
+  - 'We share information outside of epocrates as follows: To provide our commercial
+    clients and prospective commercial clients, such as pharmaceutical companies and
+    their advertising agencies, with your information for audience or user matching
+    purposes;'
+- source: protect class information
+  target: age
+  key: SUBSUM
+  text:
+  - Protected class information , such as age.
+- source: relate information
+  target: confirmation
+  key: SUBSUM
+  text:
+  - 'For example, we may use your information to: Send you related information, including
+    confirmations, invoices, technical notices, updates, security alerts, and support
+    and administrative messages;'
+- source: relate information
+  target: invoice
+  key: SUBSUM
+  text:
+  - 'For example, we may use your information to: Send you related information, including
+    confirmations, invoices, technical notices, updates, security alerts, and support
+    and administrative messages;'
+- source: relate information
+  target: support message
+  key: SUBSUM
+  text:
+  - 'For example, we may use your information to: Send you related information, including
+    confirmations, invoices, technical notices, updates, security alerts, and support
+    and administrative messages;'
+- source: sensitive information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - When we collect certain sensitive information (such as geolocation), we encrypt
+    the transmission of that information using secure socket layer technology (SSL).
+- source: source
+  target: personal information
+  key: SUBSUM
+  text:
+  - 'If you are a California resident, you may have the following rights with respect
+    to the personal information we process about you: To request information about
+    the categories of personal information we have collected about you, the categories
+    of sources from which we collected the personal information, the purposes for
+    collecting or sharing the personal information, the categories of third parties
+    with whom we have shared or sold your personal information, and the specific pieces
+    of personal information we have collected about you.'
+- source: technology
+  target: javascript
+  key: SUBSUM
+  text:
+  - Some of our Services use cookies and similar technologies (such as pixels and
+    pixel tags, ad tags, Software Development Kits ("SDKs") clear GIFs, session replay
+    scripts, and Javascript).
+- source: type of device you use
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Additionally, when you use our Services or interact with communications sent to
+    you in connection with our Services, we may automatically collect data about your
+    device such as your device ID, type of device you use, operating system version,
+    and information related to your use of the Services.
+- source: type of device you use
+  target: information relate to use of services
+  key: SUBSUM
+  text:
+  - Additionally, when you use our Services or interact with communications sent to
+    you in connection with our Services, we may automatically collect data about your
+    device such as your device ID, type of device you use, operating system version,
+    and information related to your use of the Services.
+- source: type of device you use
+  target: operating system version
+  key: SUBSUM
+  text:
+  - Additionally, when you use our Services or interact with communications sent to
+    you in connection with our Services, we may automatically collect data about your
+    device such as your device ID, type of device you use, operating system version,
+    and information related to your use of the Services.
+nodes:
+- type: ACTOR
+  id: Mayo Foundation for Medical Education and Research
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: accredited education providers
+- type: ACTOR
+  id: activity you perform
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: advertising client
+- type: ACTOR
+  id: affiliated company
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: athenahealth inc.
+- type: ACTOR
+  id: commercial client
+- type: ACTOR
+  id: communication mechanism
+- type: ACTOR
+  id: communication you receive in connection with services
+- type: ACTOR
+  id: consultant
+- type: ACTOR
+  id: epocrates
+- type: ACTOR
+  id: epocrates llc
+- type: ACTOR
+  id: for pharmaceutical company
+- type: ACTOR
+  id: javascript
+- type: ACTOR
+  id: newsletter
+- type: ACTOR
+  id: pharmaceutical company
+- type: ACTOR
+  id: promotional content
+- type: ACTOR
+  id: prospective commercial client
+- type: ACTOR
+  id: related communication
+- type: ACTOR
+  id: relevant accrediting organizations
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: address include zip code
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: city state
+- type: DATA
+  id: clear.gif
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: commercially available information about you
+- type: DATA
+  id: confirmation
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum about device
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: discount code tie to employer
+- type: DATA
+  id: email address
+- type: DATA
+  id: employer
+- type: DATA
+  id: employer organization name
+- type: DATA
+  id: employment title
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information about browser
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information as
+- type: DATA
+  id: information collect include user behavior information through service
+- type: DATA
+  id: information necessary
+- type: DATA
+  id: information regard appeal process
+- type: DATA
+  id: information regard product you purchase
+- type: DATA
+  id: information relate to current subscription status associate with identifiable
+    characteristic of you
+- type: DATA
+  id: information relate to medical school you attend
+- type: DATA
+  id: information relate to use of services
+- type: DATA
+  id: information you enter free text field
+- type: DATA
+  id: information you provide related
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: information you provide we
+- type: DATA
+  id: invoice
+- type: DATA
+  id: ip address
+- type: DATA
+  id: local shared object
+- type: DATA
+  id: number of license be
+- type: DATA
+  id: operating system version
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information fall into
+- type: DATA
+  id: phone
+- type: DATA
+  id: piece of information
+- type: DATA
+  id: product interest
+- type: DATA
+  id: product usage
+- type: DATA
+  id: professional information
+- type: DATA
+  id: profile reflect preference
+- type: DATA
+  id: protect class information
+- type: DATA
+  id: rating you provide
+- type: DATA
+  id: reference
+- type: DATA
+  id: relate information
+- type: DATA
+  id: related website information
+- type: DATA
+  id: response
+- type: DATA
+  id: school affiliation information
+- type: DATA
+  id: sensitive information
+- type: DATA
+  id: source
+- type: DATA
+  id: specific piece of personal information we collect about you
+- type: DATA
+  id: state
+- type: DATA
+  id: statistic
+- type: DATA
+  id: support message
+- type: DATA
+  id: text you enter into free text field
+- type: DATA
+  id: title
+- type: DATA
+  id: type of device you use
+- type: DATA
+  id: user behavior information
+- type: DATA
+  id: web server log
+- type: DATA
+  id: widget

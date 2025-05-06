@@ -1,0 +1,585 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - how long we store your data;
+  purposes: {}
+- source: we
+  target: account datum
+  key: COLLECT
+  text:
+  - 1.2.      We process your account data (" account data ").
+  - The account data may include your name and email address, phone number and other
+    data that you provide while registering as well as your purchase history.
+  - We obtain such data directly from you.
+  - We process account data for the purposes of operating our website, providing our
+    services, ensuring the security of our website and services and communicating
+    with you.
+  purposes:
+    security:
+    - for the purposes of operating our website, providing our services, ensuring
+      the security of our website and services and communicating with you
+    services:
+    - for the purposes of operating our website, providing our services, ensuring
+      the security of our website and services and communicating with you
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'In the website we use cookies of three main types, for the following purposes:'
+  - This website uses cookies to improve our services and visitor experience.
+  purposes:
+    services:
+    - to improve our services and visitor experience
+- source: we
+  target: correspondence datum
+  key: COLLECT
+  text:
+  - 1.5.      We may process information relating to any communication that you send
+    to us (" correspondence data ").
+  purposes: {}
+- source: we
+  target: device datum
+  key: COLLECT
+  text:
+  - Device data is processed to enhance the apps and the website as well as to set
+    default options.
+  - Device data may include IP address, geographical location, browser type and version,
+    operating system, device type, screen resolution and (in case you agree to share
+    such) your location data as well as information on the motion activity, use of
+    our website and apps (i.e. referral source, length of visit, page views and website
+    navigation paths, as well as information about the timing, frequency and pattern
+    of your service use).
+  - We also use such data to have a better understanding of how you use our website
+    and services as well as for securing both the website and the apps.
+  - We obtain such data through the use of cookies and similar technologies.
+  purposes:
+    analytics:
+    - to have a better understanding of how you use our website and services as well
+      as for securing both the website and the apps
+    security:
+    - to have a better understanding of how you use our website and services as well
+      as for securing both the website and the apps
+- source: we
+  target: information on use of website
+  key: COLLECT
+  text:
+  - 1.6.      We may process information on your use of our website and/or apps as
+    well as on your device (" device data ") when you are browsing our website or
+    use our apps.
+  purposes: {}
+- source: we
+  target: information relate to communication you send to we
+  key: COLLECT
+  text:
+  - 1.5.      We may process information relating to any communication that you send
+    to us (" correspondence data ").
+  purposes: {}
+- source: we
+  target: information relate to provision of service by we to you
+  key: COLLECT
+  text:
+  - 1.3.      We process information relating to provision of services by us to you
+    (" service data ").
+  purposes: {}
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - 1.4.      We may process information that you provide to us for the purpose of
+    subscribing to our email messages and newsletters (" messaging data ").
+  purposes:
+    advertising:
+    - for the purpose of subscribing to our email messages and newsletters
+    services:
+    - for the purpose of subscribing to our email messages and newsletters
+- source: we
+  target: integrity
+  key: COLLECT
+  text:
+  - Cookies used for this purpose help us maintain integrity, create informative and
+    dynamic website.
+  purposes: {}
+- source: we
+  target: messaging datum
+  key: COLLECT
+  text:
+  - 1.4.      We may process information that you provide to us for the purpose of
+    subscribing to our email messages and newsletters (" messaging data ").
+  - Also, if we have already sold goods or provided services for you via our website
+    and/or apps, and you do not object, we may also process messaging data on the
+    basis of our legitimate interest, namely seeking maintain and improve customer
+    relations.
+  purposes:
+    advertising:
+    - for the purpose of subscribing to our email messages and newsletters
+    services:
+    - for the purpose of subscribing to our email messages and newsletters
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 1.10.   Sometimes we may aggregate, anonymize or de-identify your personal data
+    in such a way so that it cannot reasonably be used to identify you.
+  - 2.1.      We may disclose your personal data to any member of our group of companies
+    (including our subsidiaries, our ultimate holding company and all its subsidiaries)
+    insofar as reasonably necessary for the purposes set out in this notice.
+  - 2.2.      We may disclose your personal data to our insurers and/or professional
+    advisers insofar as reasonably necessary for the purposes of obtaining or maintaining
+    insurance coverage, managing risks, obtaining professional advice, or the establishment,
+    exercise or defence of legal claims, whether in court proceedings or in an administrative
+    or out-of-court procedure.
+  - 2.3.      We may disclose your personal data to our anti-fraud, risks and compliance
+    providers insofar as reasonably necessary for the purposes of protecting your
+    personal data and fulfilling our legal obligations.
+  - 2.4.      We may disclose your personal data to our payment service providers
+    . We will share service data with our payment services providers only to the extent
+    necessary for the purposes of processing your payments, transferring funds and
+    dealing with complaints and queries relating to such payments and transfers.
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+  - 2.6.      In addition to the specific disclosures of personal data set out in
+    this Section, we may disclose your personal data where such disclosure is necessary
+    for compliance with a legal obligation to which we are subject, or in order to
+    protect your vital interests or the vital interests of another natural person.
+  - '2.8.      Depending on the payment method chosen by you, your personal data may
+    be disclosed to and processed by our group company KARMA PROCESSING INCORPORATED
+    , company code 7138602, registered address 16192 Coastal Highway, Lewes, Delaware
+    19958, County of Sussex, office address 1000 West Street, Suite 1200, Wilmington,
+    Delaware, 1980, email: hello@dofasting.com.'
+  - 3.3. Notwithstanding the other provisions of this Section, we may retain your
+    personal data where such retention is necessary for compliance with a legal obligation
+    to which we are subject, or in order to protect your vital interests or the vital
+    interests of another natural person.
+  - We may use such data without restriction in any way allowed by law, including,
+    but not limited to share such data with our partners or research institutions,
+    share in articles, blog posts and scientific publications, aggregate statistics
+    about certain activities or symptoms from data collected to help identify patterns
+    across users and evaluate or modify our services.
+  - 'Where processing has been restricted on this basis, we may continue to store
+    your personal data, however we will only further process such data in any other
+    way: (i) with your consent; (ii) for the establishment, exercise or defence of
+    legal claims; (iii) for the protection of the rights of another person; or (iv)
+    for reasons of important public interest.'
+  purposes:
+    legal:
+    - insofar as reasonably necessary for the purposes of obtaining or maintaining
+      insurance coverage, managing risks, obtaining professional advice, or the establishment,
+      exercise or defence of legal claims, whether in court proceedings or in an administrative
+      or out-of-court procedure
+    - insofar as reasonably necessary for the purposes of protecting your personal
+      data and fulfilling our legal obligations
+    security:
+    - insofar as reasonably necessary for the purposes of obtaining or maintaining
+      insurance coverage, managing risks, obtaining professional advice, or the establishment,
+      exercise or defence of legal claims, whether in court proceedings or in an administrative
+      or out-of-court procedure
+    - insofar as reasonably necessary for the purposes of protecting your personal
+      data and fulfilling our legal obligations
+- source: we
+  target: service datum
+  key: COLLECT
+  text:
+  - 2.4.      We may disclose your personal data to our payment service providers
+    . We will share service data with our payment services providers only to the extent
+    necessary for the purposes of processing your payments, transferring funds and
+    dealing with complaints and queries relating to such payments and transfers.
+  purposes: {}
+- source: anti - fraud provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 2.3.      We may disclose your personal data to our anti-fraud, risks and compliance
+    providers insofar as reasonably necessary for the purposes of protecting your
+    personal data and fulfilling our legal obligations.
+  purposes:
+    legal:
+    - insofar as reasonably necessary for the purposes of protecting your personal
+      data and fulfilling our legal obligations
+    security:
+    - insofar as reasonably necessary for the purposes of protecting your personal
+      data and fulfilling our legal obligations
+- source: insurer
+  target: personal information
+  key: COLLECT
+  text:
+  - 2.2.      We may disclose your personal data to our insurers and/or professional
+    advisers insofar as reasonably necessary for the purposes of obtaining or maintaining
+    insurance coverage, managing risks, obtaining professional advice, or the establishment,
+    exercise or defence of legal claims, whether in court proceedings or in an administrative
+    or out-of-court procedure.
+  purposes:
+    legal:
+    - insofar as reasonably necessary for the purposes of obtaining or maintaining
+      insurance coverage, managing risks, obtaining professional advice, or the establishment,
+      exercise or defence of legal claims, whether in court proceedings or in an administrative
+      or out-of-court procedure
+    security:
+    - insofar as reasonably necessary for the purposes of obtaining or maintaining
+      insurance coverage, managing risks, obtaining professional advice, or the establishment,
+      exercise or defence of legal claims, whether in court proceedings or in an administrative
+      or out-of-court procedure
+- source: payment service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 2.4.      We may disclose your personal data to our payment service providers
+    . We will share service data with our payment services providers only to the extent
+    necessary for the purposes of processing your payments, transferring funds and
+    dealing with complaints and queries relating to such payments and transfers.
+  purposes: {}
+- source: payment service provider
+  target: service datum
+  key: COLLECT
+  text:
+  - 2.4.      We may disclose your personal data to our payment service providers
+    . We will share service data with our payment services providers only to the extent
+    necessary for the purposes of processing your payments, transferring funds and
+    dealing with complaints and queries relating to such payments and transfers.
+  purposes: {}
+- source: professional adviser
+  target: personal information
+  key: COLLECT
+  text:
+  - 2.2.      We may disclose your personal data to our insurers and/or professional
+    advisers insofar as reasonably necessary for the purposes of obtaining or maintaining
+    insurance coverage, managing risks, obtaining professional advice, or the establishment,
+    exercise or defence of legal claims, whether in court proceedings or in an administrative
+    or out-of-court procedure.
+  purposes:
+    legal:
+    - insofar as reasonably necessary for the purposes of obtaining or maintaining
+      insurance coverage, managing risks, obtaining professional advice, or the establishment,
+      exercise or defence of legal claims, whether in court proceedings or in an administrative
+      or out-of-court procedure
+    security:
+    - insofar as reasonably necessary for the purposes of obtaining or maintaining
+      insurance coverage, managing risks, obtaining professional advice, or the establishment,
+      exercise or defence of legal claims, whether in court proceedings or in an administrative
+      or out-of-court procedure
+- source: service provider
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 8.1.      Our service providers use cookies and those cookies may be stored on
+    your computer when you visit our website.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+  purposes: {}
+- source: we
+  target: fasting solutions
+  key: SUBSUM
+  text:
+  - In this privacy policy we, UAB "Fasting Solutions", company code 305493557, with
+    our registered office at J. Basanaviciaus str. 26, Vilnius LT-03224, the Republic
+    of Lithuania, office address at Antakalnio str. 17, LT-10312 Vilnius, Lithuania
+    (" Company ", " we ", " us " or " our "), explain how we handle your personal
+    data when you visit our website, use our Mobile apps, contact us through our official
+    social media pages or email, and/or use our services.
+- source: account datum
+  target: datum you provide
+  key: SUBSUM
+  text:
+  - The account data may include your name and email address, phone number and other
+    data that you provide while registering as well as your purchase history.
+- source: account datum
+  target: email address
+  key: SUBSUM
+  text:
+  - The account data may include your name and email address, phone number and other
+    data that you provide while registering as well as your purchase history.
+- source: account datum
+  target: person name
+  key: SUBSUM
+  text:
+  - The account data may include your name and email address, phone number and other
+    data that you provide while registering as well as your purchase history.
+- source: account datum
+  target: phone number
+  key: SUBSUM
+  text:
+  - The account data may include your name and email address, phone number and other
+    data that you provide while registering as well as your purchase history.
+- source: account datum
+  target: purchase history
+  key: SUBSUM
+  text:
+  - The account data may include your name and email address, phone number and other
+    data that you provide while registering as well as your purchase history.
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - The service data may include your contact details (such as your email address),
+    bank account and transaction details as well as other information that you provide
+    to us while filling up the relevant questionnaires (such may include sensitive
+    personal data, related to your health, in case such data is necessary to provide
+    the relevant service).
+- source: correspondence datum
+  target: communication content
+  key: SUBSUM
+  text:
+  - The correspondence data may include the communication content and metadata associated
+    with the communication.
+- source: correspondence datum
+  target: metadata associate with communication
+  key: SUBSUM
+  text:
+  - The correspondence data may include the communication content and metadata associated
+    with the communication.
+- source: device datum
+  target: browser type
+  key: SUBSUM
+  text:
+  - Device data may include IP address, geographical location, browser type and version,
+    operating system, device type, screen resolution and (in case you agree to share
+    such) your location data as well as information on the motion activity, use of
+    our website and apps (i.e. referral source, length of visit, page views and website
+    navigation paths, as well as information about the timing, frequency and pattern
+    of your service use).
+- source: device datum
+  target: device type
+  key: SUBSUM
+  text:
+  - Device data may include IP address, geographical location, browser type and version,
+    operating system, device type, screen resolution and (in case you agree to share
+    such) your location data as well as information on the motion activity, use of
+    our website and apps (i.e. referral source, length of visit, page views and website
+    navigation paths, as well as information about the timing, frequency and pattern
+    of your service use).
+- source: device datum
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Device data may include IP address, geographical location, browser type and version,
+    operating system, device type, screen resolution and (in case you agree to share
+    such) your location data as well as information on the motion activity, use of
+    our website and apps (i.e. referral source, length of visit, page views and website
+    navigation paths, as well as information about the timing, frequency and pattern
+    of your service use).
+- source: device datum
+  target: ip address
+  key: SUBSUM
+  text:
+  - Device data may include IP address, geographical location, browser type and version,
+    operating system, device type, screen resolution and (in case you agree to share
+    such) your location data as well as information on the motion activity, use of
+    our website and apps (i.e. referral source, length of visit, page views and website
+    navigation paths, as well as information about the timing, frequency and pattern
+    of your service use).
+- source: device datum
+  target: screen resolution
+  key: SUBSUM
+  text:
+  - Device data may include IP address, geographical location, browser type and version,
+    operating system, device type, screen resolution and (in case you agree to share
+    such) your location data as well as information on the motion activity, use of
+    our website and apps (i.e. referral source, length of visit, page views and website
+    navigation paths, as well as information about the timing, frequency and pattern
+    of your service use).
+- source: personal information
+  target: source
+  key: SUBSUM
+  text:
+  - in case of the personal data that we did not obtain directly from you, the source
+    and specific categories of that data;
+- source: personal information
+  target: specific category
+  key: SUBSUM
+  text:
+  - in case of the personal data that we did not obtain directly from you, the source
+    and specific categories of that data;
+- source: service datum
+  target: bank account detail
+  key: SUBSUM
+  text:
+  - The service data may include your contact details (such as your email address),
+    bank account and transaction details as well as other information that you provide
+    to us while filling up the relevant questionnaires (such may include sensitive
+    personal data, related to your health, in case such data is necessary to provide
+    the relevant service).
+- source: service datum
+  target: contact information
+  key: SUBSUM
+  text:
+  - The service data may include your contact details (such as your email address),
+    bank account and transaction details as well as other information that you provide
+    to us while filling up the relevant questionnaires (such may include sensitive
+    personal data, related to your health, in case such data is necessary to provide
+    the relevant service).
+- source: service datum
+  target: information you provide to we
+  key: SUBSUM
+  text:
+  - The service data may include your contact details (such as your email address),
+    bank account and transaction details as well as other information that you provide
+    to us while filling up the relevant questionnaires (such may include sensitive
+    personal data, related to your health, in case such data is necessary to provide
+    the relevant service).
+- source: service datum
+  target: sensitive personal datum
+  key: SUBSUM
+  text:
+  - The service data may include your contact details (such as your email address),
+    bank account and transaction details as well as other information that you provide
+    to us while filling up the relevant questionnaires (such may include sensitive
+    personal data, related to your health, in case such data is necessary to provide
+    the relevant service).
+- source: specific service
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+- source: specific service
+  target: call centre
+  key: SUBSUM
+  text:
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+- source: specific service
+  target: customer satisfaction survey
+  key: SUBSUM
+  text:
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+- source: specific service
+  target: email service provider
+  key: SUBSUM
+  text:
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+- source: specific service
+  target: server
+  key: SUBSUM
+  text:
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+- source: specific service
+  target: service provider use for data analysis
+  key: SUBSUM
+  text:
+  - 2.5.      We may disclose your personal data to other service providers insofar
+    as it is reasonably necessary to provide specific services (including, providers
+    of servers and maintenance thereof, email service providers, service providers
+    used for data analysis or marketing, call centres, customer satisfaction surveys
+    or market research).
+nodes:
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: anti - fraud provider
+- type: ACTOR
+  id: call centre
+- type: ACTOR
+  id: customer satisfaction survey
+- type: ACTOR
+  id: email service provider
+- type: ACTOR
+  id: fasting solutions
+- type: ACTOR
+  id: insurer
+- type: ACTOR
+  id: payment service provider
+- type: ACTOR
+  id: professional adviser
+- type: ACTOR
+  id: server
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: service provider use for data analysis
+- type: ACTOR
+  id: specific service
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account datum
+- type: DATA
+  id: bank account detail
+- type: DATA
+  id: browser type
+- type: DATA
+  id: communication content
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: correspondence datum
+- type: DATA
+  id: datum you provide
+- type: DATA
+  id: device datum
+- type: DATA
+  id: device type
+- type: DATA
+  id: email address
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information on use of website
+- type: DATA
+  id: information relate to communication you send to we
+- type: DATA
+  id: information relate to provision of service by we to you
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: integrity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: messaging datum
+- type: DATA
+  id: metadata associate with communication
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: purchase history
+- type: DATA
+  id: screen resolution
+- type: DATA
+  id: sensitive personal datum
+- type: DATA
+  id: service datum
+- type: DATA
+  id: source
+- type: DATA
+  id: specific category

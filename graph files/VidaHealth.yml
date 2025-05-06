@@ -1,0 +1,979 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As a result, we may disclose information that we collect or you provide to contractors,
+    Business Associates (as defined under HIPAA), service providers and other third
+    parties for the purposes of providing the services as outlined above in "What
+    We Do With Your Information," provided such third parties have agreed to comply
+    with this Privacy Policy or substantially equivalent terms.
+  - As explained in the "Online Analytics and Advertising" section above, we provide
+    information to third-party advertising providers for targeted advertising purposes
+    or use advertising analytics partners to assist us in analyzing use of our services
+    and our user/customer base.
+  - For example, we need certain information in order to provide the Services to you.
+  - 'If you are a California resident, the California Consumer Privacy Act, as amended
+    ("CCPA") requires us to provide you with the following additional information
+    about: (1) the purpose for which we use each category of "personal information"
+    (as defined in the CCPA) we collect; and (2) the categories of third parties to
+    which we (a) disclose such personal information for a business purpose, (b) "share"
+    personal information for "cross-context behavioral advertising," and/or (c) "sell"
+    such personal information.'
+  - If you consent, we may disclose your information publicly or to third parties,
+    such as if you agree to provide a product or service review and have that content
+    attributed to you.
+  - In some cases, we may receive information from one of these third parties in a
+    capacity of a business associate under HIPAA; in that situation, we follow the
+    terms of the third-party covered entity's notice of privacy practices if they
+    conflict or are inconsistent with the terms herein.
+  - This Privacy Policy is incorporated into Our Terms of Use and tells you what information
+    we collect from visitors and Authorized Users of the Services, how we use that
+    information, how we may disclose that information, how we protect your information,
+    and your choices regarding your information.
+  - We may also release your information to third parties as required by law, when
+    we have a good faith belief that disclosure is necessary to comply with a legal
+    or regulatory requirements, judicial proceeding, court order or legal process
+    served on us, to protect the safety, rights or property of patients, customers,
+    the public or the Company or defend the Company and its officers, directors, employees,
+    attorneys, agents, contractors and partners, in connection with any legal action,
+    claim, or dispute.
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following:'
+  - 'We may use your information:'
+  - We will retain your information in for as long as needed for the purposes described
+    in this Privacy Policy.
+  - You or your health care provider, health plan, pharmacy benefit manager or employer
+    group plan will provide us with information so that we can provide our Services
+    to you.
+  purposes:
+    advertising:
+    - To administer surveys and special promotions
+    - To identify representatives and providers in your area
+    - To market our products and services to you, including, but not limited to, contacting
+      you about new product lines, product updates, details of current and future
+      projects, and quality and technical issues
+    - To provide information on products and services you request or have a representative
+      contact you regarding our products or services
+    - for targeted advertising purposes
+    - to allow us and our advertising partners to personalize your experience when
+      using the Services and on third-party platforms, including through targeted
+      offers and ads on our websites, third-party sites, and via email or text message
+    analytics:
+    - To analyze usage patterns and performance of our Services and to improve our
+      Services
+    - To conduct internal research, reporting, and data analytics
+    - To enable third parties or agents to help Vida maintain the Services, analyze
+      how users use the Services, or provide other administrative services to Vida
+    - To review customer feedback that you requested or asked us to review
+    legal:
+    - To comply with applicable laws and regulations
+    - To enforce the legal or contractual terms that govern your use of the Services
+      and our products and services
+    - To protect or defend Vida's legal rights or property
+    security:
+    - To protect or defend Vida's legal rights or property
+    services:
+    - To analyze usage patterns and performance of our Services and to improve our
+      Services
+    - To enable third parties or agents to help Vida maintain the Services, analyze
+      how users use the Services, or provide other administrative services to Vida
+    - To identify representatives and providers in your area
+    - To market our products and services to you, including, but not limited to, contacting
+      you about new product lines, product updates, details of current and future
+      projects, and quality and technical issues
+    - To process a payment for a service or product that you purchased
+    - To provide information on products and services you request or have a representative
+      contact you regarding our products or services
+    - To provide, operate, administer, and troubleshoot the Services to you, including
+      to create your account, match you with a provider, and facilitate the delivery
+      of our Services
+    - To respond to your inquiries, including through third-party platforms
+    - To review customer feedback that you requested or asked us to review
+    - in order to provide the Services to you
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use de-identified and/or aggregated data for any purpose, including without
+    limitation for research and marketing purposes and to improve users' experience
+    on the Services, and may also disclose such data to any third parties.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - For instance, we may use session cookies (which expire once you close your browser)
+    or persistent cookies (which stay on your mobile device until you delete them)
+    to provide you with a more personal and interactive experience on our Services.
+  - We and our service providers may use "cookies" and other technologies to collect
+    data that enable us to better understand and improve the usability, performance
+    and effectiveness of our Services.
+  purposes:
+    services:
+    - to provide you with a more personal and interactive experience on our Services
+- source: we
+  target: datum enable we
+  key: COLLECT
+  text:
+  - We and our service providers may use "cookies" and other technologies to collect
+    data that enable us to better understand and improve the usability, performance
+    and effectiveness of our Services.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - If you opt out of email marketing, we maintain your email on our suppression list
+    for an extended time to comply with your request.
+  purposes:
+    legal:
+    - to comply with your request
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - We will provide information about how to exercise that right in our response denying
+    the request.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including:'
+  - When you interact with our social media pages, such as by "liking" our page or
+    posting comments or replies to our content, we may collect certain information
+    about you, consistent with your privacy settings on that platform.
+  - When you register with the Services, we collect information about you, including
+    your name, address, telephone number, contact information and password.
+  purposes: {}
+- source: we
+  target: information about you you post as
+  key: COLLECT
+  text:
+  - We may also collect information about you that you have posted publicly, such
+    as on business networking websites.
+  purposes: {}
+- source: we
+  target: information collect through services
+  key: COLLECT
+  text:
+  - We will process information collected through the Services in accordance with
+    applicable law and with the agreements we have with your health care provider,
+    health plan, pharmacy benefit manager or employer, and as described in the Terms
+    of Service and this Privacy Policy.
+  purposes: {}
+- source: we
+  target: information you provide to we
+  key: COLLECT
+  text:
+  - Please note that if your access to the Services is sponsored by your employer
+    and/or provided for under your health plan, at the request of your employer group
+    plan or health plan, we may disclose information that you provide to us, or that
+    we otherwise collect, through the Services with your employer group plan, health
+    plan and/or third party service providers of your employer group plan or health
+    plan.
+  purposes: {}
+- source: we
+  target: large language model
+  key: COLLECT
+  text:
+  - In our commitment to delivering personalized and intelligent interactions, we
+    utilize a Large Language Model (LLM) through our managed service provider to support
+    the Vida AI Assistant feature.
+  purposes:
+    services:
+    - to support the Vida AI Assistant feature
+- source: we
+  target: publicly available datum
+  key: COLLECT
+  text:
+  - We also may collect publicly available data, such as from social media sites.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you consent, we may disclose your information publicly or to third parties,
+    such as if you agree to provide a product or service review and have that content
+    attributed to you.
+  - We may also release your information to third parties as required by law, when
+    we have a good faith belief that disclosure is necessary to comply with a legal
+    or regulatory requirements, judicial proceeding, court order or legal process
+    served on us, to protect the safety, rights or property of patients, customers,
+    the public or the Company or defend the Company and its officers, directors, employees,
+    attorneys, agents, contractors and partners, in connection with any legal action,
+    claim, or dispute.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We may use de-identified and/or aggregated data for any purpose, including without
+    limitation for research and marketing purposes and to improve users' experience
+    on the Services, and may also disclose such data to any third parties.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Those third-party companies may use cookies, pixel tags or other technologies
+    to collect and store information such as time of visit, pages visited, time spent
+    using the Services, device identifiers, type of operating system used and other
+    websites you may have visited.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information disclose during session
+  key: COLLECT
+  text:
+  - If you invite family, friends or other third parties to be part of your team or
+    join your chat sessions with your health coach, they will have access to the information
+    disclosed during that session.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: sort of technology describe in information we collect from you section
+  key: COLLECT
+  text:
+  - These vendors use the sort of technology previously described in the "Information
+    We Collect From You" section to help us analyze how users use the Services, including
+    by noting the third-party website from which you arrive.
+  purposes:
+    analytics:
+    - to help us analyze how users use the Services, including by noting the third-party
+      website from which you arrive
+- source: UNSPECIFIED_ACTOR
+  target: type of operating system use
+  key: COLLECT
+  text:
+  - Those third-party companies may use cookies, pixel tags or other technologies
+    to collect and store information such as time of visit, pages visited, time spent
+    using the Services, device identifiers, type of operating system used and other
+    websites you may have visited.
+  purposes: {}
+- source: advertiser
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As explained in the "Online Analytics and Advertising" section above, we provide
+    information to third-party advertising providers for targeted advertising purposes
+    or use advertising analytics partners to assist us in analyzing use of our services
+    and our user/customer base.
+  purposes:
+    advertising:
+    - for targeted advertising purposes
+- source: employer group plan
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - You or your health care provider, health plan, pharmacy benefit manager or employer
+    group plan will provide us with information so that we can provide our Services
+    to you.
+  purposes: {}
+- source: health care provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - You or your health care provider, health plan, pharmacy benefit manager or employer
+    group plan will provide us with information so that we can provide our Services
+    to you.
+  purposes: {}
+- source: health plan
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - You or your health care provider, health plan, pharmacy benefit manager or employer
+    group plan will provide us with information so that we can provide our Services
+    to you.
+  purposes: {}
+- source: pharmacy benefit manager
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - You or your health care provider, health plan, pharmacy benefit manager or employer
+    group plan will provide us with information so that we can provide our Services
+    to you.
+  purposes: {}
+- source: process partner
+  target: payment information
+  key: COLLECT
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: In the event you pay for the Services directly, payment information
+    is provided directly to our payment processing partner.'
+  purposes: {}
+- source: service provider
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We and our service providers may use "cookies" and other technologies to collect
+    data that enable us to better understand and improve the usability, performance
+    and effectiveness of our Services.
+  purposes: {}
+- source: service provider
+  target: datum enable we
+  key: COLLECT
+  text:
+  - We and our service providers may use "cookies" and other technologies to collect
+    data that enable us to better understand and improve the usability, performance
+    and effectiveness of our Services.
+  purposes: {}
+- source: service provider
+  target: information collect
+  key: COLLECT
+  text:
+  - The information collected by the technology will be disclosed to or collected
+    directly by these service providers, who use the information to evaluate your
+    use of the Services.
+  purposes: {}
+- source: vida ai assistant feature
+  target: user datum
+  key: COLLECT
+  text:
+  - In our commitment to delivering personalized and intelligent interactions, we
+    utilize a Large Language Model (LLM) through our managed service provider to support
+    the Vida AI Assistant feature.
+  - This feature processes user data to provide tailored responses and assistance
+    within the Service.
+  purposes:
+    services:
+    - to provide tailored responses and assistance within the Service
+- source: vida health
+  target: record of dialogue with vida ai assistant
+  key: COLLECT
+  text:
+  - For the purpose of continuous service improvement and to enable you to revisit
+    past interactions, Vida Health may retain records of your dialogues with the Vida
+    AI Assistant.
+  purposes:
+    services:
+    - For the purpose of continuous service improvement and to enable you to revisit
+      past interactions
+- source: analytic provider
+  target: Google
+  key: SUBSUM
+  text:
+  - We may use third-party web analytics services on our Services, such as those of
+    Google Analytics.
+- source: asset
+  target: corporate transaction
+  key: SUBSUM
+  text:
+  - We may also we disclose your information to our subsidiaries and affiliates; to
+    a third party in connection with a merger, divestiture, restructuring, reorganization,
+    dissolution, sale or transfer of some or all of our assets or other similar corporate
+    transactions or in connection with a bankruptcy, liquidation or similar proceeding.
+- source: audio information
+  target: photo
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Audio, electronic, visual, thermal, olfactory, or similar information (e.g., photos,
+    recordings of calls with customer support)'
+- source: audio information
+  target: recording of call with customer support
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Audio, electronic, visual, thermal, olfactory, or similar information (e.g., photos,
+    recordings of calls with customer support)'
+- source: commercial information
+  target: record of transaction
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Commercial information (e.g., records of transactions and purchases)'
+- source: device information
+  target: type of device you use
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: enterprise
+  target: consultant
+  key: SUBSUM
+  text:
+  - 'Enterprise : Consultants'
+- source: enterprise
+  target: employer
+  key: SUBSUM
+  text:
+  - 'Enterprise : Employers'
+- source: enterprise
+  target: health plan
+  key: SUBSUM
+  text:
+  - 'Enterprise : Health Plans'
+- source: financial information
+  target: billing information process through payment processing partner
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Financial information (e.g., billing and payment information processed through
+    our payment processing partner)'
+- source: geolocation
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Location Information, which may include general information
+    about the location of your device based on your IP address.'
+- source: health information
+  target: health insurance information
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: Your birthdate and certain health information, e.g., your health insurance
+    information, any diagnoses and how long you have been having symptoms.'
+- source: identifier
+  target: device information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers (e.g., name, mailing address, email address, phone number, IP address,
+    device information)'
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers (e.g., name, mailing address, email address, phone number, IP address,
+    device information)'
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers (e.g., name, mailing address, email address, phone number, IP address,
+    device information)'
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers (e.g., name, mailing address, email address, phone number, IP address,
+    device information)'
+- source: identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers (e.g., name, mailing address, email address, phone number, IP address,
+    device information)'
+- source: identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Identifiers (e.g., name, mailing address, email address, phone number, IP address,
+    device information)'
+- source: information about you
+  target: contact information
+  key: SUBSUM
+  text:
+  - When you register with the Services, we collect information about you, including
+    your name, address, telephone number, contact information and password.
+- source: information about you
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: Your birthdate and certain health information, e.g., your health insurance
+    information, any diagnoses and how long you have been having symptoms.'
+- source: information about you
+  target: health information
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: Your birthdate and certain health information, e.g., your health insurance
+    information, any diagnoses and how long you have been having symptoms.'
+- source: information about you
+  target: information you provide in public forum through services include
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: Information you provide in public forums through the Services, including
+    using our review, comment, post or similar functionality.'
+- source: information about you
+  target: information you provide to we
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: Information you provide to us, or grant us access to, when you access
+    or use the Services.'
+- source: information about you
+  target: password
+  key: SUBSUM
+  text:
+  - When you register with the Services, we collect information about you, including
+    your name, address, telephone number, contact information and password.
+- source: information about you
+  target: person name
+  key: SUBSUM
+  text:
+  - When you register with the Services, we collect information about you, including
+    your name, address, telephone number, contact information and password.
+- source: information about you
+  target: phone number
+  key: SUBSUM
+  text:
+  - When you register with the Services, we collect information about you, including
+    your name, address, telephone number, contact information and password.
+- source: information about you
+  target: postal address
+  key: SUBSUM
+  text:
+  - When you register with the Services, we collect information about you, including
+    your name, address, telephone number, contact information and password.
+- source: information about you
+  target: professional information
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: Professional information, including your company and job title.'
+- source: information about you
+  target: profile image
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: A profile image, should you provide one.'
+- source: internet activity
+  target: information about interaction with service
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Internet or other electronic network activity (e.g., information about your interaction
+    with the Services)'
+- source: online identifier
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: online identifier
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: online identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: online identifier
+  target: usage information
+  key: SUBSUM
+  text:
+  - Our use of third-party analytics services and online advertising services may
+    result in the sharing of online identifiers (e.g., cookie data, IP addresses,
+    device identifiers, and usage information) in a way that may be considered a "sale"
+    under the CCPA.
+- source: professional information
+  target: job title
+  key: SUBSUM
+  text:
+  - 'Once you have registered, we may collect the following information about you,
+    including: Professional information, including your company and job title.'
+- source: resource
+  target: library
+  key: SUBSUM
+  text:
+  - 'Resources : Library'
+- source: resource
+  target: news
+  key: SUBSUM
+  text:
+  - 'Resources : News'
+- source: resource
+  target: research
+  key: SUBSUM
+  text:
+  - 'Resources : Research'
+- source: sensitive personal information
+  target: health information
+  key: SUBSUM
+  text:
+  - 'Privacy Policy
+
+
+    Sensitive Personal Information (e.g., health information)'
+- source: sensitive personal information
+  target: relate information
+  key: SUBSUM
+  text:
+  - Please note, in the circumstances that we process sensitive personal information
+    (such as health-related information to provide the Services to you), we do not
+    use or disclose it other than for disclosed and permitted business purposes for
+    which there is not a right to limit under the CCPA.
+- source: source of information
+  target: personal information
+  key: SUBSUM
+  text:
+  - 'Specifically, you may have the right to ask us to: Inform you about the categories
+    of personal information we collect or disclose about you; the categories of sources
+    of such information; the business or commercial purpose for collecting your personal
+    information; and the categories of third parties with whom we disclose personal
+    information.'
+- source: type of device you use
+  target: advertising id
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of device you use
+  target: browser language
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of device you use
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of device you use
+  target: date
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of device you use
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of device you use
+  target: domain name
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of device you use
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of device you use
+  target: time
+  key: SUBSUM
+  text:
+  - 'We may collect certain information through automated means when you use the Services,
+    including the following: Device and Usage Information, which may include the type
+    of device you are using, your operating system, your browser type, your browser
+    language, your internet service provider, your domain name, your internet protocol
+    (IP) address, your device and mobile ad identifiers, the website that referred
+    you to our website, the web pages you view (including the date and time you viewed
+    them), the services or functionality you access or use (including the date and
+    time of your access or use), and the subject of the ads you click or scroll over.'
+- source: type of operating system use
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Those third-party companies may use cookies, pixel tags or other technologies
+    to collect and store information such as time of visit, pages visited, time spent
+    using the Services, device identifiers, type of operating system used and other
+    websites you may have visited.
+- source: type of operating system use
+  target: time of visit
+  key: SUBSUM
+  text:
+  - Those third-party companies may use cookies, pixel tags or other technologies
+    to collect and store information such as time of visit, pages visited, time spent
+    using the Services, device identifiers, type of operating system used and other
+    websites you may have visited.
+- source: type of operating system use
+  target: time spend
+  key: SUBSUM
+  text:
+  - Those third-party companies may use cookies, pixel tags or other technologies
+    to collect and store information such as time of visit, pages visited, time spent
+    using the Services, device identifiers, type of operating system used and other
+    websites you may have visited.
+- source: type of request you make
+  target: email address
+  key: SUBSUM
+  text:
+  - We also need to take reasonable steps to verify your identity before responding
+    to a request, which may include, at a minimum, depending on the sensitivity of
+    the information you are requesting and the type of request you are making, verifying
+    your name, location at time of consult and email address.
+- source: type of request you make
+  target: geolocation
+  key: SUBSUM
+  text:
+  - We also need to take reasonable steps to verify your identity before responding
+    to a request, which may include, at a minimum, depending on the sensitivity of
+    the information you are requesting and the type of request you are making, verifying
+    your name, location at time of consult and email address.
+- source: type of request you make
+  target: information you request
+  key: SUBSUM
+  text:
+  - We also need to take reasonable steps to verify your identity before responding
+    to a request, which may include, at a minimum, depending on the sensitivity of
+    the information you are requesting and the type of request you are making, verifying
+    your name, location at time of consult and email address.
+- source: type of request you make
+  target: person name
+  key: SUBSUM
+  text:
+  - To exercise any of these rights, you can email us at support@vida.com or directly
+    mail us at Vida Health, 20500 Belshaw Ave, DPT# EXCA1377, Carson, CA 90746-3506
+    with your name and type of request you are making.
+  - We also need to take reasonable steps to verify your identity before responding
+    to a request, which may include, at a minimum, depending on the sensitivity of
+    the information you are requesting and the type of request you are making, verifying
+    your name, location at time of consult and email address.
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: asset
+- type: ACTOR
+  id: consultant
+- type: ACTOR
+  id: corporate transaction
+- type: ACTOR
+  id: employer
+- type: ACTOR
+  id: employer group plan
+- type: ACTOR
+  id: enterprise
+- type: ACTOR
+  id: health care provider
+- type: ACTOR
+  id: health plan
+- type: ACTOR
+  id: library
+- type: ACTOR
+  id: news
+- type: ACTOR
+  id: pharmacy benefit manager
+- type: ACTOR
+  id: process partner
+- type: ACTOR
+  id: research
+- type: ACTOR
+  id: resource
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: vida ai assistant feature
+- type: ACTOR
+  id: vida health
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: advertising id
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: audio information
+- type: DATA
+  id: billing information process through payment processing partner
+- type: DATA
+  id: browser language
+- type: DATA
+  id: browser type
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum enable we
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device information
+- type: DATA
+  id: domain name
+- type: DATA
+  id: email address
+- type: DATA
+  id: financial information
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health information
+- type: DATA
+  id: health insurance information
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information about
+- type: DATA
+  id: information about interaction with service
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information about you you post as
+- type: DATA
+  id: information collect
+- type: DATA
+  id: information collect through services
+- type: DATA
+  id: information disclose during session
+- type: DATA
+  id: information you provide in public forum through services include
+- type: DATA
+  id: information you provide to we
+- type: DATA
+  id: information you request
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: job title
+- type: DATA
+  id: large language model
+- type: DATA
+  id: online identifier
+- type: DATA
+  id: password
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photo
+- type: DATA
+  id: postal address
+- type: DATA
+  id: professional information
+- type: DATA
+  id: profile image
+- type: DATA
+  id: publicly available datum
+- type: DATA
+  id: record of dialogue with vida ai assistant
+- type: DATA
+  id: record of transaction
+- type: DATA
+  id: recording of call with customer support
+- type: DATA
+  id: relate information
+- type: DATA
+  id: sensitive personal information
+- type: DATA
+  id: sort of technology describe in information we collect from you section
+- type: DATA
+  id: source of information
+- type: DATA
+  id: time
+- type: DATA
+  id: time of visit
+- type: DATA
+  id: time spend
+- type: DATA
+  id: type of device you use
+- type: DATA
+  id: type of operating system use
+- type: DATA
+  id: type of request you make
+- type: DATA
+  id: usage information
+- type: DATA
+  id: user datum

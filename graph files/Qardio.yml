@@ -1,0 +1,1193 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - And we use your information to make improvements to Qardio's services.
+  - If we receive a request for information, we may disclose Other Information if
+    we reasonably believe disclosure is in accordance with or required by any applicable
+    law, regulation or legal process.
+  - Qardio uses cookies and similar technologies in our Websites, mobile apps and
+    Services that help us collect other information.
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We collect certain data when you use our website or when you take part in our
+    events or reply to our questionnaires.
+  - We receive information from you, and other third-parties that helps us approximate
+    your location.
+  - We receive other information when submitted to our Websites or mobile apps if
+    you participate in a contest, activity or event, apply for a job, request support,
+    interact with our social media accounts or otherwise communicate with Qardio.
+  - 'We use the information we collect from all our services for the following purposes:
+    We also use your information to ensure our services are working as intended, such
+    as tracking outages or troubleshooting issues that you report to us.'
+  - 'We use the information we collect from all our services for the following purposes:
+    We use data for analytics to understand how our services are used.'
+  - 'We use the information we collect from all our services for the following purposes:
+    We use information to bill and collect money owed to us for our products.'
+  - 'We use the information we collect from all our services for the following purposes:
+    We use information to help improve the safety and reliability of our services.'
+  - 'We use the information we collect from all our services for the following purposes:
+    We use your information to deliver basic components of our services, like visualizing
+    a chart of your blood pressure readings, helping you share data with your doctor,
+    or shipping your product.'
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  - You will therefore need to provide us with certain data to identify yourself.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    - to understand how our services are used
+    legal:
+    - to bill and collect money owed to us for our products
+    security:
+    - to help improve the safety and reliability of our services
+    services:
+    - to bill and collect money owed to us for our products
+    - to deliver basic components of our services, like visualizing a chart of your
+      blood pressure readings, helping you share data with your doctor, or shipping
+      your product
+    - to ensure our services are working as intended, such as tracking outages or
+      troubleshooting issues that you report to us
+    - to help improve the safety and reliability of our services
+    - to identify yourself
+    - to make improvements to Qardio's services
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: access to personal information we hold about you
+  key: COLLECT
+  text:
+  - Upon request, we will provide you with access to the personal information that
+    we hold about you.
+  purposes: {}
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - For example, we may share aggregated or de-identified other information with prospects
+    or partners for business or research purposes, such as telling a prospective Qardio
+    customer the average number of blood pressure measurements taken by Qardio users
+    in a week.
+  - We may disclose or use aggregated or de-identified other information for any purpose.
+  purposes:
+    analytics:
+    - for business or research purposes, such as telling a prospective Qardio customer
+      the average number of blood pressure measurements taken by Qardio users in a
+      week
+- source: we
+  target: browser language
+  key: COLLECT
+  text:
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    services:
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - As with most technology services and websites delivered over the Internet, our
+    servers automatically collect information when you access or use our Websites
+    or Services and record it in log files.
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - This log data may include the Internet Protocol (IP) address, the address of the
+    web page visited before using the Website or Services, browser type and settings,
+    the date and time the Services were used, information about your devices and,
+    language preferences and cookie data.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    services:
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: click url
+  key: COLLECT
+  text:
+  - In some of our email messages, we use a "click-through URL" linked to content
+    on the Qardio websites.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - As with most technology services and websites delivered over the Internet, our
+    servers automatically collect information when you access or use our Websites
+    or Services and record it in log files.
+  - 'PRIVACY POLICY
+
+
+    Cookies and other technologies
+
+
+    Pixel tags enable us to send email messages in a format customers can read, and
+    they tell us whether mail has been opened.'
+  - This log data may include the Internet Protocol (IP) address, the address of the
+    web page visited before using the Website or Services, browser type and settings,
+    the date and time the Services were used, information about your devices and,
+    language preferences and cookie data.
+  - We may use cookies, pixel tags, web beacons, clear GIFs or other similar tools
+    on our site or in our email messages to assist us in collecting and analyzing
+    such information.
+  - We may use this information to reduce or eliminate messages sent to customers.
+  purposes:
+    analytics:
+    - to assist us in collecting and analyzing such information
+    security:
+    - to reduce or eliminate messages sent to customers
+    services:
+    - to reduce or eliminate messages sent to customers
+- source: we
+  target: date
+  key: COLLECT
+  text:
+  - As with most technology services and websites delivered over the Internet, our
+    servers automatically collect information when you access or use our Websites
+    or Services and record it in log files.
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - This log data may include the Internet Protocol (IP) address, the address of the
+    web page visited before using the Website or Services, browser type and settings,
+    the date and time the Services were used, information about your devices and,
+    language preferences and cookie data.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    services:
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: datum about visit to site
+  key: COLLECT
+  text:
+  - For example, we analyze data about your visits to our sites to do things like
+    optimize product design.
+  purposes:
+    services:
+    - to do things like optimize product design
+- source: we
+  target: datum relate to order
+  key: COLLECT
+  text:
+  - 'Here are some examples of situations in which you transmit data to us: When you
+    order a product on our website, we have to retain certain data relating to your
+    order, such as your delivery and billing address, even if you choose the option
+    allowing you to order without creating an account.'
+  purposes: {}
+- source: we
+  target: email message
+  key: COLLECT
+  text:
+  - 'PRIVACY POLICY
+
+
+    Cookies and other technologies
+
+
+    Pixel tags enable us to send email messages in a format customers can read, and
+    they tell us whether mail has been opened.'
+  - We may use this information to reduce or eliminate messages sent to customers.
+  purposes:
+    security:
+    - to reduce or eliminate messages sent to customers
+    services:
+    - to reduce or eliminate messages sent to customers
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    services:
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: health datum
+  key: COLLECT
+  text:
+  - 'This data exchange might be done via our API system, or via Apple HealthKit API:
+    We only exchange your health and wellness data with your express consent.'
+  purposes: {}
+- source: we
+  target: information provide
+  key: COLLECT
+  text:
+  - We may also, unless prohibited by the Promotion's rules or law, use the information
+    provided to communicate with you, or other people you select, about our Services.
+  - We may share this information with our affiliates and other organizations or service
+    providers in line with this policy and the rules posted for the Promotion.
+  purposes:
+    services:
+    - to communicate with you, or other people you select, about our Services
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - 'We use the information we collect from all our services for the following purposes:
+    We use information we collect, like your email address, to interact with you directly.'
+  - 'We use the information we collect from all our services for the following purposes:
+    We use the information we collect to customize our services for you, including
+    personalized content, and basic functionalities like tracking which language you
+    speak.'
+  purposes:
+    services:
+    - to customize our services for you, including personalized content, and basic
+      functionalities like tracking which language you speak
+    - to interact with you directly
+- source: we
+  target: information we collect from service
+  key: COLLECT
+  text:
+  - 'We use the information we collect from all our services for the following purposes:'
+  purposes:
+    analytics:
+    - to help us develop new ones
+    - to understand how our services are used
+    legal:
+    - to bill and collect money owed to us for our products
+    security:
+    - to help improve the safety and reliability of our services
+    services:
+    - to administer those programs
+    - to bill and collect money owed to us for our products
+    - to customize our services for you, including personalized content, and basic
+      functionalities like tracking which language you speak
+    - to deliver basic components of our services, like visualizing a chart of your
+      blood pressure readings, helping you share data with your doctor, or shipping
+      your product
+    - to ensure our services are working as intended, such as tracking outages or
+      troubleshooting issues that you report to us
+    - to help improve the safety and reliability of our services
+    - to help us develop new ones
+    - to interact with you directly
+- source: we
+  target: information we collect in existing service
+  key: COLLECT
+  text:
+  - 'We use the information we collect from all our services for the following purposes:
+    We use the information we collect in existing services to help us develop new
+    ones.'
+  purposes:
+    analytics:
+    - to help us develop new ones
+    services:
+    - to help us develop new ones
+- source: we
+  target: information you provide
+  key: COLLECT
+  text:
+  - 'We use the information we collect from all our services for the following purposes:
+    If you enter into a sweepstake, contest, or similar promotion we may use the information
+    you provide to administer those programs.'
+  - We use the information you provide to administer Our Promotions.
+  purposes:
+    advertising:
+    - to administer Our Promotions
+    services:
+    - to administer those programs
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - As with most technology services and websites delivered over the Internet, our
+    servers automatically collect information when you access or use our Websites
+    or Services and record it in log files.
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - This log data may include the Internet Protocol (IP) address, the address of the
+    web page visited before using the Website or Services, browser type and settings,
+    the date and time the Services were used, information about your devices and,
+    language preferences and cookie data.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We may, for example, use an IP address received from your browser or device to
+    determine your approximate location.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    - to determine your approximate location
+    services:
+    - to determine your approximate location
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: language preference
+  key: COLLECT
+  text:
+  - As with most technology services and websites delivered over the Internet, our
+    servers automatically collect information when you access or use our Websites
+    or Services and record it in log files.
+  - This log data may include the Internet Protocol (IP) address, the address of the
+    web page visited before using the Website or Services, browser type and settings,
+    the date and time the Services were used, information about your devices and,
+    language preferences and cookie data.
+  purposes: {}
+- source: we
+  target: money owe to we for product
+  key: COLLECT
+  text:
+  - 'We use the information we collect from all our services for the following purposes:
+    We use information to bill and collect money owed to us for our products.'
+  purposes: {}
+- source: we
+  target: page element
+  key: COLLECT
+  text:
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    services:
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: page view
+  key: COLLECT
+  text:
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    services:
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - From time to time, we may use your personal information to send important notices,
+    such as communications about purchases and changes to our terms, conditions, and
+    policies.
+  - In certain situations, we may be required to disclose personal data in response
+    to lawful requests by public authorities, including to meet national security
+    or law enforcement requirements.
+  - We will retain your personal information for the period necessary to fulfill the
+    purposes outlined in this Privacy Policy unless a longer retention period is required
+    or permitted by law.
+  purposes:
+    services:
+    - to send important notices, such as communications about purchases and changes
+      to our terms, conditions, and policies
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - As with most technology services and websites delivered over the Internet, our
+    servers automatically collect information when you access or use our Websites
+    or Services and record it in log files.
+  - This log data may include the Internet Protocol (IP) address, the address of the
+    web page visited before using the Website or Services, browser type and settings,
+    the date and time the Services were used, information about your devices and,
+    language preferences and cookie data.
+  purposes: {}
+- source: we
+  target: record of request
+  key: COLLECT
+  text:
+  - And if you contact Qardio, we'll keep a record of your request in order to help
+    solve any issues you might be facing.
+  purposes:
+    services:
+    - in order to help solve any issues you might be facing
+- source: we
+  target: setting
+  key: COLLECT
+  text:
+  - As with most technology services and websites delivered over the Internet, our
+    servers automatically collect information when you access or use our Websites
+    or Services and record it in log files.
+  - This log data may include the Internet Protocol (IP) address, the address of the
+    web page visited before using the Website or Services, browser type and settings,
+    the date and time the Services were used, information about your devices and,
+    language preferences and cookie data.
+  purposes: {}
+- source: we
+  target: time
+  key: COLLECT
+  text:
+  - This information includes IP address, geographic location of the device, browser
+    type, browser language, date and time of your request, times of your visits, page
+    views and page elements (e.g., links) that you click.
+  - To help analyze how you and other visitors navigate the Qardio websites, compile
+    aggregate statistics about site usage and response rates, help diagnose any problems
+    with Qardio's servers and administer the Qardio Store website, we, with assistance
+    from third-party analytics service providers, collect certain information when
+    you visit our site.
+  - We use this information to provide better, more relevant content on our site,
+    to identify and fix problems, and to improve your overall experience on our site.
+  purposes:
+    analytics:
+    - To help analyze how you and other visitors navigate the Qardio websites, compile
+      aggregate statistics about site usage and response rates, help diagnose any
+      problems with Qardio's servers and administer the Qardio Store website
+    services:
+    - to provide better, more relevant content on our site, to identify and fix problems,
+      and to improve your overall experience on our site
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Once enabled, the provider of a Third Party Service may share certain information
+    with Qardio.
+  - Qardio may share other information with its corporate affiliates, parents and/or
+    subsidiaries, please refer to the paragraph "International Data Transfers" below
+    for more details.
+  - Qardio may share other information with third parties, when we have consent to
+    do so.
+  - Qardio's products, services, and applications collect data, enabling monitoring
+    by their accumulation.
+  - When enabled, Qardio may share other information with Third Party Services.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - For example, we may share aggregated or de-identified other information with prospects
+    or partners for business or research purposes, such as telling a prospective Qardio
+    customer the average number of blood pressure measurements taken by Qardio users
+    in a week.
+  purposes:
+    analytics:
+    - for business or research purposes, such as telling a prospective Qardio customer
+      the average number of blood pressure measurements taken by Qardio users in a
+      week
+- source: UNSPECIFIED_ACTOR
+  target: credit card payment
+  key: COLLECT
+  text:
+  - We use third parties for secure credit card transaction processing, and those
+    third parties process your orders and credit card payments.
+  purposes:
+    security:
+    - for secure credit card transaction processing
+    services:
+    - for secure credit card transaction processing
+- source: UNSPECIFIED_ACTOR
+  target: information provide
+  key: COLLECT
+  text:
+  - We may also, unless prohibited by the Promotion's rules or law, use the information
+    provided to communicate with you, or other people you select, about our Services.
+  - We may share this information with our affiliates and other organizations or service
+    providers in line with this policy and the rules posted for the Promotion.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: order
+  key: COLLECT
+  text:
+  - We use third parties for secure credit card transaction processing, and those
+    third parties process your orders and credit card payments.
+  purposes:
+    security:
+    - for secure credit card transaction processing
+    services:
+    - for secure credit card transaction processing
+- source: computer server locate within european union
+  target: information you provide
+  key: COLLECT
+  text:
+  - Generally, if you are based in the United States or Canada, or any other location
+    outside of the European Union, any information you provide, including any personal
+    information, will be transferred to and processed by a computer server located
+    within the United States, and if you are based in the European Economic Area or
+    Switzerland, any information you provide, including any personal information,
+    will be transferred to and processed by a computer server located within the European
+    Union.
+  purposes: {}
+- source: computer server locate within united states
+  target: information you provide
+  key: COLLECT
+  text:
+  - Generally, if you are based in the United States or Canada, or any other location
+    outside of the European Union, any information you provide, including any personal
+    information, will be transferred to and processed by a computer server located
+    within the United States, and if you are based in the European Economic Area or
+    Switzerland, any information you provide, including any personal information,
+    will be transferred to and processed by a computer server located within the European
+    Union.
+  purposes: {}
+- source: corporate affiliate
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Qardio may share other information with its corporate affiliates, parents and/or
+    subsidiaries, please refer to the paragraph "International Data Transfers" below
+    for more details.
+  purposes: {}
+- source: doctor
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'We use the information we collect from all our services for the following purposes:
+    We use your information to deliver basic components of our services, like visualizing
+    a chart of your blood pressure readings, helping you share data with your doctor,
+    or shipping your product.'
+  purposes: {}
+- source: prospect
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - For example, we may share aggregated or de-identified other information with prospects
+    or partners for business or research purposes, such as telling a prospective Qardio
+    customer the average number of blood pressure measurements taken by Qardio users
+    in a week.
+  purposes:
+    analytics:
+    - for business or research purposes, such as telling a prospective Qardio customer
+      the average number of blood pressure measurements taken by Qardio users in a
+      week
+- source: qardio
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Once enabled, the provider of a Third Party Service may share certain information
+    with Qardio.
+  - 'Qardio may collect data and information in a variety of ways when you use the
+    Services:'
+  - Qardio may share other information with its corporate affiliates, parents and/or
+    subsidiaries, please refer to the paragraph "International Data Transfers" below
+    for more details.
+  - Qardio may share other information with third parties, when we have consent to
+    do so.
+  - This section describes how Qardio may share and disclose Information.
+  - When enabled, Qardio may share other information with Third Party Services.
+  purposes: {}
+- source: qardio
+  target: account information
+  key: COLLECT
+  text:
+  - 'Qardio may collect data and information in a variety of ways when you use the
+    Services: Account Information.'
+  purposes: {}
+- source: qardio
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'Qardio may collect data and information in a variety of ways when you use the
+    Services: Cookie Information.'
+  - Qardio uses cookies and similar technologies in our Websites, mobile apps and
+    Services that help us collect other information.
+  purposes: {}
+- source: qardio
+  target: datum about organization
+  key: COLLECT
+  text:
+  - Qardio may receive data about organizations, website visitors, marketing campaigns
+    and other matters related to our business from affiliates and subsidiaries, our
+    partners or others that we use to make our own information better or more useful.
+  purposes: {}
+- source: qardio
+  target: geolocation
+  key: COLLECT
+  text:
+  - Qardio may also collect location information from devices in accordance with the
+    consent process provided by your device.
+  purposes: {}
+- source: qardio
+  target: information about device access service
+  key: COLLECT
+  text:
+  - Qardio collects information about devices accessing the Services, including type
+    of device, what operating system is used, device settings, application IDs, unique
+    device identifiers and crash data.
+  purposes: {}
+- source: qardio
+  target: information constitute personal data
+  key: COLLECT
+  text:
+  - With your consent, Qardio may also process other information that constitutes
+    your Personal Data for direct marketing purposes and you have a right to object
+    to Qardio's use of your Personal Data for this purpose at any time.
+  purposes:
+    advertising:
+    - for direct marketing purposes
+- source: qardio
+  target: information make in accordance with agreement with third party provider
+  key: COLLECT
+  text:
+  - When a Third Party Service is enabled, Qardio is authorized to connect and access
+    other information made available to Qardio in accordance with our agreement with
+    the Third Party Provider.
+  purposes: {}
+- source: qardio
+  target: information pertain to you
+  key: COLLECT
+  text:
+  - Qardio may retain other information pertaining to you for as long as necessary
+    for the purposes described in this Privacy Policy.
+  purposes: {}
+- source: qardio
+  target: information you provide about people
+  key: COLLECT
+  text:
+  - Qardio will use such information to fulfill your requests, or provide the relevant
+    Services.
+  - When you share your content with family and friends using Qardio Services, or
+    send gift certificates and products, or invite others to interact with Qardio
+    services, Qardio may collect the information you provide about those people such
+    as name, mailing address, email address, and phone number.
+  purposes:
+    services:
+    - to fulfill your requests, or provide the relevant Services
+- source: qardio
+  target: information you provide during purchase process
+  key: COLLECT
+  text:
+  - For example, when you purchase your QardioArm, you authorize Qardio to exchange
+    the information you provide during the purchase process to carry out the product
+    shipping service.
+  purposes:
+    services:
+    - to carry out the product shipping service
+- source: qardio
+  target: number of time you access app
+  key: COLLECT
+  text:
+  - For example, Qardio logs the number of times you access your app and the time
+    of the day.
+  purposes: {}
+- source: qardio
+  target: personal information
+  key: COLLECT
+  text:
+  - Personal information will only be shared by Qardio to provide or improve our products,
+    services and promotional messages; it will not be shared with third parties for
+    their marketing purposes.
+  - Qardio will solely share and disclose user Personal Data in accordance with your
+    instructions, including any applicable terms in the Terms and Conditions and Customer's
+    use of Services functionality, and in compliance with applicable law and legal
+    process.
+  purposes:
+    advertising:
+    - for their marketing purposes
+    - to provide or improve our products, services and promotional messages
+    services:
+    - to provide or improve our products, services and promotional messages
+- source: qardio
+  target: third party data
+  key: COLLECT
+  text:
+  - 'Qardio may collect data and information in a variety of ways when you use the
+    Services: Third Party Data.'
+  purposes: {}
+- source: qardio
+  target: time of day
+  key: COLLECT
+  text:
+  - For example, Qardio logs the number of times you access your app and the time
+    of the day.
+  purposes: {}
+- source: qardio
+  target: usage information
+  key: COLLECT
+  text:
+  - 'Qardio may collect data and information in a variety of ways when you use the
+    Services: Usage Information.'
+  purposes: {}
+- source: qardio
+  target: user data
+  key: COLLECT
+  text:
+  - 'Qardio may collect data and information in a variety of ways when you use the
+    Services: User Data.'
+  - Qardio will retain User Data in accordance with a User's instructions, including
+    any applicable terms in any service Terms and Conditions, Customer Agreement and
+    Customer's use of Services functionality, and as required by applicable law.
+  - Users routinely submit User Data to Qardio when using the Services.
+  purposes: {}
+- source: service provider
+  target: information provide
+  key: COLLECT
+  text:
+  - We may also, unless prohibited by the Promotion's rules or law, use the information
+    provided to communicate with you, or other people you select, about our Services.
+  - We may share this information with our affiliates and other organizations or service
+    providers in line with this policy and the rules posted for the Promotion.
+  purposes: {}
+- source: we
+  target: interaction
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to Qardio's platform, including its associated devices
+    and Qardio mobile applications (collectively, the "Services"), qardio.com, qardiomd.com
+    and other Qardio websites (collectively, the "Websites") and other interactions
+    (e.g., customer service inquiries, online stores, etc.) you may have with Qardio.
+- source: we
+  target: qardio mobile application
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to Qardio's platform, including its associated devices
+    and Qardio mobile applications (collectively, the "Services"), qardio.com, qardiomd.com
+    and other Qardio websites (collectively, the "Websites") and other interactions
+    (e.g., customer service inquiries, online stores, etc.) you may have with Qardio.
+- source: we
+  target: qardio website
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to Qardio's platform, including its associated devices
+    and Qardio mobile applications (collectively, the "Services"), qardio.com, qardiomd.com
+    and other Qardio websites (collectively, the "Websites") and other interactions
+    (e.g., customer service inquiries, online stores, etc.) you may have with Qardio.
+- source: asset
+  target: stock
+  key: SUBSUM
+  text:
+  - If Qardio engages in a merger, acquisition, bankruptcy, dissolution, reorganization,
+    sale of some or all of Qardio's assets or stock, financing, public offering of
+    securities, acquisition of all or a portion of our business, a similar transaction
+    or proceeding, or steps in contemplation of such activities (e.g. due diligence),
+    some or all other information may be shared or transferred, subject to standard
+    confidentiality arrangements.
+- source: contact information
+  target: date of birth
+  key: SUBSUM
+  text:
+  - Information requested for entry may include personal contact information such
+    as your name, address, date of birth, phone number, email address, username, and
+    similar details.
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - Information requested for entry may include personal contact information such
+    as your name, address, date of birth, phone number, email address, username, and
+    similar details.
+- source: contact information
+  target: person name
+  key: SUBSUM
+  text:
+  - Information requested for entry may include personal contact information such
+    as your name, address, date of birth, phone number, email address, username, and
+    similar details.
+- source: contact information
+  target: phone number
+  key: SUBSUM
+  text:
+  - Information requested for entry may include personal contact information such
+    as your name, address, date of birth, phone number, email address, username, and
+    similar details.
+- source: contact information
+  target: postal address
+  key: SUBSUM
+  text:
+  - Information requested for entry may include personal contact information such
+    as your name, address, date of birth, phone number, email address, username, and
+    similar details.
+- source: contact information
+  target: username
+  key: SUBSUM
+  text:
+  - Information requested for entry may include personal contact information such
+    as your name, address, date of birth, phone number, email address, username, and
+    similar details.
+- source: datum relate to order
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Here are some examples of situations in which you transmit data to us: When you
+    order a product on our website, we have to retain certain data relating to your
+    order, such as your delivery and billing address, even if you choose the option
+    allowing you to order without creating an account.'
+- source: information about device access service
+  target: type of device
+  key: SUBSUM
+  text:
+  - Qardio collects information about devices accessing the Services, including type
+    of device, what operating system is used, device settings, application IDs, unique
+    device identifiers and crash data.
+- source: information request for entry
+  target: contact information
+  key: SUBSUM
+  text:
+  - Information requested for entry may include personal contact information such
+    as your name, address, date of birth, phone number, email address, username, and
+    similar details.
+- source: information we collect
+  target: email address
+  key: SUBSUM
+  text:
+  - 'We use the information we collect from all our services for the following purposes:
+    We use information we collect, like your email address, to interact with you directly.'
+- source: information you provide
+  target: personal information
+  key: SUBSUM
+  text:
+  - Generally, if you are based in the United States or Canada, or any other location
+    outside of the European Union, any information you provide, including any personal
+    information, will be transferred to and processed by a computer server located
+    within the United States, and if you are based in the European Economic Area or
+    Switzerland, any information you provide, including any personal information,
+    will be transferred to and processed by a computer server located within the European
+    Union.
+- source: information you provide about people
+  target: email address
+  key: SUBSUM
+  text:
+  - When you share your content with family and friends using Qardio Services, or
+    send gift certificates and products, or invite others to interact with Qardio
+    services, Qardio may collect the information you provide about those people such
+    as name, mailing address, email address, and phone number.
+- source: information you provide about people
+  target: person name
+  key: SUBSUM
+  text:
+  - When you share your content with family and friends using Qardio Services, or
+    send gift certificates and products, or invite others to interact with Qardio
+    services, Qardio may collect the information you provide about those people such
+    as name, mailing address, email address, and phone number.
+- source: information you provide about people
+  target: phone number
+  key: SUBSUM
+  text:
+  - When you share your content with family and friends using Qardio Services, or
+    send gift certificates and products, or invite others to interact with Qardio
+    services, Qardio may collect the information you provide about those people such
+    as name, mailing address, email address, and phone number.
+- source: information you provide about people
+  target: postal address
+  key: SUBSUM
+  text:
+  - When you share your content with family and friends using Qardio Services, or
+    send gift certificates and products, or invite others to interact with Qardio
+    services, Qardio may collect the information you provide about those people such
+    as name, mailing address, email address, and phone number.
+- source: interaction
+  target: online store
+  key: SUBSUM
+  text:
+  - This Privacy Policy applies to Qardio's platform, including its associated devices
+    and Qardio mobile applications (collectively, the "Services"), qardio.com, qardiomd.com
+    and other Qardio websites (collectively, the "Websites") and other interactions
+    (e.g., customer service inquiries, online stores, etc.) you may have with Qardio.
+- source: personal information
+  target: type of service provide to customer
+  key: SUBSUM
+  text:
+  - Under California Law, California residents have the right to request in writing
+    from businesses with whom they have an established business relationship, (a)
+    a list of the categories of Personal Information, such as name, email and mailing
+    address and the type of services provided to the customer, that a business has
+    disclosed to third parties (including affiliates that are separate legal entities)
+    during the immediately preceding calendar year for the third parties' direct marketing
+    purposes and (b) the names and addresses of all such third parties.
+- source: promotions
+  target: social media
+  key: SUBSUM
+  text:
+  - We may, from time to time, offer surveys, contests, sweepstakes, or other promotions
+    on our Websites or through social media (collectively, "Our Promotions").
+- source: type of device
+  target: application id
+  key: SUBSUM
+  text:
+  - Qardio collects information about devices accessing the Services, including type
+    of device, what operating system is used, device settings, application IDs, unique
+    device identifiers and crash data.
+- source: type of device
+  target: crash datum
+  key: SUBSUM
+  text:
+  - Qardio collects information about devices accessing the Services, including type
+    of device, what operating system is used, device settings, application IDs, unique
+    device identifiers and crash data.
+- source: type of device
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Qardio collects information about devices accessing the Services, including type
+    of device, what operating system is used, device settings, application IDs, unique
+    device identifiers and crash data.
+- source: type of device
+  target: device setting
+  key: SUBSUM
+  text:
+  - Qardio collects information about devices accessing the Services, including type
+    of device, what operating system is used, device settings, application IDs, unique
+    device identifiers and crash data.
+- source: type of device
+  target: operate system
+  key: SUBSUM
+  text:
+  - Qardio collects information about devices accessing the Services, including type
+    of device, what operating system is used, device settings, application IDs, unique
+    device identifiers and crash data.
+- source: type of device use
+  target: setting
+  key: SUBSUM
+  text:
+  - Whether we collect some or all of this Other Information often depends on the
+    type of device used and its settings.
+- source: type of service provide to customer
+  target: email address
+  key: SUBSUM
+  text:
+  - Under California Law, California residents have the right to request in writing
+    from businesses with whom they have an established business relationship, (a)
+    a list of the categories of Personal Information, such as name, email and mailing
+    address and the type of services provided to the customer, that a business has
+    disclosed to third parties (including affiliates that are separate legal entities)
+    during the immediately preceding calendar year for the third parties' direct marketing
+    purposes and (b) the names and addresses of all such third parties.
+- source: type of service provide to customer
+  target: person name
+  key: SUBSUM
+  text:
+  - Under California Law, California residents have the right to request in writing
+    from businesses with whom they have an established business relationship, (a)
+    a list of the categories of Personal Information, such as name, email and mailing
+    address and the type of services provided to the customer, that a business has
+    disclosed to third parties (including affiliates that are separate legal entities)
+    during the immediately preceding calendar year for the third parties' direct marketing
+    purposes and (b) the names and addresses of all such third parties.
+- source: type of service provide to customer
+  target: postal address
+  key: SUBSUM
+  text:
+  - Under California Law, California residents have the right to request in writing
+    from businesses with whom they have an established business relationship, (a)
+    a list of the categories of Personal Information, such as name, email and mailing
+    address and the type of services provided to the customer, that a business has
+    disclosed to third parties (including affiliates that are separate legal entities)
+    during the immediately preceding calendar year for the third parties' direct marketing
+    purposes and (b) the names and addresses of all such third parties.
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: asset
+- type: ACTOR
+  id: computer server locate within european union
+- type: ACTOR
+  id: computer server locate within united states
+- type: ACTOR
+  id: corporate affiliate
+- type: ACTOR
+  id: doctor
+- type: ACTOR
+  id: interaction
+- type: ACTOR
+  id: online store
+- type: ACTOR
+  id: promotions
+- type: ACTOR
+  id: prospect
+- type: ACTOR
+  id: qardio
+- type: ACTOR
+  id: qardio mobile application
+- type: ACTOR
+  id: qardio website
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: stock
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: access to personal information we hold about you
+- type: DATA
+  id: account information
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: application id
+- type: DATA
+  id: browser language
+- type: DATA
+  id: browser type
+- type: DATA
+  id: click url
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: crash datum
+- type: DATA
+  id: credit card payment
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum about organization
+- type: DATA
+  id: datum about visit to site
+- type: DATA
+  id: datum relate to order
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device setting
+- type: DATA
+  id: email address
+- type: DATA
+  id: email message
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health datum
+- type: DATA
+  id: information about device access service
+- type: DATA
+  id: information constitute personal data
+- type: DATA
+  id: information make in accordance with agreement with third party provider
+- type: DATA
+  id: information pertain to you
+- type: DATA
+  id: information provide
+- type: DATA
+  id: information request for entry
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information we collect from service
+- type: DATA
+  id: information we collect in existing service
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you provide about people
+- type: DATA
+  id: information you provide during purchase process
+- type: DATA
+  id: ip address
+- type: DATA
+  id: language preference
+- type: DATA
+  id: money owe to we for product
+- type: DATA
+  id: number of time you access app
+- type: DATA
+  id: operate system
+- type: DATA
+  id: order
+- type: DATA
+  id: page element
+- type: DATA
+  id: page view
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: record of request
+- type: DATA
+  id: setting
+- type: DATA
+  id: third party data
+- type: DATA
+  id: time
+- type: DATA
+  id: time of day
+- type: DATA
+  id: type of device
+- type: DATA
+  id: type of device use
+- type: DATA
+  id: type of service provide to customer
+- type: DATA
+  id: usage information
+- type: DATA
+  id: user data
+- type: DATA
+  id: username

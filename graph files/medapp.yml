@@ -1,0 +1,91 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - These cookies are used to collect information about how you interact with our
+    website and allow us to remember you.
+  - We use this information in order to improve and customize your browsing experience
+    and for analytics and metrics about our visitors both on this website and other
+    media.
+  purposes:
+    analytics:
+    - in order to improve and customize your browsing experience and for analytics
+      and metrics about our visitors both on this website and other media
+    services:
+    - in order to improve and customize your browsing experience and for analytics
+      and metrics about our visitors both on this website and other media
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - This website stores cookies on your computer.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We do collect usage data about what people look at on the app, dashboard or website.
+  purposes: {}
+- source: we
+  target: minimum information need
+  key: COLLECT
+  text:
+  - We only collect the minimum information needed to give you a safe and user-friendly
+    experience.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - In the language of privacy principles, we only use your personal information for
+    necessary and related purposes.
+  - We may also disclose your personal information to other third parties in circumstances
+    where you have consented to that disclosure.
+  - We will hold personal information in electronic forms in secure databases on secure
+    premises, accessible only by authorised staff.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We may also disclose your personal information to other third parties in circumstances
+    where you have consented to that disclosure.
+  purposes: {}
+- source: manager at site
+  target: internet activity
+  key: COLLECT
+  text:
+  - The anonymised, aggregated usage data for a specific hospital or account (e.g.
+    how many views page X has had) is shared with managers at that site so that they
+    can continually improve the content in the app and only put up information that
+    is relevant and useful.
+  purposes: {}
+- source: register of attendance
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - The register of attendance will continue to record your details against that event.
+  purposes: {}
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: manager at site
+- type: ACTOR
+  id: register of attendance
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: minimum information need
+- type: DATA
+  id: personal information

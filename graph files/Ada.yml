@@ -1,0 +1,1918 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - After termination of the account, we will retain your data for up to seven years
+    in secured form as described above.
+  - If you are a Brazilian resident, Brazilian law requires us to provide you with
+    some additional information regarding your rights with respect to your "personal
+    information" (as defined in the "Lei Geral de Protecao de Dados" (hereinafter
+    the " LGPD ") that came into force on September 18th, 2020).
+  - In that case, we may share the information with those affiliate program partners
+    that you were directed to their services by us.
+  - 'Storage duration : We process your data for the purposes specified above until
+    you request deletion of your account or when you delete your account.'
+  - 'Storage duration : We will store your data until you revoke your consent or object
+    to the processing based on our legitimate interest.'
+  - We also process your data when you use additional health related features such
+    as the symptom tracker to document and track their symptoms to provide you the
+    used functionality.
+  - We may retain your data as explained in Sec. 3.18.
+  - We process your data until no longer necessary for the purposes specified above.
+  - We will retain data (incl. health data) in relation to your use of our Services
+    for up to seven years in accordance with our business needs for the purposes of
+    establishing, exercising or defending against legal claims.
+  - Where the business partner provides Ada Assess to its registered users we store
+    your data for as long as your user account exists or till you specifically request
+    deletion of your assessment.
+  purposes:
+    legal:
+    - for the purposes of establishing, exercising or defending against legal claims
+- source: we
+  target: above datum
+  key: COLLECT
+  text:
+  - We also use this data to analyze the system security and stability, as well as
+    for additional administrative purposes.
+  - We use the above data (which does not include personal health data) to ensure
+    the proper use, functioning, maintenance and improvement of our Services (our
+    Services cannot function properly without this processing) as well as to prevent
+    any decompiling or otherwise reverse engineering.
+  - We use the above data to enable the use of Ada Assess on our website or in the
+    infrastructure of our business partners (website, app or other platform) and facilitate
+    the exchange of data between Ada and the business partner.
+  - We use the above data to provide you with a user account and access to our App.
+  - We use the above data to provide you with access to our Services, to ensure that
+    the Services can establish an internet connection smoothly and are easy to use.
+  purposes:
+    analytics:
+    - to analyze the system security and stability, as well as for additional administrative
+      purposes
+    - to enable the use of Ada Assess on our website or in the infrastructure of our
+      business partners (website, app or other platform) and facilitate the exchange
+      of data between Ada and the business partner
+    security:
+    - to analyze the system security and stability, as well as for additional administrative
+      purposes
+    - to ensure the proper use, functioning, maintenance and improvement of our Services
+      (our Services cannot function properly without this processing) as well as to
+      prevent any decompiling or otherwise reverse engineering
+    services:
+    - to analyze the system security and stability, as well as for additional administrative
+      purposes
+    - to enable the use of Ada Assess on our website or in the infrastructure of our
+      business partners (website, app or other platform) and facilitate the exchange
+      of data between Ada and the business partner
+    - to ensure the proper use, functioning, maintenance and improvement of our Services
+      (our Services cannot function properly without this processing) as well as to
+      prevent any decompiling or otherwise reverse engineering
+    - to provide you with a user account and access to our App
+    - to provide you with access to our Services, to ensure that the Services can
+      establish an internet connection smoothly and are easy to use
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - To the extent possible, we use pseudonymized or anonymized data and to perform
+    this task.
+  purposes:
+    services:
+    - to perform this task
+- source: we
+  target: analytic datum
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Analytics
+    data: your IP address, operating system and browser type; information about which
+    app store you downloaded our App from; length of visits to certain pages, and
+    page interaction information (such as scrolling, finger gestures, clicks, and
+    mouse-overs)'
+  purposes: {}
+- source: we
+  target: anonymized statistic be
+  key: COLLECT
+  text:
+  - The processing is necessary for statistical purposes, and we only provide our
+    partners with anonymized and summarized statistics from which the identification
+    of a specific natural person is impossible (Article 9(2)(j) GDPR; Sec. 27 (1)
+    BDSG).
+  purposes: {}
+- source: we
+  target: assessment
+  key: COLLECT
+  text:
+  - When you use Ada Assess without an account we store your assessment for the duration
+    of existing retention requirements of medical safety under applicable medical
+    device regulations as well as Ada's legitimate interests as explained in this
+    privacy policy.
+  purposes: {}
+- source: we
+  target: browser type
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Analytics
+    data: your IP address, operating system and browser type; information about which
+    app store you downloaded our App from; length of visits to certain pages, and
+    page interaction information (such as scrolling, finger gestures, clicks, and
+    mouse-overs)'
+  purposes: {}
+- source: we
+  target: consultation detail
+  key: COLLECT
+  text:
+  - If you were a user of the UK Doctor Chat services (which is no longer available
+    since 23 March 2018), your consultation details may be retained by us for a period
+    up to 10 years according to the UK Records Management Code of Practice Retention
+    Schedule, or if otherwise required by Care Quality Commission (" CQC ").
+  purposes: {}
+- source: we
+  target: consumer health datum
+  key: COLLECT
+  text:
+  - We only collect Consumer health data directly from you.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - Our Website uses so-called "cookies".
+  - We use the term "cookies" to refer to all tools that collect data on our Website
+    (e.g., IP addresses, place and time of the visit) including pixels.
+  purposes:
+    analytics:
+    - to refer to all tools that collect data on our Website (e.g., IP addresses,
+      place and time of the visit) including pixels
+- source: we
+  target: datum include health datum
+  key: COLLECT
+  text:
+  - When you use the different features of the App or Ada Assess we process your data
+    including your health data to provide you with the requested functionality.
+  purposes:
+    services:
+    - to provide you with the requested functionality
+- source: we
+  target: datum include relate datum
+  key: COLLECT
+  text:
+  - As Ada is based in Germany, we only transfer your data including health related
+    data to Germany to provide our services.
+  purposes:
+    services:
+    - to provide our services
+- source: we
+  target: datum list
+  key: COLLECT
+  text:
+  - If you choose to login using a third party login feature from either Apple. Facebook
+    or Google, we will receive the data listed above from the third-party provider
+    with your approval to populate your user data in the App, and to verify your identity.
+  purposes: {}
+- source: we
+  target: datum we store about you
+  key: COLLECT
+  text:
+  - We will use data that we have stored about you to the extent that this is necessary
+    to exercise a legal claim of our own or to defend us against a legal claim you
+    file against us.
+  purposes:
+    legal:
+    - to exercise a legal claim of our own or to defend us against a legal claim you
+      file against us
+- source: we
+  target: detail of condition search
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+  purposes: {}
+- source: we
+  target: detail of visit
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+  purposes: {}
+- source: we
+  target: finding of medical treatment
+  key: COLLECT
+  text:
+  - If you voluntarily share findings of your medical treatment we will use this information
+    for purposes of Post-Market-Surveillance as well.
+  purposes:
+    analytics:
+    - for purposes of Post-Market-Surveillance
+- source: we
+  target: general health datum
+  key: COLLECT
+  text:
+  - We use the general health data for the basic analysis.
+  purposes:
+    analytics:
+    - for the basic analysis
+- source: we
+  target: health datum
+  key: COLLECT
+  text:
+  - For this purpose, we might process your health data.
+  purposes: {}
+- source: we
+  target: information about
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Analytics
+    data: your IP address, operating system and browser type; information about which
+    app store you downloaded our App from; length of visits to certain pages, and
+    page interaction information (such as scrolling, finger gestures, clicks, and
+    mouse-overs)'
+  purposes: {}
+- source: we
+  target: information regard right with respect to personal information
+  key: COLLECT
+  text:
+  - If you are a California resident (as defined in the section 17014 of Title 18
+    of the California Code of Regulations), California law requires us to provide
+    you with some additional information regarding your rights with respect to your
+    "personal information" (as defined in the California Consumer Privacy Act (hereinafter
+    the " CCPA ") that came into force on January 1st, 2020).
+  purposes: {}
+- source: we
+  target: insight in specific aspect of assessment
+  key: COLLECT
+  text:
+  - We process pseudonymized data for public health purposes (as defined by GDPR recital
+    54) such as analyzing case data regarding public health trends, rare diseases
+    and threats, and to identify factors that could improve public health such as
+    finding out about the prevalence of specific conditions, the attributes of specific
+    conditions and get insights in specific aspects of assessments.
+  purposes:
+    analytics:
+    - for public health purposes (as defined by GDPR recital 54) such as analyzing
+      case data regarding public health trends, rare diseases and threats
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We only use pseudonymized usage data that we collect through our contract processor
+    Adjust GmbH (Saarbrucker Str. 38a, 10405 Berlin, Germany).
+  - We only use pseudonymized usage data that we may collect via service of our processor
+    Functional Software Inc., 132 Hawthorne Street, San Francisco, California 94107
+    USA ("Sentry").
+  - We process some usage data (which does not include personal health data) if you
+    are using the App, to understand how Ada reaches people online.
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+  purposes:
+    advertising:
+    - to understand how Ada reaches people online
+    analytics:
+    - to understand how Ada reaches people online
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Analytics
+    data: your IP address, operating system and browser type; information about which
+    app store you downloaded our App from; length of visits to certain pages, and
+    page interaction information (such as scrolling, finger gestures, clicks, and
+    mouse-overs)'
+  purposes: {}
+- source: we
+  target: length of visit to page
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Analytics
+    data: your IP address, operating system and browser type; information about which
+    app store you downloaded our App from; length of visits to certain pages, and
+    page interaction information (such as scrolling, finger gestures, clicks, and
+    mouse-overs)'
+  purposes: {}
+- source: we
+  target: page interaction information
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Analytics
+    data: your IP address, operating system and browser type; information about which
+    app store you downloaded our App from; length of visits to certain pages, and
+    page interaction information (such as scrolling, finger gestures, clicks, and
+    mouse-overs)'
+  purposes: {}
+- source: we
+  target: personal datum ask
+  key: COLLECT
+  text:
+  - 'Information that you provide to us : we may collect and process personal data
+    that you will be asked to provide when you:'
+  purposes: {}
+- source: we
+  target: personal datum concern for purpose
+  key: COLLECT
+  text:
+  - In the event of such an objection, we will no longer process the personal data
+    concerned for this purpose, unless the processing is necessary to fulfil a task
+    in the public interest, or if the discontinuation of such a processing is likely
+    to make it impossible or seriously impair the realization of public health purposes
+    and the continuation of processing is necessary for the fulfilment of public health
+    purposes.
+  - In the event of such an objection, we will no longer process the personal data
+    concerned for this purpose, unless the processing is necessary to fulfil a task
+    in the public interest, or if the discontinuation of such a processing is likely
+    to make it impossible or seriously impair the realization of statistical purposes
+    and the continuation of processing is necessary for the fulfilment of statistical
+    purposes.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - 3. Which personal data we may collect and process, why and for how long
+  - If you object to processing for direct marketing purposes, we no longer process
+    your personal data for these purposes.
+  - In the event of an objection relating to your particular situation, we will no
+    longer process your personal data, unless we can demonstrate compelling legitimate
+    grounds for the processing which override your interests, rights and freedoms,
+    or for the establishment, exercise or defense of legal claims.
+  - We also transfer the personal data to our processor Hound Technology, Inc., 548
+    Market Street, 25362 San Francisco, CA 94104-5401 ("Honeycomb").
+  - We can process your personal information solely if we have a legal basis for such
+    processing.
+  - We may also share your personal information by disclosing it to a third party
+    for a business purpose, and for any other purpose with your consent.
+  - We may transfer your personal data to third party processors in order to achieve
+    the purposes of the processing listed in Section 3 above, but only with the third-party
+    processors with whom we have a data protection agreement in place.
+  - We will hold your personal data for as long as it is necessary or required by
+    law or by any relevant regulatory body, and always in compliance with the data
+    minimization principle.
+  - 'Your personal data will be disclosed as follows: Buyers of Ada''s company or
+    business assets If we sell any company or business or assets, your personal data
+    might be one of the transferred assets and we may disclose or transfer your personal
+    data to the buyer of such business or assets in accordance with applicable law.'
+  purposes:
+    legal:
+    - to exercise or defend against legal claims
+    services:
+    - in order to achieve the purposes of the processing listed in Section 3 above
+    - to achieve the purposes of the processing listed in Section 3 above
+- source: we
+  target: personal information associate with account
+  key: COLLECT
+  text:
+  - As long as your account is active, we will process the personal information associated
+    with this account as necessary for the legal claim in question.
+  purposes: {}
+- source: we
+  target: personal information for business purpose
+  key: COLLECT
+  text:
+  - In the preceding twelve (12) months, we have disclosed personal information for
+    a business purpose to the categories of third parties indicated in the chart below.
+  purposes: {}
+- source: we
+  target: previous entry
+  key: COLLECT
+  text:
+  - When you update information such as height and weight in your profile, we will
+    keep the previous entries to allow you to track its development.
+  purposes:
+    analytics:
+    - to allow you to track its development
+    services:
+    - to allow you to track its development
+- source: we
+  target: pseudonymize datum
+  key: COLLECT
+  text:
+  - We process pseudonymized data for public health purposes (as defined by GDPR recital
+    54) such as analyzing case data regarding public health trends, rare diseases
+    and threats, and to identify factors that could improve public health such as
+    finding out about the prevalence of specific conditions, the attributes of specific
+    conditions and get insights in specific aspects of assessments.
+  - We process pseudonymized data to carry out aggregate statistics on the results
+    of the symptom assessments conducted by our users.
+  purposes:
+    analytics:
+    - for public health purposes (as defined by GDPR recital 54) such as analyzing
+      case data regarding public health trends, rare diseases and threats
+    - to carry out aggregate statistics on the results of the symptom assessments
+      conducted by our users
+- source: we
+  target: relevant information
+  key: COLLECT
+  text:
+  - This helps us share relevant information with you and other potential users.
+  purposes: {}
+- source: we
+  target: result
+  key: COLLECT
+  text:
+  - We may share and present the results as summarized statistics to our partners,
+    e.g., in the public health and scientific community, always on an irreversibly
+    anonymized basis.
+  purposes: {}
+- source: we
+  target: seasonal health advice
+  key: COLLECT
+  text:
+  - We might inform alert you to helpful app functionalities, provide seasonal health
+    advice or send you reminders concerning your assessments.
+  - We might inform you about updates regarding your specific symptom assessment such
+    as suggesting newly available options to manage your symptoms, alert you to helpful
+    app functionalities or provide seasonal health advice.
+  purposes: {}
+- source: we
+  target: surveillance datum
+  key: COLLECT
+  text:
+  - We will retain Post-Market-Surveillance data (incl. health data) in accordance
+    with our storage obligations according to the medical device law.
+  purposes: {}
+- source: we
+  target: technical information about device
+  key: COLLECT
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+  purposes: {}
+- source: we
+  target: tracking event
+  key: COLLECT
+  text:
+  - However, we will store tracking events on your viewing of the branded care options,
+    i.e., to document your consent.
+  purposes:
+    services:
+    - i.e., to document your consent
+- source: we
+  target: type of datum
+  key: COLLECT
+  text:
+  - We may also process such types of data to provide you with the best guidance possible
+    by, for example, directing you to the most appropriate care facility and help
+    reduce unnecessary burden for you, but also for health care systems.
+  purposes:
+    services:
+    - to provide you with the best guidance possible by, for example, directing you
+      to the most appropriate care facility and help reduce unnecessary burden for
+      you, but also for health care systems
+- source: Braze
+  target: limit datum set
+  key: COLLECT
+  text:
+  - Braze only has access to a limit data set in order to be able to technically deliver
+    the push notification to your device.
+  purposes: {}
+- source: Cloudflare
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Your data will be stored by Cloudflare for 6 months.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - If you choose to login using a third party login feature from either Apple. Facebook
+    or Google, we will receive the data listed above from the third-party provider
+    with your approval to populate your user data in the App, and to verify your identity.
+  - No data will be shared with any third party without your specific consent.
+  - Please note that if you use a third party login, this third party-provider may
+    also process your data (ID, metadata, some app events and device metric).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: anonymized statistic be
+  key: COLLECT
+  text:
+  - The processing is necessary for statistical purposes, and we only provide our
+    partners with anonymized and summarized statistics from which the identification
+    of a specific natural person is impossible (Article 9(2)(j) GDPR; Sec. 27 (1)
+    BDSG).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: app event
+  key: COLLECT
+  text:
+  - If you choose to login using a third party login feature from either Apple. Facebook
+    or Google, we will receive the data listed above from the third-party provider
+    with your approval to populate your user data in the App, and to verify your identity.
+  - Please note that if you use a third party login, this third party-provider may
+    also process your data (ID, metadata, some app events and device metric).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: device metric
+  key: COLLECT
+  text:
+  - If you choose to login using a third party login feature from either Apple. Facebook
+    or Google, we will receive the data listed above from the third-party provider
+    with your approval to populate your user data in the App, and to verify your identity.
+  - Please note that if you use a third party login, this third party-provider may
+    also process your data (ID, metadata, some app events and device metric).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: identifier
+  key: COLLECT
+  text:
+  - If you choose to login using a third party login feature from either Apple. Facebook
+    or Google, we will receive the data listed above from the third-party provider
+    with your approval to populate your user data in the App, and to verify your identity.
+  - Please note that if you use a third party login, this third party-provider may
+    also process your data (ID, metadata, some app events and device metric).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: metadata
+  key: COLLECT
+  text:
+  - If you choose to login using a third party login feature from either Apple. Facebook
+    or Google, we will receive the data listed above from the third-party provider
+    with your approval to populate your user data in the App, and to verify your identity.
+  - Please note that if you use a third party login, this third party-provider may
+    also process your data (ID, metadata, some app events and device metric).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: option address identify cause
+  key: COLLECT
+  text:
+  - Certain options to address the identified causes may be provided by our partners,
+    such as branded medication or informational materials.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - Ada shares your personal data with third parties to provide you with its services
+    or as required in the course of its business.
+  - We may transfer your personal data to third party processors in order to achieve
+    the purposes of the processing listed in Section 3 above, but only with the third-party
+    processors with whom we have a data protection agreement in place.
+  purposes:
+    services:
+    - in order to achieve the purposes of the processing listed in Section 3 above
+    - to achieve the purposes of the processing listed in Section 3 above
+    - to provide you with its services or as required in the course of its business
+- source: UNSPECIFIED_ACTOR
+  target: personal information for business purpose
+  key: COLLECT
+  text:
+  - In the preceding twelve (12) months, we have disclosed personal information for
+    a business purpose to the categories of third parties indicated in the chart below.
+  purposes: {}
+- source: ada
+  target: personal information
+  key: COLLECT
+  text:
+  - Ada shares your personal data with third parties to provide you with its services
+    or as required in the course of its business.
+  purposes:
+    services:
+    - to provide you with its services or as required in the course of its business
+- source: affiliate program partner
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - In that case, we may share the information with those affiliate program partners
+    that you were directed to their services by us.
+  purposes: {}
+- source: competent authority
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Your data will be transferred to the competent authorities and stored by them
+    as controllers according to applicable retention periods.
+  purposes: {}
+- source: honeycomb
+  target: personal information
+  key: COLLECT
+  text:
+  - We also transfer the personal data to our processor Hound Technology, Inc., 548
+    Market Street, 25362 San Francisco, CA 94104-5401 ("Honeycomb").
+  purposes: {}
+- source: law enforcement agency
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    3. Which personal data we may collect and process, why and for how long
+
+
+    3.19 Sharing your data with law enforcement agencies'
+  purposes: {}
+- source: market street
+  target: personal information
+  key: COLLECT
+  text:
+  - We also transfer the personal data to our processor Hound Technology, Inc., 548
+    Market Street, 25362 San Francisco, CA 94104-5401 ("Honeycomb").
+  purposes: {}
+- source: processor
+  target: personal information
+  key: COLLECT
+  text:
+  - We also transfer the personal data to our processor Hound Technology, Inc., 548
+    Market Street, 25362 San Francisco, CA 94104-5401 ("Honeycomb").
+  purposes: {}
+- source: sub- processor operate outside
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - Limited data may, however, be processed by sub- processors operating outside of
+    the European Economic Area ("EEA") based on a data processing agreement, as long
+    as the additional requirements of Article 44 et seq. GDPR for the processing of
+    personal data in third countries are met (see below).
+  purposes: {}
+- source: ada assess integration
+  target: optional sharing
+  key: SUBSUM
+  text:
+  - Some Ada Assess integrations include optional or mandatory sharing of your symptom
+    assessments or connected information with our business partner to enable them
+    to provide you further services based on your assessment.
+- source: assessment result
+  target: potential cause of illness symptom
+  key: SUBSUM
+  text:
+  - 'Types of data : Account ID (when applicable), profile name (when applicable),
+    case ID, device ID, age, gender, illness symptoms, geographic location, risk factors,
+    assessment results such as potential causes of illness symptoms, medical history,
+    allergies, time and date of assessment, and other relevant and related health
+    data that you may have provided us.'
+  - 'Types of data: Account ID (when applicable), case ID, profile ID (when applicable),
+    age, gender, illness symptoms, geographic location, risk factors, assessment results
+    such as potential causes of illness symptoms, medical history, allergies, time
+    and date of assessment, and other relevant and related health data that you may
+    have provided us.'
+- source: crash report
+  target: browser type
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: date
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: incident specific information
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: ip address
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: length
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: page interaction information
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: time
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: crash report
+  target: url
+  key: SUBSUM
+  text:
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: datum on website
+  target: ip address
+  key: SUBSUM
+  text:
+  - We use the term "cookies" to refer to all tools that collect data on our Website
+    (e.g., IP addresses, place and time of the visit) including pixels.
+- source: datum on website
+  target: place
+  key: SUBSUM
+  text:
+  - We use the term "cookies" to refer to all tools that collect data on our Website
+    (e.g., IP addresses, place and time of the visit) including pixels.
+- source: datum on website
+  target: time of visit
+  key: SUBSUM
+  text:
+  - We use the term "cookies" to refer to all tools that collect data on our Website
+    (e.g., IP addresses, place and time of the visit) including pixels.
+- source: datum partner collect about you
+  target: age
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: detail of visit
+  target: date
+  key: SUBSUM
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+- source: detail of visit
+  target: time
+  key: SUBSUM
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+- source: device specific information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+- source: device specific information
+  target: hardware model
+  key: SUBSUM
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+- source: device specific information
+  target: mobile network information
+  key: SUBSUM
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+- source: device specific information
+  target: operating system version
+  key: SUBSUM
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+- source: education record relate to student maintain
+  target: class list
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Education records directly related to a student maintained by an educational institution
+    or party acting on its behalf, such as grades, transcripts, class lists, student
+    schedules, student identification codes, student financial information, or student
+    disciplinary records.'
+- source: education record relate to student maintain
+  target: grade
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Education records directly related to a student maintained by an educational institution
+    or party acting on its behalf, such as grades, transcripts, class lists, student
+    schedules, student identification codes, student financial information, or student
+    disciplinary records.'
+- source: education record relate to student maintain
+  target: student disciplinary record
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Education records directly related to a student maintained by an educational institution
+    or party acting on its behalf, such as grades, transcripts, class lists, student
+    schedules, student identification codes, student financial information, or student
+    disciplinary records.'
+- source: education record relate to student maintain
+  target: student financial information
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Education records directly related to a student maintained by an educational institution
+    or party acting on its behalf, such as grades, transcripts, class lists, student
+    schedules, student identification codes, student financial information, or student
+    disciplinary records.'
+- source: education record relate to student maintain
+  target: student identification code
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Education records directly related to a student maintained by an educational institution
+    or party acting on its behalf, such as grades, transcripts, class lists, student
+    schedules, student identification codes, student financial information, or student
+    disciplinary records.'
+- source: education record relate to student maintain
+  target: student schedule
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Education records directly related to a student maintained by an educational institution
+    or party acting on its behalf, such as grades, transcripts, class lists, student
+    schedules, student identification codes, student financial information, or student
+    disciplinary records.'
+- source: education record relate to student maintain
+  target: transcript
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Education records directly related to a student maintained by an educational institution
+    or party acting on its behalf, such as grades, transcripts, class lists, student
+    schedules, student identification codes, student financial information, or student
+    disciplinary records.'
+- source: gender
+  target: gender expression
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Age (40 years or older), race, color, ancestry, national origin, citizenship,
+    religion or creed, marital status, medical condition, physical or mental disability,
+    sex (including gender, gender identity, gender expression, pregnancy or childbirth
+    and related medical conditions), sexual orientation, veteran or military status,
+    genetic information (including familial genetic information).'
+- source: gender
+  target: gender identity
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Age (40 years or older), race, color, ancestry, national origin, citizenship,
+    religion or creed, marital status, medical condition, physical or mental disability,
+    sex (including gender, gender identity, gender expression, pregnancy or childbirth
+    and related medical conditions), sexual orientation, veteran or military status,
+    genetic information (including familial genetic information).'
+- source: general datum
+  target: biological sex
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum
+  target: date of birth
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum
+  target: datum partner collect about you
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum
+  target: datum require
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum
+  target: high blood pressure
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum
+  target: person name
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum
+  target: pregnancy status
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum
+  target: technical identifier
+  key: SUBSUM
+  text:
+  - 'Types of data: account ID, general data about you and your health (optional)
+    such as name, date of birth, biological sex, pregnancy status, high blood pressure,
+    diabetes or smoking, technical identifiers, data required to facilitate a Single-Sign-On
+    (where applicable) and other data the Partner has already collected about you
+    and that Ada would have to collect again, such as your age'
+- source: general datum about health
+  target: diabetes
+  key: SUBSUM
+  text:
+  - 'Types of data : Email address and password, account ID, device ID, profile name,
+    gender, date of birth, health insurance (optional), general data about your health
+    (optional) such as smoking, increased blood pressure, diabetes, and pregnancy
+    status, date, time and location of registration.'
+- source: general datum about health
+  target: increased blood pressure
+  key: SUBSUM
+  text:
+  - 'Types of data : Email address and password, account ID, device ID, profile name,
+    gender, date of birth, health insurance (optional), general data about your health
+    (optional) such as smoking, increased blood pressure, diabetes, and pregnancy
+    status, date, time and location of registration.'
+- source: general datum about health
+  target: pregnancy status
+  key: SUBSUM
+  text:
+  - 'Types of data : Email address and password, account ID, device ID, profile name,
+    gender, date of birth, health insurance (optional), general data about your health
+    (optional) such as smoking, increased blood pressure, diabetes, and pregnancy
+    status, date, time and location of registration.'
+- source: genetic information
+  target: familial genetic information
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Age (40 years or older), race, color, ancestry, national origin, citizenship,
+    religion or creed, marital status, medical condition, physical or mental disability,
+    sex (including gender, gender identity, gender expression, pregnancy or childbirth
+    and related medical conditions), sexual orientation, veteran or military status,
+    genetic information (including familial genetic information).'
+- source: health information
+  target: general demographic
+  key: SUBSUM
+  text:
+  - We might determine your suitability to participate in research studies based on
+    health information (e.g. general demographics, symptoms and/or past assessments)
+    or based on your overall usage of our product/service.
+- source: identify information
+  target: faceprint
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke,
+    gait, or other physical patterns, and sleep, health, or exercise data.'
+- source: identify information
+  target: fingerprint
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke,
+    gait, or other physical patterns, and sleep, health, or exercise data.'
+- source: identify information
+  target: iri scan
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke,
+    gait, or other physical patterns, and sleep, health, or exercise data.'
+- source: identify information
+  target: keystroke sleep datum
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke,
+    gait, or other physical patterns, and sleep, health, or exercise data.'
+- source: identify information
+  target: voiceprint
+  key: SUBSUM
+  text:
+  - 'Ada Health GmbH Privacy Policy
+
+
+    9. International Data Protection
+
+
+    9.5 United States
+
+
+    9.5.1 California
+
+
+    Genetic, physiological, behavioral, and biological characteristics, or activity
+    patterns used to extract a template or other identifier or identifying information,
+    such as fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke,
+    gait, or other physical patterns, and sleep, health, or exercise data.'
+- source: lgpd
+  target: Cia Proc. de Dados do Estado de S Paulo - Prodesp
+  key: SUBSUM
+  text:
+  - If you are a Brazilian resident, Brazilian law requires us to provide you with
+    some additional information regarding your rights with respect to your "personal
+    information" (as defined in the "Lei Geral de Protecao de Dados" (hereinafter
+    the " LGPD ") that came into force on September 18th, 2020).
+- source: option address identify cause
+  target: brand medication
+  key: SUBSUM
+  text:
+  - Certain options to address the identified causes may be provided by our partners,
+    such as branded medication or informational materials.
+- source: option address identify cause
+  target: informational material
+  key: SUBSUM
+  text:
+  - Certain options to address the identified causes may be provided by our partners,
+    such as branded medication or informational materials.
+- source: page interaction information
+  target: date
+  key: SUBSUM
+  text:
+  - 'Types of data : Device ID, IP address, operating system and browser type, length
+    of visits to certain pages, and page interaction information such as scrolling,
+    finger gestures, clicks, and mouse-overs, geographic location, time and date.'
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: page interaction information
+  target: finger gesture
+  key: SUBSUM
+  text:
+  - 'Types of data : Device ID, IP address, operating system and browser type, length
+    of visits to certain pages, and page interaction information such as scrolling,
+    finger gestures, clicks, and mouse-overs, geographic location, time and date.'
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Analytics
+    data: your IP address, operating system and browser type; information about which
+    app store you downloaded our App from; length of visits to certain pages, and
+    page interaction information (such as scrolling, finger gestures, clicks, and
+    mouse-overs)'
+- source: page interaction information
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Types of data : Device ID, IP address, operating system and browser type, length
+    of visits to certain pages, and page interaction information such as scrolling,
+    finger gestures, clicks, and mouse-overs, geographic location, time and date.'
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: page interaction information
+  target: mouse over
+  key: SUBSUM
+  text:
+  - 'Types of data : Device ID, IP address, operating system and browser type, length
+    of visits to certain pages, and page interaction information such as scrolling,
+    finger gestures, clicks, and mouse-overs, geographic location, time and date.'
+- source: page interaction information
+  target: time
+  key: SUBSUM
+  text:
+  - 'Types of data : Device ID, IP address, operating system and browser type, length
+    of visits to certain pages, and page interaction information such as scrolling,
+    finger gestures, clicks, and mouse-overs, geographic location, time and date.'
+  - 'Types of data: Error, crash reports including device, app and incident specific
+    information (e.g., App Version), IP address, URL, geographic location, time and
+    date, Device ID, IP address, operating system and browser type, length of visits
+    to certain pages, and page interaction information such as scrolling, finger gestures,
+    clicks, and mouse-overs, geographic location, time and date, any events while
+    using our products such as, but not limited to, started assessment or finished
+    symptom assessment.'
+- source: personal health datum require
+  target: age
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: allergy
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: diagnosis of treat physician
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: gender
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: illness symptom
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: potential cause
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: pregnancy status
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: relevant medical history
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal health datum require
+  target: voluntary feedback
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: personal information
+  target: for information you share for
+  key: SUBSUM
+  text:
+  - However, when you register for the services of our affiliate program partners
+    you may be asked to provide Personal Information that allows them to identify
+    you (for example the information you share for booking an appointment through
+    our affiliate program partners' platforms etc.)
+- source: relate feature
+  target: symptom tracker
+  key: SUBSUM
+  text:
+  - We also process your data when you use additional health related features such
+    as the symptom tracker to document and track their symptoms to provide you the
+    used functionality.
+- source: related personal health datum require
+  target: age
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: allergy
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: date of assessment
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: gender
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: geolocation
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: illness symptom
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: potential cause of illness symptom
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: pregnancy status
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: relevant medical history
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: related personal health datum require
+  target: time
+  key: SUBSUM
+  text:
+  - 'Types of data : profile ID, profile name (when applicable) and related personal
+    health data required to provide the assessment such as age, gender, illness symptoms,
+    potential causes of illness symptoms, allergies, pregnancy status, relevant and/or
+    related medical history, geographic location, time and date of assessment.'
+- source: technical information about device
+  target: device specific information
+  key: SUBSUM
+  text:
+  - 'we collect about you : although we will not use it to identify you, we may collect
+    the following data during each of your visits and use of our Services: Usage data:
+    technical information about your device, including device-specific information
+    such as your hardware model, operating system version, unique device identifiers,
+    and mobile network information; details of your visits, including the full Uniform
+    Resource Locators (" URL ") clickstream to, through and from our Services (including
+    date and time); details of conditions and symptoms searched;'
+- source: third party id
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'Types of data : Third party ID (e.g., Facebook-/Apple-/Google-ID)email address
+    (if you authorize Facebook to share the address with us), time and date of the
+    login.'
+- source: voluntary feedback
+  target: assessment result
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: voluntary feedback
+  target: device identifier
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: voluntary feedback
+  target: health datum
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+- source: voluntary feedback
+  target: version number
+  key: SUBSUM
+  text:
+  - 'Types of data: Account ID (when applicable), profile name and ID (when applicable),
+    case ID, time and date of assessment, data provided in a case (personal health
+    data required to provide the assessment such as age, gender, geographic location
+    (country), illness symptoms, potential causes of illness symptoms, allergies,
+    pregnancy status, and relevant and/or related medical history), diagnosis of your
+    treating physician, voluntary feedback including health data, assessment result,
+    and data related to software and hardware (such as version numbers, operating
+    system, and device ID).'
+nodes:
+- type: ACTOR
+  id: Braze
+- type: ACTOR
+  id: Cia Proc. de Dados do Estado de S Paulo - Prodesp
+- type: ACTOR
+  id: Cloudflare
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: ada
+- type: ACTOR
+  id: ada assess integration
+- type: ACTOR
+  id: affiliate program partner
+- type: ACTOR
+  id: competent authority
+- type: ACTOR
+  id: honeycomb
+- type: ACTOR
+  id: law enforcement agency
+- type: ACTOR
+  id: lgpd
+- type: ACTOR
+  id: market street
+- type: ACTOR
+  id: optional sharing
+- type: ACTOR
+  id: processor
+- type: ACTOR
+  id: relate feature
+- type: ACTOR
+  id: sub- processor operate outside
+- type: ACTOR
+  id: symptom tracker
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: above datum
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: allergy
+- type: DATA
+  id: analytic datum
+- type: DATA
+  id: anonymized statistic be
+- type: DATA
+  id: app event
+- type: DATA
+  id: assessment
+- type: DATA
+  id: assessment result
+- type: DATA
+  id: biological sex
+- type: DATA
+  id: brand medication
+- type: DATA
+  id: browser type
+- type: DATA
+  id: class list
+- type: DATA
+  id: consultation detail
+- type: DATA
+  id: consumer health datum
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: crash report
+- type: DATA
+  id: date
+- type: DATA
+  id: date of assessment
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: datum include health datum
+- type: DATA
+  id: datum include relate datum
+- type: DATA
+  id: datum list
+- type: DATA
+  id: datum on website
+- type: DATA
+  id: datum partner collect about you
+- type: DATA
+  id: datum require
+- type: DATA
+  id: datum we store about you
+- type: DATA
+  id: detail of condition search
+- type: DATA
+  id: detail of visit
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device metric
+- type: DATA
+  id: device specific information
+- type: DATA
+  id: diabetes
+- type: DATA
+  id: diagnosis of treat physician
+- type: DATA
+  id: education record relate to student maintain
+- type: DATA
+  id: faceprint
+- type: DATA
+  id: familial genetic information
+- type: DATA
+  id: finding of medical treatment
+- type: DATA
+  id: finger gesture
+- type: DATA
+  id: fingerprint
+- type: DATA
+  id: for information you share for
+- type: DATA
+  id: gender
+- type: DATA
+  id: gender expression
+- type: DATA
+  id: gender identity
+- type: DATA
+  id: general datum
+- type: DATA
+  id: general datum about health
+- type: DATA
+  id: general demographic
+- type: DATA
+  id: general health datum
+- type: DATA
+  id: genetic information
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: grade
+- type: DATA
+  id: hardware model
+- type: DATA
+  id: health datum
+- type: DATA
+  id: health information
+- type: DATA
+  id: high blood pressure
+- type: DATA
+  id: identifier
+- type: DATA
+  id: identify information
+- type: DATA
+  id: illness symptom
+- type: DATA
+  id: incident specific information
+- type: DATA
+  id: increased blood pressure
+- type: DATA
+  id: information about
+- type: DATA
+  id: information regard right with respect to personal information
+- type: DATA
+  id: informational material
+- type: DATA
+  id: insight in specific aspect of assessment
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: iri scan
+- type: DATA
+  id: keystroke sleep datum
+- type: DATA
+  id: length
+- type: DATA
+  id: length of visit to page
+- type: DATA
+  id: limit datum set
+- type: DATA
+  id: metadata
+- type: DATA
+  id: mobile network information
+- type: DATA
+  id: mouse over
+- type: DATA
+  id: operating system version
+- type: DATA
+  id: option address identify cause
+- type: DATA
+  id: page interaction information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal datum ask
+- type: DATA
+  id: personal datum concern for purpose
+- type: DATA
+  id: personal health datum require
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information associate with account
+- type: DATA
+  id: personal information for business purpose
+- type: DATA
+  id: place
+- type: DATA
+  id: postal address
+- type: DATA
+  id: potential cause
+- type: DATA
+  id: potential cause of illness symptom
+- type: DATA
+  id: pregnancy status
+- type: DATA
+  id: previous entry
+- type: DATA
+  id: pseudonymize datum
+- type: DATA
+  id: related personal health datum require
+- type: DATA
+  id: relevant information
+- type: DATA
+  id: relevant medical history
+- type: DATA
+  id: result
+- type: DATA
+  id: seasonal health advice
+- type: DATA
+  id: student disciplinary record
+- type: DATA
+  id: student financial information
+- type: DATA
+  id: student identification code
+- type: DATA
+  id: student schedule
+- type: DATA
+  id: surveillance datum
+- type: DATA
+  id: technical identifier
+- type: DATA
+  id: technical information about device
+- type: DATA
+  id: third party id
+- type: DATA
+  id: time
+- type: DATA
+  id: time of visit
+- type: DATA
+  id: tracking event
+- type: DATA
+  id: transcript
+- type: DATA
+  id: type of datum
+- type: DATA
+  id: url
+- type: DATA
+  id: version number
+- type: DATA
+  id: voiceprint
+- type: DATA
+  id: voluntary feedback

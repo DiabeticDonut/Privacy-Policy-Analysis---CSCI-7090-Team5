@@ -1,0 +1,1074 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: age
+  key: COLLECT
+  text:
+  - We may collect your birthdate, age, race, ethnicity or national origin, gender
+    and zip code.
+  purposes: {}
+- source: we
+  target: call center audio recording
+  key: COLLECT
+  text:
+  - We may collect call center or Group audio recordings, and voicemails.
+  purposes: {}
+- source: we
+  target: coarse geolocation
+  key: COLLECT
+  text:
+  - This may include information about your exact location when you use our Services
+    or may include information that allows us to approximate your location.
+  - We may also collect this information in the background when our mobile applications
+    are not in use.
+  purposes: {}
+- source: we
+  target: common account identifier
+  key: COLLECT
+  text:
+  - We and our third party partners use this information to make the advertisements
+    you see online more relevant to your interests, as well as to provide advertising-related
+    services such as reporting, attribution, analytics, and market research.
+  - We may share a common account identifier (such as an email address or user ID)
+    or hashed data with our third party advertising partners to help identify you
+    across devices or serve you ads on social media sites you may use.
+  purposes:
+    advertising:
+    - to make the advertisements you see online more relevant to your interests, as
+      well as to provide advertising-related services such as reporting, attribution,
+      analytics, and market research
+    analytics:
+    - to make the advertisements you see online more relevant to your interests, as
+      well as to provide advertising-related services such as reporting, attribution,
+      analytics, and market research
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - These features enable us to use first-party cookies (such as the Google Analytics
+    cookie) and third-party cookies (such as the Doubleclick advertising cookie) or
+    other third party cookies together to inform, optimize, and display ads based
+    on your past visits to the Service.
+  purposes:
+    advertising:
+    - to inform, optimize, and display ads based on your past visits to the Service
+- source: we
+  target: credit / debit card number
+  key: COLLECT
+  text:
+  - For example, we may collect your credit card number and billing address to share
+    with our third-party payment processors.
+  purposes:
+    services:
+    - to share with our third-party payment processors
+- source: we
+  target: date of birth
+  key: COLLECT
+  text:
+  - We may collect your birthdate, age, race, ethnicity or national origin, gender
+    and zip code.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - For example, we may also collect your device identifier, IP address or mobile
+    operating system.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - For example, we may collect your name, mailing address, telephone number and email
+    address.
+  purposes: {}
+- source: we
+  target: gender
+  key: COLLECT
+  text:
+  - We may collect your birthdate, age, race, ethnicity or national origin, gender
+    and zip code.
+  purposes: {}
+- source: we
+  target: information about browser you use
+  key: COLLECT
+  text:
+  - If you use our website, we may collect information about the browser you are using.
+  purposes: {}
+- source: we
+  target: information about device
+  key: COLLECT
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+  - We use this information collected through tracking technologies to provide custom,
+    personalized content and information, including targeted content and advertising,
+    recognize you across multiple devices, monitor aggregate usage metrics such as
+    total number of visitors, traffic, usage, and demographic patterns of our visitors,
+    and otherwise enhance our Services and your user experience.
+  purposes:
+    advertising:
+    - to provide custom, personalized content and information, including targeted
+      content and advertising, recognize you across multiple devices, monitor aggregate
+      usage metrics such as total number of visitors, traffic, usage, and demographic
+      patterns of our visitors, and otherwise enhance our Services and your user experience
+    analytics:
+    - to provide custom, personalized content and information, including targeted
+      content and advertising, recognize you across multiple devices, monitor aggregate
+      usage metrics such as total number of visitors, traffic, usage, and demographic
+      patterns of our visitors, and otherwise enhance our Services and your user experience
+    services:
+    - to provide custom, personalized content and information, including targeted
+      content and advertising, recognize you across multiple devices, monitor aggregate
+      usage metrics such as total number of visitors, traffic, usage, and demographic
+      patterns of our visitors, and otherwise enhance our Services and your user experience
+- source: we
+  target: information about general health discuss during session
+  key: COLLECT
+  text:
+  - If you are part of one of our Groups or participate in Circles' exercises or quizzes,
+    then we may obtain information about your general health, mental health and symptoms
+    that are discussed during the sessions or provided in exercise questionnaires.
+  purposes: {}
+- source: we
+  target: information about new service
+  key: COLLECT
+  text:
+  - We may provide you with information about new services and special offers.
+  purposes: {}
+- source: we
+  target: ip address
+  key: COLLECT
+  text:
+  - For example, we may also collect your device identifier, IP address or mobile
+    operating system.
+  purposes: {}
+- source: we
+  target: mobile operate system
+  key: COLLECT
+  text:
+  - For example, we may also collect your device identifier, IP address or mobile
+    operating system.
+  purposes: {}
+- source: we
+  target: national origin
+  key: COLLECT
+  text:
+  - We may collect your birthdate, age, race, ethnicity or national origin, gender
+    and zip code.
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - For example, we may collect your name, mailing address, telephone number and email
+    address.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, if you participate in our Group audio sessions, then we may record
+    your voice and personal information that you share during the Group session.
+  - For example, we may share personal information with data aggregators and advertising
+    service providers.
+  - For example, we may use your personal information to better understand what services
+    interest you.
+  - If you live outside of the United States, you understand and agree that we may
+    transfer your personal information to the United States.
+  - 'We collect your personal information in the following ways:'
+  - 'We may also collect personal information about the User, including:'
+  - We may also collect personal information about you over time and across different
+    websites, apps and devices when you use our Services, using tracking technologies
+    such as cookies, pixels, Flash objects, APIs and mobile software development kits
+    (SDKs) and we may use third party services to collect this personal information
+    when you use our Services.
+  - We may also collect your social media profile information and personal information
+    posted on your page.
+  - We may also use your personal information to customize your experience with us.
+  - We may also use your personal information to send you electronic communications,
+    including through email or text message.
+  - We may collect personal information when you send us a message through the "Contact
+    Us" page or similar features on our Site or App.
+  - We may disclose personal information to a third party during negotiation of, in
+    connection with or as an asset in such a corporate business transaction.
+  - We may receive personal information about you from other sources.
+  - 'We may share your personal information in the following ways:'
+  - We may share your personal information with third parties who perform services
+    on our behalf.
+  - We may share your personal information within Circles and its affiliates.
+  - 'We may use your personal information in the following ways:'
+  - We may use your personal information to make our Services better.
+  - We may use your personal information to verify your identity or determine your
+    eligibility for some of our services and promotions.
+  - We might share personal information with legal authorities or law enforcement
+    when we are investigating potential fraud.
+  - We might use your personal information to serve you ads about services.
+  purposes:
+    advertising:
+    - For Interest-Based Advertising
+    - For Marketing Purposes
+    - to send you electronic communications, including through email or text message
+    - to serve you ads about services
+    - to verify your identity or determine your eligibility for some of our services
+      and promotions
+    analytics:
+    - For example, to provide and improve our Services, for quality control, training,
+      and analysis, for risk management, audits, investigations, and reporting, to
+      maintain records and audit interactions with you, for safety maintenance, for
+      system administration and managing our technologies.
+    - to better understand what services interest you
+    security:
+    - For Security Purposes
+    - For example, to provide and improve our Services, for quality control, training,
+      and analysis, for risk management, audits, investigations, and reporting, to
+      maintain records and audit interactions with you, for safety maintenance, for
+      system administration and managing our technologies.
+    - to verify your identity or determine your eligibility for some of our services
+      and promotions
+    services:
+    - For example, to provide and improve our Services, for quality control, training,
+      and analysis, for risk management, audits, investigations, and reporting, to
+      maintain records and audit interactions with you, for safety maintenance, for
+      system administration and managing our technologies.
+    - to customize your experience with us
+    - to make our Services better
+    - to send you electronic communications, including through email or text message
+    - to verify your identity or determine your eligibility for some of our services
+      and promotions
+- source: we
+  target: personal information relate to hobby
+  key: COLLECT
+  text:
+  - We may also collect personal information relating to your hobbies, lifestyle,
+    routines, and interests.
+  purposes: {}
+- source: we
+  target: personal information you post in public space on site
+  key: COLLECT
+  text:
+  - We may collect personal information you post in a public space on our Site or
+    App.
+  purposes: {}
+- source: we
+  target: personal information you post on social medium page
+  key: COLLECT
+  text:
+  - We may collect personal information you post on our social media pages.
+  purposes: {}
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - For example, we may collect your name, mailing address, telephone number and email
+    address.
+  - We may also collect your mobile phone number.
+  purposes: {}
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - For example, we may collect your credit card number and billing address to share
+    with our third-party payment processors.
+  - For example, we may collect your name, mailing address, telephone number and email
+    address.
+  purposes:
+    services:
+    - to share with our third-party payment processors
+- source: we
+  target: precise geolocation
+  key: COLLECT
+  text:
+  - We may collect precise location information from your device.
+  purposes: {}
+- source: we
+  target: race / ethnicity
+  key: COLLECT
+  text:
+  - We may collect your birthdate, age, race, ethnicity or national origin, gender
+    and zip code.
+  purposes: {}
+- source: we
+  target: social media profile information
+  key: COLLECT
+  text:
+  - We may also collect your social media profile information and personal information
+    posted on your page.
+  purposes: {}
+- source: we
+  target: type of device you use
+  key: COLLECT
+  text:
+  - We may collect the type of device you use to access our Services.
+  purposes: {}
+- source: we
+  target: usage information
+  key: COLLECT
+  text:
+  - We automatically collect certain types of usage and device information when you
+    visit our Site or App, read our emails or otherwise engage with us.
+  - We typically collect this information through use cookies (a small text file sent
+    from a website and stored on your device), web beacons or pixels and similar tracking
+    technologies, and we may utilize third party services to collect this information.
+  purposes: {}
+- source: we
+  target: user datum
+  key: COLLECT
+  text:
+  - This privacy policy ("Privacy Policy") explains how Circles collects, uses, stores
+    and shares your User data through the Site and the App (including certain audio-based
+    support Groups such as Circles Plus or Circles Plus Group) (together with the
+    Site, the "Services") and constitutes an integral part of the Terms of Use ("TOU").
+  purposes: {}
+- source: we
+  target: voice
+  key: COLLECT
+  text:
+  - For example, if you participate in our Group audio sessions, then we may record
+    your voice and personal information that you share during the Group session.
+  purposes: {}
+- source: we
+  target: voicemail
+  key: COLLECT
+  text:
+  - We may collect call center or Group audio recordings, and voicemails.
+  purposes: {}
+- source: we
+  target: zip code
+  key: COLLECT
+  text:
+  - We may collect your birthdate, age, race, ethnicity or national origin, gender
+    and zip code.
+  purposes: {}
+- source: LINE
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information in the following ways: With Our Business
+    Partners.'
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: common account identifier
+  key: COLLECT
+  text:
+  - We and our third party partners use this information to make the advertisements
+    you see online more relevant to your interests, as well as to provide advertising-related
+    services such as reporting, attribution, analytics, and market research.
+  - We may share a common account identifier (such as an email address or user ID)
+    or hashed data with our third party advertising partners to help identify you
+    across devices or serve you ads on social media sites you may use.
+  purposes:
+    advertising:
+    - to make the advertisements you see online more relevant to your interests, as
+      well as to provide advertising-related services such as reporting, attribution,
+      analytics, and market research
+    analytics:
+    - to make the advertisements you see online more relevant to your interests, as
+      well as to provide advertising-related services such as reporting, attribution,
+      analytics, and market research
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - By clicking on a link and/or icon to a third-party website or service, a third
+    party may transmit cookies to User.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about use of website
+  key: COLLECT
+  text:
+  - We permit third party online advertising networks, social media companies, and
+    other third party services to collect information about your use of our websites
+    and Services over time so that they may play or display ads on our Site or App,
+    on other websites, apps, or services you may use, and on other devices you may
+    use.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We may disclose personal information to a third party during negotiation of, in
+    connection with or as an asset in such a corporate business transaction.
+  - We may share your personal information with third parties who perform services
+    on our behalf.
+  purposes: {}
+- source: advertiser
+  target: common account identifier
+  key: COLLECT
+  text:
+  - We may share a common account identifier (such as an email address or user ID)
+    or hashed data with our third party advertising partners to help identify you
+    across devices or serve you ads on social media sites you may use.
+  purposes: {}
+- source: advertiser
+  target: information about use of website
+  key: COLLECT
+  text:
+  - We permit third party online advertising networks, social media companies, and
+    other third party services to collect information about your use of our websites
+    and Services over time so that they may play or display ads on our Site or App,
+    on other websites, apps, or services you may use, and on other devices you may
+    use.
+  purposes: {}
+- source: advertiser
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, we may share personal information with data aggregators and advertising
+    service providers.
+  purposes: {}
+- source: circles
+  target: user datum
+  key: COLLECT
+  text:
+  - This privacy policy ("Privacy Policy") explains how Circles collects, uses, stores
+    and shares your User data through the Site and the App (including certain audio-based
+    support Groups such as Circles Plus or Circles Plus Group) (together with the
+    Site, the "Services") and constitutes an integral part of the Terms of Use ("TOU").
+  purposes: {}
+- source: data aggregator
+  target: personal information
+  key: COLLECT
+  text:
+  - For example, we may share personal information with data aggregators and advertising
+    service providers.
+  purposes: {}
+- source: law enforcement
+  target: personal information
+  key: COLLECT
+  text:
+  - We might share personal information with legal authorities or law enforcement
+    when we are investigating potential fraud.
+  purposes: {}
+- source: legal authority
+  target: personal information
+  key: COLLECT
+  text:
+  - We might share personal information with legal authorities or law enforcement
+    when we are investigating potential fraud.
+  purposes: {}
+- source: service provider
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information in the following ways: With Our Service
+    Providers.'
+  purposes: {}
+- source: social media
+  target: information about use of website
+  key: COLLECT
+  text:
+  - We permit third party online advertising networks, social media companies, and
+    other third party services to collect information about your use of our websites
+    and Services over time so that they may play or display ads on our Site or App,
+    on other websites, apps, or services you may use, and on other devices you may
+    use.
+  purposes: {}
+- source: third party for marketing purpose
+  target: personal information
+  key: COLLECT
+  text:
+  - 'We may share your personal information in the following ways: With Third Parties
+    for Marketing Purposes.'
+  purposes: {}
+- source: tracking technology
+  target: information about device
+  key: COLLECT
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+  - We typically collect this information through use cookies (a small text file sent
+    from a website and stored on your device), web beacons or pixels and similar tracking
+    technologies, and we may utilize third party services to collect this information.
+  purposes: {}
+- source: we
+  target: base support groups
+  key: SUBSUM
+  text:
+  - This privacy policy ("Privacy Policy") explains how Circles collects, uses, stores
+    and shares your User data through the Site and the App (including certain audio-based
+    support Groups such as Circles Plus or Circles Plus Group) (together with the
+    Site, the "Services") and constitutes an integral part of the Terms of Use ("TOU").
+- source: we
+  target: page
+  key: SUBSUM
+  text:
+  - Use the Services (e.g. User's IP address, device identifier, User's browser type,
+    which pages of the Site or App the User visited and how long user visited each
+    page.
+- source: we
+  target: page of site
+  key: SUBSUM
+  text:
+  - Use the Services (e.g. User's IP address, device identifier, User's browser type,
+    which pages of the Site or App the User visited and how long user visited each
+    page.
+- source: Xandr
+  target: business partner
+  key: SUBSUM
+  text:
+  - For more information about our use of cookies and other tracking technologies
+    to collect personal information about you automatically, please refer to the section
+    called "Online Advertising and Third Party Tracking" below.
+  - Our business partners, including online advertising networks, analytics vendors,
+    and companies that co-sponsor our promotions.
+- source: Xandr
+  target: company provide personal information
+  key: SUBSUM
+  text:
+  - Companies that provide personal information to supplement what we already know
+    about you, including data aggregators.
+  - For more information about our use of cookies and other tracking technologies
+    to collect personal information about you automatically, please refer to the section
+    called "Online Advertising and Third Party Tracking" below.
+- source: Xandr
+  target: social media
+  key: SUBSUM
+  text:
+  - For more information about our use of cookies and other tracking technologies
+    to collect personal information about you automatically, please refer to the section
+    called "Online Advertising and Third Party Tracking" below.
+  - Social media sites, including Facebook, Twitter, TikTok, Quora, Snapchat, LinkedIn
+    and Instagram.
+- source: advertiser
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - We and our third party partners use this information to make the advertisements
+    you see online more relevant to your interests, as well as to provide advertising-related
+    services such as reporting, attribution, analytics, and market research.
+- source: advertiser
+  target: attribution
+  key: SUBSUM
+  text:
+  - We and our third party partners use this information to make the advertisements
+    you see online more relevant to your interests, as well as to provide advertising-related
+    services such as reporting, attribution, analytics, and market research.
+- source: advertiser
+  target: reporting
+  key: SUBSUM
+  text:
+  - We and our third party partners use this information to make the advertisements
+    you see online more relevant to your interests, as well as to provide advertising-related
+    services such as reporting, attribution, analytics, and market research.
+- source: aggregate usage metric
+  target: demographic pattern of visitor
+  key: SUBSUM
+  text:
+  - We use this information collected through tracking technologies to provide custom,
+    personalized content and information, including targeted content and advertising,
+    recognize you across multiple devices, monitor aggregate usage metrics such as
+    total number of visitors, traffic, usage, and demographic patterns of our visitors,
+    and otherwise enhance our Services and your user experience.
+- source: aggregate usage metric
+  target: total number of visitor
+  key: SUBSUM
+  text:
+  - We use this information collected through tracking technologies to provide custom,
+    personalized content and information, including targeted content and advertising,
+    recognize you across multiple devices, monitor aggregate usage metrics such as
+    total number of visitors, traffic, usage, and demographic patterns of our visitors,
+    and otherwise enhance our Services and your user experience.
+- source: aggregate usage metric
+  target: traffic
+  key: SUBSUM
+  text:
+  - We use this information collected through tracking technologies to provide custom,
+    personalized content and information, including targeted content and advertising,
+    recognize you across multiple devices, monitor aggregate usage metrics such as
+    total number of visitors, traffic, usage, and demographic patterns of our visitors,
+    and otherwise enhance our Services and your user experience.
+- source: aggregate usage metric
+  target: usage
+  key: SUBSUM
+  text:
+  - We use this information collected through tracking technologies to provide custom,
+    personalized content and information, including targeted content and advertising,
+    recognize you across multiple devices, monitor aggregate usage metrics such as
+    total number of visitors, traffic, usage, and demographic patterns of our visitors,
+    and otherwise enhance our Services and your user experience.
+- source: base support groups
+  target: circles plus
+  key: SUBSUM
+  text:
+  - This privacy policy ("Privacy Policy") explains how Circles collects, uses, stores
+    and shares your User data through the Site and the App (including certain audio-based
+    support Groups such as Circles Plus or Circles Plus Group) (together with the
+    Site, the "Services") and constitutes an integral part of the Terms of Use ("TOU").
+- source: base support groups
+  target: circles plus group
+  key: SUBSUM
+  text:
+  - This privacy policy ("Privacy Policy") explains how Circles collects, uses, stores
+    and shares your User data through the Site and the App (including certain audio-based
+    support Groups such as Circles Plus or Circles Plus Group) (together with the
+    Site, the "Services") and constitutes an integral part of the Terms of Use ("TOU").
+- source: business partner
+  target: advertiser
+  key: SUBSUM
+  text:
+  - Our business partners, including online advertising networks, analytics vendors,
+    and companies that co-sponsor our promotions.
+- source: business partner
+  target: analytic provider
+  key: SUBSUM
+  text:
+  - Our business partners, including online advertising networks, analytics vendors,
+    and companies that co-sponsor our promotions.
+- source: business partner
+  target: company co
+  key: SUBSUM
+  text:
+  - Our business partners, including online advertising networks, analytics vendors,
+    and companies that co-sponsor our promotions.
+- source: business partner
+  target: promotion
+  key: SUBSUM
+  text:
+  - Our business partners, including online advertising networks, analytics vendors,
+    and companies that co-sponsor our promotions.
+- source: common account identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - We may share a common account identifier (such as an email address or user ID)
+    or hashed data with our third party advertising partners to help identify you
+    across devices or serve you ads on social media sites you may use.
+- source: common account identifier
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - We may share a common account identifier (such as an email address or user ID)
+    or hashed data with our third party advertising partners to help identify you
+    across devices or serve you ads on social media sites you may use.
+- source: corporate business transaction
+  target: joint venture
+  key: SUBSUM
+  text:
+  - We may take part in or be involved with a corporate business transaction, such
+    as a merger, acquisition, joint venture, or financing or sale of all or a portion
+    of our company assets.
+- source: feature
+  target: forum
+  key: SUBSUM
+  text:
+  - Use of our  Services and features, such as Group sessions, quizzes, exercises,
+    profiles, direct messaging, Forums, meeting feedback, etc.
+- source: feature
+  target: group session
+  key: SUBSUM
+  text:
+  - Use of our  Services and features, such as Group sessions, quizzes, exercises,
+    profiles, direct messaging, Forums, meeting feedback, etc.
+- source: feature
+  target: profile
+  key: SUBSUM
+  text:
+  - Use of our  Services and features, such as Group sessions, quizzes, exercises,
+    profiles, direct messaging, Forums, meeting feedback, etc.
+- source: information about device
+  target: browser type
+  key: SUBSUM
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+- source: information about device
+  target: date
+  key: SUBSUM
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+- source: information about device
+  target: device identifier
+  key: SUBSUM
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+- source: information about device
+  target: device type
+  key: SUBSUM
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+- source: information about device
+  target: ip address
+  key: SUBSUM
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+- source: information about device
+  target: time stamp
+  key: SUBSUM
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+- source: non - marketing message from we
+  target: message about account
+  key: SUBSUM
+  text:
+  - If you opt-out you will still receive non-marketing or transactional messages
+    from us, including messages about your account and responses to your inquiries.
+- source: sensory information
+  target: audio visual information
+  key: SUBSUM
+  text:
+  - 'TYPES OF PERSONAL INFORMATION WE COLLECT
+
+
+    Sensory Information including Audio Visual Information .'
+- source: social media
+  target: Facebook
+  key: SUBSUM
+  text:
+  - Social media sites, including Facebook, Twitter, TikTok, Quora, Snapchat, LinkedIn
+    and Instagram.
+  - Without derogating from the generality of the above, when clicking on certain
+    social media links provided on the Site or App (e.g. Twitter, Facebook, and Pinterest)
+    User will be transferred to Circles' sites on such social media ("Social Media
+    Sites").
+- source: social media
+  target: Microsoft
+  key: SUBSUM
+  text:
+  - Social media sites, including Facebook, Twitter, TikTok, Quora, Snapchat, LinkedIn
+    and Instagram.
+- source: social media
+  target: Pinterest
+  key: SUBSUM
+  text:
+  - Without derogating from the generality of the above, when clicking on certain
+    social media links provided on the Site or App (e.g. Twitter, Facebook, and Pinterest)
+    User will be transferred to Circles' sites on such social media ("Social Media
+    Sites").
+- source: social media
+  target: Quora
+  key: SUBSUM
+  text:
+  - Social media sites, including Facebook, Twitter, TikTok, Quora, Snapchat, LinkedIn
+    and Instagram.
+- source: social media
+  target: Snap
+  key: SUBSUM
+  text:
+  - Social media sites, including Facebook, Twitter, TikTok, Quora, Snapchat, LinkedIn
+    and Instagram.
+- source: social media
+  target: Twitter
+  key: SUBSUM
+  text:
+  - Social media sites, including Facebook, Twitter, TikTok, Quora, Snapchat, LinkedIn
+    and Instagram.
+  - Without derogating from the generality of the above, when clicking on certain
+    social media links provided on the Site or App (e.g. Twitter, Facebook, and Pinterest)
+    User will be transferred to Circles' sites on such social media ("Social Media
+    Sites").
+- source: social media
+  target: tiktok
+  key: SUBSUM
+  text:
+  - Social media sites, including Facebook, Twitter, TikTok, Quora, Snapchat, LinkedIn
+    and Instagram.
+- source: technology
+  target: artificial intelligence
+  key: SUBSUM
+  text:
+  - When we use your personal information in the ways described above, we may employ
+    various technologies such as artificial intelligence and machine learning to provide
+    features and customize your experience with the Services.
+- source: technology
+  target: machine learning
+  key: SUBSUM
+  text:
+  - When we use your personal information in the ways described above, we may employ
+    various technologies such as artificial intelligence and machine learning to provide
+    features and customize your experience with the Services.
+- source: tracking technology
+  target: Facebook
+  key: SUBSUM
+  text:
+  - For example, these tracking technologies, such as Facebook Pixels, may collect
+    information about your device and its software, such as your IP address, browser
+    type, device type, date and time stamp, unique device ID., and about the way you
+    engage with our Services, for example, the site from which you came and the site
+    to which you are going when you leave our website, the pages you visit, how frequently
+    you access our Services, whether you open emails or click the links contained
+    in emails, whether you access the Services from multiple devices, the products
+    or services you view and click on, and similar actions you take.
+  - We typically collect this information through use cookies (a small text file sent
+    from a website and stored on your device), web beacons or pixels and similar tracking
+    technologies, and we may utilize third party services to collect this information.
+- source: tracking technology
+  target: api
+  key: SUBSUM
+  text:
+  - We may also collect personal information about you over time and across different
+    websites, apps and devices when you use our Services, using tracking technologies
+    such as cookies, pixels, Flash objects, APIs and mobile software development kits
+    (SDKs) and we may use third party services to collect this personal information
+    when you use our Services.
+- source: tracking technology
+  target: mobile software development kit
+  key: SUBSUM
+  text:
+  - We may also collect personal information about you over time and across different
+    websites, apps and devices when you use our Services, using tracking technologies
+    such as cookies, pixels, Flash objects, APIs and mobile software development kits
+    (SDKs) and we may use third party services to collect this personal information
+    when you use our Services.
+- source: tracking technology
+  target: sdk
+  key: SUBSUM
+  text:
+  - We may also collect personal information about you over time and across different
+    websites, apps and devices when you use our Services, using tracking technologies
+    such as cookies, pixels, Flash objects, APIs and mobile software development kits
+    (SDKs) and we may use third party services to collect this personal information
+    when you use our Services.
+- source: up technological tool
+  target: firewall
+  key: SUBSUM
+  text:
+  - These physical measures (e.g., restricting access to offices and files), up-to-date
+    technological tools (e.g., passwords, encryption, firewalls, and security patches),
+    and organizational controls (e.g., limiting access, staff training, and agreements).  We
+    apply these measures, tools, and controls based on the sensitivity of the information
+    we collect, use, and store.
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: LINE
+- type: ACTOR
+  id: Microsoft
+- type: ACTOR
+  id: Pinterest
+- type: ACTOR
+  id: Quora
+- type: ACTOR
+  id: Snap
+- type: ACTOR
+  id: Twitter
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: Xandr
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: api
+- type: ACTOR
+  id: artificial intelligence
+- type: ACTOR
+  id: attribution
+- type: ACTOR
+  id: base support groups
+- type: ACTOR
+  id: business partner
+- type: ACTOR
+  id: circles
+- type: ACTOR
+  id: circles plus
+- type: ACTOR
+  id: circles plus group
+- type: ACTOR
+  id: company co
+- type: ACTOR
+  id: company provide personal information
+- type: ACTOR
+  id: corporate business transaction
+- type: ACTOR
+  id: data aggregator
+- type: ACTOR
+  id: feature
+- type: ACTOR
+  id: firewall
+- type: ACTOR
+  id: forum
+- type: ACTOR
+  id: group session
+- type: ACTOR
+  id: joint venture
+- type: ACTOR
+  id: law enforcement
+- type: ACTOR
+  id: legal authority
+- type: ACTOR
+  id: machine learning
+- type: ACTOR
+  id: mobile software development kit
+- type: ACTOR
+  id: page
+- type: ACTOR
+  id: page of site
+- type: ACTOR
+  id: profile
+- type: ACTOR
+  id: promotion
+- type: ACTOR
+  id: reporting
+- type: ACTOR
+  id: sdk
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social media
+- type: ACTOR
+  id: technology
+- type: ACTOR
+  id: third party for marketing purpose
+- type: ACTOR
+  id: tiktok
+- type: ACTOR
+  id: tracking technology
+- type: ACTOR
+  id: up technological tool
+- type: ACTOR
+  id: we
+- type: DATA
+  id: age
+- type: DATA
+  id: aggregate usage metric
+- type: DATA
+  id: audio visual information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: call center audio recording
+- type: DATA
+  id: coarse geolocation
+- type: DATA
+  id: common account identifier
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: date
+- type: DATA
+  id: date of birth
+- type: DATA
+  id: demographic pattern of visitor
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device type
+- type: DATA
+  id: email address
+- type: DATA
+  id: gender
+- type: DATA
+  id: information about browser you use
+- type: DATA
+  id: information about device
+- type: DATA
+  id: information about general health discuss during session
+- type: DATA
+  id: information about new service
+- type: DATA
+  id: information about use of website
+- type: DATA
+  id: ip address
+- type: DATA
+  id: message about account
+- type: DATA
+  id: mobile operate system
+- type: DATA
+  id: national origin
+- type: DATA
+  id: non - marketing message from we
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information relate to hobby
+- type: DATA
+  id: personal information you post in public space on site
+- type: DATA
+  id: personal information you post on social medium page
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: race / ethnicity
+- type: DATA
+  id: sensory information
+- type: DATA
+  id: social media profile information
+- type: DATA
+  id: time stamp
+- type: DATA
+  id: total number of visitor
+- type: DATA
+  id: traffic
+- type: DATA
+  id: type of device you use
+- type: DATA
+  id: usage
+- type: DATA
+  id: usage information
+- type: DATA
+  id: user datum
+- type: DATA
+  id: voice
+- type: DATA
+  id: voicemail
+- type: DATA
+  id: zip code

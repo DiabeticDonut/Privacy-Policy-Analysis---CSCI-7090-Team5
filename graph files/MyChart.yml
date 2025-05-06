@@ -1,0 +1,313 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - As a result, we are required to provide the following information so we can make
+    our app available to you in the Google Play store.
+  - 'For example, we request information from you when you:'
+  - Occasionally, we may also use your information to notify you about important changes
+    to the MyChart, new services, and new information we think you might find valuable.
+  purposes:
+    analytics:
+    - to notify you about important changes to the MyChart, new services, and new
+      information we think you might find valuable
+    services:
+    - to notify you about important changes to the MyChart, new services, and new
+      information we think you might find valuable
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  - We will also share this information with our partners and advertisers.
+  purposes:
+    services:
+    - for the purpose of providing services to us
+- source: we
+  target: bluetooth
+  key: COLLECT
+  text:
+  - Our app may access your device's Bluetooth to detect other nearby devices.
+  purposes:
+    analytics:
+    - to detect other nearby devices
+    services:
+    - to detect other nearby devices
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - When you sign up for these services, we will share names, or other contact information
+    that is necessary for the third party to provide these services.
+  purposes: {}
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - 'MyChart privacy policy
+
+
+    We receive and store certain types of information whenever you use the MyChart
+    app or site, through the use of "cookies."'
+  - We use cookie information to analyze how frequently MyChart is being used or viewed,
+    for automatic user recognition, and to improve your overall MyChart experience
+    with us.
+  purposes:
+    analytics:
+    - to analyze how frequently MyChart is being used or viewed, for automatic user
+      recognition, and to improve your overall MyChart experience with us
+- source: we
+  target: different type
+  key: COLLECT
+  text:
+  - When you use MyChart, you may provide us with different types of information,
+    including personal information you knowingly choose to share with us and information
+    that is collected on an aggregate basis as you and others use the MyChart app
+    or site.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - Our app may use your location data to notify front desk staff when you arrive
+    for an appointment or to suggest healthcare providers that are near you.
+  - The first time you try to use any features that use your location, we will ask
+    for your consent within the app and will only access your location if you give
+    consent.
+  purposes:
+    services:
+    - to notify front desk staff when you arrive for an appointment or to suggest
+      healthcare providers that are near you
+- source: we
+  target: information you enter into mychart app
+  key: COLLECT
+  text:
+  - We receive and store any information you enter into the MyChart app or site.
+  purposes: {}
+- source: we
+  target: information you request
+  key: COLLECT
+  text:
+  - We may also provide information you request using the MyChart app or site.
+  purposes: {}
+- source: we
+  target: microphone
+  key: COLLECT
+  text:
+  - Our app may use your microphone to capture audio for video visits.
+  purposes:
+    services:
+    - to capture audio for video visits
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  - We will also share this information with our partners and advertisers.
+  purposes:
+    services:
+    - for the purpose of providing services to us
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - When you sign up for these services, we will share names, or other contact information
+    that is necessary for the third party to provide these services.
+  purposes: {}
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - We use the personal information you provide and we collect for the purposes of
+    making products and services available to you and administering our business activities.
+  purposes:
+    services:
+    - for the purposes of making products and services available to you and administering
+      our business activities
+- source: we
+  target: storage
+  key: COLLECT
+  text:
+  - Our app may access your device's storage to read and write files and photos you
+    choose to use in MyChart.
+  purposes:
+    analytics:
+    - to read and write files and photos you choose to use in MyChart
+    services:
+    - to read and write files and photos you choose to use in MyChart
+- source: UNSPECIFIED_ACTOR
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  - We will also share this information with our partners and advertisers.
+  purposes:
+    services:
+    - for the purpose of providing services to us
+- source: UNSPECIFIED_ACTOR
+  target: non-personal information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  - We will also share this information with our partners and advertisers.
+  purposes:
+    services:
+    - for the purpose of providing services to us
+- source: advertiser
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  - We will also share this information with our partners and advertisers.
+  purposes: {}
+- source: advertiser
+  target: non-personal information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  - We will also share this information with our partners and advertisers.
+  purposes: {}
+- source: contractor
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  purposes:
+    services:
+    - for the purpose of providing services to us
+- source: contractor
+  target: non-personal information
+  key: COLLECT
+  text:
+  - From time to time we may share aggregated information that does not personally
+    identify you with agents, contractors or affiliates of ours for the purpose of
+    providing services to us.
+  purposes:
+    services:
+    - for the purpose of providing services to us
+- source: contact information
+  target: email address
+  key: SUBSUM
+  text:
+  - If you choose to correspond further with us through texts, email, through the
+    secure messaging feature or through eCare Services available through the MyChart,
+    we reserve the right to retain the content of your messages and communications
+    (including video content), together with your contact information, including email
+    address(es), and our responses.
+- source: corewell health mychart website
+  target: content
+  key: SUBSUM
+  text:
+  - The Corewell Health MyChart mobile application and Corewell Health MyChart Website,
+    including all tools, services, content and information available on or through
+    the Corewell Health MyChart mobile application and Corewell Health MyChart Website,
+    are services made available by Priority Health and Corewell Health.
+- source: corewell health mychart website
+  target: tool
+  key: SUBSUM
+  text:
+  - The Corewell Health MyChart mobile application and Corewell Health MyChart Website,
+    including all tools, services, content and information available on or through
+    the Corewell Health MyChart mobile application and Corewell Health MyChart Website,
+    are services made available by Priority Health and Corewell Health.
+- source: different type
+  target: information collect on aggregate basis
+  key: SUBSUM
+  text:
+  - When you use MyChart, you may provide us with different types of information,
+    including personal information you knowingly choose to share with us and information
+    that is collected on an aggregate basis as you and others use the MyChart app
+    or site.
+- source: different type
+  target: personal information you choose
+  key: SUBSUM
+  text:
+  - When you use MyChart, you may provide us with different types of information,
+    including personal information you knowingly choose to share with us and information
+    that is collected on an aggregate basis as you and others use the MyChart app
+    or site.
+- source: unsolicited correspondence
+  target: email message
+  key: SUBSUM
+  text:
+  - Corewell Health will never ask you for your password in any unsolicited communication
+    (including unsolicited correspondence such as letters, phone calls, or email messages).
+- source: unsolicited correspondence
+  target: phone call
+  key: SUBSUM
+  text:
+  - Corewell Health will never ask you for your password in any unsolicited communication
+    (including unsolicited correspondence such as letters, phone calls, or email messages).
+nodes:
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: content
+- type: ACTOR
+  id: contractor
+- type: ACTOR
+  id: corewell health mychart website
+- type: ACTOR
+  id: tool
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: bluetooth
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: different type
+- type: DATA
+  id: email address
+- type: DATA
+  id: email message
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: information collect on aggregate basis
+- type: DATA
+  id: information you enter into mychart app
+- type: DATA
+  id: information you request
+- type: DATA
+  id: microphone
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personal information you choose
+- type: DATA
+  id: phone call
+- type: DATA
+  id: storage
+- type: DATA
+  id: unsolicited correspondence

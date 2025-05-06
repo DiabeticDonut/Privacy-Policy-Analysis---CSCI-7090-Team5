@@ -1,0 +1,1548 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    INFORMATION WE COLLECT'
+  - For example, we may use the information to authenticate users, facilitate secure
+    payments, protect against fraud and abuse, respond to a legal request or claim,
+    conduct audits, and enforce our terms and policies.
+  - For example, we need to use your information to provide you with your Fitbit dashboard
+    tracking your exercise, activity, and other trends; to enable the community features
+    of the Services; and to give you customer support.
+  - For example, we use the information to troubleshoot and protect against errors;
+    perform data analysis and testing; conduct research and surveys; and develop new
+    features and Services, which may include generative artificial intelligence models.
+  - For the Services' community features, we may use your information to help you
+    find and connect with other users and to allow other users to find and connect
+    with you.
+  - 'HOW WE USE INFORMATION
+
+
+    COMMUNICATE WITH YOU We use your information when needed to send you Service notifications
+    and respond to you when you contact us.'
+  - 'INFORMATION WE COLLECT
+
+
+    INFORMATION WE RECEIVE FROM THIRD PARTIES'
+  - 'INFORMATION WE COLLECT
+
+
+    INFORMATION WE RECEIVE FROM YOUR USE OF OUR SERVICES'
+  - If you choose to connect your account on our Services to your account on another
+    service, we may receive information from the other service.
+  - If you use the Live Coaching Services, we use your information to connect you
+    with coaches, allow you to communicate with them through our Services, and help
+    you achieve your goals to lead a healthier, more active life.
+  - We also use your information to make inferences and show you more relevant content
+    as part of providing the services you request.
+  - We also use your information to promote new features or products that we think
+    you would be interested in.
+  - We may also preserve data for legal reasons or to prevent harm, including as described
+    in the How Information Is Shared section.
+  - We operate internationally and transfer information to the United States and other
+    countries for the purposes described in this policy.
+  - We transfer information to our corporate affiliates, service providers, and other
+    partners who process it for us, based on our instructions, and in compliance with
+    this policy and any other appropriate confidentiality and security measures.
+  - We use and disclose these categories of information for the business purposes
+    described in the How We Use Information and How Information Is Shared sections,
+    respectively.
+  - When you use our Services, we collect the following types of information, some
+    of which may be considered Consumer Health Data as defined in certain U.S. state
+    laws such as the Washington My Health My Data Act and Nevada Senate Bill 370.
+  purposes:
+    advertising:
+    - to promote new features or products that we think you would be interested in
+    analytics:
+    - for the business purposes described in the How We Use Information and How Information
+      Is Shared sections, respectively
+    - to make inferences and show you more relevant content as part of providing the
+      services you request
+    - to provide you with your Fitbit dashboard tracking your exercise, activity,
+      and other trends; to enable the community features of the Services; and to give
+      you customer support
+    - to troubleshoot and protect against errors; perform data analysis and testing;
+      conduct research and surveys; and develop new features and Services, which may
+      include generative artificial intelligence models
+    legal:
+    - for legal reasons or to prevent harm,
+    security:
+    - for legal reasons or to prevent harm,
+    - to authenticate users, facilitate secure payments, protect against fraud and
+      abuse, respond to a legal request or claim, conduct audits, and enforce our
+      terms and policies
+    - to troubleshoot and protect against errors; perform data analysis and testing;
+      conduct research and surveys; and develop new features and Services, which may
+      include generative artificial intelligence models
+    services:
+    - FOR EXTERNAL PROCESSING
+    - to connect you with coaches, allow you to communicate with them through our
+      Services, and help you achieve your goals to lead a healthier, more active life
+    - to help you find and connect with other users and to allow other users to find
+      and connect with you
+    - to make inferences and show you more relevant content as part of providing the
+      services you request
+    - to provide you with your Fitbit dashboard tracking your exercise, activity,
+      and other trends; to enable the community features of the Services; and to give
+      you customer support
+    - to troubleshoot and protect against errors; perform data analysis and testing;
+      conduct research and surveys; and develop new features and Services, which may
+      include generative artificial intelligence models
+- source: we
+  target: account information
+  key: COLLECT
+  text:
+  - We keep your account information, like your name, email address, and password,
+    for as long as your account is in existence because we need it to operate your
+    account.
+  purposes: {}
+- source: we
+  target: account setting
+  key: COLLECT
+  text:
+  - We give you account settings and tools to access and control your personal data,
+    as described below, regardless of where you live.
+  - We give you account settings and tools to control our data use.
+  purposes: {}
+- source: we
+  target: age
+  key: COLLECT
+  text:
+  - For example, if you connect to Facebook or Google, we may receive information
+    like your name, profile picture, age range, language, email address, and friend
+    list.
+  purposes: {}
+- source: we
+  target: card information
+  key: COLLECT
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    INFORMATION WE COLLECT'
+  - 'WE COLLECT
+
+
+    PAYMENT AND CARD INFORMATION'
+  purposes: {}
+- source: we
+  target: category of personal information list
+  key: COLLECT
+  text:
+  - As described in the Information We Collect section, we collect the categories
+    of personal information listed below.
+  - We receive this information from you, your device, your use of the Services, your
+    coach if you use our Live Coaching Services, third parties (like the other services
+    you have connected to your Fitbit account, or your employer or insurance company
+    if they offer you Fitbit Services as an employee or customer), and as otherwise
+    described in this policy.
+  purposes: {}
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - For your convenience, we store the last four digits of your card number and your
+    card issuer's name and contact information.
+  purposes:
+    services:
+    - For your convenience
+- source: we
+  target: customize insight help
+  key: COLLECT
+  text:
+  - 'Here are some examples: Based on your sleep data, we may make inferences about
+    your sleeping patterns and provide you with customized insights to help you improve
+    your sleep.'
+  purposes: {}
+- source: we
+  target: datum about device you use
+  key: COLLECT
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+  purposes: {}
+- source: we
+  target: email address
+  key: COLLECT
+  text:
+  - For example, if you connect to Facebook or Google, we may receive information
+    like your name, profile picture, age range, language, email address, and friend
+    list.
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  purposes: {}
+- source: we
+  target: friend list
+  key: COLLECT
+  text:
+  - For example, if you connect to Facebook or Google, we may receive information
+    like your name, profile picture, age range, language, email address, and friend
+    list.
+  purposes: {}
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    INFORMATION WE COLLECT'
+  - 'WE COLLECT
+
+
+    GEOLOCATION INFORMATION'
+  purposes: {}
+- source: we
+  target: information about use
+  key: COLLECT
+  text:
+  - If you use our Live Coaching Services, we collect information about such use,
+    including the plan, goals, and actions you record with your coach, your calendar
+    events, communications with your coach, notes your coach records about you, and
+    other information submitted by you or your coach.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - FOR LEGAL REASONS OR TO PREVENT HARM We may preserve or disclose information about
+    you to comply with a law, regulation, legal process, or governmental request;
+    to assert legal rights or defend against legal claims; or to prevent, detect,
+    or investigate illegal activity, fraud, abuse, violations of our terms, or threats
+    to the security of the Services or the physical safety of any person.
+  - We also keep information about you and your use of the Services for as long as
+    necessary for our legitimate business interests, for legal reasons, and to prevent
+    harm, including as described in the How We Use Information and How Information
+    Is Shared sections.
+  purposes:
+    legal:
+    - FOR LEGAL REASONS OR TO PREVENT HARM
+    - for legal reasons, and to prevent harm
+    - to comply with a law, regulation, legal process, or governmental request; to
+      assert legal rights or defend against legal claims; or to prevent, detect, or
+      investigate illegal activity, fraud, abuse, violations of our terms, or threats
+      to the security of the Services or the physical safety of any person
+    security:
+    - FOR LEGAL REASONS OR TO PREVENT HARM
+    - for legal reasons, and to prevent harm
+    - to comply with a law, regulation, legal process, or governmental request; to
+      assert legal rights or defend against legal claims; or to prevent, detect, or
+      investigate illegal activity, fraud, abuse, violations of our terms, or threats
+      to the security of the Services or the physical safety of any person
+- source: we
+  target: information we collect
+  key: COLLECT
+  text:
+  - We use the information we collect to improve and personalize the Services and
+    to develop new ones.
+  - We use the information we collect to promote the safety and security of the Services,
+    our users, and other parties.
+  - We use the information we collect with your consent or to provide the Services
+    you request, including for the following purposes.
+  purposes:
+    security:
+    - to promote the safety and security of the Services, our users, and other parties
+    services:
+    - to improve and personalize the Services and to develop new ones
+    - to provide the Services you request, including for the following purposes
+- source: we
+  target: information you submit
+  key: COLLECT
+  text:
+  - If you contact us or participate in a survey, contest, or promotion, we collect
+    the information you submit such as your name, contact information, and message.
+  purposes: {}
+- source: we
+  target: internet activity
+  key: COLLECT
+  text:
+  - We keep other information, like your exercise or activity data, until you use
+    your account settings or tools to delete the data or your account because we use
+    this data to provide you with your personal statistics and other aspects of the
+    Services.
+  - When you access or use our Services, we receive certain usage or network activity
+    information.
+  purposes: {}
+- source: we
+  target: language
+  key: COLLECT
+  text:
+  - For example, if you connect to Facebook or Google, we may receive information
+    like your name, profile picture, age range, language, email address, and friend
+    list.
+  purposes: {}
+- source: we
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We may disclose such information publicly and to third parties, for example, in
+    public reports about exercise and activity, to partners under agreement with us,
+    or as part of the community benchmarking information we provide to users of our
+    subscription services.
+  - We may share non-personal information that is aggregated or de-identified so that
+    it cannot reasonably be used to identify an individual.
+  purposes: {}
+- source: we
+  target: payment
+  key: COLLECT
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    INFORMATION WE COLLECT'
+  - 'WE COLLECT
+
+
+    PAYMENT AND CARD INFORMATION'
+  purposes: {}
+- source: we
+  target: person name
+  key: COLLECT
+  text:
+  - For example, if you connect to Facebook or Google, we may receive information
+    like your name, profile picture, age range, language, email address, and friend
+    list.
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  purposes: {}
+- source: we
+  target: phone number
+  key: COLLECT
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  purposes: {}
+- source: we
+  target: postal address
+  key: COLLECT
+  text:
+  - We store your shipping address to fulfill your order.
+  purposes:
+    services:
+    - to fulfill your order
+- source: we
+  target: precise geolocation
+  key: COLLECT
+  text:
+  - When you allow us to collect precise location information, we use that information
+    to provide and improve features of the Services such as recording where a workout
+    took place or mapping an activity.
+  purposes:
+    analytics:
+    - to provide and improve features of the Services such as recording where a workout
+      took place or mapping an activity
+    services:
+    - to provide and improve features of the Services such as recording where a workout
+      took place or mapping an activity
+- source: we
+  target: privacy preference in account setting
+  key: COLLECT
+  text:
+  - For certain information, we provide you with privacy preferences in account settings
+    and other tools to control how your information is visible to other users of the
+    Services.
+  purposes: {}
+- source: we
+  target: profile picture
+  key: COLLECT
+  text:
+  - For example, if you connect to Facebook or Google, we may receive information
+    like your name, profile picture, age range, language, email address, and friend
+    list.
+  purposes: {}
+- source: we
+  target: subscriber id
+  key: COLLECT
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  purposes: {}
+- source: we
+  target: type of datum
+  key: COLLECT
+  text:
+  - We collect this type of data if you grant us access to your location.
+  purposes: {}
+- source: we
+  target: usage information
+  key: COLLECT
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    INFORMATION WE COLLECT'
+  - 'WE COLLECT
+
+
+    USAGE INFORMATION'
+  purposes: {}
+- source: Google
+  target: friend list
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: Google
+  target: joint processing
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: Google
+  target: person name
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: Google
+  target: photo
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: Google
+  target: profile information about fitbit user
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - These companies may use cookies and similar technologies to collect information
+    about your interactions with the Services and other websites and applications.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: information about interaction with services
+  key: COLLECT
+  text:
+  - These companies may use cookies and similar technologies to collect information
+    about your interactions with the Services and other websites and applications.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: non-personal information
+  key: COLLECT
+  text:
+  - We may disclose such information publicly and to third parties, for example, in
+    public reports about exercise and activity, to partners under agreement with us,
+    or as part of the community benchmarking information we provide to users of our
+    subscription services.
+  - We may share non-personal information that is aggregated or de-identified so that
+    it cannot reasonably be used to identify an individual.
+  purposes: {}
+- source: fitbit
+  target: friend list
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: fitbit
+  target: joint processing
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: fitbit
+  target: person name
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: fitbit
+  target: photo
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: fitbit
+  target: profile information about fitbit user
+  key: COLLECT
+  text:
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo and friends list ("Joint Processing").
+  - As a result, to ensure our users can still view their friends lists (including
+    where your friends move their service to Google), Fitbit and Google will share
+    with each other limited profile information about their Fitbit users, notably
+    the user's name, photo, and friends list.
+  purposes:
+    services:
+    - to ensure our users can still view their friends lists (including where your
+      friends move their service to Google)
+- source: insurance company
+  target: email address
+  key: COLLECT
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  - We may partner with third parties, such as employers and insurance companies that
+    offer Fitbit Services to their employees and customers.
+  purposes: {}
+- source: insurance company
+  target: person name
+  key: COLLECT
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  - We may partner with third parties, such as employers and insurance companies that
+    offer Fitbit Services to their employees and customers.
+  purposes: {}
+- source: insurance company
+  target: phone number
+  key: COLLECT
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  - We may partner with third parties, such as employers and insurance companies that
+    offer Fitbit Services to their employees and customers.
+  purposes: {}
+- source: insurance company
+  target: subscriber id
+  key: COLLECT
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+  - We may partner with third parties, such as employers and insurance companies that
+    offer Fitbit Services to their employees and customers.
+  purposes: {}
+- source: partner who process it for we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We transfer information to our corporate affiliates, service providers, and other
+    partners who process it for us, based on our instructions, and in compliance with
+    this policy and any other appropriate confidentiality and security measures.
+  purposes:
+    services:
+    - FOR EXTERNAL PROCESSING
+- source: service provider
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We transfer information to our corporate affiliates, service providers, and other
+    partners who process it for us, based on our instructions, and in compliance with
+    this policy and any other appropriate confidentiality and security measures.
+  purposes:
+    services:
+    - FOR EXTERNAL PROCESSING
+- source: third party payment processor
+  target: postal address
+  key: COLLECT
+  text:
+  - Note that third-party payment processors may retain this information in accordance
+    with their own privacy policies and terms.
+  - We store your shipping address to fulfill your order.
+  purposes: {}
+- source: account information
+  target: biography
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: account information
+  target: country
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: account information
+  target: email address
+  key: SUBSUM
+  text:
+  - We keep your account information, like your name, email address, and password,
+    for as long as your account is in existence because we need it to operate your
+    account.
+- source: account information
+  target: password
+  key: SUBSUM
+  text:
+  - We keep your account information, like your name, email address, and password,
+    for as long as your account is in existence because we need it to operate your
+    account.
+- source: account information
+  target: person name
+  key: SUBSUM
+  text:
+  - We keep your account information, like your name, email address, and password,
+    for as long as your account is in existence because we need it to operate your
+    account.
+- source: biometric information
+  target: health datum
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: commercial information
+  target: payment information
+  key: SUBSUM
+  text:
+  - Commercial information , including your payment information and records of the
+    Services or devices you purchased, obtained, or considered (for example, if you
+    added them to your shopping cart on the Fitbit online store but did not purchase
+    them)
+- source: commercial information
+  target: record
+  key: SUBSUM
+  text:
+  - Commercial information , including your payment information and records of the
+    Services or devices you purchased, obtained, or considered (for example, if you
+    added them to your shopping cart on the Fitbit online store but did not purchase
+    them)
+- source: community feature
+  target: forum
+  key: SUBSUM
+  text:
+  - WHEN YOU AGREE OR DIRECT US TO SHARE You may direct us to disclose your information
+    to others, such as when you use our community features like the forums, 7-day
+    leaderboard, and other social tools.
+- source: community feature
+  target: social tool
+  key: SUBSUM
+  text:
+  - WHEN YOU AGREE OR DIRECT US TO SHARE You may direct us to disclose your information
+    to others, such as when you use our community features like the forums, 7-day
+    leaderboard, and other social tools.
+- source: daily exercise statistic
+  target: distance you travel
+  key: SUBSUM
+  text:
+  - 'Here are some examples: Information like your height, weight, gender, and age
+    allows us to improve the accuracy of your daily exercise and activity statistics
+    like the number of calories you burned and the distance you traveled.'
+- source: daily exercise statistic
+  target: number of calorie you burn
+  key: SUBSUM
+  text:
+  - 'Here are some examples: Information like your height, weight, gender, and age
+    allows us to improve the accuracy of your daily exercise and activity statistics
+    like the number of calories you burned and the distance you traveled.'
+- source: datum about device you use
+  target: browser type
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: datum about device you use
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: datum about device you use
+  target: fitbit information
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: datum about device you use
+  target: geolocation
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: datum about device you use
+  target: ip address
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: datum about device you use
+  target: language
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: datum about device you use
+  target: operating system
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: demographic information
+  target: age
+  key: SUBSUM
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    CALIFORNIA PRIVACY DISCLOSURES
+
+
+    Demographic information , such as your gender, age, health information, and physical
+    characteristics or description, which may be protected by law.'
+- source: demographic information
+  target: description
+  key: SUBSUM
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    CALIFORNIA PRIVACY DISCLOSURES
+
+
+    Demographic information , such as your gender, age, health information, and physical
+    characteristics or description, which may be protected by law.'
+- source: demographic information
+  target: gender
+  key: SUBSUM
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    CALIFORNIA PRIVACY DISCLOSURES
+
+
+    Demographic information , such as your gender, age, health information, and physical
+    characteristics or description, which may be protected by law.'
+- source: demographic information
+  target: health information
+  key: SUBSUM
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    CALIFORNIA PRIVACY DISCLOSURES
+
+
+    Demographic information , such as your gender, age, health information, and physical
+    characteristics or description, which may be protected by law.'
+- source: demographic information
+  target: personal characteristic
+  key: SUBSUM
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    CALIFORNIA PRIVACY DISCLOSURES
+
+
+    Demographic information , such as your gender, age, health information, and physical
+    characteristics or description, which may be protected by law.'
+- source: electronic information
+  target: photo
+  key: SUBSUM
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    CALIFORNIA PRIVACY DISCLOSURES
+
+
+    Electronic, visual, or similar information , such as your profile photo or other
+    photos.'
+- source: electronic information
+  target: profile photo
+  key: SUBSUM
+  text:
+  - 'Fitbit Privacy Policy
+
+
+    CALIFORNIA PRIVACY DISCLOSURES
+
+
+    Electronic, visual, or similar information , such as your profile photo or other
+    photos.'
+- source: fitbit information
+  target: device identifier
+  key: SUBSUM
+  text:
+  - We also collect data about the devices and computers you use to access the Services,
+    including IP addresses, browser type, language, operating system, Fitbit or mobile
+    device information (including device and application identifiers), the referring
+    web page, pages visited, location (depending on the permissions you have granted
+    us), and cookie information.
+- source: geolocation
+  target: cell tower id
+  key: SUBSUM
+  text:
+  - Geolocation data , including GPS signals, device sensors, WiFi access points,
+    and cell tower IDs, if you have granted us access to that information.
+- source: geolocation
+  target: device sensor
+  key: SUBSUM
+  text:
+  - Geolocation data , including GPS signals, device sensors, WiFi access points,
+    and cell tower IDs, if you have granted us access to that information.
+- source: geolocation
+  target: precise geolocation
+  key: SUBSUM
+  text:
+  - Geolocation data , including GPS signals, device sensors, WiFi access points,
+    and cell tower IDs, if you have granted us access to that information.
+- source: geolocation
+  target: router ssid
+  key: SUBSUM
+  text:
+  - Geolocation data , including GPS signals, device sensors, WiFi access points,
+    and cell tower IDs, if you have granted us access to that information.
+- source: health datum
+  target: active minute
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: calorie burn
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: distance travel
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: female health datum
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: heart rate
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: information to you grant we access from service
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: live coaching services datum
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: number of step you take
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: health datum
+  target: weight
+  key: SUBSUM
+  text:
+  - Biometric information , such as your exercise, activity, sleep, or health data,
+    including the number of steps you take, distance traveled, calories burned, weight,
+    heart rate, sleep stages, active minutes, female health data, Live Coaching Services
+    data, and any similar information to which you grant us access from another service.
+- source: identifier
+  target: account id
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: cookie / pixel tag
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: device identifier
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: ip address
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: identifier
+  target: username
+  key: SUBSUM
+  text:
+  - Identifiers , like your name or username, email address, mailing address, phone
+    number, IP address, account ID, device ID, cookie ID, and other similar identifiers.
+- source: information about use
+  target: information submit
+  key: SUBSUM
+  text:
+  - If you use our Live Coaching Services, we collect information about such use,
+    including the plan, goals, and actions you record with your coach, your calendar
+    events, communications with your coach, notes your coach records about you, and
+    other information submitted by you or your coach.
+- source: information about use
+  target: plan
+  key: SUBSUM
+  text:
+  - If you use our Live Coaching Services, we collect information about such use,
+    including the plan, goals, and actions you record with your coach, your calendar
+    events, communications with your coach, notes your coach records about you, and
+    other information submitted by you or your coach.
+- source: information for identification
+  target: card expiration date
+  key: SUBSUM
+  text:
+  - If you activate this feature, you must provide certain information for identification
+    and verification, such as your name, credit, debit or other card number, card
+    expiration date, and CVV code.
+- source: information for identification
+  target: credit
+  key: SUBSUM
+  text:
+  - If you activate this feature, you must provide certain information for identification
+    and verification, such as your name, credit, debit or other card number, card
+    expiration date, and CVV code.
+- source: information for identification
+  target: cvv code
+  key: SUBSUM
+  text:
+  - If you activate this feature, you must provide certain information for identification
+    and verification, such as your name, credit, debit or other card number, card
+    expiration date, and CVV code.
+- source: information for identification
+  target: debit
+  key: SUBSUM
+  text:
+  - If you activate this feature, you must provide certain information for identification
+    and verification, such as your name, credit, debit or other card number, card
+    expiration date, and CVV code.
+- source: information for identification
+  target: person name
+  key: SUBSUM
+  text:
+  - If you activate this feature, you must provide certain information for identification
+    and verification, such as your name, credit, debit or other card number, card
+    expiration date, and CVV code.
+- source: information in use file format
+  target: food
+  key: SUBSUM
+  text:
+  - Using your account settings, you can also download information in a commonly used
+    file format, including data about your activities, body, foods, and sleep.
+- source: information you provide
+  target: account information
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you provide
+  target: alarm
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you provide
+  target: female health tracking
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you provide
+  target: information about friend
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you provide
+  target: information record vary depend on device you use
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you provide
+  target: live coaching services datum
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you provide
+  target: log
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you provide
+  target: message on services
+  key: SUBSUM
+  text:
+  - Other information that you provide, including account information such as your
+    biography or country; information for features of the Services, for example, an
+    alarm, information about your friends, and logs for food, weight, sleep, water,
+    or female health tracking; Live Coaching Services data (provided by you or your
+    coach); messages on the Services; and information recorded by your device which
+    may vary depending on the device you use.
+- source: information you submit
+  target: contact information
+  key: SUBSUM
+  text:
+  - If you contact us or participate in a survey, contest, or promotion, we collect
+    the information you submit such as your name, contact information, and message.
+- source: information you submit
+  target: message
+  key: SUBSUM
+  text:
+  - If you contact us or participate in a survey, contest, or promotion, we collect
+    the information you submit such as your name, contact information, and message.
+- source: information you submit
+  target: person name
+  key: SUBSUM
+  text:
+  - If you contact us or participate in a survey, contest, or promotion, we collect
+    the information you submit such as your name, contact information, and message.
+- source: metric
+  target: calorie burn
+  key: SUBSUM
+  text:
+  - Your device collects data to estimate a variety of metrics like the number of
+    steps you take, your distance traveled, calories burned, weight, heart rate, sleep
+    stages, active minutes, and location.
+- source: metric
+  target: distance travel
+  key: SUBSUM
+  text:
+  - Your device collects data to estimate a variety of metrics like the number of
+    steps you take, your distance traveled, calories burned, weight, heart rate, sleep
+    stages, active minutes, and location.
+- source: metric
+  target: geolocation
+  key: SUBSUM
+  text:
+  - Your device collects data to estimate a variety of metrics like the number of
+    steps you take, your distance traveled, calories burned, weight, heart rate, sleep
+    stages, active minutes, and location.
+- source: metric
+  target: heart rate
+  key: SUBSUM
+  text:
+  - Your device collects data to estimate a variety of metrics like the number of
+    steps you take, your distance traveled, calories burned, weight, heart rate, sleep
+    stages, active minutes, and location.
+- source: metric
+  target: number of step you take
+  key: SUBSUM
+  text:
+  - Your device collects data to estimate a variety of metrics like the number of
+    steps you take, your distance traveled, calories burned, weight, heart rate, sleep
+    stages, active minutes, and location.
+- source: metric
+  target: weight
+  key: SUBSUM
+  text:
+  - Your device collects data to estimate a variety of metrics like the number of
+    steps you take, your distance traveled, calories burned, weight, heart rate, sleep
+    stages, active minutes, and location.
+- source: particular benefit
+  target: discount
+  key: SUBSUM
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+- source: particular benefit
+  target: free service
+  key: SUBSUM
+  text:
+  - In such cases, those companies may provide us with your name, email address, or
+    similar information (like a telephone number or subscriber ID) so that we can
+    invite you to participate or determine your eligibility for particular benefits,
+    such as discounts or free services.
+- source: payment information
+  target: card expiration date
+  key: SUBSUM
+  text:
+  - If you purchase Fitbit merchandise on our website, you provide your payment information,
+    including your name, credit or debit card number, card expiration date, CVV code,
+    and billing address.
+- source: payment information
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - If you purchase Fitbit merchandise on our website, you provide your payment information,
+    including your name, credit or debit card number, card expiration date, CVV code,
+    and billing address.
+- source: payment information
+  target: cvv code
+  key: SUBSUM
+  text:
+  - If you purchase Fitbit merchandise on our website, you provide your payment information,
+    including your name, credit or debit card number, card expiration date, CVV code,
+    and billing address.
+- source: payment information
+  target: person name
+  key: SUBSUM
+  text:
+  - If you purchase Fitbit merchandise on our website, you provide your payment information,
+    including your name, credit or debit card number, card expiration date, CVV code,
+    and billing address.
+- source: payment information
+  target: postal address
+  key: SUBSUM
+  text:
+  - If you purchase Fitbit merchandise on our website, you provide your payment information,
+    including your name, credit or debit card number, card expiration date, CVV code,
+    and billing address.
+- source: personal information
+  target: health datum
+  key: SUBSUM
+  text:
+  - To the extent that information we collect is health data or another special category
+    of personal data subject to the GDPR, we ask for your explicit consent to process
+    the data.
+- source: precise geolocation
+  target: cell tower id
+  key: SUBSUM
+  text:
+  - The Services include features that use precise geolocation data, including GPS
+    signals, device sensors, WiFi access points, and cell tower IDs.
+- source: precise geolocation
+  target: device sensor
+  key: SUBSUM
+  text:
+  - The Services include features that use precise geolocation data, including GPS
+    signals, device sensors, WiFi access points, and cell tower IDs.
+- source: precise geolocation
+  target: router ssid
+  key: SUBSUM
+  text:
+  - The Services include features that use precise geolocation data, including GPS
+    signals, device sensors, WiFi access points, and cell tower IDs.
+- source: professional information
+  target: email address
+  key: SUBSUM
+  text:
+  - Professional or employment related information , including any information (like
+    your name, email address, or similar information) that your employer provides
+    to us so that we can invite you to participate in or determine your eligibility
+    for Fitbit Services that they offer to their employees.
+- source: professional information
+  target: person name
+  key: SUBSUM
+  text:
+  - Professional or employment related information , including any information (like
+    your name, email address, or similar information) that your employer provides
+    to us so that we can invite you to participate in or determine your eligibility
+    for Fitbit Services that they offer to their employees.
+nodes:
+- type: ACTOR
+  id: Google
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: community feature
+- type: ACTOR
+  id: discount
+- type: ACTOR
+  id: fitbit
+- type: ACTOR
+  id: forum
+- type: ACTOR
+  id: free service
+- type: ACTOR
+  id: insurance company
+- type: ACTOR
+  id: particular benefit
+- type: ACTOR
+  id: partner who process it for we
+- type: ACTOR
+  id: service provider
+- type: ACTOR
+  id: social tool
+- type: ACTOR
+  id: third party payment processor
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: account id
+- type: DATA
+  id: account information
+- type: DATA
+  id: account setting
+- type: DATA
+  id: active minute
+- type: DATA
+  id: age
+- type: DATA
+  id: alarm
+- type: DATA
+  id: biography
+- type: DATA
+  id: biometric information
+- type: DATA
+  id: browser type
+- type: DATA
+  id: calorie burn
+- type: DATA
+  id: card expiration date
+- type: DATA
+  id: card information
+- type: DATA
+  id: category of personal information list
+- type: DATA
+  id: cell tower id
+- type: DATA
+  id: commercial information
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: country
+- type: DATA
+  id: credit
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: customize insight help
+- type: DATA
+  id: cvv code
+- type: DATA
+  id: daily exercise statistic
+- type: DATA
+  id: datum about device you use
+- type: DATA
+  id: debit
+- type: DATA
+  id: demographic information
+- type: DATA
+  id: description
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device sensor
+- type: DATA
+  id: distance travel
+- type: DATA
+  id: distance you travel
+- type: DATA
+  id: electronic information
+- type: DATA
+  id: email address
+- type: DATA
+  id: female health datum
+- type: DATA
+  id: female health tracking
+- type: DATA
+  id: fitbit information
+- type: DATA
+  id: food
+- type: DATA
+  id: friend list
+- type: DATA
+  id: gender
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: health datum
+- type: DATA
+  id: health information
+- type: DATA
+  id: heart rate
+- type: DATA
+  id: identifier
+- type: DATA
+  id: information about friend
+- type: DATA
+  id: information about interaction with services
+- type: DATA
+  id: information about use
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information for identification
+- type: DATA
+  id: information in use file format
+- type: DATA
+  id: information record vary depend on device you use
+- type: DATA
+  id: information submit
+- type: DATA
+  id: information to you grant we access from service
+- type: DATA
+  id: information we collect
+- type: DATA
+  id: information you provide
+- type: DATA
+  id: information you submit
+- type: DATA
+  id: internet activity
+- type: DATA
+  id: ip address
+- type: DATA
+  id: joint processing
+- type: DATA
+  id: language
+- type: DATA
+  id: live coaching services datum
+- type: DATA
+  id: log
+- type: DATA
+  id: message
+- type: DATA
+  id: message on services
+- type: DATA
+  id: metric
+- type: DATA
+  id: non-personal information
+- type: DATA
+  id: number of calorie you burn
+- type: DATA
+  id: number of step you take
+- type: DATA
+  id: operating system
+- type: DATA
+  id: password
+- type: DATA
+  id: payment
+- type: DATA
+  id: payment information
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal characteristic
+- type: DATA
+  id: personal information
+- type: DATA
+  id: phone number
+- type: DATA
+  id: photo
+- type: DATA
+  id: plan
+- type: DATA
+  id: postal address
+- type: DATA
+  id: precise geolocation
+- type: DATA
+  id: privacy preference in account setting
+- type: DATA
+  id: professional information
+- type: DATA
+  id: profile information about fitbit user
+- type: DATA
+  id: profile photo
+- type: DATA
+  id: profile picture
+- type: DATA
+  id: record
+- type: DATA
+  id: router ssid
+- type: DATA
+  id: subscriber id
+- type: DATA
+  id: type of datum
+- type: DATA
+  id: usage information
+- type: DATA
+  id: username
+- type: DATA
+  id: weight

@@ -1,0 +1,755 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - 'As part of this mission, we use your information for the following purposes:'
+  - We  use such information to respond effectively to your inquiry, fulfill your
+    requests, send you communications that you request and perform the requested services.
+  - We also use your information to respond to you when you contact us.
+  - We may use your information to prevent, detect, and investigate fraud, security
+    breaches, potentially prohibited or illegal activities, protect our trademarks
+    and enforce our Terms of Use.
+  - We will share your information with third parties only in the ways that are described
+    in this Privacy policy.
+  purposes:
+    security:
+    - to prevent, detect, and investigate fraud, security breaches, potentially prohibited
+      or illegal activities, protect our trademarks and enforce our Terms of Use
+    services:
+    - to respond effectively to your inquiry, fulfill your requests, send you communications
+      that you request and perform the requested services
+    - to respond to you when you contact us
+- source: we
+  target: aggregate / deidentified / pseudonymized information
+  key: COLLECT
+  text:
+  - We use this aggregated information to understand and optimize how our App is used,
+    improve our marketing efforts, and provide content and features that are of interest
+    to you.
+  purposes:
+    advertising:
+    - to understand and optimize how our App is used, improve our marketing efforts,
+      and provide content and features that are of interest to you
+    analytics:
+    - to understand and optimize how our App is used, improve our marketing efforts,
+      and provide content and features that are of interest to you
+    services:
+    - to understand and optimize how our App is used, improve our marketing efforts,
+      and provide content and features that are of interest to you
+- source: we
+  target: contact information
+  key: COLLECT
+  text:
+  - We use the contact information we have to communicate with you through newsletters,
+    i.e. to send you marketing notifications, receive your feedback about our App
+    experience, and let you know about our policies and terms.
+  purposes:
+    advertising:
+    - to communicate with you through newsletters, i.e. to send you marketing notifications,
+      receive your feedback about our App experience, and let you know about our policies
+      and terms
+    services:
+    - to communicate with you through newsletters, i.e. to send you marketing notifications,
+      receive your feedback about our App experience, and let you know about our policies
+      and terms
+- source: we
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may also share certain information such as cookie data with third-party advertising
+    partners.
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: we
+  target: device identifier
+  key: COLLECT
+  text:
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: we
+  target: functional information
+  key: COLLECT
+  text:
+  - . We use information that you submit, functional information and information that
+    is processed automatically to provide you with all requested services.
+  purposes:
+    services:
+    - to provide you with all requested services
+- source: we
+  target: geolocation
+  key: COLLECT
+  text:
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: we
+  target: information about device
+  key: COLLECT
+  text:
+  - We may process some information about your device and your user behaviour on the
+    ground of our legitimate interests.
+  - We use this information for improving our App and giving our users the best experience.
+  purposes: {}
+- source: we
+  target: information about you
+  key: COLLECT
+  text:
+  - We may process the following information about you when you use the App.
+  purposes: {}
+- source: we
+  target: information process
+  key: COLLECT
+  text:
+  - . We use information that you submit, functional information and information that
+    is processed automatically to provide you with all requested services.
+  - To improve, test and monitor the effectiveness of our App . We use information
+    that is processed automatically to better understand user behavior and trends,
+    detect potential outages and technical issues, to operate, protect, improve, and
+    optimize our App.
+  - To provide you with interest-based (behavioral) advertising or other targeted
+    content . We may use information that is processed automatically  for marketing
+    purposes (to show ads that may be of interest to you based on your preferences).
+  purposes:
+    advertising:
+    - To provide you with interest-based (behavioral) advertising or other targeted
+      content
+    - for marketing purposes (
+    - to show ads that may be of interest to you based on your preferences
+    analytics:
+    - To improve, test and monitor the effectiveness of our App
+    - to better understand user behavior and trends, detect potential outages and
+      technical issues, to operate, protect, improve, and optimize our App
+    security:
+    - to better understand user behavior and trends, detect potential outages and
+      technical issues, to operate, protect, improve, and optimize our App
+    - to operate, protect, improve, and optimize our App
+    services:
+    - To improve, test and monitor the effectiveness of our App
+    - to better understand user behavior and trends, detect potential outages and
+      technical issues, to operate, protect, improve, and optimize our App
+    - to operate, protect, improve, and optimize our App
+    - to provide you with all requested services
+- source: we
+  target: information you submit
+  key: COLLECT
+  text:
+  - . We use information that you submit, functional information and information that
+    is processed automatically to provide you with all requested services.
+  purposes:
+    services:
+    - to provide you with all requested services
+- source: we
+  target: personal information
+  key: COLLECT
+  text:
+  - By using the App, you agree that we may transfer your personal data to any third
+    country, a territory or one or more specified sectors within that third country,
+    or to the international organization.
+  - If you are located in the European Union or other regions with laws governing
+    data processing that may differ from U.S. law, please note that we may transfer
+    information, including personal information, to a country and jurisdiction that
+    does not have the same data protection laws as in your jurisdiction.
+  - No one who is considered a "child" under applicable data protection laws may provide
+    any personal information to the App.
+  - 'Privacy Policy
+
+
+    VI. HOW LONG WE USE YOUR PERSONAL DATA'
+  - 'Privacy Policy
+
+
+    We may disclose your personal information if it is needed for objective reasons,
+    due to the public interest or in other unforeseen circumstances:'
+  - We generally retain your personal information for as long as is necessary for
+    performing the functional service of the App and to comply with our legal obligations.
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: we
+  target: personalized content
+  key: COLLECT
+  text:
+  - We provide personalized content and information to you, which can include online
+    ads or other forms of marketing.
+  purposes: {}
+- source: we
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide automatic data processing technologies
+    for the App or our third-party advertising partners may transfer the automatically
+    processed information across borders and from your country or jurisdiction to
+    other countries or jurisdictions around the world.
+  purposes: {}
+- source: we
+  target: sufficient information allow
+  key: COLLECT
+  text:
+  - We may use this information to surface a series of security questions to you to
+    verify your identity.
+  - 'When submitting a verifiable request, you should be ready to: Provide sufficient
+    information that allows us to reasonably verify you are the person about whom
+    we collected personal information or an authorized representative, which may include:
+    name, address, city, state, and zip code and email address.'
+  purposes:
+    security:
+    - to surface a series of security questions to you to verify your identity
+    services:
+    - to surface a series of security questions to you to verify your identity
+- source: we
+  target: test answer test result
+  key: COLLECT
+  text:
+  - Note that we neither store nor share your test answers/test results with third
+    parties.
+  purposes: {}
+- source: we
+  target: timestamp of measurement
+  key: COLLECT
+  text:
+  - The App also will save the timestamp of the measurement in order to help you keep
+    a record.
+  purposes:
+    analytics:
+    - in order to help you keep a record
+    services:
+    - in order to help you keep a record
+- source: Facebook
+  target: device information
+  key: COLLECT
+  text:
+  - In case when your user ID is linked to your Facebook account, Facebook may use
+    your device information in association with categorized data that were already
+    recorded in its databases (eg. your age, gender or other demographic indication).
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - We will share your information with third parties only in the ways that are described
+    in this Privacy policy.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: device identifier
+  key: COLLECT
+  text:
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: geolocation
+  key: COLLECT
+  text:
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: package dump
+  key: COLLECT
+  text:
+  - Some services also record the list of applications and/or processes which are
+    installed or run on your device.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: personal information
+  key: COLLECT
+  text:
+  - We will not rent or sell your personal data to any third parties, but we may share
+    your information from tools like cookies, log files, and device identifiers and
+    location data, with third-party organizations that provide automatic data processing
+    technologies for the App.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide automatic data processing technologies
+    for the App or our third-party advertising partners may transfer the automatically
+    processed information across borders and from your country or jurisdiction to
+    other countries or jurisdictions around the world.
+  purposes: {}
+- source: UNSPECIFIED_ACTOR
+  target: test answer test result
+  key: COLLECT
+  text:
+  - Note that we neither store nor share your test answers/test results with third
+    parties.
+  purposes: {}
+- source: advertiser
+  target: cookie / pixel tag
+  key: COLLECT
+  text:
+  - We may also share certain information such as cookie data with third-party advertising
+    partners.
+  purposes: {}
+- source: advertiser
+  target: process information
+  key: COLLECT
+  text:
+  - We and third-party organizations that provide automatic data processing technologies
+    for the App or our third-party advertising partners may transfer the automatically
+    processed information across borders and from your country or jurisdiction to
+    other countries or jurisdictions around the world.
+  purposes: {}
+- source: analytic provider
+  target: in app information
+  key: COLLECT
+  text:
+  - When you use our App, analytics tools automatically record in-App information
+    (tutorial steps, levelling up, payments, in-app purchases, custom events, progression
+    events, method of limiting the processing of user data).
+  purposes: {}
+- source: analytic provider
+  target: log file information
+  key: COLLECT
+  text:
+  - When you use our App, analytics tools automatically record certain log file information,
+    including time and date when you start and stop using the App, and how you interact
+    with the App.
+  purposes: {}
+- source: country
+  target: personal information
+  key: COLLECT
+  text:
+  - If you are located in the European Union or other regions with laws governing
+    data processing that may differ from U.S. law, please note that we may transfer
+    information, including personal information, to a country and jurisdiction that
+    does not have the same data protection laws as in your jurisdiction.
+  purposes: {}
+- source: international organization
+  target: personal information
+  key: COLLECT
+  text:
+  - By using the App, you agree that we may transfer your personal data to any third
+    country, a territory or one or more specified sectors within that third country,
+    or to the international organization.
+  purposes: {}
+- source: international organization datum protection regulation not provide same
+    level of protection of personal data
+  target: personal information
+  key: COLLECT
+  text:
+  - This means that your personal information can be transferred to a third country,
+    a territory or one or more specified sectors within that third country, or to
+    the international organization where data protection and confidentiality regulations
+    may not provide the same level of protection of a personal data as your country
+    does.
+  purposes: {}
+- source: specified sector within third country
+  target: personal information
+  key: COLLECT
+  text:
+  - By using the App, you agree that we may transfer your personal data to any third
+    country, a territory or one or more specified sectors within that third country,
+    or to the international organization.
+  - This means that your personal information can be transferred to a third country,
+    a territory or one or more specified sectors within that third country, or to
+    the international organization where data protection and confidentiality regulations
+    may not provide the same level of protection of a personal data as your country
+    does.
+  purposes: {}
+- source: territory
+  target: personal information
+  key: COLLECT
+  text:
+  - By using the App, you agree that we may transfer your personal data to any third
+    country, a territory or one or more specified sectors within that third country,
+    or to the international organization.
+  - This means that your personal information can be transferred to a third country,
+    a territory or one or more specified sectors within that third country, or to
+    the international organization where data protection and confidentiality regulations
+    may not provide the same level of protection of a personal data as your country
+    does.
+  purposes: {}
+- source: third country
+  target: personal information
+  key: COLLECT
+  text:
+  - By using the App, you agree that we may transfer your personal data to any third
+    country, a territory or one or more specified sectors within that third country,
+    or to the international organization.
+  - This means that your personal information can be transferred to a third country,
+    a territory or one or more specified sectors within that third country, or to
+    the international organization where data protection and confidentiality regulations
+    may not provide the same level of protection of a personal data as your country
+    does.
+  purposes: {}
+- source: we
+  target: aiby inc.
+  key: SUBSUM
+  text:
+  - AIBY Inc. ("we," "us" or "our") takes your privacy seriously.
+- source: aggregate / deidentified / pseudonymized information
+  target: specific area
+  key: SUBSUM
+  text:
+  - For example, we will know how many users access specific areas or features within
+    our App and which links or ads they clicked on.
+  - We use this aggregated information to understand and optimize how our App is used,
+    improve our marketing efforts, and provide content and features that are of interest
+    to you.
+- source: device identifier
+  target: personal identifier
+  key: SUBSUM
+  text:
+  - 'Other device identifiers: e.g. user identifiers (if they are set up by the App''s
+    developer).'
+- source: information about you
+  target: contact information
+  key: SUBSUM
+  text:
+  - We may process the following information about you when you use the App.
+  - 'What data may be processed: Contact Information (name, email address, as well
+    as any other content included in the email) which you may fill in by yourself
+    when you contact us via email, support form.'
+- source: information about you
+  target: information about subscription
+  key: SUBSUM
+  text:
+  - We may process the following information about you when you use the App.
+  - 'What data may be processed: Information about subscriptions and registration
+    data.'
+- source: information about you
+  target: payment detail
+  key: SUBSUM
+  text:
+  - We may process the following information about you when you use the App.
+  - 'What data may be processed: Payment details.'
+- source: information about you
+  target: personal detail relate to use of app
+  key: SUBSUM
+  text:
+  - We may process the following information about you when you use the App.
+  - 'What data may be processed: Personal details related to your use of the App (inter
+    alia, gender, age, weight records, height, heart rate, blood pressure, oxygen
+    saturation readings, physical activity level, lifestyle choices, other similar
+    information you log using the App) which you may fill in and record when you choose
+    tracking physical parameters for your convenience.'
+- source: information about you
+  target: receipt number identify payment
+  key: SUBSUM
+  text:
+  - 'Additionally, if you have purchased the subscription on App''s web page and you
+    want to cancel it following the relevant instructions specified in the Subscription
+    Terms available on such App''s web page, we may request you to indicate one of
+    the following: receipt number identifying the payment,'
+  - We may process the following information about you when you use the App.
+- source: information about you
+  target: unique number identify invoice
+  key: SUBSUM
+  text:
+  - 'Additionally, if you have purchased the subscription on App''s web page and you
+    want to cancel it following the relevant instructions specified in the Subscription
+    Terms available on such App''s web page, we may request you to indicate one of
+    the following: unique number identifying the invoice.'
+  - We may process the following information about you when you use the App.
+- source: log file information
+  target: date
+  key: SUBSUM
+  text:
+  - When you use our App, analytics tools automatically record certain log file information,
+    including time and date when you start and stop using the App, and how you interact
+    with the App.
+- source: log file information
+  target: time
+  key: SUBSUM
+  text:
+  - When you use our App, analytics tools automatically record certain log file information,
+    including time and date when you start and stop using the App, and how you interact
+    with the App.
+- source: neighbor commercial point of interest
+  target: coffee shop
+  key: SUBSUM
+  text:
+  - 'Location-related information: IP address, the country code/ region/ state/ city
+    associated with your SIM card or your device, language setting, time zone, neighboring
+    commercial points of interest (eg. "coffee shop").'
+- source: sufficient information allow
+  target: city
+  key: SUBSUM
+  text:
+  - 'When submitting a verifiable request, you should be ready to: Provide sufficient
+    information that allows us to reasonably verify you are the person about whom
+    we collected personal information or an authorized representative, which may include:
+    name, address, city, state, and zip code and email address.'
+- source: sufficient information allow
+  target: email address
+  key: SUBSUM
+  text:
+  - 'When submitting a verifiable request, you should be ready to: Provide sufficient
+    information that allows us to reasonably verify you are the person about whom
+    we collected personal information or an authorized representative, which may include:
+    name, address, city, state, and zip code and email address.'
+- source: sufficient information allow
+  target: person name
+  key: SUBSUM
+  text:
+  - 'When submitting a verifiable request, you should be ready to: Provide sufficient
+    information that allows us to reasonably verify you are the person about whom
+    we collected personal information or an authorized representative, which may include:
+    name, address, city, state, and zip code and email address.'
+- source: sufficient information allow
+  target: postal address
+  key: SUBSUM
+  text:
+  - 'When submitting a verifiable request, you should be ready to: Provide sufficient
+    information that allows us to reasonably verify you are the person about whom
+    we collected personal information or an authorized representative, which may include:
+    name, address, city, state, and zip code and email address.'
+- source: type of device
+  target: audio volume
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: battery
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: battery life
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: device memory usage
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: framerate
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: latency
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: loading time
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: manufacturer
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: model
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: orientation
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: screen density
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: screen size
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+- source: type of device
+  target: version
+  key: SUBSUM
+  text:
+  - 'Information about the device itself: type of your device, type of operating system
+    and its version, model and manufacturer, screen size, screen density, orientation,
+    audio volume and battery, battery life, loading time, latency, framerate, device
+    memory usage.'
+nodes:
+- type: ACTOR
+  id: Facebook
+- type: ACTOR
+  id: UNSPECIFIED_ACTOR
+- type: ACTOR
+  id: advertiser
+- type: ACTOR
+  id: aiby inc.
+- type: ACTOR
+  id: analytic provider
+- type: ACTOR
+  id: country
+- type: ACTOR
+  id: international organization
+- type: ACTOR
+  id: international organization datum protection regulation not provide same level
+    of protection of personal data
+- type: ACTOR
+  id: specified sector within third country
+- type: ACTOR
+  id: territory
+- type: ACTOR
+  id: third country
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: aggregate / deidentified / pseudonymized information
+- type: DATA
+  id: audio volume
+- type: DATA
+  id: battery
+- type: DATA
+  id: battery life
+- type: DATA
+  id: city
+- type: DATA
+  id: coffee shop
+- type: DATA
+  id: contact information
+- type: DATA
+  id: cookie / pixel tag
+- type: DATA
+  id: date
+- type: DATA
+  id: device identifier
+- type: DATA
+  id: device information
+- type: DATA
+  id: device memory usage
+- type: DATA
+  id: email address
+- type: DATA
+  id: framerate
+- type: DATA
+  id: functional information
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: in app information
+- type: DATA
+  id: information about device
+- type: DATA
+  id: information about subscription
+- type: DATA
+  id: information about you
+- type: DATA
+  id: information process
+- type: DATA
+  id: information you submit
+- type: DATA
+  id: latency
+- type: DATA
+  id: loading time
+- type: DATA
+  id: log file information
+- type: DATA
+  id: manufacturer
+- type: DATA
+  id: model
+- type: DATA
+  id: neighbor commercial point of interest
+- type: DATA
+  id: orientation
+- type: DATA
+  id: package dump
+- type: DATA
+  id: payment detail
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal detail relate to use of app
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: personal information
+- type: DATA
+  id: personalized content
+- type: DATA
+  id: postal address
+- type: DATA
+  id: process information
+- type: DATA
+  id: receipt number identify payment
+- type: DATA
+  id: screen density
+- type: DATA
+  id: screen size
+- type: DATA
+  id: specific area
+- type: DATA
+  id: sufficient information allow
+- type: DATA
+  id: test answer test result
+- type: DATA
+  id: time
+- type: DATA
+  id: timestamp of measurement
+- type: DATA
+  id: type of device
+- type: DATA
+  id: unique number identify invoice
+- type: DATA
+  id: version

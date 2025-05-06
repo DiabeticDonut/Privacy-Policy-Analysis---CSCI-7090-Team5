@@ -1,0 +1,251 @@
+directed: true
+multigraph: true
+graph: {}
+links:
+- source: we
+  target: set of identify information
+  key: COLLECT
+  text:
+  - We request a limited set of identifying information from you for authentication
+    purposes in order to grant you access to the website and to customize your experience.
+  purposes:
+    security:
+    - for authentication purposes
+    services:
+    - for authentication purposes
+    - in order to grant you access to the website and to customize your experience
+- source: health online
+  target: UNSPECIFIED_DATA
+  key: COLLECT
+  text:
+  - My Health Online accesses, uses and shares your information as stated in the above
+    section titled "Collecting and Using Personal Information."
+  purposes: {}
+- source: health online
+  target: bluetooth
+  key: COLLECT
+  text:
+  - My Health Online may access your device's Bluetooth to detect other nearby devices.
+  purposes:
+    analytics:
+    - to detect other nearby devices
+    services:
+    - to detect other nearby devices
+- source: health online
+  target: email address
+  key: COLLECT
+  text:
+  - My Health Online may use your email address to send you notifications.
+  purposes:
+    services:
+    - to send you notifications
+- source: health online
+  target: geolocation
+  key: COLLECT
+  text:
+  - My Health Online may use your location data to notify front desk staff when you
+    arrive for an appointment or to suggest healthcare providers that are near you.
+  purposes:
+    services:
+    - to notify front desk staff when you arrive for an appointment or to suggest
+      healthcare providers that are near you
+- source: health online
+  target: identifiable information
+  key: COLLECT
+  text:
+  - 'My Health Online may collect identifiable information about individuals who use
+    its services in the following ways:'
+  purposes: {}
+- source: health online
+  target: message
+  key: COLLECT
+  text:
+  - 'My Health Online may collect identifiable information about individuals who use
+    its services in the following ways: Messages:'
+  purposes: {}
+- source: health online
+  target: microphone
+  key: COLLECT
+  text:
+  - My Health Online may use your microphone to capture audio for Video Visits.
+  purposes:
+    services:
+    - to capture audio for Video Visits
+- source: health online
+  target: phone
+  key: COLLECT
+  text:
+  - My Health Online may use your phone to call phone numbers displayed in the app.
+  purposes: {}
+- source: health online
+  target: phone number
+  key: COLLECT
+  text:
+  - My Health Online may use your phone number to send text messages related to your
+    relationship with Sutter Health, including updates related to your visits, My
+    Health Online account, one-time passcode, billing notifications, prescription
+    reminders, and care management.
+  purposes:
+    services:
+    - to send text messages related to your relationship with Sutter Health, including
+      updates related to your visits, My Health Online account, one-time passcode,
+      billing notifications, prescription reminders, and care management
+- source: health online
+  target: sms
+  key: COLLECT
+  text:
+  - 'My Health Online may collect identifiable information about individuals who use
+    its services in the following ways: SMS:'
+  purposes: {}
+- source: health online
+  target: storage
+  key: COLLECT
+  text:
+  - My Health Online may access your device's storage to read and write files and
+    photos you choose to use in My Health Online.
+  - 'My Health Online may collect identifiable information about individuals who use
+    its services in the following ways:'
+  - 'Storage:'
+  purposes:
+    services:
+    - to read and write files and photos you choose to use in My Health Online
+- source: sutter health
+  target: information submit via account as part of descriptive demographic study
+  key: COLLECT
+  text:
+  - Sutter Health may analyze information submitted via your account as part of descriptive
+    (demographic) studies and reports.
+  purposes: {}
+- source: personal identifier
+  target: credit / debit card number
+  key: SUBSUM
+  text:
+  - We will not disclose any personal information that might identify you, such as
+    your full name, street address, telephone number, credit card number or email
+    address to any third party other than as allowed or required by state and/or federal
+    regulations.
+- source: personal identifier
+  target: email address
+  key: SUBSUM
+  text:
+  - We will not disclose any personal information that might identify you, such as
+    your full name, street address, telephone number, credit card number or email
+    address to any third party other than as allowed or required by state and/or federal
+    regulations.
+- source: personal identifier
+  target: person name
+  key: SUBSUM
+  text:
+  - We will not disclose any personal information that might identify you, such as
+    your full name, street address, telephone number, credit card number or email
+    address to any third party other than as allowed or required by state and/or federal
+    regulations.
+- source: personal identifier
+  target: phone number
+  key: SUBSUM
+  text:
+  - We will not disclose any personal information that might identify you, such as
+    your full name, street address, telephone number, credit card number or email
+    address to any third party other than as allowed or required by state and/or federal
+    regulations.
+- source: personal identifier
+  target: postal address
+  key: SUBSUM
+  text:
+  - We will not disclose any personal information that might identify you, such as
+    your full name, street address, telephone number, credit card number or email
+    address to any third party other than as allowed or required by state and/or federal
+    regulations.
+- source: text message relate to relationship with sutter health
+  target: billing notification
+  key: SUBSUM
+  text:
+  - My Health Online may use your phone number to send text messages related to your
+    relationship with Sutter Health, including updates related to your visits, My
+    Health Online account, one-time passcode, billing notifications, prescription
+    reminders, and care management.
+- source: text message relate to relationship with sutter health
+  target: care management
+  key: SUBSUM
+  text:
+  - My Health Online may use your phone number to send text messages related to your
+    relationship with Sutter Health, including updates related to your visits, My
+    Health Online account, one-time passcode, billing notifications, prescription
+    reminders, and care management.
+- source: text message relate to relationship with sutter health
+  target: my health online account
+  key: SUBSUM
+  text:
+  - My Health Online may use your phone number to send text messages related to your
+    relationship with Sutter Health, including updates related to your visits, My
+    Health Online account, one-time passcode, billing notifications, prescription
+    reminders, and care management.
+- source: text message relate to relationship with sutter health
+  target: prescription reminder
+  key: SUBSUM
+  text:
+  - My Health Online may use your phone number to send text messages related to your
+    relationship with Sutter Health, including updates related to your visits, My
+    Health Online account, one-time passcode, billing notifications, prescription
+    reminders, and care management.
+- source: text message relate to relationship with sutter health
+  target: time passcode
+  key: SUBSUM
+  text:
+  - My Health Online may use your phone number to send text messages related to your
+    relationship with Sutter Health, including updates related to your visits, My
+    Health Online account, one-time passcode, billing notifications, prescription
+    reminders, and care management.
+nodes:
+- type: ACTOR
+  id: health online
+- type: ACTOR
+  id: sutter health
+- type: ACTOR
+  id: we
+- type: DATA
+  id: UNSPECIFIED_DATA
+- type: DATA
+  id: billing notification
+- type: DATA
+  id: bluetooth
+- type: DATA
+  id: care management
+- type: DATA
+  id: credit / debit card number
+- type: DATA
+  id: email address
+- type: DATA
+  id: geolocation
+- type: DATA
+  id: identifiable information
+- type: DATA
+  id: information submit via account as part of descriptive demographic study
+- type: DATA
+  id: message
+- type: DATA
+  id: microphone
+- type: DATA
+  id: my health online account
+- type: DATA
+  id: person name
+- type: DATA
+  id: personal identifier
+- type: DATA
+  id: phone
+- type: DATA
+  id: phone number
+- type: DATA
+  id: postal address
+- type: DATA
+  id: prescription reminder
+- type: DATA
+  id: set of identify information
+- type: DATA
+  id: sms
+- type: DATA
+  id: storage
+- type: DATA
+  id: text message relate to relationship with sutter health
+- type: DATA
+  id: time passcode
