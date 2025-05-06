@@ -26,8 +26,7 @@ The pipeline consists of the following steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/privacy-policy-clustering.git
-cd privacy-policy-clustering
+git clone https://github.com/DiabeticDonut/Privacy-Policy-Analysis---CSCI-7090-Team5.git
 ```
 
 ### 2. Install Dependencies
@@ -68,6 +67,6 @@ Privacy-Policy-Analysis---CSCI-7090-Team5/
 | `transform_graphs()`   | Converts YAML graphs to a CSV format            |
 | `perform_eda()`        | Visualizes source, target, and purpose patterns |
 | `perform_clustering()` | Applies clustering and dimensionality reduction |
-| `eval()`               | Computes evaluation metrics for embeddings      |
+| `eval()`               | Computes evaluation metrics                     |
 ```
 
