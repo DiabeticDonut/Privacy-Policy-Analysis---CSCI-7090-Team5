@@ -53,8 +53,7 @@ Open 'CSCI_7090_Team_5.ipynb' in Jupyter or Google Colab.
 ```bash
 Privacy-Policy-Analysis---CSCI-7090-Team5/
 ├── graph files/                  # YAML knowledge graphs
-├── data/                        # CSV output
-│   └── privacy_policy_data.csv  # Will be generated after running transform_graphs()
+├── privacy_policy_data.csv       # Will be generated after running transform_graphs()                       
 ├── CSCI_7090_Team_5.ipynb       # Main notebook
 ├── requirements.txt             # Python dependencies
 └── README.md
